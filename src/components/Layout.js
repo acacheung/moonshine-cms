@@ -9,15 +9,6 @@ const TemplateWrapper = ({ children }) => {
   return (
     <div>
       <Helmet>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58449130-1"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-          gtag('config', 'UA-58449130-1');
-        </script>
         <html lang="en-us" />
         <title>{title}</title>
         <meta name="description" content={description} />
