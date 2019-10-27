@@ -116,7 +116,7 @@ subgroups:
         price: '17'
         title: Grass-Fed Beef Burger
       - description: 'Changing Fixin’s, House-Cut Fries… Add Jalapeño Bacon 3 or Fried Egg 2'
-        price: '18'
+        price: '20'
         title: Beef Burger of the Month
       - description: >-
           Sharp Cheddar, Aioli, House-Cut Fries… Add Jalapeño Bacon 3 or Fried
