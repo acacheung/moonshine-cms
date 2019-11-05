@@ -17,9 +17,11 @@ subgroups:
       - description: 'Spicy Honey, Jalapeño Crab Filling'
         price: '13'
         title: Jalapeño Crab Rangoons
-      - description: 'Grilled Sweet Corn, Cotija Cheese, Cherry Tomatoes, Citrus Aioli'
-        price: 13 mini / 19 entreé
-        title: Moonshine’s All-Star Street Corn Salad
+      - description: >-
+          Caramelized Onion-Sourdough Stuffing, Pecanwood Bacon, Candied Ginger
+          Aioli 
+        price: '13'
+        title: 'Not Yo'' Grandma''s Bacon Wrapped Stuffing Bites '
       - description: Sherry Pesto Aioli
         price: '15'
         title: Spanish Tapas Patatas Bravas
@@ -31,6 +33,11 @@ subgroups:
           Tater Tots
         price: 15 mini / 19 entreé
         title: Party Sprouts
+      - description: >-
+          Crispy Fried Mozzarella Cheese Curds Smothered with Chef Asia's House
+          Buffalo Sauce, Shaved Celery, Poblano Ranch 
+        price: '14'
+        title: Asia's Angry Buffalo Fried Cheese Curds
     title: “Order Fire”
   - items:
       - description: >-
