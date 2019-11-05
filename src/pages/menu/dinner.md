@@ -46,10 +46,11 @@ subgroups:
         price: 8 mini / 12 entreé
         title: Local Mixed Greens Salad
       - description: >-
-          Watermelon, Fresh Basil, Local Tomatoes, Rustic Croutons, Aged
-          Balsamic
+          Red & White Heirloom Quinoa, Iceberg Lettuce, Shaved Roasted Beets,
+          Hard-Boiled Egg, Blue Cheese Curds, House Poblano Ranch, Dijon Honey
+          Mustard 
         price: 14 mini / 21 entreé
-        title: Burrata & Heirloom Quintessential Quinoa Salad
+        title: 'Amanda''s Favorite Quinoa Wedge Salad '
       - description: 'Warm Sauteed Kale, Pomegranate, Wonton Crisps, Pecorino Cheese'
         price: 15 mini / 22 entreé
         title: Warm Kale Caesar Salad
@@ -78,10 +79,10 @@ subgroups:
     title: Starters
   - items:
       - description: >-
-          Thick-cut Panko Braised Bacon, Grilled Street Corn Salad, Cotija
-          Cheese, Citrus Aioli
-        price: '25'
-        title: Sweet Chili Glazed Bomb-Bacon Nuggets
+          Sliced 'Shine Smoky Meatloaf & Gravy, Peas and Carrots, Garlic Mashed
+          Potatoes, Melted Cheddar 
+        price: '28'
+        title: 'Meatloaf Shepherd''s Pie '
       - description: 'Spicy Basil-Pepper Glaze, Crispy PAnko Chicken, Seasoned Sushi Rice'
         price: '24'
         title: Thai Crispy Chicken Basil Rice Bowl
@@ -107,11 +108,10 @@ subgroups:
         price: '27'
         title: Spanish Style Steak Frites
       - description: >-
-          Chilled Vermicelli Noodle Salad, Charred Broccolini, Beansprouts,
-          Honey Roasted Peanuts, Chinatown Charsiu-Hoisin Glaze… Add Avocado
-          Slices 3 or Fried Egg 2
-        price: '26'
-        title: Tiki Roasted Duck Noodle Salad
+          Red Wine Braised Shredded Rabbit, Toasted Marcona Almonds, Brown
+          Butter-Louisiana Cream Sauce, Roasted Tomatoes, Campanelle Pasta 
+        price: '28'
+        title: Louisiana Style Braised Rabbit Pasta
       - description: >-
           Beer Battered Tempura Cod, Mango-Cabbage Slaw, Sweet Chili-Ginger
           Aioli
@@ -132,16 +132,18 @@ subgroups:
         title: Mushroom Tofu Burger
     title: Entreés
   - items:
+      - price: '6'
+        title: 'House-Cut Shoestring French Fries '
+      - price: '9'
+        title: 'Pan Roasted Brussels Sprouts '
+      - price: '4'
+        title: 'Steamed White Rice '
+      - price: '7'
+        title: Side of Asian Pear Kimchi
       - price: '3'
         title: Chef Asia’s Infamous Spicy Angry Sauce
       - price: '3'
         title: Jalapeño Bacon
-      - price: '9'
-        title: Pan-Roasted Brussels Sprouts
-      - price: '9'
-        title: Grilled Broccolini
-      - price: '7'
-        title: Side of Asian Pear Kimchi
     title: Sides
 ---
 
