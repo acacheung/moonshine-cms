@@ -145,22 +145,5 @@ subgroups:
       - price: '3'
         title: Jalapeño Bacon
     title: Sides
-  - items:
-      - description: 'Chantilly Creme, Toasted Amaranth Crumble '
-        price: '10'
-        title: 'Butterscotch Pudding '
-      - description: 'Nutella Chocolate Sauce, Chantilly Cream '
-        price: '11'
-        title: 'Warm Sticky Toffee Bread Pudding '
-      - description: >-
-          Warm Belgian Waffle, Dulce de Leche Ice Cream, Sea Salted Caramel
-          Apple Topping, Pomegranate 
-        price: '13'
-        title: 'Caramel Apple Waffle Ice Cream Sundae '
-      - price: '9'
-        title: 'Dulce de Leche Ice Cream '
-      - price: '9'
-        title: 'Cranberry Sorbet '
-    title: Dessert
 ---
 
