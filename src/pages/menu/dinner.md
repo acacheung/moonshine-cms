@@ -42,7 +42,7 @@ subgroups:
   - items:
       - description: >-
           Japanese Ginger-Sesame Carrot Vinaigrette, Roasted Kale… Add Staff
-          Favorite: Statler Chicken Breast, Skirt Steak or Lamb Meatballs 12
+          Favorite: Statler Chicken Breast, Skirt Steak or Lamb Meatballs 14
         price: 8 mini / 12 entreé
         title: Local Mixed Greens Salad
       - description: >-
