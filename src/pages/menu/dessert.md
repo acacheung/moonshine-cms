@@ -1,30 +1,28 @@
 ---
 templateKey: menu-group
 title: Dessert
-order: 2
+order: 4
 subgroups:
-  - description: 'Add one scoop Ice Cream to your favorite dessert 4'
+  - description: Add one scoop Ice Cream to your favorite dessert 4
     items:
-      - description: 'Chantilly whipped cream, Toasted oat-amaranth streusel'
-        price: '12'
+      - description: Chantilly whipped cream, Toasted oat-amaranth streusel
+        price: "12"
         title: Moonshine’s Butterscotch Pudding
-      - description: 'Powdered sugar, Nutella chocolate fudge sauce'
-        price: '11'
+      - description: Powdered sugar, Nutella chocolate fudge sauce
+        price: "11"
         title: Jaime’s Favorite Oreo Cookie Layered Fudge Brownie
-      - description: >-
-          Sea salted Dulce De Leche caramel sauce, Strawberry topping, Whipped
-          cream, Creme fraiche ice cream, Belgian waffle
-        price: '15'
+      - description: Sea salted Dulce De Leche caramel sauce, Strawberry topping,
+          Whipped cream, Creme fraiche ice cream, Belgian waffle
+        price: "15"
         title: Strawberry Shortcake Waffle Ice Cream Sundae
       - description: >
           Blended peach, orange, cranberry flavored sorbet, Macerated
           strawberries… Add whipped cream 1
-        price: '11'
+        price: "11"
         title: Social Distancing on the Beach Sorbet
-      - description: >-
-          Add Nutella-Fudge chocolate sauce, sea salted caramel sauce, or
+      - description: Add Nutella-Fudge chocolate sauce, sea salted caramel sauce, or
           whipped cream 1
-        price: '11'
+        price: "11"
         title: Stan’s Dad’s Creeeeme Fraiche Ice Cream
     title: Sweet Tooth
 ---
