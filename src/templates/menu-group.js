@@ -1,53 +1,46 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
-import Layout from '../components/Layout'
-import Footer from '../components/Footer'
-import Navbar from '../components/Navbar'
-import Subgroups from '../components/Subgroups'
+import React from 'react';
+import PropTypes from 'prop-types';
+import { graphql } from 'gatsby';
+import Layout from '../components/Layout';
+import Footer from '../components/Footer';
+import Navbar from '../components/Navbar';
+import Subgroups from '../components/Subgroups';
 import MenuSubgroupNav from '../components/MenuSubgroupNav';
 
-export const MenuGroupTemplate = ({
-  time,
-  subgroups,
-}) => (
-  <div className="menu__lists-wrap l-colspan">
-    <span className="menu__times">{time}</span>
+export const MenuGroupTemplate = ({ subgroups }) => (
+  <div className='menu__lists-wrap l-colspan'>
     <Subgroups subgroups={subgroups} />
   </div>
-)
+);
 
 MenuGroupTemplate.propTypes = {
-  time: PropTypes.string,
   subgroups: PropTypes.arrayOf(
     PropTypes.shape({
       items: PropTypes.array,
     })
   ),
-}
+};
 
 const MenuGroup = ({ data }) => {
-  const { frontmatter } = data.markdownRemark
+  const { frontmatter } = data.markdownRemark;
 
   return (
     <Layout>
       <Navbar />
-      <div className="l-auto">
+      <div className='l-auto'>
         <MenuSubgroupNav />
-        <MenuGroupTemplate
-          time={frontmatter.time}
-          subgroups={frontmatter.subgroups}
-        />
+        <MenuGroupTemplate subgroups={frontmatter.subgroups} />
       </div>
-      <div className="callout-wrap">
-        <p className="callout">
-          “We offer seasonal menus that focus on bright, sustainable plays on local East Coast cuisine and street food.”
+      <div className='callout-wrap'>
+        <p className='callout'>
+          “We offer seasonal menus that focus on bright, sustainable plays on
+          local East Coast cuisine and street food.”
         </p>
       </div>
       <Footer />
     </Layout>
-  )
-}
+  );
+};
 
 MenuGroup.propTypes = {
   data: PropTypes.shape({
@@ -55,15 +48,14 @@ MenuGroup.propTypes = {
       frontmatter: PropTypes.object,
     }),
   }),
-}
+};
 
-export default MenuGroup
+export default MenuGroup;
 
 export const menuGroupQuery = graphql`
   query MenuGroup($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
-        time
         subgroups {
           title
           items {
@@ -75,4 +67,4 @@ export const menuGroupQuery = graphql`
       }
     }
   }
-`
+`;

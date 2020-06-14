@@ -1,7 +1,6 @@
 ---
 templateKey: menu-group
 title: Dinner
-time: 'Dinner is served 5:30 pm – 1:30 am'
 order: 1
 subgroups:
   - items:
@@ -19,9 +18,9 @@ subgroups:
         title: Jalapeño Crab Rangoons
       - description: >-
           Caramelized Onion-Sourdough Stuffing, Pecanwood Bacon, Candied Ginger
-          Aioli 
+          Aioli
         price: '13'
-        title: 'Not Yo'' Grandma''s Bacon Wrapped Stuffing Bites '
+        title: "Not Yo' Grandma's Bacon Wrapped Stuffing Bites "
       - description: Sherry Pesto Aioli
         price: '15'
         title: Spanish Tapas Patatas Bravas
@@ -35,7 +34,7 @@ subgroups:
         title: Party Sprouts
       - description: >-
           Crispy Fried Mozzarella Cheese Curds Smothered with Chef Asia's House
-          Buffalo Sauce, Shaved Celery, Poblano Ranch 
+          Buffalo Sauce, Shaved Celery, Poblano Ranch
         price: '14'
         title: Asia's Angry Buffalo Fried Cheese Curds
     title: “Order Fire”
@@ -48,9 +47,9 @@ subgroups:
       - description: >-
           Red & White Heirloom Quinoa, Iceberg Lettuce, Shaved Roasted Beets,
           Hard-Boiled Egg, Blue Cheese Curds, House Poblano Ranch, Dijon Honey
-          Mustard 
+          Mustard
         price: 14 mini / 21 entreé
-        title: 'Amanda''s Favorite Quinoa Wedge Salad '
+        title: "Amanda's Favorite Quinoa Wedge Salad "
       - description: 'Warm Sauteed Kale, Pomegranate, Wonton Crisps, Pecorino Cheese'
         price: 15 mini / 22 entreé
         title: Warm Kale Caesar Salad
@@ -80,9 +79,9 @@ subgroups:
   - items:
       - description: >-
           Sliced 'Shine Smoky Meatloaf & Gravy, Peas and Carrots, Garlic Mashed
-          Potatoes, Melted Cheddar 
+          Potatoes, Melted Cheddar
         price: '28'
-        title: 'Meatloaf Shepherd''s Pie '
+        title: "Meatloaf Shepherd's Pie "
       - description: 'Spicy Basil-Pepper Glaze, Crispy PAnko Chicken, Seasoned Sushi Rice'
         price: '24'
         title: Thai Crispy Chicken Basil Rice Bowl
@@ -109,7 +108,7 @@ subgroups:
         title: Spanish Style Steak Frites
       - description: >-
           Red Wine Braised Shredded Rabbit, Toasted Marcona Almonds, Brown
-          Butter-Louisiana Cream Sauce, Roasted Tomatoes, Campanelle Pasta 
+          Butter-Louisiana Cream Sauce, Roasted Tomatoes, Campanelle Pasta
         price: '28'
         title: Louisiana Style Braised Rabbit Pasta
       - description: >-
@@ -146,4 +145,3 @@ subgroups:
         title: Jalapeño Bacon
     title: Sides
 ---
-

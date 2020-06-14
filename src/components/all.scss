@@ -6,30 +6,107 @@ $medium-gray: #9f9c9c;
 $dark-gray: #8c8c8e;
 $dark-gold: darken($gold, 10%);
 
-$edmond-regular: "EdmondsansRegular", sans-serif;
-$edmond-medium: "EdmondsansMedium", sans-serif;
-$merriweather: "Merriweather", serif;
+$edmond-regular: 'EdmondsansRegular', sans-serif;
+$edmond-medium: 'EdmondsansMedium', sans-serif;
+$merriweather: 'Merriweather', serif;
 
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed,
-figure, figcaption, footer, header, hgroup,
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
   margin: 0;
   padding: 0;
   border: 0;
 }
 
-article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
   display: block;
 }
 
@@ -38,13 +115,13 @@ ul {
 }
 
 @font-face {
-  font-family: "EdmondsansMedium";
-  src: url("../fonts/edmondsans/edmondsans-medium-webfont.woff") format("woff");
+  font-family: 'EdmondsansMedium';
+  src: url('../fonts/edmondsans/edmondsans-medium-webfont.woff') format('woff');
 }
 
 @font-face {
-  font-family: "EdmondsansRegular";
-  src: url("../fonts/edmondsans/edmondsans-regular-webfont.woff") format("woff");
+  font-family: 'EdmondsansRegular';
+  src: url('../fonts/edmondsans/edmondsans-regular-webfont.woff') format('woff');
 }
 
 .l-wrap {
@@ -100,10 +177,10 @@ b {
 .t-link {
   font-style: italic;
   text-decoration: none;
-  transition-duration: .25s;
+  transition-duration: 0.25s;
   transition-property: opacity;
   &:hover {
-    opacity: .6;
+    opacity: 0.6;
   }
 }
 
@@ -185,13 +262,13 @@ b {
   font-family: $edmond-regular;
   text-decoration: none;
   color: $white;
-  transition-duration: .25s;
+  transition-duration: 0.25s;
   transition-property: color;
   &:hover {
     color: $gold;
   }
   &:before {
-    content: ">";
+    content: '>';
     display: inline-block;
     position: relative;
     left: -8px;
@@ -220,7 +297,7 @@ b {
   width: 32px;
   border-radius: 16px;
   background-color: $white;
-  transition-duration: .25s;
+  transition-duration: 0.25s;
   transition-property: background-color;
   &:hover {
     background-color: $gold;
@@ -233,7 +310,7 @@ b {
   text-align: center;
   @media (min-width: 850px) {
     height: 100vh;
-    background-image: url("../img/sky.jpg");
+    background-image: url('../img/sky.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -296,7 +373,7 @@ b {
   text-decoration: none;
   color: $black;
   letter-spacing: 2px;
-  transition-duration: .25s;
+  transition-duration: 0.25s;
   transition-property: color;
   @media (max-width: 849px) {
     border-bottom: 1px solid #cba742;
@@ -331,7 +408,7 @@ b {
     @media (min-width: 850px) {
       position: relative;
       &:after {
-        content: "";
+        content: '';
         display: block;
         position: absolute;
         bottom: -42px;
@@ -348,7 +425,7 @@ b {
 .nav__link__phone {
   position: relative;
   top: 4px;
-  transition-duration: .25s;
+  transition-duration: 0.25s;
   transition-property: fill;
 }
 
@@ -375,7 +452,7 @@ b {
   text-decoration: none;
   color: $light-gray;
   letter-spacing: 5px;
-  transition-duration: .25s;
+  transition-duration: 0.25s;
   transition-property: color;
   @media (max-width: 909px) {
     float: left;
@@ -394,7 +471,7 @@ b {
 }
 
 .menu__lists-wrap {
-  padding-top: 53px;
+  padding-top: 50px;
   @media (max-width: 909px) {
     padding-right: 10%;
     padding-left: 10%;
@@ -407,20 +484,12 @@ b {
   font-family: $merriweather;
   font-style: italic;
   text-transform: uppercase;
-  color: $light-gray;
+  color: $gold;
 }
 
 .menu__list {
   margin-bottom: 100px;
   color: $black;
-}
-
-.menu__times {
-  margin-bottom: 50px;
-  display: block;
-  font-size: 18px;
-  font-family: $edmond-medium;
-  color: $gold;
 }
 
 .menu__item {
@@ -492,7 +561,7 @@ b {
   text-decoration: none;
   text-align: center;
   color: $light-gray;
-  transition-duration: .25s;
+  transition-duration: 0.25s;
   transition-property: color;
   &:hover {
     color: $gold;
@@ -594,8 +663,8 @@ b {
 
 .has-arrow {
   &:after {
-    content: " →";
-    font-family: "Arial", sans-serif;
+    content: ' →';
+    font-family: 'Arial', sans-serif;
     font-style: normal;
   }
 }

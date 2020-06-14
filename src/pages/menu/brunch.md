@@ -1,7 +1,6 @@
 ---
 templateKey: menu-group
 title: Brunch
-time: Brunch is served 11 am – 3 pm on weekends
 order: 3
 subgroups:
   - items:
@@ -17,9 +16,9 @@ subgroups:
       - description: >-
           Red & White Heirloom Quinoa, Iceberg Lettuce, Shaved Roasted Beets,
           Hard-Boiled Egg, Candied Bacon, Ranch, Honey Mustard, Blue Cheese
-          Crumbles 
+          Crumbles
         price: 14 mini / 21 entreé
-        title: 'Amanda''s Favorite Wedge Salad '
+        title: "Amanda's Favorite Wedge Salad "
       - description: 'Sunflower Seed-Oat Crumble, Seasonal Fruit, Honey'
         price: '9'
         title: Whipped Greek Yogurt Parfait
@@ -120,4 +119,3 @@ subgroups:
         title: Irish Good Morning
     title: Cocktails
 ---
-
