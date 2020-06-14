@@ -7,7 +7,7 @@ const Subgroups = ({ subgroups }) => (
     {subgroups.map((subgroup) => (
       <article key={v4()}>
         <h2 className='menu__heading'>{subgroup.title}</h2>
-        <p className='menu__description'>{subgroup.description}</p>
+        <p className='menu__desc'>{subgroup.description}</p>
         <ul className='menu__list'>
           {subgroup.items.map((item) => (
             <li className='menu__item' key={v4()}>

@@ -20,7 +20,7 @@ subgroups:
           Caramelized Onion-Sourdough Stuffing, Pecanwood Bacon, Candied Ginger
           Aioli
         price: '13'
-        title: "Not Yo' Grandma's Bacon Wrapped Stuffing Bites "
+        title: 'Not Yo’ Grandma’s Bacon Wrapped Stuffing Bites '
       - description: Sherry Pesto Aioli
         price: '15'
         title: Spanish Tapas Patatas Bravas
@@ -49,7 +49,7 @@ subgroups:
           Hard-Boiled Egg, Blue Cheese Curds, House Poblano Ranch, Dijon Honey
           Mustard
         price: 14 mini / 21 entreé
-        title: "Amanda's Favorite Quinoa Wedge Salad "
+        title: 'Amanda’s Favorite Quinoa Wedge Salad'
       - description: 'Warm Sauteed Kale, Pomegranate, Wonton Crisps, Pecorino Cheese'
         price: 15 mini / 22 entreé
         title: Warm Kale Caesar Salad
@@ -81,7 +81,7 @@ subgroups:
           Sliced 'Shine Smoky Meatloaf & Gravy, Peas and Carrots, Garlic Mashed
           Potatoes, Melted Cheddar
         price: '28'
-        title: "Meatloaf Shepherd's Pie "
+        title: 'Meatloaf Shepherd’s Pie'
       - description: 'Spicy Basil-Pepper Glaze, Crispy PAnko Chicken, Seasoned Sushi Rice'
         price: '24'
         title: Thai Crispy Chicken Basil Rice Bowl

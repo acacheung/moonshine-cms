@@ -58,6 +58,7 @@ export const menuGroupQuery = graphql`
       frontmatter {
         subgroups {
           title
+          description
           items {
             title
             price

@@ -479,12 +479,21 @@ b {
 }
 
 .menu__heading {
-  margin-bottom: 32px;
   font-weight: 300;
   font-family: $merriweather;
   font-style: italic;
   text-transform: uppercase;
   color: $gold;
+}
+
+.menu__desc {
+  margin-top: 4px;
+  margin-bottom: 32px;
+  font-size: 14px;
+  font-family: $merriweather;
+  font-weight: 300;
+  font-style: italic;
+  line-height: 1.6;
 }
 
 .menu__list {

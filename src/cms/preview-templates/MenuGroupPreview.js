@@ -13,9 +13,10 @@ const MenuGroupPreview = ({ entry }) => {
         rel='stylesheet'
       ></link>
       <br />
-      <br />
-      <br />
-      <MenuGroupTemplate subgroups={subgroups} />
+      <MenuGroupTemplate
+        title={entry.getIn(['data', 'title'])}
+        subgroups={subgroups}
+      />
     </div>
   );
 };

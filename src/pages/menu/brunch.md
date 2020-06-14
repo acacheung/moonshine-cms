@@ -18,7 +18,7 @@ subgroups:
           Hard-Boiled Egg, Candied Bacon, Ranch, Honey Mustard, Blue Cheese
           Crumbles
         price: 14 mini / 21 entreé
-        title: "Amanda's Favorite Wedge Salad "
+        title: 'Amanda’s Favorite Wedge Salad '
       - description: 'Sunflower Seed-Oat Crumble, Seasonal Fruit, Honey'
         price: '9'
         title: Whipped Greek Yogurt Parfait
