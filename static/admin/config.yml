@@ -34,9 +34,9 @@ collections:
           - label: Title
             name: title
             widget: string
-          - label: Description
-            name: description
-            widget: string
+          - label: Addons
+            name: addons
+            widget: text
             required: false
           - label: 'Menu Items'
             name: items

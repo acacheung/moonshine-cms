@@ -3,7 +3,7 @@ templateKey: menu-group
 title: Dessert
 order: 2
 subgroups:
-  - description: Add one scoop Ice Cream to your favorite dessert 4
+  - description: 'Add one scoop Ice Cream to your favorite dessert 4'
     items:
       - description: 'Chantilly whipped cream, Toasted oat-amaranth streusel'
         price: '12'
@@ -28,4 +28,3 @@ subgroups:
         title: Stan’s Dad’s Creeeeme Fraiche Ice Cream
     title: Sweet Tooth
 ---
-
