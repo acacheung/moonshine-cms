@@ -1,10 +1,10 @@
 ---
 templateKey: menu-group
 title: Dessert
-time: 'Dessert is available 5:30 pm – 1:30 am'
 order: 2
 subgroups:
-  - items:
+  - description: Add one scoop Ice Cream to your favorite dessert 4
+    items:
       - description: 'Chantilly whipped cream, Toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
