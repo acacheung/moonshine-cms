@@ -5,26 +5,27 @@ time: 'Dessert is available 5:30 pm – 1:30 am'
 order: 2
 subgroups:
   - items:
-      - description: 'Chantilly Crème, Toasted Amaranth Crumble'
-        price: '10'
-        title: Butterscotch Pudding
-      - description: 'Nutella Chocolate Sauce, Powdered Sugar '
+      - description: 'Chantilly whipped cream, Toasted oat-amaranth streusel'
+        price: '12'
+        title: Moonshine’s Butterscotch Pudding
+      - description: 'Powdered sugar, Nutella chocolate fudge sauce'
         price: '11'
-        title: 'Oreo Fudge Brownie '
+        title: Jaime’s Favorite Oreo Cookie Layered Fudge Brownie
       - description: >-
-          Housemade Chocolate Sauce, Chantilly Cream… Add Peanut Butter
-          Chocolate Chip Ice Cream 3
-        price: '10'
-        title: Warm Sticky Toffee Bread Pudding
+          Sea salted Dulce De Leche caramel sauce, Strawberry topping, Whipped
+          cream, Creme fraiche ice cream, Belgian waffle
+        price: '15'
+        title: Strawberry Shortcake Waffle Ice Cream Sundae
+      - description: >
+          Blended peach, orange, cranberry flavored sorbet, Macerated
+          strawberries… Add whipped cream 1
+        price: '11'
+        title: Social Distancing on the Beach Sorbet
       - description: >-
-          Belgian Waffle, Sea Salted Caramel Apple Topping, Dulce de Leche Ice
-          Cream, Pomegranate
-        price: '13'
-        title: Caramel Apple Waffle Ice Cream Sundae
-      - price: '9'
-        title: Cranberry Sorbet
-      - price: '9'
-        title: Dulce de Leche  Ice Cream
-    title: Dessert
+          Add Nutella-Fudge chocolate sauce, sea salted caramel sauce, or
+          whipped cream 1
+        price: '11'
+        title: Stan’s Dad’s Creeeeme Fraiche Ice Cream
+    title: Sweet Tooth
 ---
 
