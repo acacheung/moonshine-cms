@@ -19,7 +19,6 @@ collections:
           default: 'menu-group',
         }
       - { label: 'Menu Group', name: 'title', widget: 'string' }
-      - { label: 'Time', name: 'time', widget: 'string' }
       - {
           label: 'Order',
           name: 'order',
