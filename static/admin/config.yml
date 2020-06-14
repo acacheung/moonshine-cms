@@ -6,24 +6,40 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: "menu"
-    label: "Menu"
-    folder: "src/pages/menu"
+  - name: 'menu'
+    label: 'Menu'
+    folder: 'src/pages/menu'
     create: true
-    slug: "{{slug}}"
+    slug: '{{slug}}'
     fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "menu-group"}
-      - {label: "Menu Group", name: "title", widget: "string"}
-      - {label: "Time", name: "time", widget: "string"}
-      - {label: "Order", name: "order", widget: "number", default: 3, valueType: "int", min: 1}
-      - label: "Menu Subgroups"
+      - {
+          label: 'Template Key',
+          name: 'templateKey',
+          widget: 'hidden',
+          default: 'menu-group',
+        }
+      - { label: 'Menu Group', name: 'title', widget: 'string' }
+      - { label: 'Time', name: 'time', widget: 'string' }
+      - {
+          label: 'Order',
+          name: 'order',
+          widget: 'number',
+          default: 3,
+          valueType: 'int',
+          min: 1,
+        }
+      - label: 'Menu Subgroups'
         name: subgroups
         widget: list
         fields:
           - label: Title
             name: title
             widget: string
-          - label: "Menu Items"
+          - label: Description
+            name: description
+            widget: string
+            required: false
+          - label: 'Menu Items'
             name: items
             widget: list
             fields:
@@ -38,25 +54,59 @@ collections:
                 widget: text
                 required: false
 
-  - name: "team"
-    label: "Team"
-    folder: "src/pages/team"
+  - name: 'team'
+    label: 'Team'
+    folder: 'src/pages/team'
     create: true
-    slug: "{{slug}}"
+    slug: '{{slug}}'
     fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "team-member"}
-      - {label: "First Name", name: "title", widget: "string"}
-      - {label: "Last Name", name: "lastname", widget: "string"}
-      - {label: "Role", name: "role", widget: "string"}
-      - {label: "Order", name: "order", widget: "number", default: 3, valueType: "int", min: 1}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {
+          label: 'Template Key',
+          name: 'templateKey',
+          widget: 'hidden',
+          default: 'team-member',
+        }
+      - { label: 'First Name', name: 'title', widget: 'string' }
+      - { label: 'Last Name', name: 'lastname', widget: 'string' }
+      - { label: 'Role', name: 'role', widget: 'string' }
+      - {
+          label: 'Order',
+          name: 'order',
+          widget: 'number',
+          default: 3,
+          valueType: 'int',
+          min: 1,
+        }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
 
-  - name: "pages"
-    label: "Pages"
+  - name: 'pages'
+    label: 'Pages'
     files:
-      - file: "src/pages/press/index.md"
-        label: "Press"
-        name: "press"
+      - file: 'src/pages/press/index.md'
+        label: 'Press'
+        name: 'press'
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "press-page"}
-          - {label: Articles, name: articles, widget: list, fields: [{label: Publication, name: publication, widget: string}, {label: title, name: title, widget: string}, {label: Date Published, name: date, widget: date, format: MMMM YYYY}, {label: Summary, name: summary, widget: text}, {label: Link, name: link, widget: string}]}
+          - {
+              label: 'Template Key',
+              name: 'templateKey',
+              widget: 'hidden',
+              default: 'press-page',
+            }
+          - {
+              label: Articles,
+              name: articles,
+              widget: list,
+              fields:
+                [
+                  { label: Publication, name: publication, widget: string },
+                  { label: title, name: title, widget: string },
+                  {
+                    label: Date Published,
+                    name: date,
+                    widget: date,
+                    format: MMMM YYYY,
+                  },
+                  { label: Summary, name: summary, widget: text },
+                  { label: Link, name: link, widget: string },
+                ],
+            }
