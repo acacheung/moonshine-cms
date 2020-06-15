@@ -349,12 +349,12 @@ b {
   margin-left: auto;
   padding: 24px;
   max-width: 400px;
-  border: 1px solid currentColor;
+  border: 1px solid $medium-gray;
   font-family: $merriweather;
   font-weight: 300;
   font-style: italic;
   line-height: 1.6;
-  color: $medium-gray;
+  color: $white;
 }
 
 .nav {
