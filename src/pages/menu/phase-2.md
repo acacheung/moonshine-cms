@@ -36,6 +36,17 @@ subgroups:
       - description: 'Boneless beef shortrib, Asian pear kimchi, candied ginger aioli'
         price: 16 regular / 24 grande
         title: Throwback Korean BBQ Tacos
-    title: A-MEI STREET TACOS
+      - description: 'Slow roasted duck, grilled corn, cabbage, wonton crisps'
+        price: 17 regular / 25 grande
+        title: Charsiu Duck Tacos
+      - description: 'Curry goddess aioli, sesame candied walnuts, tempura crunchies'
+        price: 15 regular / 22 grande
+        title: Roasted Cauliflower Tacos
+      - description: >-
+          Beer battered tempura cod, mango-cabbage slaw, sweet chili, ginger
+          aioli
+        price: 16 regular / 24 grande
+        title: 'Devon’s Favorite ’Shine Fish Tacos '
+    title: A-Mei Street Tacos
 ---
 
