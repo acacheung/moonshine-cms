@@ -175,12 +175,12 @@ b {
 }
 
 .t-link {
+  color: currentColor;
   font-style: italic;
   text-decoration: none;
-  transition-duration: 0.25s;
-  transition-property: opacity;
+  transition-property: text-decoration;
   &:hover {
-    opacity: 0.6;
+    text-decoration: underline;
   }
 }
 
@@ -307,13 +307,13 @@ b {
 .header {
   position: relative;
   background-color: $black;
+  background-image: url('../img/sky.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
   text-align: center;
   @media (min-width: 850px) {
     height: 100vh;
-    background-image: url('../img/sky.jpg');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
   }
 }
 
@@ -324,7 +324,7 @@ b {
   justify-content: center;
   min-height: 300px;
   @media (max-width: 849px) {
-    height: calc(100vh - 153px);
+    height: calc(100vh - 204px);
   }
   @media (min-width: 850px) {
     height: calc(100vh - 72px);

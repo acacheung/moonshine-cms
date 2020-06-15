@@ -12,8 +12,11 @@ const IndexPage = () => {
             <img className='hero__logo' src={logo} alt='Moonshine 152 logo' />
             <div className='is-hidden'>Moonshine 152</div>
             <div className='hero__desc'>
-              COVID-19 Updates: Please call Moonshine 152 directly at
-              617.752.4191 for patio reservations.
+              COVID-19 Updates: Please call Moonshine 152 directly at{' '}
+              <a className='t-link' href='tel:6177524191'>
+                617.752.4191
+              </a>{' '}
+              for patio reservations.
             </div>
           </div>
         </div>

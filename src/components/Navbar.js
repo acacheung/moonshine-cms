@@ -10,6 +10,12 @@ const Navbar = class extends React.Component {
         </Link>
         <a
           className='nav__link'
+          href='https://www.grubhub.com/restaurant/moonshine-152-152-dorchester-ave-boston/504704'
+        >
+          Delivery
+        </a>
+        <a
+          className='nav__link'
           href='https://stores.inksoft.com/moonshine152/shop/home'
         >
           Shop
