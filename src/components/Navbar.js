@@ -8,18 +8,27 @@ const Navbar = class extends React.Component {
         <Link to='/menu/phase-1/' className='nav__link'>
           Menu
         </Link>
+        <a
+          className='nav__link'
+          href='https://stores.inksoft.com/moonshine152/shop/home'
+        >
+          Shop
+        </a>
+        <a className='nav__link' href='https://venmo.com/AsiaMei'>
+          Donate
+        </a>
         <Link to='/team/asia/' className='nav__link'>
           Team
         </Link>
         <Link to='/press/' className='nav__link'>
           Press
         </Link>
-        <a
+        {/* <a
           className='nav__link'
           href='http://www.opentable.com/single.aspx?restref=161260&rid=161260'
         >
           Reservations
-        </a>
+        </a> */}
         <a className='nav__link' href='tel:6177524191'>
           <svg
             className='nav__link__phone'

@@ -331,19 +331,29 @@ b {
   }
 }
 
-.hero__logo {
+.hero-wrap {
+  margin-right: 24px;
+  margin-left: 24px;
   width: 85%;
   max-width: 620px;
 }
 
+.hero__logo {
+  width: 100%;
+}
+
 .hero__desc {
   margin-top: 20px;
-  font-size: 18px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 24px;
+  max-width: 400px;
+  border: 1px solid currentColor;
   font-family: $merriweather;
   font-weight: 300;
   font-style: italic;
+  line-height: 1.6;
   color: $medium-gray;
-  width: 90%;
 }
 
 .nav {
