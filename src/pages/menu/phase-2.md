@@ -56,7 +56,7 @@ subgroups:
         title: Organic Grass-fed Skirt Steak
       - price: '13'
         title: Spicy Lamb Meatballs
-      - description: Vegan or add cheese $1
+      - description: Vegan or add cheese 1
         price: '10'
         title: Asia’s Famous Mushroom Tofu Burger Patty
       - price: '13'
