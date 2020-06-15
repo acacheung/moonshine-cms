@@ -107,8 +107,9 @@ subgroups:
         title: Sliced Jalapenos
       - price: '2'
         title: Add Cheese
-      - price: Mkt
-        title: Sauce it ups… Extra sides to add your favorites
+      - description: Extra sides to add your favorites
+        price: Mkt
+        title: Sauce it ups
       - price: Mkt
         title: Sub Sides/Substitutions
     title: All Fixin’s and Sides
