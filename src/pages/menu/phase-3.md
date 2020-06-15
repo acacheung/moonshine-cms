@@ -86,5 +86,31 @@ subgroups:
         price: '25'
         title: Thai Crispy Chicken Basil Rice Bowl
     title: Rice Bowls
+  - items:
+      - price: '7'
+        title: House-cut shoestring french fries
+      - price: '5'
+        title: White Rice
+      - price: '7'
+        title: Brown Rice
+      - price: '9'
+        title: Brussel Sprouts
+      - price: '7'
+        title: Kimchi
+      - price: '2'
+        title: Fried Egg
+      - price: '4'
+        title: Jalapeno Bacon
+      - price: '3'
+        title: Angry Sauce
+      - price: '2'
+        title: Sliced Jalapenos
+      - price: '2'
+        title: Add Cheese
+      - price: Mkt
+        title: Sauce it ups… Extra sides to add your favorites
+      - price: Mkt
+        title: Sub Sides/Substitutions
+    title: All Fixin’s and Sides
 ---
 
