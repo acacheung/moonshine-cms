@@ -6,7 +6,8 @@ const Footer = class extends React.Component {
       <footer className='footer l-auto'>
         <div className='l-col'>
           <h2 className='hours__heading'>Hours</h2>
-          <p className='hours'>11:30 am – 8:30 pm Tuesday through Sunday</p>
+          <p className='hours'>11:30 am – 8:30 pm</p>
+          <p className='hours'>Tuesday through Sunday</p>
           <div className='socials'>
             <a
               href='https://www.facebook.com/moonshine152southie'

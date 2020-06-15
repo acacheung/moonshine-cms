@@ -298,9 +298,10 @@ b {
   border-radius: 16px;
   background-color: $white;
   transition-duration: 0.25s;
-  transition-property: background-color;
-  &:hover {
-    background-color: $gold;
+  transition-property: box-shadow;
+  &:hover,
+  &:focus {
+    box-shadow: 0 0 0 3px $dark-gold;
   }
 }
 
@@ -357,6 +358,8 @@ b {
 }
 
 .nav {
+  align-items: center;
+  justify-content: center;
   top: 0;
   width: 100%;
   box-shadow: 0px 6px 0px 0px $dark-gold;
@@ -367,8 +370,9 @@ b {
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
-  .header & {
-    @media (min-width: 850px) {
+  @media (min-width: 850px) {
+    display: flex;
+    .header & {
       bottom: 0;
       position: absolute;
       top: initial;
@@ -396,14 +400,10 @@ b {
     line-height: 72px;
   }
   @media (min-width: 850px) and (max-width: 1079px) {
-    &:not(:first-child) {
-      margin-left: 40px;
-    }
+    margin-right: 32px;
   }
   @media (min-width: 1080px) {
-    &:not(:first-child) {
-      margin-left: 60px;
-    }
+    margin-right: 60px;
   }
   &:hover {
     color: $white;
