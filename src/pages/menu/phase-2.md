@@ -48,5 +48,23 @@ subgroups:
         price: 16 regular / 24 grande
         title: 'Devon’s Favorite ’Shine Fish Tacos '
     title: A-Mei Street Tacos
+  - description: Add your favorite proteins to anything!
+    items:
+      - price: '13'
+        title: Roasted Statler Chicken Breast
+      - price: Mkt
+        title: Organic Grass-fed Skirt Steak
+      - price: '13'
+        title: Spicy Lamb Meatballs
+      - description: Vegan or add cheese $1
+        price: '10'
+        title: Asia’s Famous Mushroom Tofu Burger Patty
+      - price: '13'
+        title: House Crispy Chicken Nuggies
+      - price: '13'
+        title: Cajun Grilled Fish of the Day
+      - price: '13'
+        title: Charsiu Chinese BBQ Glazed Pork Ribs
+    title: Add-Ons
 ---
 
