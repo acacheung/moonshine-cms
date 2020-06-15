@@ -63,5 +63,28 @@ subgroups:
         price: '28'
         title: Charsiu BBQ Glazed Pork Ribs
     title: The Main Affair
+  - description: Swap out your white rice for mixed green or brown rice for 2
+    items:
+      - description: >-
+          Stirfried Chinese sausage, scrambled egg, ginger, scallions, duck
+          liver
+        price: '17'
+        title: Mama Mei’s Famous Dirty Fried Rice
+      - description: >-
+          Asian pear kimchi, jalapenos, scrambled egg, stirfried veggies...
+          available vegan
+        price: '17'
+        title: Spicy Kimchi Thai Vegetarian Fried Rice
+      - description: >-
+          Sweet Maui onion salmon poke, house applewood smoked shrimp salad,
+          mango-edamame salsa, sushi rice, crispy chickpea papadum chips
+        price: Mkt
+        title: Hawaiian Poke Rice Bowl
+      - description: >-
+          Spicy basil pepper glaze, crispy panko chicken, seasoned sushi rice,
+          stirfried veggies
+        price: '25'
+        title: Thai Crispy Chicken Basil Rice Bowl
+    title: Rice Bowls
 ---
 
