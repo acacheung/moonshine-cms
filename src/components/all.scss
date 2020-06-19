@@ -355,6 +355,9 @@ b {
   font-style: italic;
   line-height: 1.6;
   color: $white;
+  a {
+    color: currentColor;
+  }
 }
 
 .nav {
