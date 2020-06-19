@@ -11,7 +11,7 @@ const Footer = class extends React.Component {
           <div className='socials'>
             <a
               href='https://www.facebook.com/moonshine152southie'
-              className='social--facebook'
+              className='social'
             >
               <svg
                 id='icon-facebook'
@@ -23,10 +23,7 @@ const Footer = class extends React.Component {
                 <path d='M19 6h5v-6h-5c-3.86 0-7 3.14-7 7v3h-4v6h4v16h6v-16h5l1-6h-6v-3c0-0.542 0.458-1 1-1z'></path>
               </svg>
             </a>
-            <a
-              href='https://instagram.com/chefasiamei/'
-              className='social--instagram'
-            >
+            <a href='https://instagram.com/chefasiamei/' className='social'>
               <svg
                 id='icon-instagram'
                 viewBox='0 0 32 32'
@@ -39,13 +36,16 @@ const Footer = class extends React.Component {
                 <path d='M26.462 7.456c0 1.060-0.859 1.919-1.919 1.919s-1.919-0.859-1.919-1.919c0-1.060 0.859-1.919 1.919-1.919s1.919 0.859 1.919 1.919z'></path>
               </svg>
             </a>
-            <a
-              href='https://twitter.com/moonshine152'
-              className='social--twitter'
-            >
+            <a href='https://twitter.com/moonshine152' className='social'>
               <svg id='icon-twitter' viewBox='0 0 32 32' width='16' height='16'>
                 <title>Twitter</title>
                 <path d='M32 7.075c-1.175 0.525-2.444 0.875-3.769 1.031 1.356-0.813 2.394-2.1 2.887-3.631-1.269 0.75-2.675 1.3-4.169 1.594-1.2-1.275-2.906-2.069-4.794-2.069-3.625 0-6.563 2.938-6.563 6.563 0 0.512 0.056 1.012 0.169 1.494-5.456-0.275-10.294-2.888-13.531-6.862-0.563 0.969-0.887 2.1-0.887 3.3 0 2.275 1.156 4.287 2.919 5.463-1.075-0.031-2.087-0.331-2.975-0.819 0 0.025 0 0.056 0 0.081 0 3.181 2.263 5.838 5.269 6.437-0.55 0.15-1.131 0.231-1.731 0.231-0.425 0-0.831-0.044-1.237-0.119 0.838 2.606 3.263 4.506 6.131 4.563-2.25 1.762-5.075 2.813-8.156 2.813-0.531 0-1.050-0.031-1.569-0.094 2.913 1.869 6.362 2.95 10.069 2.95 12.075 0 18.681-10.006 18.681-18.681 0-0.287-0.006-0.569-0.019-0.85 1.281-0.919 2.394-2.075 3.275-3.394z'></path>
+              </svg>
+            </a>
+            <a href='https://venmo.com/AsiaMei' className='social'>
+              <svg id='icon-venmo' viewBox='0 0 30 32' width='16' height='16'>
+                <title>Venmo</title>
+                <path d='M28.299 0c1.164 1.91 1.701 3.91 1.701 6.388 0 7.97-6.806 18.328-12.328 25.582h-12.627l-5.045-30.239 11.045-1.045 2.687 21.522c2.507-4.060 5.582-10.478 5.582-14.836 0-2.388-0.418-4-1.045-5.343l10.030-2.030z'></path>
               </svg>
             </a>
           </div>

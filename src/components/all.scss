@@ -286,10 +286,7 @@ b {
   }
 }
 
-.social--twitter,
-.social--facebook,
-.social--instagram {
-  margin-right: 12px;
+.social {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -302,6 +299,14 @@ b {
   &:hover,
   &:focus {
     box-shadow: 0 0 0 3px $dark-gold;
+  }
+  &:not(:last-child) {
+    @media (max-width: 399px) {
+      margin-right: 4px;
+    }
+    @media (min-width: 400px) {
+      margin-right: 12px;
+    }
   }
 }
 
