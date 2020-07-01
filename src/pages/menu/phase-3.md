@@ -14,12 +14,11 @@ subgroups:
         price: Mkt
         title: Grass-fed ’Shine Beef Burger
       - description: >-
-          Topped with creamy macaroni salad, mango salsa, teriyaki glaze &
-          crunchy tempura bits. Served with house-cut shoestring french fries   
+          Topped with Marinated Cucumbers, Creamy Baba Ganoush Spread, Crumbled
+          Feta & Summer Tomato Relish. Served with house-cut shoestring french
+          fries   
         price: Mkt
-        title: >-
-          VIP Burger of the Month - June 2020: “Hawaii 152.0” Hawaiian BBQ
-          Burger
+        title: 'VIP Burger of the Month - July 2020: “Get Him to the Greek 3.0" Burger'
       - description: >-
           We didn’t get to celebrate a Parade Day this year, but you can still
           get your St. Patrick’s Day fix! 
