@@ -62,5 +62,43 @@ subgroups:
         price: '18'
         title: '''Shine''s Southie Corned Beef Hash '
     title: Brunch Phase 2
+  - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
+    items:
+      - description: served with Poblano Ranch Sauce
+        price: 16 / 27
+        title: '"Boston''s Best" Buttermilk Fried Chicken Wings '
+      - description: >-
+          Heirloom quinoa, Iceberg lettuce, Caramelized onion & beet dip,
+          Candied bacon, Blue cheese crumbles, Toasted almonds 
+        price: 16 / 26
+        title: Amanda's Favorite Quinoa Wedge Salad
+      - description: >-
+          Boneless beef shortrib, Asian pear kimchi, Candied ginger aioli,
+          Sriracha sauce 
+        price: 16 / 24
+        title: 'Throwback Korean BBQ Tacos '
+      - description: >-
+          Chinese sausage, Scrambled egg, Fresh ginger, Scallions, Chopped duck
+          liver 
+        price: '17'
+        title: 'Mama Mei''s Dirty Fried Rice '
+      - description: 'Sharp cheddar, Housemade aioli, LTO & Shoestring fries '
+        price: '19'
+        title: 'Chef Asia''s Famous Mushroom  Burger '
+      - description: 'Sharp cheddar, Housemade aioli, LTO & Shoestring fries '
+        price: MKT
+        title: 'Grass-fed Beef Burger '
+      - description: >-
+          July 2020: "Get Em To The Greek 3.0" Burger topped with Marinated
+          cucumbers, Crumbled feta, Creamy baba ganoush spread, Summer tomato
+          relish. Served with Shoestring fries 
+        price: '22'
+        title: 'Make Your Burger a VIP Burger of the Month '
+      - description: >-
+          "Boston's Best" Buttermilk fried chicken, Belgian waffle,
+          Sriracha-bourbon awesome sauce, Cinnamon honey butter 
+        price: '27'
+        title: 'Leslie Knope''s Fried Chicken & Waffle '
+    title: All-Day / All-Night Allstars
 ---
 
