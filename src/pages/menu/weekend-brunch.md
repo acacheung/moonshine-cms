@@ -100,5 +100,39 @@ subgroups:
         price: '27'
         title: 'Leslie Knope''s Fried Chicken & Waffle '
     title: All-Day / All-Night Allstars
+  - description: 'All the sides & Fixin''s '
+    items:
+      - price: '7'
+        title: 'House-cut Shoestring Fries '
+      - price: '6'
+        title: 'Side of Pecanwood Bacon '
+      - price: '7'
+        title: 'Side of Jalapeno Bacon '
+      - price: '5'
+        title: 'Spiced Homefries '
+      - price: '5'
+        title: 'Two Eggs Any Style '
+      - price: '6'
+        title: 'Spicy Green Chili Cheese Grits '
+      - price: '3'
+        title: 'Homemade English Muffin '
+      - price: '3'
+        title: 'Homemade Beer Bread '
+      - description: >-
+          Red-eye gravy, Chinese sausage, Green onions, Chopped melted white
+          cheese 
+        price: '9'
+        title: '1/2 Order Tater Tot Poutine '
+      - price: '9'
+        title: 'Side Order of Corned Beef Hash '
+      - price: '2'
+        title: Add a Fried Egg To Any Dish
+      - price: '4'
+        title: 'Add Bacon To Any Dish '
+      - price: '2'
+        title: 'Add Melted Cheese To Any Dish '
+      - price: '2.0'
+        title: 'Add Sliced Jalapenos To Any Dish '
+    title: Brunch Phase 3
 ---
 
