@@ -25,5 +25,15 @@ subgroups:
         price: 10 / 15
         title: 'Chef Asia''s Famous Cinnamon French Toast Sticks '
     title: Brunch Phase 1
+  - description: 'The Main Affair '
+    items:
+      - description: >-
+          Smoky pulled pork, Scrambled egg, Tomato salsa, Petite mixed greens
+          salad, House-cut shoestring fries
+        price: '27'
+        title: >-
+          Ron Swanson Brunch Inspired Chipotle Pulled Pork Scallion Pancake
+          Quesadilla (AVAILABLE VEGETARIAN   24) 
+    title: Brunch Phase 2
 ---
 
