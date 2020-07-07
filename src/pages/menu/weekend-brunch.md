@@ -154,5 +154,52 @@ subgroups:
         price: '11'
         title: 'Stan''s Dad''s Creeeeeeme Fraiche Ice Cream '
     title: Phase 4
+  - description: 'Brunch Cocktails & Beverages '
+    items:
+      - description: >-
+          Pair your favorite vodka or tequila with our house bloody mary mix,
+          infused with homemade kimchi juice 
+
+          ...add candied bacon sea salt $1
+
+          ...add housemade pickled veggies  $2
+        price: MKT
+        title: 'Shine Bloody Mary / Bloody Maria '
+      - description: >-
+          His favorite Lagavulin Scotch paired with our House Bloody Mary Mix,
+          infused with homemade kimchi juice 
+
+          ...add candied bacon sea salt $1
+
+          ...add housemade pickled veggies  $2
+        price: '15'
+        title: 'Ron Swanson Approved Lagavulin Bloody Mary '
+      - description: 'Prosecco splashed with orange juice '
+        price: '11'
+        title: 'Classic Mimosa '
+      - description: 'Orange Vodka, Pineapple-orange juice, Prosecco '
+        price: '13'
+        title: 'Leslie Knope''s Approved Executive Mimosa '
+      - description: 'Bison Grass Vodka, Cinnamon, Apple, Lemon '
+        price: '12'
+        title: 'R.I.P. Li''l Sebastian '
+      - description: 'Rye Whiskey, Boozy Cream, Iced Coffee '
+        price: '12'
+        title: 'Good Morning Pawnee '
+      - price: '5'
+        title: 'Fazenda Roasters Brewed Coffee (Available Iced) '
+      - price: '4'
+        title: 'Unsweetened Iced Tea '
+      - price: '5'
+        title: 'Arnold Palmer '
+      - price: '5'
+        title: Fresh Lemonade/ Limeade
+      - description: 'Apple, Orange, Grapefruit, Cranberry, Pineapple '
+        price: '5'
+        title: 'Juices '
+      - description: 'Coca-Cola, Diet Coke, Sprite, Ginger Ale, Gosling''s Ginger Beer '
+        price: '4'
+        title: Soda
+    title: 'Cheers To The Weekend! '
 ---
 
