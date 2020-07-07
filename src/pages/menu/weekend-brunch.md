@@ -62,6 +62,40 @@ subgroups:
         price: '18'
         title: '''Shine''s Southie Corned Beef Hash '
     title: Brunch Phase 2
+  - description: 'All the sides & Fixin''s '
+    items:
+      - price: '7'
+        title: 'House-cut Shoestring Fries '
+      - price: '6'
+        title: 'Side of Pecanwood Bacon '
+      - price: '7'
+        title: 'Side of Jalapeno Bacon '
+      - price: '5'
+        title: 'Spiced Homefries '
+      - price: '5'
+        title: 'Two Eggs Any Style '
+      - price: '6'
+        title: 'Spicy Green Chili Cheese Grits '
+      - price: '3'
+        title: 'Homemade English Muffin '
+      - price: '3'
+        title: 'Homemade Beer Bread '
+      - description: >-
+          Red-eye gravy, Chinese sausage, Green onions, Chopped melted white
+          cheese 
+        price: '9'
+        title: '1/2 Order Tater Tot Poutine '
+      - price: '9'
+        title: 'Side Order of Corned Beef Hash '
+      - price: '2'
+        title: Add a Fried Egg To Any Dish
+      - price: '4'
+        title: 'Add Bacon To Any Dish '
+      - price: '2'
+        title: 'Add Melted Cheese To Any Dish '
+      - price: '2.0'
+        title: 'Add Sliced Jalapenos To Any Dish '
+    title: Brunch Phase 3
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: served with Poblano Ranch Sauce
@@ -100,39 +134,25 @@ subgroups:
         price: '27'
         title: 'Leslie Knope''s Fried Chicken & Waffle '
     title: All-Day / All-Night Allstars
-  - description: 'All the sides & Fixin''s '
+  - description: 'Sweet Tooth '
     items:
-      - price: '7'
-        title: 'House-cut Shoestring Fries '
-      - price: '6'
-        title: 'Side of Pecanwood Bacon '
-      - price: '7'
-        title: 'Side of Jalapeno Bacon '
-      - price: '5'
-        title: 'Spiced Homefries '
-      - price: '5'
-        title: 'Two Eggs Any Style '
-      - price: '6'
-        title: 'Spicy Green Chili Cheese Grits '
-      - price: '3'
-        title: 'Homemade English Muffin '
-      - price: '3'
-        title: 'Homemade Beer Bread '
+      - description: 'Whipped chantilly cream, Toasted oat-amaranth streusel '
+        price: '12'
+        title: 'Butterscotch Pudding '
+      - description: 'Nutellla fudge chocolate sauce, Powdered sugar '
+        price: '11'
+        title: 'Jaime''s Favorite Oreo Cookie Layered Fudge Brownie '
       - description: >-
-          Red-eye gravy, Chinese sausage, Green onions, Chopped melted white
-          cheese 
-        price: '9'
-        title: '1/2 Order Tater Tot Poutine '
-      - price: '9'
-        title: 'Side Order of Corned Beef Hash '
-      - price: '2'
-        title: Add a Fried Egg To Any Dish
-      - price: '4'
-        title: 'Add Bacon To Any Dish '
-      - price: '2'
-        title: 'Add Melted Cheese To Any Dish '
-      - price: '2.0'
-        title: 'Add Sliced Jalapenos To Any Dish '
-    title: Brunch Phase 3
+          Belgian waffle, Strawberry topping, Creme fraiche ice cream, Sea
+          salted dulce de leche caramel sauce, Whipped cream 
+        price: '15'
+        title: 'Strawberry Shortcake Waffle Ice Cream Sundae '
+      - description: 'Blended Peach, Orange & Cranberry sorbet, Macerated strawberries '
+        price: '11'
+        title: 'Social Distancing on the Beach Sorbet '
+      - description: add a scoop of creme fraiche ice cream to any dessert for $3
+        price: '11'
+        title: 'Stan''s Dad''s Creeeeeeme Fraiche Ice Cream '
+    title: Phase 4
 ---
 
