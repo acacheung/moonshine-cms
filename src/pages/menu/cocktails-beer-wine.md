@@ -25,11 +25,11 @@ subgroups:
       - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime '
         price: '13'
         title: Fay's Fancy
-      - description: |-
-          Red: Hibiscus, Ginger, Apple
-          White: Strawberry, Citrus 
+      - description: >-
+          House Red Sangria : Hibiscus, Ginger, Apple  OR House White Sangria:
+          Strawberry, Citrus 
         price: '12 '
-        title: House Sangria
+        title: House Sangria's
       - description: 'Coconut Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
         title: '''Shine Painkiller '
