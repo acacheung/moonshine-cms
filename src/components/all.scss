@@ -229,6 +229,18 @@ b {
 .hours__heading {
   @media (min-width: 910px) {
     padding-top: 48px;
+    text-align: right;
+    float: right;
+    clear: right;
+  }
+}
+
+.hours__heading:last-of-type {
+  padding-top: 24px;
+  clear: both;
+  @media (min-width: 910px) {
+    padding-top: 24px;
+    text-align: right;
     float: right;
     clear: right;
   }
