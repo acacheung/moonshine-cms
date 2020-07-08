@@ -1,6 +1,6 @@
 ---
 templateKey: menu-group
-title: 'Cocktails, Beer & Wine '
+title: '''Shine''s Specialty Cocktail List '
 order: 1
 subgroups:
   - items:
@@ -37,7 +37,5 @@ subgroups:
         price: '13'
         title: '''Shine Spritz '
     title: '''Shine Specialty Cocktails '
-  - title: Wine List
-  - title: 'Beer Menu '
 ---
 
