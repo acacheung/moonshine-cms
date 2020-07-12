@@ -10,7 +10,7 @@ featuresBanner:
           Feta &amp; Summer Tomato Relish. Served with house-cut shoestring
           french fries
         image: 'https://i.imgur.com/G2D37bE.jpg'
-        title: JULY 2020 GET HIM TO THE GREEK 3.0 BURGER
+        title: July Burger Test
     title: Specials of the month
 subgroups:
   - description: All portions available regular or “Go Grande”
