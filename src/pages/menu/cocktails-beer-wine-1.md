@@ -84,7 +84,7 @@ subgroups:
       - price: '7'
         title: '(Draft) Cisco Brewing "Grey Lady" Ale '
       - price: '7'
-        title: 'Downeast Original Unfiltered Cider '
+        title: '(Draft) Downeast Original Unfiltered Cider '
       - description: '12 oz bottle '
         price: '6'
         title: 'Budweiser/ Bud Light '
