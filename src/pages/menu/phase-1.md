@@ -1,7 +1,7 @@
 ---
 templateKey: menu-group
 title: Phase 1
-order: 1
+order: 2
 featuresBanner: []
 subgroups:
   - description: All portions available regular or “Go Grande”
