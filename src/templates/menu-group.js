@@ -2,24 +2,19 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
+import FeaturesBanner from '../components/FeaturesBanner';
 import Footer from '../components/Footer';
 import Navbar from '../components/Navbar';
 import Subgroups from '../components/Subgroups';
 import MenuSubgroupNav from '../components/MenuSubgroupNav';
 
-export const MenuGroupTemplate = ({ subgroups }) => (
-  <div className='menu__lists-wrap l-colspan'>
-    <Subgroups subgroups={subgroups} />
-  </div>
+export const FeaturesBannerTemplate = ({ featuresBanner }) => (
+  <FeaturesBanner featuresBanner={featuresBanner} />
 );
 
-MenuGroupTemplate.propTypes = {
-  subgroups: PropTypes.arrayOf(
-    PropTypes.shape({
-      items: PropTypes.array,
-    })
-  ),
-};
+export const MenuGroupTemplate = ({ subgroups }) => (
+  <Subgroups subgroups={subgroups} />
+);
 
 const MenuGroup = ({ data }) => {
   const { frontmatter } = data.markdownRemark;
@@ -29,7 +24,10 @@ const MenuGroup = ({ data }) => {
       <Navbar />
       <div className='l-auto'>
         <MenuSubgroupNav />
-        <MenuGroupTemplate subgroups={frontmatter.subgroups} />
+        <div className='menu__lists-wrap l-colspan'>
+          <FeaturesBannerTemplate featuresBanner={frontmatter.featuresBanner} />
+          <MenuGroupTemplate subgroups={frontmatter.subgroups} />
+        </div>
       </div>
       <div className='callout-wrap'>
         <p className='callout'>
@@ -56,6 +54,15 @@ export const menuGroupQuery = graphql`
   query MenuGroup($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
+        featuresBanner {
+          title
+          features {
+            title
+            img
+            alt
+            description
+          }
+        }
         subgroups {
           title
           description

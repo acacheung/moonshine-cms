@@ -480,15 +480,17 @@ b {
   font-family: $edmond-regular;
   text-transform: uppercase;
   text-decoration: none;
-  color: $light-gray;
+  color: $dark-gray;
   letter-spacing: 5px;
   transition-duration: 0.25s;
   transition-property: color;
   @media (max-width: 909px) {
+    text-align: left;
     float: left;
     clear: left;
   }
   @media (min-width: 910px) {
+    text-align: right;
     float: right;
     clear: right;
   }
@@ -500,12 +502,113 @@ b {
   }
 }
 
+.menu__link__desc {
+  margin-bottom: 20px;
+  padding-top: 5px;
+  font-size: 20px;
+  font-family: $edmond-regular;
+  text-decoration: none;
+  letter-spacing: 1px;
+  text-transform: none;
+  @media (max-width: 909px) {
+    text-align: left;
+    float: left;
+    clear: left;
+  }
+  @media (min-width: 910px) {
+    text-align: right;
+    float: right;
+    clear: right;
+  }
+}
+
+.menu__logo {
+  width: 50px;
+  float: right;
+  margin: 10px 20px 20px 20px;
+}
+
 .menu__lists-wrap {
   padding-top: 50px;
   @media (max-width: 909px) {
     padding-right: 10%;
     padding-left: 10%;
   }
+}
+
+.menu__features {
+  color: white;
+  background-color: #CBA742;
+  border: 2px;
+  font-weight: 300;
+  font-family: $merriweather;
+  font-style: italic;
+  text-transform: uppercase;
+  border-color: #CBA742;
+  box-shadow: 0 0 0 2px white, 0 0 0 9px #CBA742, 0 0 0 35px white;
+  display: inline-block;
+  padding: 10px 40px;
+  margin-left: 9px;
+}
+
+.menu__features__image {
+  height: 225px;
+  width: 250px;
+  padding-right: 25px;
+  padding-bottom: 10px;
+}
+
+.menu__features__box {
+  display: grid;
+  grid-gap: 30px 20px;
+  grid-template-columns: repeat(auto-fill, minmax(400px,1fr));
+  padding-bottom: 25px;
+  margin-bottom: 40px;
+  border-bottom: 2px solid #CBA742;
+  overflow: hidden;
+}
+
+.menu__features__single {
+  padding-bottom: 25px;
+  margin-bottom: 40px;
+  border-bottom: 2px solid #CBA742;
+  overflow: hidden;
+}
+
+.menu__features__item {
+  @media (min-width: 600px) {
+    display: flex;
+  }
+}
+
+.menu__features__border__top {
+  @media (min-width: 600px) {
+    border: 1px solid #CBA742;
+    margin-bottom: 60px;
+    margin-top: -30px;
+  }
+  @media (max-width: 601px) {
+    margin-top: 30px;
+  }
+}
+
+.menu__features__heading {
+  font-size: 18px;
+  font-family: $edmond-medium;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding-bottom: 10px;
+  margin-right: 30px;
+}
+
+.menu__features__desc {
+  margin-top: 4px;
+  font-size: 14px;
+  font-family: $merriweather;
+  font-weight: 300;
+  font-style: italic;
+  line-height: 1.6;
+  margin-right: 30px;
 }
 
 .menu__heading {
