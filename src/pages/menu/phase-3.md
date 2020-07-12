@@ -1,7 +1,7 @@
 ---
 templateKey: menu-group
 title: Phase 3
-order: 3
+order: 4
 featuresBanner:
   - title: VIP Burger of the Month
     features:
