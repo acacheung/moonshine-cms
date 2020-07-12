@@ -11,7 +11,7 @@ featuresBanner:
           french fries
         image: 'https://i.imgur.com/G2D37bE.jpg'
         title: July Burger Test
-    title: Specials of the month
+    title: Weekly Specials
 subgroups:
   - description: All portions available regular or “Go Grande”
     items:
