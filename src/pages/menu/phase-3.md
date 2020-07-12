@@ -2,21 +2,28 @@
 templateKey: menu-group
 title: Phase 3
 order: 3
+featuresBanner:
+  - title: VIP Burger of the Month
+    features:
+      - image: https://i.imgur.com/G2D37bE.jpg
+        alt: Delicious burger with fries
+        title: '"Get him to the Greek 3.0" Burger'
+        description: Topped with Marinated Cucumbers, Creamy Baba Ganoush Spread,
+          Crumbled Feta & Summer Tomato Relish. Served with house-cut shoestring
+          french fries
 subgroups:
   - description: Don’t forget to add your favorite fixin’s or sides!
     items:
-      - description: >-
-          Sharp cheddar, aioli, LTO, house-cut shoestring french fries… now
+      - description: Sharp cheddar, aioli, LTO, house-cut shoestring french fries… now
           available vegan!
-        price: '19'
+        price: "19"
         title: Chef Asia’s Famous Vegetarian Mushroom Tofu Burger
-      - description: 'Sharp cheddar, aioli, LTO, house-cut shoestring french fries'
+      - description: Sharp cheddar, aioli, LTO, house-cut shoestring french fries
         price: Mkt
         title: Grass-fed ’Shine Beef Burger
-      - description: >-
-          Topped with Marinated Cucumbers, Creamy Baba Ganoush Spread, Crumbled
-          Feta & Summer Tomato Relish. Served with house-cut shoestring french
-          fries   
+      - description: "Topped with Marinated Cucumbers, Creamy Baba Ganoush Spread,
+          Crumbled Feta & Summer Tomato Relish. Served with house-cut shoestring
+          french fries   "
         price: Mkt
         title: 'VIP Burger of the Month - July 2020: “Get Him to the Greek 3.0" Burger'
       - description: >-
@@ -24,87 +31,74 @@ subgroups:
           get your St. Patrick’s Day fix! 
 
 
-          Thick-cut corned beef, house sauerkraut, ARae’s favorite Russian
-          dressing, melted swiss, house-cut shoestring french fries
-        price: '21'
+          Thick-cut corned beef, house sauerkraut, ARae’s favorite Russian dressing, melted swiss, house-cut shoestring french fries
+        price: "21"
         title: St. Paddy’s Day Inspired Corned Beef Sandwich
-      - description: >-
-          Smoky pulled pork, scrambled egg, tomato salsa, petite mixed greens
+      - description: Smoky pulled pork, scrambled egg, tomato salsa, petite mixed greens
           salad, teriyaki, sweet chili glaze, house-cut shoestring french
           fries... available vegetarian 24
-        price: '27'
-        title: >-
-          Ron Swanson Brunch-Inspired Chipotle Pulled Pork Scallion Pancake
+        price: "27"
+        title: Ron Swanson Brunch-Inspired Chipotle Pulled Pork Scallion Pancake
           Quesadilla
-      - description: >-
-          Chinatown style pulled duck, chilled vermicelli rice noodles, honey
+      - description: Chinatown style pulled duck, chilled vermicelli rice noodles, honey
           roasted peanuts, duck-fat fried brussel sprout leaves
-        price: '29'
+        price: "29"
         title: Summer Tiki Roasted Duck Noodle Salad
-      - description: >-
-          Cajun grilled, fried pickled green tomatoes, srirachi-shrimp uni
+      - description: Cajun grilled, fried pickled green tomatoes, srirachi-shrimp uni
           butter, sauteed tomatoes... add rice option 3 or add brown rice 5
         price: Mkt
         title: Fish of the Day
-      - description: >-
-          Moonshine’s Best of Boston fried chicken, Belgian waffle,
+      - description: Moonshine’s Best of Boston fried chicken, Belgian waffle,
           sriracha-bourbon awesome sauce, cinnamon honey butter
-        price: '27'
+        price: "27"
         title: Leslie Knope’s “Fried Chicken and Waffle”
-      - description: >-
-          Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
+      - description: Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
         price: Mkt
         title: Spanish Tapas Style Steak Frites
-      - description: >-
-          Tender charred Chinese barbecued pork ribs, street corn salad, steamed
-          brown rice, scallion oil
-        price: '28'
+      - description: Tender charred Chinese barbecued pork ribs, street corn salad,
+          steamed brown rice, scallion oil
+        price: "28"
         title: Charsiu BBQ Glazed Pork Ribs
     title: The Main Affair
   - description: Swap out your white rice for mixed green or brown rice for 2
     items:
-      - description: >-
-          Stirfried Chinese sausage, scrambled egg, ginger, scallions, duck
-          liver
-        price: '17'
+      - description: Stirfried Chinese sausage, scrambled egg, ginger, scallions, duck liver
+        price: "17"
         title: Mama Mei’s Famous Dirty Fried Rice
-      - description: >-
-          Asian pear kimchi, jalapenos, scrambled egg, stirfried veggies...
+      - description: Asian pear kimchi, jalapenos, scrambled egg, stirfried veggies...
           available vegan
-        price: '17'
+        price: "17"
         title: Spicy Kimchi Thai Vegetarian Fried Rice
-      - description: >-
-          Sweet Maui onion salmon poke, house applewood smoked shrimp salad,
+      - description: Sweet Maui onion salmon poke, house applewood smoked shrimp salad,
           mango-edamame salsa, sushi rice, crispy chickpea papadum chips
         price: Mkt
         title: Hawaiian Poke Rice Bowl
-      - description: >-
-          Spicy basil pepper glaze, crispy panko chicken, seasoned sushi rice,
-          stirfried veggies
-        price: '25'
+      - description: Spicy basil pepper glaze, crispy panko chicken, seasoned sushi
+          rice, stirfried veggies
+        price: "25"
         title: Thai Crispy Chicken Basil Rice Bowl
     title: Rice Bowls
   - items:
-      - price: '7'
+      - price: "7"
         title: House-cut shoestring french fries
-      - price: '5'
+      - price: "5"
         title: White Rice
-      - price: '7'
+      - price: "7"
         title: Brown Rice
-      - price: '9'
+      - price: "9"
         title: Brussel Sprouts
-      - price: '7'
+      - price: "7"
         title: Kimchi
-      - price: '2'
+      - price: "2"
         title: Fried Egg
-      - price: '4'
+      - price: "4"
         title: Jalapeno Bacon
-      - price: '3'
+      - price: "3"
         title: Angry Sauce
-      - price: '2'
+      - price: "2"
         title: Sliced Jalapenos
-      - price: '2'
+      - price: "2"
         title: Add Cheese
       - description: Extra sides to add your favorites
         price: Mkt
@@ -113,4 +107,3 @@ subgroups:
         title: Sub Sides/Substitutions
     title: All Fixin’s and Sides
 ---
-
