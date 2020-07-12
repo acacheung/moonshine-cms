@@ -2,6 +2,13 @@
 templateKey: menu-group
 title: '''Shine''s Specialty Cocktail List '
 order: 1
+featuresBanner:
+  - features:
+      - alt: Test
+        description: test test
+        image: Test
+        title: Test
+    title: This is only  Test
 subgroups:
   - items:
       - description: 'Rye Whiskey, Sweet Vermouth, Bitters'
