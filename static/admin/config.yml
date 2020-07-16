@@ -44,7 +44,10 @@ collections:
                 widget: string
               - label: Image
                 name: img
-                widget: string
+                widget: image
+                media_library:
+                  config:
+                    multiple: false
               - label: Alt
                 name: alt
                 widget: string

@@ -5,6 +5,7 @@ import { v4 } from 'uuid';
 const FeaturesBanner = ({ featuresBanner }) => (
   <div>
     {featuresBanner &&
+      featuresBanner !== undefined &&
       featuresBanner.length > 0 &&
       featuresBanner[0].features[0].title && (
         <div>
