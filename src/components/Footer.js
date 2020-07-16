@@ -9,7 +9,7 @@ const Footer = class extends React.Component {
           <p className='hours'>Tues-Thurs &amp; Sun: 4pm-10pm</p>
           <p className='hours'>Fri &amp; Sat: 4pm-11pm</p>
           <h2 className='hours__heading'>Weekend Brunch</h2>
-          <p className='hours'>Fri-Sun: 11:30am-3:30pm</p>
+          <p className='hours'>Sat &amp; Sun: 11:30am-3:30pm</p>
           <div className='socials'>
             <a
               href='https://www.facebook.com/moonshine152southie'
