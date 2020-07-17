@@ -2,6 +2,18 @@
 templateKey: menu-group
 title: Phase 2
 order: 3
+featuresBanner:
+  - title: Starter specials
+    features:
+      - title: AMANDA’S FAVORITE QUINOA WEDGE SALAD
+        description: Heirloom quinoa, iceberg lettuce, caramelized onion beet dip, blue
+          cheese crumbles, toasted almonds, candied bacon, roasted kale
+        img: /img/july.jpg
+        alt: Burger
+      - title: MOONSHINE’S BOSTON’S BEST FRIED CHICKEN
+        alt: Chicken
+        img: /img/july.jpg
+        description: Buttermilk fried chicken wings, poblano ranch dressing
 subgroups:
   - description: All portions available regular or “Go Grande”. Don’t forget to add
       your favorite protein or fixin’s!
