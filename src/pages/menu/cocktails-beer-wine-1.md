@@ -13,9 +13,9 @@ subgroups:
       - description: 'House Spicy Tequila, Ginger Liqueur, Lime, Agave '
         price: '13'
         title: There's Fire
-      - description: 'Smoky Mezcal, Grapefruit Liqueur, Local Amaro, Lemon, Orange Bitters '
+      - description: 'Blanco Tequila, Creme de Cassis, Lime, Ginger Beer '
         price: '13'
-        title: Matador's Bull
+        title: 'La Diabla '
       - description: 'House Infused Blueberry Gin, Fresh Sparkling Lemonade '
         price: '13'
         title: 'Meet Me Down M Street '
@@ -42,9 +42,9 @@ subgroups:
       - description: 'Veneto, Italy '
         price: 12 / 42
         title: '(Sparkling) NV LaMarca Prosecco '
-      - description: 'Southern France '
+      - description: 'Rioja, Spain '
         price: 12 / 44
-        title: '(Rose) 2019 Prophecy Rose '
+        title: '(Rose) 2018 Sierra Cantabria Rose de Rioja '
       - description: 'Cotes de Provence, France '
         price: 14 / 52
         title: (Sparkling Rose) NV Canella Sparkling Rose Brut
