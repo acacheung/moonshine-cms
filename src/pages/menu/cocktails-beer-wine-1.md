@@ -7,9 +7,9 @@ subgroups:
       - description: 'Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'Classic Manhattan '
-      - description: 'Spicy Pepper Vodka, Fresh Cucumber Juice, Elderflower, Lemon '
+      - description: 'Smokey Mezcal, Grapefruit Liqueur, Lemon, Amaro, Orange Bitters'
         price: '14'
-        title: 'Farm To Glass '
+        title: The Matador's Bull
       - description: 'House Spicy Tequila, Ginger Liqueur, Lime, Agave '
         price: '13'
         title: There's Fire
