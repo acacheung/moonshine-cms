@@ -81,8 +81,8 @@ subgroups:
         title: '(Draft) Harpoon IPA '
       - price: '7'
         title: '(Draft) Lord Hobo "Hobo Life" Session IPA '
-      - price: '7'
-        title: '(Draft) Cisco Brewing "Grey Lady" Ale '
+      - price: '6'
+        title: '(Draft) Zero Gravity Brewing "Green State" Lager '
       - price: '7'
         title: '(Draft) Downeast Original Unfiltered Cider '
       - description: '12 oz bottle '
@@ -100,9 +100,9 @@ subgroups:
       - description: 12 oz botle
         price: '6'
         title: 'Sapporo '
-      - description: '12 oz bottle '
-        price: '6'
-        title: 'Allagash White '
+      - description: '16 oz tallboy can '
+        price: '10'
+        title: 'Harpoon "Dragonwiesse" Sour '
       - description: '16 oz tallboy can '
         price: '5'
         title: Narragansett Lager
