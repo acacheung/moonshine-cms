@@ -66,12 +66,12 @@ subgroups:
       - description: 'Columbia Valley, Washington USA '
         price: 12 / 45
         title: '(Red) 2016 Charles & Charles Cabernet/Syrah Blend '
-      - description: 'Dundee, Oregon USA '
-        price: ' 13 / 50'
-        title: '(RED) 2017 Primarius Pinot Noir '
       - description: 'Sonoma County, California USA '
         price: 13 / 50
         title: '(Red) 2016 Storypoint Cabernet Sauvignon '
+      - description: 'Willimatte Valley, Oregon USA '
+        price: 15/60
+        title: '(RED) 2014 Montinore Estate Pinot Noit Reserve '
     title: Wine List
   - description: 'please note this menu is subject to change '
     items:
