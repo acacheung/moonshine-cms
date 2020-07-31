@@ -102,13 +102,22 @@ subgroups:
         title: 'Sapporo '
       - description: '16 oz tallboy can '
         price: '10'
+        title: Springdale Pearly White Ale
+      - description: '16 oz tallboy can '
+        price: '10'
         title: 'Harpoon "Dragonwiesse" Sour '
+      - description: 12 oz can
+        price: '6'
+        title: 'Jack''s Abby "Shipping Out To Boston" Amber Lager '
       - description: '16 oz tallboy can '
         price: '5'
         title: Narragansett Lager
       - description: '16 oz tallboy can '
         price: '6'
         title: '''Gansett Del''s Shandy /  Watermelon Shandy '
+      - description: '12 oz can '
+        price: '5'
+        title: 'Goose Island Next Coast IPA '
       - description: '12 oz bottle '
         price: '5'
         title: 'Ballast Point Grapefruit Sculpin IPA '
@@ -118,9 +127,9 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '9'
         title: 'Clownshoes "Galactica" Double IPA '
-      - description: '12 oz can '
-        price: '5'
-        title: 'Goose Island Next Coast IPA '
+      - description: 16 oz tallboy can
+        price: '11'
+        title: Lord Hobo "BoomSauce" NEIPA
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
@@ -133,15 +142,6 @@ subgroups:
       - description: '12 oz can '
         price: '5'
         title: 'White Claw Mango Seltzer '
-      - description: '16 oz tallboy can '
-        price: '10'
-        title: Springdale Pearly White Ale
-      - description: 12 oz can
-        price: '6'
-        title: 'Jack''s Abby "Shipping Out To Boston" Amber Lager '
-      - description: 16 oz tallboy can
-        price: '11'
-        title: Lord Hobo "BoomSauce" NEIPA
     title: 'Beer Menu '
 ---
 
