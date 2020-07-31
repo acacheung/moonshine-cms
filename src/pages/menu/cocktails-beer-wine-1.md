@@ -10,9 +10,9 @@ subgroups:
       - description: 'Smokey Mezcal, Grapefruit Liqueur, Lemon, Amaro, Orange Bitters'
         price: '14'
         title: The Matador's Bull
-      - description: 'House Spicy Tequila, Ginger Liqueur, Lime, Agave '
-        price: '13'
-        title: There's Fire
+      - description: 'Spicy Vodka, Fresh Cucumber Juice. Elderflower, Lemon'
+        price: '14'
+        title: Farm To Glass
       - description: 'Blanco Tequila, Creme de Cassis, Lime, Ginger Beer '
         price: '13'
         title: 'La Diabla '
@@ -92,7 +92,7 @@ subgroups:
         price: '6'
         title: 'Amstel Light '
       - description: '12 oz bottle '
-        price: '6'
+        price: '7'
         title: 'Stella Artois '
       - description: '12 oz bottle '
         price: '6'
@@ -110,13 +110,13 @@ subgroups:
         price: '6'
         title: '''Gansett Del''s Shandy /  Watermelon Shandy '
       - description: '12 oz bottle '
-        price: '6'
+        price: '5'
         title: 'Ballast Point Grapefruit Sculpin IPA '
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
       - description: '16 oz tallboy can '
-        price: '10'
+        price: '9'
         title: 'Clownshoes "Galactica" Double IPA '
       - description: '12 oz can '
         price: '5'
@@ -128,11 +128,20 @@ subgroups:
         price: '5'
         title: 'Narragansett Autrocrat Milk Stout '
       - description: '12 oz can '
-        price: '7'
+        price: '6'
         title: 'Shacksbury Dry Cider '
       - description: '12 oz can '
         price: '5'
         title: 'White Claw Mango Seltzer '
+      - description: '16 oz tallboy can '
+        price: '10'
+        title: Springdale Pearly White Ale
+      - description: 12 oz can
+        price: '6'
+        title: 'Jack''s Abby "Shipping Out To Boston" Amber Lager '
+      - description: 16 oz tallboy can
+        price: '11'
+        title: Lord Hobo "BoomSauce" NEIPA
     title: 'Beer Menu '
 ---
 
