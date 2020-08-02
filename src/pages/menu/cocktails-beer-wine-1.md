@@ -125,8 +125,8 @@ subgroups:
         price: '7'
         title: 'Stone IPA '
       - description: '16 oz tallboy can '
-        price: '9'
-        title: 'Clownshoes "Galactica" Double IPA '
+        price: '11'
+        title: 'Mighty Squirrel "Cloud Candy" IPA '
       - description: 16 oz tallboy can
         price: '11'
         title: Lord Hobo "BoomSauce" NEIPA
