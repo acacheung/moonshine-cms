@@ -104,6 +104,8 @@ subgroups:
         title: Angry Sauce
       - price: '2'
         title: Sliced Jalapenos
+      - price: '3.0'
+        title: 'Side of Housemade B&B Pickles '
       - price: '2'
         title: Add Cheese
       - description: Extra sides to add your favorites
