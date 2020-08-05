@@ -3,7 +3,8 @@ templateKey: menu-group
 title: 'Cocktails, Beer & Wine '
 order: 1
 subgroups:
-  - items:
+  - description: ''
+    items:
       - description: 'Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'Classic Manhattan '
@@ -19,7 +20,9 @@ subgroups:
       - description: 'House Infused Blueberry Gin, Fresh Sparkling Lemonade '
         price: '13'
         title: 'Meet Me Down M Street '
-      - description: 'Asia''s Boozy Agua Fresca, Watermelon, White Peach, Kalamansi Lemon'
+      - description: |
+          Asia's Boozy Agua Fresca, Watermelon, White Peach, Kalamansi Lemon
+          ....Add Lychee Popping Boba $2
         price: '12'
         title: Watermelon Sugar High
       - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime '
