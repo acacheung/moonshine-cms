@@ -60,7 +60,7 @@ subgroups:
         title: 'Amstel Light '
       - description: '12 oz bottle '
         price: '7'
-        title: 'Stella Artois '
+        title: 'Heineken '
       - description: '12 oz bottle '
         price: '6'
         title: 'Corona Extra '
@@ -109,6 +109,9 @@ subgroups:
       - description: '12 oz can '
         price: '5'
         title: 'White Claw Mango Seltzer '
+      - description: '12 oz bottle '
+        price: '6.0'
+        title: Heineken Zero (Non-Alcoholic)
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
