@@ -110,7 +110,7 @@ subgroups:
         price: '5'
         title: 'White Claw Mango Seltzer '
       - description: '12 oz bottle '
-        price: '6.0'
+        price: '6'
         title: Heineken Zero (Non-Alcoholic)
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
