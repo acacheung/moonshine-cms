@@ -35,8 +35,8 @@ subgroups:
         title: House Sangria
       - description: 'Coconut Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
-        title: '''Shine Painkiller '
-      - description: 'Select Apertivo, Pamplemousse, Lemon, Sparkling Rose '
+        title: 'Summer Painkiller '
+      - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles  '
         price: '13'
         title: '''Shine Spritz '
     title: '''Shine Specialty Cocktails '
@@ -147,7 +147,7 @@ subgroups:
         title: '(Red) 2016 Storypoint Cabernet Sauvignon '
       - description: 'Willimatte Valley, Oregon USA '
         price: 15/60
-        title: '(RED) 2014 Montinore Estate Pinot Noit Reserve '
+        title: '(RED) 2014 Montinore Estate Pinot Noir Reserve '
     title: Wine List
 ---
 
