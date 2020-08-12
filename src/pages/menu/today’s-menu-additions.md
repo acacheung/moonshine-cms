@@ -1,7 +1,7 @@
 ---
 templateKey: menu-group
 title: 'Today’s Menu Additions '
-order: 1
+order: 2
 subgroups:
   - items:
       - description: >-
