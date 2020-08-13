@@ -1,6 +1,6 @@
 ---
 templateKey: menu-group
-title: Phase 2
+title: 'Phase 2- Dinner '
 order: 4
 subgroups:
   - description: >-
