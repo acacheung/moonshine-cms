@@ -14,9 +14,9 @@ subgroups:
       - description: 'Spicy Vodka, Fresh Cucumber Juice. Elderflower, Lemon'
         price: '14'
         title: Farm To Glass
-      - description: 'Blanco Tequila, Creme de Cassis, Lime, Ginger Beer '
+      - description: 'House Spicy Tequila, Ginger Liqueur, Fresh Lime, Agave '
         price: '13'
-        title: 'La Diabla '
+        title: 'There''s Fire '
       - description: 'House Infused Blueberry Gin, Fresh Sparkling Lemonade '
         price: '13'
         title: 'Meet Me Down M Street '
