@@ -1,6 +1,6 @@
 ---
 templateKey: menu-group
-title: Phase 4
+title: 'Phase 4-Dessert '
 order: 6
 subgroups:
   - description: Add one scoop of ice cream to your favorite dessert 4
