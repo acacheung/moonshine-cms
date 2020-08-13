@@ -1,6 +1,6 @@
 ---
 templateKey: menu-group
-title: Phase 1
+title: 'Phase 1- Dinner '
 order: 3
 subgroups:
   - description: All portions available regular or “Go Grande”
