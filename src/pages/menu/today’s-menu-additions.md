@@ -7,7 +7,7 @@ subgroups:
       - description: >-
           Chocolate Covered Cherry with Cherry Jello, Chocolate-Mint Infused
           Moonshine topped with Chocolate Nutella Sauce
-        price: '6.0'
+        price: '6'
         title: Rotating Jello Shots
       - description: 'Topped with Marinated Cucumbers and Horseradish Dill Creme Fraiche '
         price: 13 / 17
