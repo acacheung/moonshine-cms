@@ -25,6 +25,14 @@ subgroups:
           Moonshine 152 Pride Logo Hat $35
         price: Varies
         title: 'Moonshine Merch! '
+      - description: >-
+          Irish Banger Stuffin' Muffins, Scrambled Eggs, Grilled Tomato, Mushy
+          Peas, Homefries & Hollandaise Sauce
+        price: '24'
+        title: >-
+          Ron Swanson Brunch Special: Southie 'Shine Irish
+          Breakfast                                               Southie 'Shine
+          Irish Breakfast
     title: Today’s Menu Additions
 ---
 
