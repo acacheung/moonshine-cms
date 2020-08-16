@@ -81,7 +81,7 @@ subgroups:
         title: Narragansett Lager
       - description: '16 oz tallboy can '
         price: '6'
-        title: '''Gansett Del''s Shandy /  Watermelon Shandy '
+        title: '''Gansett Del''s Shandy '
       - description: '12 oz can '
         price: '5'
         title: 'Goose Island Next Coast IPA '
@@ -103,9 +103,9 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '5'
         title: 'Narragansett Autrocrat Milk Stout '
-      - description: '12 oz can '
-        price: '6'
-        title: 'Shacksbury Dry Cider '
+      - description: '16 oz can '
+        price: '8'
+        title: 'Stormalong Mass Appeal Cider '
       - description: '12 oz can '
         price: '5'
         title: 'White Claw Mango Seltzer '
@@ -145,9 +145,9 @@ subgroups:
       - description: 'Sonoma County, California USA '
         price: 13 / 50
         title: '(Red) 2016 Storypoint Cabernet Sauvignon '
-      - description: 'Willimatte Valley, Oregon USA '
-        price: 15/60
-        title: '(RED) 2014 Montinore Estate Pinot Noir Reserve '
+      - description: 'Central Coast, CA, USA '
+        price: '13/ 50 '
+        title: '(RED) 2017 MacMurray Estate Vineyards Pinot Noir '
     title: Wine List
 ---
 
