@@ -115,6 +115,11 @@ subgroups:
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
+      - description: >-
+          Enjoy Three 3 ounce pours from Charles & Charles featuring: 2019 Rose,
+          2017 Riesling & 2016 Red Blend 
+        price: $20
+        title: 'Charles & Charles Wine Flight '
       - description: 'Veneto, Italy '
         price: 12 / 42
         title: '(Sparkling) NV LaMarca Prosecco '
