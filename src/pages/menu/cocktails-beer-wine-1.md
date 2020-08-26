@@ -8,15 +8,15 @@ subgroups:
       - description: 'Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'Classic Manhattan '
-      - description: 'Smokey Mezcal, Grapefruit Liqueur, Lemon, Amaro, Orange Bitters'
-        price: '14'
-        title: The Matador's Bull
+      - description: 'House Spicy Tequila, Ginger Liqueur,  Fresh Lime, Agave '
+        price: '13'
+        title: 'There''s Fire '
       - description: 'Spicy Vodka, Fresh Cucumber Juice. Elderflower, Lemon'
         price: '14'
         title: Farm To Glass
-      - description: 'House Spicy Tequila, Ginger Liqueur, Fresh Lime, Agave '
-        price: '13'
-        title: 'There''s Fire '
+      - description: 'Smoky Mezcal, Grapefruit Liqueur, Local Amaro, Lemon, Orange Bitters '
+        price: '14'
+        title: Matador's Bull
       - description: 'House Infused Blueberry Gin, Fresh Sparkling Lemonade '
         price: '13'
         title: 'Meet Me Down M Street '
@@ -36,9 +36,9 @@ subgroups:
       - description: 'Coconut Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
         title: 'Summer Painkiller '
-      - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles  '
-        price: '13'
-        title: '''Shine Spritz '
+      - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Lime '
+        price: '12'
+        title: 'La Diabla  '
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
@@ -71,7 +71,7 @@ subgroups:
         price: '10'
         title: Springdale Pearly White Ale
       - description: '16 oz tallboy can '
-        price: '10'
+        price: '8'
         title: 'Harpoon "Dragonwiesse" Sour '
       - description: 12 oz can
         price: '5'
@@ -95,7 +95,7 @@ subgroups:
         price: '11'
         title: 'Mighty Squirrel "Cloud Candy" IPA '
       - description: 16 oz tallboy can
-        price: '11'
+        price: '10'
         title: Lord Hobo "BoomSauce" NEIPA
       - description: '16 oz nitro can '
         price: '7'
@@ -118,9 +118,9 @@ subgroups:
       - description: 'Veneto, Italy '
         price: 12 / 42
         title: '(Sparkling) NV LaMarca Prosecco '
-      - description: 'Rioja, Spain '
+      - description: 'Columbia Valley, WA, USA '
         price: 12 / 44
-        title: '(Rose) 2018 Sierra Cantabria Rose de Rioja '
+        title: '(Rose) 2019 Charles & Charles Rose '
       - description: 'Cotes de Provence, France '
         price: 14 / 52
         title: (Sparkling Rose) NV Canella Sparkling Rose Brut
