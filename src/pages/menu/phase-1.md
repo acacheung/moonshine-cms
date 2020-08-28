@@ -34,6 +34,9 @@ subgroups:
           papadums (gluten free)
         price: 9 regular / 14 grande
         title: Caramelized Onion Beet Dip
+      - description: 'Blue Cheese Dressing, Asia''s Angry Buffalo Sauce @ Shaved Celery Salad'
+        price: 16 regular / 27 Grande
+        title: 'Menu Addition: Crispy Mac & Cheese Spring Rolls '
     title: To Get Ya Started
 ---
 
