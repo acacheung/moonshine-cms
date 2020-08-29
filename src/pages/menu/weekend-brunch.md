@@ -67,6 +67,14 @@ subgroups:
         price: 9 / 14
         title: 'Caramelized Onion Beet Dip '
       - description: >-
+          Crispy olive oil roasted potatoes, Sherry pesto aioli, Roasted garlic
+          oil 
+        price: '15 / 26 '
+        title: 'Tapas Style Patatas Bravas '
+      - description: 'Jalapeno crab filling, Spicy honey '
+        price: '15 / 26 '
+        title: 'Jalapeno Crab Rangoons '
+      - description: >-
           Brioche cinnamon French toast sticks, Fresh berries, Maple berry
           butter dipping sauce 
         price: 10 / 15
