@@ -142,8 +142,8 @@ subgroups:
         price: 13 / 48
         title: '(White) 2018 Whitehaven Sauvignon  Blanc '
       - description: 'Mendoza, Argentina '
-        price: 12 / 45
-        title: '(Red) 2018 The Show Malbec '
+        price: '14 / 54 '
+        title: '(Red) 2016 Ancient Peaks "Renegade" Syrah-Malbec Blend  '
       - description: 'Columbia Valley, Washington USA '
         price: 12 / 45
         title: '(Red) 2016 Charles & Charles Cabernet/Syrah Blend '
