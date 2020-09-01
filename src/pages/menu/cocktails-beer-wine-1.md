@@ -126,7 +126,7 @@ subgroups:
       - description: 'Columbia Valley, WA, USA '
         price: 12 / 44
         title: '(Rose) 2019 Charles & Charles Rose '
-      - description: 'Cotes de Provence, France '
+      - description: 'Veneto, Italy '
         price: 14 / 52
         title: (Sparkling Rose) NV Canella Sparkling Rose Brut
       - description: 'Veneto, Italy '
