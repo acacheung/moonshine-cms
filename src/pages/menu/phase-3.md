@@ -14,11 +14,13 @@ subgroups:
         price: Mkt
         title: Grass-fed ’Shine Beef Burger
       - description: >-
-          topped with House B&B Pickles, Fried Pickled Green Tomato, Dill
-          Havarti  Cheese, Lettuce & Sweet Relish Tartar Sauce. Served with
-          shoestring french fries   
+          topped with a Smoky Mozzarella-Squid Ink Risotto Arancini, Black
+          Garlic Aioli, ARae's favorite shaved fennel salad, Blackberry balsamic
+          & Crumbled Cotija Cheese. Served with shoestring french fries   
         price: Mkt
-        title: 'VIP Burger of the Month - August 2020: “The Pickle-Rick" Burger'
+        title: >-
+          VIP Burger of the Month - September 2020: “Our Lady In Black" Burger
+          (ARae's Bday Month Tribute Burger) 
       - description: >-
           We didn’t get to celebrate a Parade Day this year, but you can still
           get your St. Patrick’s Day fix! 
