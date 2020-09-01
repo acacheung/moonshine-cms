@@ -48,8 +48,8 @@ subgroups:
         title: '(Draft) Harpoon IPA '
       - price: '7'
         title: '(Draft) Lord Hobo "Hobo Life" Session IPA '
-      - price: '6'
-        title: '(Draft) Zero Gravity Brewing "Green State" Lager '
+      - price: '8'
+        title: '(Draft) Mighty Squirrel "Blackberry Sour Face" Berliner Weisse '
       - price: '7'
         title: '(Draft) Downeast Original Unfiltered Cider '
       - description: '12 oz bottle '
@@ -71,8 +71,8 @@ subgroups:
         price: '10'
         title: Springdale Pearly White Ale
       - description: '16 oz tallboy can '
-        price: '8'
-        title: 'Harpoon "Dragonwiesse" Sour '
+        price: '9'
+        title: 'Two Roads Brewing  PassionFruit Gose '
       - description: 12 oz can
         price: '5'
         title: 'Jack''s Abby "Shipping Out To Boston" Amber Lager '
