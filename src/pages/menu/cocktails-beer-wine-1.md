@@ -76,6 +76,11 @@ subgroups:
       - description: 12 oz can
         price: '5'
         title: 'Jack''s Abby "Shipping Out To Boston" Amber Lager '
+      - description: '12 oz bottle '
+        price: '6'
+        title: >-
+          Evil Genius " So, You're Telling Me There Is A Chance" Irish Coffee
+          Cream Ale 
       - description: '16 oz tallboy can '
         price: '5'
         title: Narragansett Lager
@@ -94,6 +99,9 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '11'
         title: 'Mighty Squirrel "Cloud Candy" IPA '
+      - description: '16 oz tallboy can '
+        price: '10'
+        title: 'Springdale "A Beer Called Quest" Hazy IPA '
       - description: 16 oz tallboy can
         price: '10'
         title: Lord Hobo "BoomSauce" NEIPA
