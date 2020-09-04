@@ -3,7 +3,9 @@ templateKey: menu-group
 title: 'Phase 4-Dessert '
 order: 6
 subgroups:
-  - description: Add one scoop of ice cream to your favorite dessert 4
+  - description: |-
+      Add one scoop of creme fraiche ice cream to your favorite dessert $4 
+      Add a Belgian waffle to your favorite  dessert $7
     items:
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
@@ -26,6 +28,11 @@ subgroups:
           whipped cream 1
         price: '11'
         title: Stan’s Dad’s Creeeeme Fraiche Ice Cream
+      - description: >-
+          Crispy Meringue, Tropical Pineapple Coulis, Toasted Coconut, Lychee
+          Popping Boba, Fresh Berries & Whipped Cream 
+        price: '12'
+        title: 'Menu Addition: Tropical Berry Pavlova '
     title: Sweet Tooth
 ---
 
