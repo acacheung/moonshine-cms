@@ -79,6 +79,9 @@ subgroups:
           butter dipping sauce 
         price: 10 / 15
         title: 'Chef Asia''s Famous Cinnamon French Toast Sticks '
+      - description: With Caramelized Bananas Foster & Chantilly Whipped Cream
+        price: '14'
+        title: 'Menu Addition: Warm Chocolate Breadpudding'
     title: Brunch Phase 1
   - description: 'The Main Affair '
     items:
