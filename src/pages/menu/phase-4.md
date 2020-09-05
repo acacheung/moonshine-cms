@@ -33,6 +33,9 @@ subgroups:
           Popping Boba, Fresh Berries & Whipped Cream 
         price: '12'
         title: 'Menu Addition: Tropical Berry Pavlova '
+      - description: With Caramelized Bananas Foster & Chantilly Whipped Cream
+        price: '14'
+        title: 'Menu Addition: Warm Chocolate Breadpudding'
     title: Sweet Tooth
 ---
 
