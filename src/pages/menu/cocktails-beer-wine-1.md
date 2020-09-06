@@ -68,9 +68,6 @@ subgroups:
         price: '6'
         title: 'Sapporo '
       - description: '16 oz tallboy can '
-        price: '10'
-        title: Springdale Pearly White Ale
-      - description: '16 oz tallboy can '
         price: '9'
         title: 'Two Roads Brewing  PassionFruit Gose '
       - description: 12 oz can
@@ -102,9 +99,6 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '10'
         title: 'Springdale "A Beer Called Quest" Hazy IPA '
-      - description: 16 oz tallboy can
-        price: '10'
-        title: Lord Hobo "BoomSauce" NEIPA
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
