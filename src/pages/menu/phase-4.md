@@ -28,14 +28,9 @@ subgroups:
           whipped cream 1
         price: '11'
         title: Stan’s Dad’s Creeeeme Fraiche Ice Cream
-      - description: >-
-          Crispy Meringue, Tropical Pineapple Coulis, Toasted Coconut, Lychee
-          Popping Boba, Fresh Berries & Whipped Cream 
-        price: '12'
-        title: 'Menu Addition: Tropical Berry Pavlova '
       - description: With Caramelized Bananas Foster & Chantilly Whipped Cream
         price: '14'
-        title: 'Menu Addition: Warm Chocolate Breadpudding'
+        title: 'Menu Addition: Warm Chocolate Bread Pudding'
     title: Sweet Tooth
 ---
 
