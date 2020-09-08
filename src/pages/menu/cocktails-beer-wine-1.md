@@ -103,7 +103,7 @@ subgroups:
         price: '7'
         title: 'Guinness Nitro Stout '
       - description: '16 oz tallboy can '
-        price: '5'
+        price: '6'
         title: 'Narragansett Autrocrat Milk Stout '
       - description: '16 oz can '
         price: '8'
