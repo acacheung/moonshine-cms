@@ -45,7 +45,8 @@ subgroups:
         title: Summer Tiki Roasted Duck Noodle Salad
       - description: >-
           Cajun grilled, fried pickled green tomatoes, srirachi-shrimp uni
-          butter, sauteed tomatoes... add rice option 3 or add brown rice 5
+          butter, sauteed tomatoes... add a side of white rice 5 or steamed
+          brown rice 7
         price: Mkt
         title: Fish of the Day
       - description: >-
