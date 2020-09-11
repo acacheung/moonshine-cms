@@ -34,6 +34,12 @@ subgroups:
           papadums (gluten free)
         price: 9 regular / 14 grande
         title: Caramelized Onion Beet Dip
+      - description: >-
+          Columbian Grilled Hotdogs Topped with House Potato Chips, Shredded
+          Lettuce, Salsa Rosa, Pineapple Marmalade & Quail Eggs. Served with
+          your choice of side! Add House Kimchi or House Sauerkraut for $2.00
+        price: 19 regular / 25 GRANDE
+        title: 'MENU ADDITION: ''Shine Columbian-Style Double Dogs'
     title: To Get Ya Started
 ---
 
