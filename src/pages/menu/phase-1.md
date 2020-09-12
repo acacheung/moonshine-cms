@@ -37,7 +37,7 @@ subgroups:
       - description: >-
           Columbian Grilled Hotdogs Topped with House Potato Chips, Shredded
           Lettuce, Salsa Rosa, Pineapple Marmalade & Quail Eggs. Served with
-          your choice of side! Add House Kimchi or House Sauerkraut for $2.00
+          your Choice of Side! Add House Sauerkraut or Asian Pear Kimchi for $2
         price: 19 regular / 25 GRANDE
         title: 'MENU ADDITION: ''Shine Columbian-Style Double Dogs'
     title: To Get Ya Started
