@@ -48,7 +48,7 @@ subgroups:
         title: '(Draft) Harpoon IPA '
       - price: '7'
         title: '(Draft) Lord Hobo "Hobo Life" Session IPA '
-      - price: '8'
+      - price: '8 '
         title: '(Draft) Mighty Squirrel "Blackberry Sour Face" Berliner Weisse '
       - price: '7'
         title: '(Draft) Downeast Original Unfiltered Cider '
@@ -74,7 +74,7 @@ subgroups:
         price: '5'
         title: 'Jack''s Abby "Shipping Out To Boston" Amber Lager '
       - description: '12 oz bottle '
-        price: '6'
+        price: '5'
         title: >-
           Evil Genius " So, You're Telling Me There Is A Chance" Irish Coffee
           Cream Ale 
@@ -94,7 +94,7 @@ subgroups:
         price: '7'
         title: 'Stone IPA '
       - description: '16 oz tallboy can '
-        price: '11'
+        price: '9'
         title: 'Mighty Squirrel "Cloud Candy" IPA '
       - description: '16 oz tallboy can '
         price: '10'
@@ -103,14 +103,11 @@ subgroups:
         price: '7'
         title: 'Guinness Nitro Stout '
       - description: '16 oz tallboy can '
-        price: '6'
+        price: '5'
         title: 'Narragansett Autrocrat Milk Stout '
       - description: '16 oz can '
         price: '8'
         title: 'Stormalong Mass Appeal Cider '
-      - description: '12 oz can '
-        price: '5'
-        title: 'White Claw Mango Seltzer '
       - description: '12 oz bottle '
         price: '6'
         title: Heineken Zero (Non-Alcoholic)
