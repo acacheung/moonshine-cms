@@ -44,7 +44,7 @@ subgroups:
           Smoky Mozzarella-Squid Ink Risotto Arancini, Black Garlic Aioli,
           ARae's Favorite Shaved Fennel Salad, Blackberry Balsamic Glaze &
           Crumble Cotija Cheese 
-        price: 17 / 29
+        price: 17 regular / 29 grande
         title: 'MENU ADDITION: ARae''s Bday "Lady in Black" Risotto Arancini '
     title: To Get Ya Started
 ---
