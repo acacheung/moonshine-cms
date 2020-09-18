@@ -39,7 +39,13 @@ subgroups:
           Lettuce, Salsa Rosa, Pineapple Marmalade & Quail Eggs. Served with
           your Choice of Side! Add House Sauerkraut or Asian Pear Kimchi for $2
         price: 19 regular / 25 GRANDE
-        title: 'MENU ADDITION: ''Shine Columbian-Style Double Dogs'
+        title: 'MENU ADDITION: ''Shine Colombian-Style Double Dogs'
+      - description: >-
+          Smoky Mozzarella-Squid Ink Risotto Arancini, Black Garlic Aioli,
+          ARae's Favorite Shaved Fennel Salad, Blackberry Balsamic Glaze &
+          Crumble Cotija Cheese 
+        price: 17 / 29
+        title: 'MENU ADDITION: ARae''s Bday "Lady in Black" Risotto Arancini '
     title: To Get Ya Started
 ---
 
