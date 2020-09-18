@@ -36,9 +36,9 @@ subgroups:
       - description: 'Coconut Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
         title: 'Summer Painkiller '
-      - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Lime '
-        price: '12'
-        title: 'La Diabla  '
+      - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
+        price: '13'
+        title: 'Shine Spritz '
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
@@ -67,29 +67,30 @@ subgroups:
       - description: 12 oz botle
         price: '6'
         title: 'Sapporo '
+      - description: '12 oz bottle '
+        price: '6'
+        title: 'Allagash White '
+      - description: '16 oz can '
+        price: '8'
+        title: 'Stormalong Mass Appeal Cider '
       - description: '16 oz tallboy can '
         price: '9'
         title: 'Two Roads Brewing  PassionFruit Gose '
-      - description: 12 oz can
+      - description: '16 oz tallboy can '
         price: '5'
-        title: 'Jack''s Abby "Shipping Out To Boston" Amber Lager '
-      - description: '12 oz bottle '
-        price: '5'
-        title: >-
-          Evil Genius " So, You're Telling Me There Is A Chance" Irish Coffee
-          Cream Ale 
+        title: '''Gansett Del''s Shandy '
       - description: '16 oz tallboy can '
         price: '5'
         title: Narragansett Lager
       - description: '16 oz tallboy can '
-        price: '6'
-        title: '''Gansett Del''s Shandy '
-      - description: '12 oz can '
         price: '5'
-        title: 'Goose Island Next Coast IPA '
-      - description: '12 oz bottle '
-        price: '6'
-        title: 'Kona Brewing "Big Wave" Golden Ale '
+        title: 'Narragansett Autrocrat Milk Stout '
+      - description: '16 oz nitro can '
+        price: '7'
+        title: 'Guinness Nitro Stout '
+      - description: '16 oz tallboy can '
+        price: '7'
+        title: 'Exhibit A Brewing "Briefcase" Porter '
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
@@ -99,26 +100,29 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '10'
         title: 'Springdale "A Beer Called Quest" Hazy IPA '
-      - description: '16 oz nitro can '
-        price: '7'
-        title: 'Guinness Nitro Stout '
-      - description: '16 oz tallboy can '
+      - description: '12 oz bottle '
+        price: '6'
+        title: 'Shipyard Brewing "Pumpkinhead" Ale '
+      - description: 12 oz can
         price: '5'
-        title: 'Narragansett Autrocrat Milk Stout '
-      - description: '16 oz can '
-        price: '8'
-        title: 'Stormalong Mass Appeal Cider '
+        title: 'Jack''s Abby "Shipping Out To Boston" Amber Lager '
+      - description: '12 oz bottle '
+        price: '5'
+        title: >-
+          Evil Genius " So, You're Telling Me There Is A Chance" Irish Coffee
+          Cream Ale 
+      - description: '12 oz bottle '
+        price: '6'
+        title: 'Kona Brewing "Big Wave" Golden Ale '
+      - description: '12 oz can '
+        price: '5'
+        title: 'Goose Island Next Coast IPA '
       - description: '12 oz bottle '
         price: '6'
         title: Heineken Zero (Non-Alcoholic)
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
-      - description: >-
-          Enjoy Three 3 ounce pours from Charles & Charles featuring: 2019 Rose,
-          2017 Riesling & 2016 Red Blend 
-        price: $20
-        title: 'Charles & Charles Wine Flight '
       - description: 'Veneto, Italy '
         price: 12 / 42
         title: '(Sparkling) NV LaMarca Prosecco '
@@ -141,8 +145,8 @@ subgroups:
         price: 13 / 48
         title: '(White) 2018 Whitehaven Sauvignon  Blanc '
       - description: 'Mendoza, Argentina '
-        price: '14 / 54 '
-        title: '(Red) 2016 Ancient Peaks "Renegade" Syrah-Malbec Blend  '
+        price: '12 / 45 '
+        title: '(Red) 2018 The Show Malbec '
       - description: 'Columbia Valley, Washington USA '
         price: 12 / 45
         title: '(Red) 2016 Charles & Charles Cabernet/Syrah Blend '
