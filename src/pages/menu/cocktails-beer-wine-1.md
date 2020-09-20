@@ -115,7 +115,7 @@ subgroups:
         price: '6'
         title: 'Kona Brewing "Big Wave" Golden Ale '
       - description: '12 oz can '
-        price: '5'
+        price: '4'
         title: 'Goose Island Next Coast IPA '
       - description: '12 oz bottle '
         price: '6'
@@ -139,7 +139,7 @@ subgroups:
         price: 11 / 40
         title: '(White) 2017 Charles & Charles Riesling '
       - description: 'California, USA '
-        price: 11 / 40
+        price: 11 / 34
         title: '(White) 2018 Grayson Cellars Chardonnay '
       - description: 'Marlborough, New Zealand '
         price: 13 / 48
