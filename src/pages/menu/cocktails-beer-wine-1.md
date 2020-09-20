@@ -111,15 +111,15 @@ subgroups:
         title: >-
           Evil Genius " So, You're Telling Me There Is A Chance" Irish Coffee
           Cream Ale 
-      - description: '12 oz bottle '
-        price: '6'
-        title: 'Kona Brewing "Big Wave" Golden Ale '
       - description: '12 oz can '
         price: '4'
         title: 'Goose Island Next Coast IPA '
       - description: '12 oz bottle '
         price: '6'
         title: Heineken Zero (Non-Alcoholic)
+      - description: '12 oz can '
+        price: '6.0'
+        title: 'Downeast Pumpkin Blend Cider '
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
