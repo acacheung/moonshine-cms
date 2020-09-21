@@ -17,9 +17,9 @@ subgroups:
       - description: 'Smoky Mezcal, Grapefruit Liqueur, Local Amaro, Lemon, Orange Bitters '
         price: '14'
         title: Matador's Bull
-      - description: 'House Infused Blueberry Gin, Fresh Sparkling Lemonade '
+      - description: 'Rye Whiskey, Tart Cherry Liqueur, Cinnamon, Lemon '
         price: '13'
-        title: 'Meet Me Down M Street '
+        title: 'Danish Modern '
       - description: |
           Asia's Boozy Agua Fresca, Watermelon, White Peach, Kalamansi Lemon
           ....Add Lychee Popping Boba $2
@@ -35,10 +35,13 @@ subgroups:
         title: House Sangria
       - description: 'Coconut Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
-        title: 'Summer Painkiller '
+        title: 'House Painkiller '
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
+      - description: 'Elderflower-Pear Vodka, Pear Nectar, Cinnamon, Lemon '
+        price: '13'
+        title: 'Absolutely Pearfect '
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
