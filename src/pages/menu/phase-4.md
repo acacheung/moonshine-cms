@@ -28,9 +28,6 @@ subgroups:
           whipped cream 1
         price: '11'
         title: Stan’s Dad’s Creeeeme Fraiche Ice Cream
-      - description: With Caramelized Bananas Foster & Chantilly Whipped Cream
-        price: '14'
-        title: 'Menu Addition: Warm Chocolate Bread Pudding'
     title: Sweet Tooth
 ---
 
