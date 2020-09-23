@@ -46,6 +46,11 @@ subgroups:
           Crumble Cotija Cheese 
         price: 17 regular / 29 grande
         title: 'MENU ADDITION: ARae''s Bday "Lady in Black" Risotto Arancini '
+      - description: >-
+          Local Corn, Fresh Thyme, Roasted Kale  ........... add candied bacon
+          $1 .........add truffle $1 
+        price: '12 / 19 '
+        title: 'MENU ADDITION: Creamy Corn Bisque '
     title: To Get Ya Started
 ---
 
