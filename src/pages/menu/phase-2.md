@@ -1,6 +1,6 @@
 ---
 templateKey: menu-group
-title: 'Phase 2- Dinner '
+title: Phase 2- Next Level Favorites
 order: 4
 subgroups:
   - description: >-
