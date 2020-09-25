@@ -1,6 +1,6 @@
 ---
 templateKey: menu-group
-title: 'Phase 3- Dinner '
+title: Phase 3- The Main Affair
 order: 5
 subgroups:
   - description: Don’t forget to add your favorite fixin’s or sides!
