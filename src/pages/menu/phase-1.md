@@ -35,22 +35,15 @@ subgroups:
         price: 9 regular / 14 grande
         title: Caramelized Onion Beet Dip
       - description: >-
-          Columbian Grilled Hotdogs Topped with House Potato Chips, Shredded
-          Lettuce, Salsa Rosa, Pineapple Marmalade & Quail Eggs. Served with
-          your Choice of Side! Add House Sauerkraut or Asian Pear Kimchi for $2
-        price: 19 regular / 25 GRANDE
-        title: 'MENU ADDITION: ''Shine Colombian-Style Double Dogs'
-      - description: >-
-          Smoky Mozzarella-Squid Ink Risotto Arancini, Black Garlic Aioli,
-          ARae's Favorite Shaved Fennel Salad, Blackberry Balsamic Glaze &
-          Crumble Cotija Cheese 
-        price: 17 regular / 29 grande
-        title: 'MENU ADDITION: ARae''s Bday "Lady in Black" Risotto Arancini '
-      - description: >-
           Local Corn, Fresh Thyme, Roasted Kale  ........... add candied bacon
           $1 .........add truffle $1 
-        price: '12 / 19 '
+        price: 12 regular / 19 grande
         title: 'MENU ADDITION: Creamy Corn Bisque '
+      - description: >-
+          Mexican Dipped Beef Carnitas Tacos Au Jus, Pan-Griddled with Tomato
+          Salsa, & Cilantro-Lime Crema
+        price: 17 regular / 31 grande
+        title: 'MENU ADDITION: Birria Tacos'
     title: To Get Ya Started
 ---
 
