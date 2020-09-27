@@ -79,15 +79,6 @@ subgroups:
           butter dipping sauce 
         price: 10 / 15
         title: 'Chef Asia''s Famous Cinnamon French Toast Sticks '
-      - description: With Caramelized Bananas Foster & Chantilly Whipped Cream
-        price: '14'
-        title: 'Menu Addition: Warm Chocolate Breadpudding'
-      - description: >-
-          Columbian Grilled Hotdogs Topped with House Potato Chips, Shredded
-          Lettuce, Salsa Rosa, Pineapple Marmalade & Quail Eggs. Served with
-          your Choice of Side! Add House Sauerkraut or Asian Pear Kimchi for $2
-        price: 19 regular / 25 Grande
-        title: 'Menu Addition: ''Shine Columbian-Style Double Dogs'
     title: Brunch Phase 1
   - description: 'The Main Affair '
     items:
