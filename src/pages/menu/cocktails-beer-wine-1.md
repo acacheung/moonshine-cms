@@ -11,9 +11,6 @@ subgroups:
       - description: 'House Spicy Tequila, Ginger Liqueur,  Fresh Lime, Agave '
         price: '13'
         title: 'There''s Fire '
-      - description: 'Spicy Vodka, Fresh Cucumber Juice. Elderflower, Lemon'
-        price: '14'
-        title: Farm To Glass
       - description: 'Smoky Mezcal, Grapefruit Liqueur, Local Amaro, Lemon, Orange Bitters '
         price: '14'
         title: Matador's Bull
@@ -28,9 +25,8 @@ subgroups:
       - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime '
         price: '13'
         title: Fay's Fancy
-      - description: |-
+      - description: |
           Red: Hibiscus, Ginger, Apple
-          White: Strawberry, Citrus 
         price: '12 '
         title: House Sangria
       - description: 'Coconut Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
@@ -98,17 +94,11 @@ subgroups:
         price: '7'
         title: 'Stone IPA '
       - description: '16 oz tallboy can '
-        price: '9'
-        title: 'Mighty Squirrel "Cloud Candy" IPA '
-      - description: '16 oz tallboy can '
         price: '10'
         title: 'Springdale "A Beer Called Quest" Hazy IPA '
       - description: '12 oz bottle '
         price: '6'
         title: 'Shipyard Brewing "Pumpkinhead" Ale '
-      - description: 12 oz can
-        price: '5'
-        title: 'Jack''s Abby "Shipping Out To Boston" Amber Lager '
       - description: '12 oz bottle '
         price: '5'
         title: >-
@@ -117,12 +107,12 @@ subgroups:
       - description: '12 oz can '
         price: '4'
         title: 'Goose Island Next Coast IPA '
-      - description: '12 oz bottle '
-        price: '6'
-        title: Heineken Zero (Non-Alcoholic)
       - description: '12 oz can '
         price: '6.0'
         title: 'Downeast Pumpkin Blend Cider '
+      - description: '12 oz bottle '
+        price: '6'
+        title: Heineken Zero (Non-Alcoholic)
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
