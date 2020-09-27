@@ -39,11 +39,6 @@ subgroups:
           $1 .........add truffle $1 
         price: 12 regular / 19 grande
         title: 'MENU ADDITION: Creamy Corn Bisque '
-      - description: >-
-          Mexican Dipped Beef Carnitas Tacos Au Jus, Pan-Griddled with Tomato
-          Salsa, & Cilantro-Lime Crema
-        price: 17 regular / 31 grande
-        title: 'MENU ADDITION: Birria Tacos'
     title: To Get Ya Started
 ---
 
