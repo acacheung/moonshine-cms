@@ -83,7 +83,7 @@ subgroups:
         price: '7'
         title: 'Guinness Nitro Stout '
       - description: '16 oz tallboy can '
-        price: '7'
+        price: '6'
         title: 'Exhibit A Brewing "Briefcase" Porter '
       - description: '12 oz bottle '
         price: '7'
