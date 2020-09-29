@@ -17,18 +17,13 @@ subgroups:
       - description: 'Rye Whiskey, Tart Cherry Liqueur, Cinnamon, Lemon '
         price: '13'
         title: 'Danish Modern '
-      - description: |
-          Asia's Boozy Agua Fresca, Watermelon, White Peach, Kalamansi Lemon
-          ....Add Lychee Popping Boba $2
-        price: '12'
-        title: Watermelon Sugar High
       - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime '
         price: '13'
         title: Fay's Fancy
       - description: |
-          Red: Hibiscus, Ginger, Apple
+          Red Wine, Hibiscus, Ginger, Apple
         price: '12 '
-        title: House Sangria
+        title: Sahil's Sangria
       - description: 'Coconut Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
         title: 'House Painkiller '
