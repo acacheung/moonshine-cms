@@ -33,6 +33,11 @@ subgroups:
       - description: 'Elderflower-Pear Vodka, Pear Nectar, Cinnamon, Lemon '
         price: '13'
         title: 'Absolutely Pearfect '
+      - description: >-
+          Espresso Vodka, Boozy Locally Roasted Iced Coffee, Irish Cream, Sea
+          Salt Caramel
+        price: '12'
+        title: 'Moonshine Macchiato '
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
