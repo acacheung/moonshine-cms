@@ -76,7 +76,7 @@ subgroups:
         price: '9'
         title: 'Two Roads Brewing  PassionFruit Gose '
       - description: '16 oz tallboy can '
-        price: '5'
+        price: '4'
         title: 'Narragansett Del''s Shandy '
       - description: '16 oz tallboy can '
         price: '5'
