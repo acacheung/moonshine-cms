@@ -14,13 +14,14 @@ subgroups:
         price: Mkt
         title: Grass-fed ’Shine Beef Burger
       - description: >-
-          topped with a Smoky Mozzarella-Squid Ink Risotto Arancini, Black
-          Garlic Aioli, ARae's favorite shaved fennel salad, Blackberry balsamic
-          & Crumbled Cotija Cheese. Served with shoestring french fries   
+          Served smothered in our classic potato & roasted pumpkin yellow curry,
+          Paneer cheese & Crispy tater tots. Served with shoestring french
+          fries. (**As always, can be made with our award winning Mushroom Tofu
+          patty! )
         price: Mkt
         title: >-
-          VIP Burger of the Month - September 2020: “Our Lady In Black" Burger
-          (ARae's Bday Month Tribute Burger) 
+          VIP Burger of the Month - October 2020 "Irish Potato-Pumpkin Curry
+          Fries Burger"
       - description: >-
           We didn’t get to celebrate a Parade Day this year, but you can still
           get your St. Patrick’s Day fix! 
