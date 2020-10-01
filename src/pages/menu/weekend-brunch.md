@@ -183,9 +183,10 @@ subgroups:
         price: MKT
         title: 'Grass-fed Beef Burger '
       - description: >-
-          July 2020: "Get Em To The Greek 3.0" Burger topped with Marinated
-          cucumbers, Crumbled feta, Creamy baba ganoush spread, Summer tomato
-          relish. Served with Shoestring fries 
+          October 2020 : "Irish Potato-Pumkin Curry Fries Burger" served
+          smothered in our classic potato & roasted pumpkin yellow curry, Paneer
+          cheese & Crispy tater tots. Served with shoestring french fries. (**As
+          always, can be made with our award-winning Mushroom Tofu patty! )
         price: '22'
         title: 'Make Your Burger a VIP Burger of the Month '
       - description: >-
