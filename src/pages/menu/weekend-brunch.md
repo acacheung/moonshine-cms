@@ -87,6 +87,9 @@ subgroups:
     title: Brunch Phase 1
   - description: 'The Main Affair '
     items:
+      - description: 'Garlic Crouton Panzanella Salad, Pesto Aioli '
+        price: '19'
+        title: 'MENU ADDITION: Basil Cheddar Fritatta '
       - description: >-
           Smoky pulled pork, Scrambled egg, Tomato salsa, Petite mixed greens
           salad, House-cut shoestring fries
