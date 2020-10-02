@@ -28,9 +28,6 @@ subgroups:
           whipped cream 1
         price: '11'
         title: Stan’s Dad’s Creeeeme Fraiche Ice Cream
-      - description: 'With Creamy Coffee Foam, Toasted Almonds & Espresso Sugar'
-        price: '12'
-        title: 'MENU ADDITION: Dalgona Mocha Pavlova'
     title: Sweet Tooth
 ---
 
