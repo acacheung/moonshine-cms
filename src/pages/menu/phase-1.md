@@ -39,6 +39,11 @@ subgroups:
           $1 .........add truffle $1 
         price: 12 regular / 19 grande
         title: 'MENU ADDITION: Creamy Corn Bisque '
+      - description: >-
+          Shaved Fennel Salad, Blackberry Balsamic, Black Garlic Aioli &
+          Crumbled Cotija Cheese 
+        price: '17 / 29 '
+        title: 'MENU ADDITION: Smoky Mozzarella-Squid Ink Arancini '
     title: To Get Ya Started
 ---
 
