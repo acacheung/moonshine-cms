@@ -38,6 +38,11 @@ subgroups:
           Salt Caramel
         price: '12'
         title: 'Moonshine Macchiato '
+      - description: >-
+          Bison Grass Vodka, Local Apple Cider, Kalamansi Lemon, Peach,
+          Prosecco              ...add Lychee Popping Boba $2
+        price: '13'
+        title: Orchard Limonada
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
@@ -102,11 +107,6 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '12'
         title: 'True North Brewing "Northern Haze" Juicy New England IPA '
-      - description: '12 oz bottle '
-        price: '5'
-        title: >-
-          Evil Genius " So, You're Telling Me There Is A Chance" Irish Coffee
-          Cream Ale 
       - description: '12 oz can '
         price: '6.0'
         title: 'Downeast Pumpkin Blend Cider '
