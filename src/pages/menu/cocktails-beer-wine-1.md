@@ -95,21 +95,20 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '6'
         title: 'Exhibit A Brewing "Briefcase" Porter '
-      - description: '12 oz can '
-        price: '4'
-        title: 'Goose Island Next Coast IPA '
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
-      - description: '16 oz tallboy can '
-        price: '10'
-        title: 'Springdale "A Beer Called Quest" Hazy IPA '
       - description: '16 oz tallboy can '
         price: '12'
         title: 'True North Brewing "Northern Haze" Juicy New England IPA '
       - description: '12 oz can '
         price: '6.0'
         title: 'Downeast Pumpkin Blend Cider '
+      - description: 12 oz bottle
+        price: '5'
+        title: >-
+          Evil Genius "So You're telling me there is a chance" Irish coffee
+          Cream Ale 
       - description: '12 oz bottle '
         price: '6'
         title: 'Shipyard Brewing "Pumpkinhead" Ale '
