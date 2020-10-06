@@ -139,9 +139,6 @@ subgroups:
       - description: 'Mendoza, Argentina '
         price: '12 / 45 '
         title: '(Red) 2019 The Show Malbec '
-      - description: 'Columbia Valley, Washington USA '
-        price: 12 / 45
-        title: '(Red) 2017 Charles & Charles Cabernet/Syrah Blend '
       - description: 'Sonoma County, California USA '
         price: 13 / 50
         title: (Red) 2017 Storypoint Cabernet Sauvignon Select
