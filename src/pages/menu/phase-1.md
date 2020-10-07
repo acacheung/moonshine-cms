@@ -39,6 +39,12 @@ subgroups:
           $1 .........add truffle $1 
         price: 12 regular / 19 grande
         title: 'MENU ADDITION: Creamy Corn Bisque '
+      - description: >-
+          Chef Asia’s Famous Irish Potato-Roasted Pumpkin Yellow Curry Sauce
+          Smothered Over Your Choice of Shoestring French Fries or Crispy Tater
+          Tots   
+        price: '12'
+        title: 'MENU ADDITION: Smothered Irish Curry Fries or ''Tots '
     title: To Get Ya Started
 ---
 
