@@ -8,28 +8,18 @@ subgroups:
       - description: 'Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'Classic Manhattan '
-      - description: 'House Spicy Tequila, Ginger Liqueur,  Fresh Lime, Agave '
-        price: '13'
-        title: 'There''s Fire '
+      - description: 'Spicy Pepper Vodka, Fresh Cucumber Juice, Elderflower, Lemon '
+        price: '14'
+        title: 'Farm To Glass '
       - description: 'Smoky Mezcal, Grapefruit Liqueur, Local Amaro, Lemon, Orange Bitters '
         price: '14'
         title: Matador's Bull
+      - description: 'House Spicy Tequila, Ginger Liqueur,  Fresh Lime, Agave '
+        price: '13'
+        title: 'There''s Fire '
       - description: 'Rye Whiskey, Tart Cherry Liqueur, Cinnamon, Lemon '
         price: '13'
         title: 'Danish Modern '
-      - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime '
-        price: '13'
-        title: Fay's Fancy
-      - description: |
-          Red Wine, Hibiscus, Ginger, Apple
-        price: '12 '
-        title: Sahil's Sangria
-      - description: 'Coconut Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
-        price: '13'
-        title: 'House Painkiller '
-      - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
-        price: '13'
-        title: 'Shine Spritz '
       - description: 'Elderflower-Pear Vodka, Pear Nectar, Cinnamon, Lemon '
         price: '13'
         title: 'Absolutely Pearfect '
@@ -43,6 +33,19 @@ subgroups:
           Prosecco              ...add Lychee Popping Boba $2
         price: '13'
         title: Orchard Limonada
+      - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime '
+        price: '13'
+        title: Fay's Fancy
+      - description: |
+          Red Wine, Hibiscus, Ginger, Apple
+        price: '12 '
+        title: Sahil's Sangria
+      - description: 'Coconut Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
+        price: '13'
+        title: 'House Painkiller '
+      - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
+        price: '13'
+        title: 'Shine Spritz '
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
@@ -86,6 +89,9 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '5'
         title: 'Narragansett Autrocrat Milk Stout '
+      - description: '16 oz tallboy can '
+        price: '6'
+        title: 'Narragansett Fest Märzen Lager '
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
