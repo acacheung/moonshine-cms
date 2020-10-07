@@ -55,7 +55,7 @@ subgroups:
         title: '(Draft) Harpoon IPA '
       - price: '7'
         title: '(Draft) Lord Hobo "Hobo Life" Session IPA '
-      - price: '8 '
+      - price: '6'
         title: '(Draft) Mighty Squirrel "Blackberry Sour Face" Berliner Weisse '
       - price: '7'
         title: '(Draft) Downeast Original Unfiltered Cider '
