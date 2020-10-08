@@ -79,17 +79,9 @@ subgroups:
           butter dipping sauce 
         price: 10 / 15
         title: 'Chef Asia''s Famous Cinnamon French Toast Sticks '
-      - description: >-
-          Local Corn, Fresh Thyme, Roasted Kale                    ...add
-          truffle $1  ...add candied bacon $1
-        price: 12 regular / 19 grande
-        title: 'Menu Addition: Creamy Corn Bisque  '
     title: Brunch Phase 1
   - description: 'The Main Affair '
     items:
-      - description: 'Garlic Crouton Panzanella Salad, Pesto Aioli '
-        price: '19'
-        title: 'MENU ADDITION: Basil Cheddar Fritatta '
       - description: >-
           Smoky pulled pork, Scrambled egg, Tomato salsa, Petite mixed greens
           salad, House-cut shoestring fries
