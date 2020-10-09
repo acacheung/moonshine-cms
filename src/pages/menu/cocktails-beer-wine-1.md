@@ -14,12 +14,20 @@ subgroups:
       - description: 'Smoky Mezcal, Grapefruit Liqueur, Local Amaro, Lemon, Orange Bitters '
         price: '14'
         title: Matador's Bull
+      - description: 'Aged Tennessee Whiskey, Sweet Vermouth, Campari, Tart Cherry Liqueur '
+        price: '14'
+        title: 'Member''s Only '
       - description: 'House Spicy Tequila, Ginger Liqueur,  Fresh Lime, Agave '
         price: '13'
         title: 'There''s Fire '
       - description: 'Rye Whiskey, Tart Cherry Liqueur, Cinnamon, Lemon '
         price: '13'
         title: 'Danish Modern '
+      - description: >-
+          Summer Herb Infused Citrus Vodka, Kleos Mastiha, Yellow Chartreuse,
+          Lemon 
+        price: '11'
+        title: 'Diomedes Botanica '
       - description: 'Elderflower-Pear Vodka, Pear Nectar, Cinnamon, Lemon '
         price: '13'
         title: 'Absolutely Pearfect '
@@ -33,9 +41,6 @@ subgroups:
           Prosecco              ...add Lychee Popping Boba $2
         price: '13'
         title: Orchard Limonada
-      - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime '
-        price: '13'
-        title: Fay's Fancy
       - description: |
           Red Wine, Hibiscus, Ginger, Apple
         price: '12 '
@@ -151,6 +156,9 @@ subgroups:
       - description: 'Central Coast, CA, USA '
         price: '13/ 50 '
         title: '(RED) 2017 MacMurray Estate Vineyards Pinot Noir '
+      - description: 'Columbia valley, WA, USA '
+        price: '12 / 45 '
+        title: '2019 Charles & Charles cabernet/syrah blend '
     title: Wine List
 ---
 
