@@ -133,7 +133,7 @@ subgroups:
         price: 12 / 44
         title: (Rose) 2019 Prophecy Rose
       - description: 'Veneto, Italy '
-        price: 14 / 52
+        price: 13 / 52
         title: (Sparkling Rose) NV Canella Sparkling Rose Brut
       - description: 'Veneto, Italy '
         price: 11 / 40
