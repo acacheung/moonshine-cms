@@ -79,6 +79,24 @@ subgroups:
           butter dipping sauce 
         price: 10 / 15
         title: 'Chef Asia''s Famous Cinnamon French Toast Sticks '
+      - description: >-
+          Local Corn, Fresh Thyme, Roasted Kale ..add truffle $1  ...add candied
+          bacon $1
+        price: '12  / 19 '
+        title: 'Menu Addition: Creamy Corn Bisque'
+      - description: >-
+          Chef Asia’s Famous Irish Potato-Roasted Pumpkin Yellow Curry Sauce
+          Smothered Over Your Choice of Shoestring French Fries or Crispy Tater
+          Tots 
+        price: '12'
+        title: 'Menu Addition: Smothered Irish Curry Fries or ‘Tots '
+      - description: >-
+          Crispy Spring Rolls Stuffed with Bacon, Scrambled Eggs, Grilled
+          Avocado & Cheese over Black Garlic Aioli & Tomatillo Salsa
+        price: 17 / 28
+        title: >-
+          Menu Addition: Ron Swanson’s “All The Bacon & Eggs” Avocado Spring
+          Rolls
     title: Brunch Phase 1
   - description: 'The Main Affair '
     items:
@@ -209,9 +227,6 @@ subgroups:
       - description: add a scoop of creme fraiche ice cream to any dessert for $3
         price: '11'
         title: 'Stan''s Dad''s Creeeeeeme Fraiche Ice Cream '
-      - description: 'With Creamy Coffee Foam, Toasted Almonds & Espresso Sugar'
-        price: '12'
-        title: 'Menu Addition: Dalgona Mocha Pavlova'
     title: Brunch Phase 4
 ---
 
