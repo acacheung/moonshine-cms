@@ -81,7 +81,7 @@ subgroups:
         title: 'Sapporo '
       - description: '12 oz bottle '
         price: '6'
-        title: 'Allagash White '
+        title: Blue Moon
       - description: '16 oz can '
         price: '8'
         title: 'Stormalong Mass Appeal Cider '
