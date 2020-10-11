@@ -43,13 +43,6 @@ subgroups:
           Tots  or Steamed White Rice  
         price: '12'
         title: 'MENU ADDITION: Smothered Irish Curry Fries, ''Tots or White Rice  '
-      - description: >-
-          Crispy Spring Rolls Stuffed with Scrambled Eggs, Bacon, Grilled
-          Avocado & Melted Cheese over Black Garlic Aioli & Tomatillo Salsa 
-        price: '17 / 28 '
-        title: >-
-          MENU ADDITION: Ron Swanson's "All the bacon & Eggs" Avocado Spring
-          Rolls 
     title: To Get Ya Started
 ---
 
