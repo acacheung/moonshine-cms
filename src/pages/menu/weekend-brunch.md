@@ -79,24 +79,15 @@ subgroups:
           butter dipping sauce 
         price: 10 / 15
         title: 'Chef Asia''s Famous Cinnamon French Toast Sticks '
-      - description: >-
-          Local Corn, Fresh Thyme, Roasted Kale ..add truffle $1  ...add candied
-          bacon $1
+      - description: 'Roasted Duck Broth, Dutch Egg Noodles, Fresh Thyme, Mirepoix '
         price: '12  / 19 '
-        title: 'Menu Addition: Creamy Corn Bisque'
+        title: 'Menu Addition: Duck Noodle Soup for the Soul '
       - description: >-
           Chef Asia’s Famous Irish Potato-Roasted Pumpkin Yellow Curry Sauce
-          Smothered Over Your Choice of Shoestring French Fries or Crispy Tater
-          Tots 
+          Smothered Over Your Choice of Shoestring French Fries, Crispy Tater
+          Tots or Steamed White Rice 
         price: '12'
-        title: 'Menu Addition: Smothered Irish Curry Fries or ‘Tots '
-      - description: >-
-          Crispy Spring Rolls Stuffed with Bacon, Scrambled Eggs, Grilled
-          Avocado & Cheese over Black Garlic Aioli & Tomatillo Salsa
-        price: 17 / 28
-        title: >-
-          Menu Addition: Ron Swanson’s “All The Bacon & Eggs” Avocado Spring
-          Rolls
+        title: 'Menu Addition: Smothered Irish Curry Fries, ‘Tots or White Rice  '
     title: Brunch Phase 1
   - description: 'The Main Affair '
     items:
