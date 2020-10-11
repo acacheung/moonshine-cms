@@ -34,17 +34,15 @@ subgroups:
           papadums (gluten free)
         price: 9 regular / 14 grande
         title: Caramelized Onion Beet Dip
-      - description: >-
-          Local Corn, Fresh Thyme, Roasted Kale  ........... add candied bacon
-          $1 .........add truffle $1 
+      - description: 'Roasted Duck Broth, Dutch Egg Noodles, Fresh Thyme, Mirepoix '
         price: 12 regular / 19 grande
-        title: 'MENU ADDITION: Creamy Corn Bisque '
+        title: 'MENU ADDITION: Duck Noodle Soup for the Soul '
       - description: >-
           Chef Asia’s Famous Irish Potato-Roasted Pumpkin Yellow Curry Sauce
-          Smothered Over Your Choice of Shoestring French Fries or Crispy Tater
-          Tots   
+          Smothered Over Your Choice of Shoestring French Fries, Crispy Tater
+          Tots  or Steamed White Rice  
         price: '12'
-        title: 'MENU ADDITION: Smothered Irish Curry Fries or ''Tots '
+        title: 'MENU ADDITION: Smothered Irish Curry Fries, ''Tots or White Rice  '
       - description: >-
           Crispy Spring Rolls Stuffed with Scrambled Eggs, Bacon, Grilled
           Avocado & Melted Cheese over Black Garlic Aioli & Tomatillo Salsa 
