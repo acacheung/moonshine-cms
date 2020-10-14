@@ -386,11 +386,11 @@ b {
   background-color: $gold;
   text-align: center;
   z-index: 3;
-  @media (max-width: 849px) {
+  @media (max-width: 900px) {
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
-  @media (min-width: 850px) {
+  @media (min-width: 900px) {
     display: flex;
     .header & {
       bottom: 0;
@@ -409,17 +409,17 @@ b {
   letter-spacing: 2px;
   transition-duration: 0.25s;
   transition-property: color;
-  @media (max-width: 849px) {
+  @media (max-width: 900px) {
     border-bottom: 1px solid #cba742;
     line-height: 50px;
     &:nth-child(odd) {
       border-right: 1px solid #cba742;
     }
   }
-  @media (min-width: 850px) {
+  @media (min-width: 900px) {
     line-height: 72px;
   }
-  @media (min-width: 850px) and (max-width: 1079px) {
+  @media (min-width: 900px) and (max-width: 1079px) {
     margin-right: 32px;
   }
   @media (min-width: 1080px) {
@@ -432,10 +432,10 @@ b {
     }
   }
   &.is-active {
-    @media (max-width: 849px) {
+    @media (max-width: 900px) {
       color: $white;
     }
-    @media (min-width: 850px) {
+    @media (min-width: 901px) {
       position: relative;
       &:after {
         content: '';
