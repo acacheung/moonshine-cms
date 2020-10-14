@@ -12,14 +12,21 @@ const Navbar = class extends React.Component {
           className='nav__link'
           href='https://www.grubhub.com/restaurant/moonshine-152-152-dorchester-ave-boston/504704'
         >
-          Delivery
+          Grubhub
         </a>
         <a
+          className='nav__link chownow-order-online'
+          href='https://ordering.chownow.com/order/25650/locations'
+          target='_blank'
+        >
+          ChowNow
+        </a>
+        {/* <a
           className='nav__link'
           href='https://stores.inksoft.com/moonshine152/shop/home'
         >
           Shop
-        </a>
+        </a> */}
         <a
           className='nav__link'
           href='https://www.gofundme.com/f/keep-moonshine-1520-alive'

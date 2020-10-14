@@ -45,6 +45,7 @@ const TemplateWrapper = ({ children }) => {
           href='https://fonts.googleapis.com/css?family=Merriweather:300i,400,400i&display=swap'
           rel='stylesheet'
         ></link>
+        <script src='https://cf.chownowcdn.com/latest/static/integrations/ordering-modal.min.js' data-chownow-company-id='25650' />
       </Helmet>
       <div>{children}</div>
     </div>
