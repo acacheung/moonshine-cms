@@ -23,11 +23,6 @@ subgroups:
       - description: 'Rye Whiskey, Tart Cherry Liqueur, Cinnamon, Lemon '
         price: '13'
         title: 'Danish Modern '
-      - description: >-
-          Summer Herb Infused Citrus Vodka, Kleos Mastiha, Yellow Chartreuse,
-          Lemon 
-        price: '11'
-        title: 'Diomedes Botanica '
       - description: 'Elderflower-Pear Vodka, Pear Nectar, Cinnamon, Lemon '
         price: '13'
         title: 'Absolutely Pearfect '
