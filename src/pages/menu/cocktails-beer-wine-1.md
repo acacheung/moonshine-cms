@@ -26,11 +26,9 @@ subgroups:
       - description: 'Elderflower-Pear Vodka, Pear Nectar, Cinnamon, Lemon '
         price: '13'
         title: 'Absolutely Pearfect '
-      - description: >-
-          Espresso Vodka, Boozy Locally Roasted Iced Coffee, Irish Cream, Sea
-          Salt Caramel
+      - description: 'Blanco Tequila, creme de Cassis, Ginger Beer, Fresh Lime '
         price: '12'
-        title: 'Moonshine Macchiato '
+        title: 'La Diabla '
       - description: >-
           Bison Grass Vodka, Local Apple Cider, Kalamansi Lemon, Peach,
           Prosecco              ...add Lychee Popping Boba $2
@@ -86,9 +84,6 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '5'
         title: Narragansett Lager
-      - description: '16 oz tallboy can '
-        price: '5'
-        title: 'Narragansett Autrocrat Milk Stout '
       - description: '16 oz tallboy can '
         price: '6'
         title: 'Narragansett Fest Märzen Lager '
