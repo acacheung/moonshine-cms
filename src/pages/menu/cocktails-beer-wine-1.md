@@ -34,6 +34,9 @@ subgroups:
           Prosecco              ...add Lychee Popping Boba $2
         price: '13'
         title: Orchard Limonada
+      - description: 'Juicy Strawberry Vodka, Amaretto, Cardamom, Fresh Lime '
+        price: '12'
+        title: 'Blame It On The Juice '
       - description: |
           Red Wine, Hibiscus, Ginger, Apple
         price: '12 '
@@ -74,6 +77,9 @@ subgroups:
         title: 'Sapporo '
       - description: '12 oz bottle '
         price: '6'
+        title: 'Kona Brewing Longboard Lager '
+      - description: '12 oz bottle '
+        price: '6'
         title: Blue Moon
       - description: '16 oz can '
         price: '8'
@@ -97,16 +103,11 @@ subgroups:
         price: '7'
         title: 'Stone IPA '
       - description: '16 oz tallboy can '
-        price: '12'
+        price: '11'
         title: 'True North Brewing "Northern Haze" Juicy New England IPA '
       - description: '12 oz can '
         price: '6.0'
         title: 'Downeast Pumpkin Blend Cider '
-      - description: 12 oz bottle
-        price: '5'
-        title: >-
-          Evil Genius "So You're telling me there is a chance" Irish coffee
-          Cream Ale 
       - description: '12 oz bottle '
         price: '6'
         title: 'Shipyard Brewing "Pumpkinhead" Ale '
