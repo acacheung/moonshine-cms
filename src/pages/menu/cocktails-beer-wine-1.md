@@ -74,7 +74,7 @@ subgroups:
         title: 'Corona Extra '
       - description: 12 oz botle
         price: '6'
-        title: 'Sapporo '
+        title: 'Stella Artois '
       - description: '12 oz bottle '
         price: '6'
         title: 'Kona Brewing Longboard Lager '
@@ -96,9 +96,9 @@ subgroups:
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
-      - description: '16 oz tallboy can '
-        price: '6'
-        title: 'Exhibit A Brewing "Briefcase" Porter '
+      - description: '12oz  can '
+        price: '7'
+        title: 'Boulevard Brewing "Steep Drop" Nitro Coffee Milk Stout '
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
@@ -120,9 +120,9 @@ subgroups:
       - description: 'Veneto, Italy '
         price: 12 / 42
         title: '(Sparkling) NV LaMarca Prosecco '
-      - description: 'South of France '
+      - description: 'Columbia Valley, WA, USA '
         price: 12 / 44
-        title: (Rose) 2019 Prophecy Rose
+        title: (Rose) 2019 Charles & Charles Rose
       - description: 'Veneto, Italy '
         price: 13 / 52
         title: (Sparkling Rose) NV Canella Sparkling Rose Brut
@@ -149,7 +149,7 @@ subgroups:
         title: '(RED) 2017 MacMurray Estate Vineyards Pinot Noir '
       - description: 'Columbia valley, WA, USA '
         price: '12 / 45 '
-        title: '2019 Charles & Charles cabernet/syrah blend '
+        title: '2017 Charles & Charles cabernet/syrah blend '
     title: Wine List
 ---
 
