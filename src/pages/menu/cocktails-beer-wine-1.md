@@ -81,6 +81,9 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: Blue Moon
+      - description: '12 oz bottle '
+        price: '6'
+        title: Sapporo
       - description: '16 oz can '
         price: '8'
         title: 'Stormalong Mass Appeal Cider '
