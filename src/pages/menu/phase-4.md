@@ -17,20 +17,20 @@ subgroups:
         price: '11'
         title: Jaime’s Favorite Oreo Cookie Layered Fudge Brownie
       - description: >-
-          Sea salted dulce de leche caramel sauce, strawberry topping, whipped
-          cream, creme fraiche ice cream, Belgian waffle
+          Apple pie filling, Dulce de leche caramel sauce,  Eggnog ice cream,
+          Belgian waffle, Cobbler crumbles, Whipped cream
         price: '15'
-        title: Strawberry Shortcake Waffle Ice Cream Sundae
+        title: Apple Cobbler Waffle Ice Cream Sundae
       - description: >
-          Blended peach, orange, cranberry flavored sorbet, macerated
-          strawberries… add whipped cream 1
-        price: '11'
-        title: Social Distancing on the Beach Sorbet
+          Dutch cocoa, Chia Seeds, Avocado, Chantilly creme, Toasted Almonds...
+          Available Vegan, just ask!
+        price: '12'
+        title: 'Creamy Chocolate Chia Pudding '
       - description: >-
           Add nutella-fudge chocolate sauce, sea salted caramel sauce, or
           whipped cream 1
         price: '11'
-        title: Stan’s Dad’s Creeeeme Fraiche Ice Cream
+        title: 'Holiday Eggnog ice Cream '
     title: Sweet Tooth
 ---
 
