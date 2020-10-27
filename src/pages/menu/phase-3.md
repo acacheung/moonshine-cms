@@ -53,7 +53,7 @@ subgroups:
         title: Spanish Tapas Style Steak Frites
       - description: >-
           Pulled red wine braised rabbit, pasta, Campanelle pasta, Sage-brown
-          butter,  Broccoli rabe, Louisiana cream sauce
+          butter,  Broccoli rabe, Marcona Almonds, Louisiana cream sauce
         price: '28'
         title: 'Louisiana briased Rabbit Pasta '
     title: The Main Affair
