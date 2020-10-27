@@ -57,7 +57,7 @@ subgroups:
         price: '28'
         title: 'Louisiana briased Rabbit Pasta '
     title: The Main Affair
-  - description: Swap out your white rice for mixed green or brown rice for 2
+  - description: Swap out your white rice for mixed greens for 2
     items:
       - description: >-
           Stirfried Chinese sausage, scrambled egg, ginger, scallions, duck
@@ -84,11 +84,11 @@ subgroups:
       - price: '7'
         title: House-cut shoestring french fries
       - price: '5'
-        title: White Rice
+        title: Steamed White Rice
       - price: '9'
-        title: Brussel Sprouts
+        title: Pan-Roasted Brussel Sprouts
       - price: '7'
-        title: Kimchi
+        title: Asian Pear Kimchi
       - price: '2'
         title: Fried Egg
       - price: '4'
