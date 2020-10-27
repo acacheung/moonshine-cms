@@ -20,10 +20,10 @@ subgroups:
         price: 15 regular / 26 grande
         title: Patatas Bravas
       - description: >-
-          Shaved pecorino cheese, basil, baby spinach, cherry tomatoes, aged
-          balsamic
-        price: 16 regular / 26 grande
-        title: Shine Watermelon and Tomato Salad
+          Sourdough holiday stuffing wrapped in crispy pecanwood bacon, Candied
+          ginger aioli 
+        price: 14 regular / 22 grande
+        title: '''Shine Famous Bacon Wrapped Stuffing Bites '
       - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
@@ -34,9 +34,6 @@ subgroups:
           papadums (gluten free)
         price: 9 regular / 14 grande
         title: Caramelized Onion Beet Dip
-      - description: 'Roasted Duck Broth, Dutch Egg Noodles, Fresh Thyme, Mirepoix '
-        price: 12 regular / 19 grande
-        title: 'MENU ADDITION: Duck Noodle Soup for the Soul '
       - description: >-
           Chef Asia’s Famous Irish Potato-Roasted Pumpkin Yellow Curry Sauce
           Smothered Over Your Choice of Shoestring French Fries, Crispy Tater
