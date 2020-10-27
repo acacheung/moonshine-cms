@@ -6,12 +6,14 @@ subgroups:
   - description: Don’t forget to add your favorite fixin’s or sides!
     items:
       - description: >-
-          Sharp cheddar, aioli, LTO, house-cut shoestring french fries… now
-          available vegan!
+          Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
+          fries...... Now available Vegan, just ask!
         price: '19'
         title: Chef Asia’s Famous Vegetarian Mushroom Tofu Burger
-      - description: 'Sharp cheddar, aioli, LTO, house-cut shoestring french fries'
-        price: Mkt
+      - description: >-
+          Sharp cheddar, Housemade  aioli, LTO, House-cut shoestring french
+          fries .... Make it a double patty 10 
+        price: '19'
         title: Grass-fed ’Shine Beef Burger
       - description: >-
           Served smothered in our classic potato & roasted pumpkin yellow curry,
@@ -19,18 +21,12 @@ subgroups:
           fries. (**As always, can be made with our award winning Mushroom Tofu
           patty! )
         price: Mkt
-        title: >-
-          VIP Burger of the Month - October 2020 "Irish Potato-Pumpkin Curry
-          Fries Burger"
-      - description: >-
-          We didn’t get to celebrate a Parade Day this year, but you can still
-          get your St. Patrick’s Day fix! 
-
-
-          Thick-cut corned beef, house sauerkraut, ARae’s favorite Russian
-          dressing, melted swiss, house-cut shoestring french fries
-        price: '21'
-        title: St. Paddy’s Day Inspired Corned Beef Sandwich
+        title: VIP Burger of the Month - October 2020 "Irish Curry Fries Burger"
+      - description: >
+          Creamy mashed potato aioli, Shredded cheddar, Bacon jam, Port red wine
+          demiglace, Petite mixed greens salad
+        price: '28'
+        title: '''Shine Smoky Meatloaf '
       - description: >-
           Smoky pulled pork, scrambled egg, tomato salsa, petite mixed greens
           salad, teriyaki, sweet chili glaze, house-cut shoestring french
@@ -40,16 +36,11 @@ subgroups:
           Ron Swanson Brunch-Inspired Chipotle Pulled Pork Scallion Pancake
           Quesadilla
       - description: >-
-          Chinatown style pulled duck, chilled vermicelli rice noodles, honey
-          roasted peanuts, duck-fat fried brussel sprout leaves
-        price: '29'
-        title: Summer Tiki Roasted Duck Noodle Salad
-      - description: >-
-          Cajun grilled, fried pickled green tomatoes, srirachi-shrimp uni
-          butter, sauteed tomatoes... add a side of white rice 5 or steamed
-          brown rice 7
+          Cajun grilled fish of the day, fried pickled green tomatoes,
+          srirachi-shrimp uni butter, sauteed tomatoes... add a side of white
+          rice 5 
         price: Mkt
-        title: Fish of the Day
+        title: Cajun Grilled Fish of the Day
       - description: >-
           Moonshine’s Best of Boston fried chicken, Belgian waffle,
           sriracha-bourbon awesome sauce, cinnamon honey butter
@@ -61,10 +52,10 @@ subgroups:
         price: Mkt
         title: Spanish Tapas Style Steak Frites
       - description: >-
-          Tender charred Chinese barbecued pork ribs, street corn salad, steamed
-          brown rice, scallion oil
+          Pulled red wine braised rabbit, pasta, Campanelle pasta, Sage-brown
+          butter,  Broccoli rabe, Louisiana cream sauce
         price: '28'
-        title: Charsiu BBQ Glazed Pork Ribs
+        title: 'Louisiana briased Rabbit Pasta '
     title: The Main Affair
   - description: Swap out your white rice for mixed green or brown rice for 2
     items:
@@ -75,7 +66,7 @@ subgroups:
         title: Mama Mei’s Famous Dirty Fried Rice
       - description: >-
           Asian pear kimchi, jalapenos, scrambled egg, stirfried veggies...
-          available vegan
+          available vegan, just ask! 
         price: '17'
         title: Spicy Kimchi Thai Vegetarian Fried Rice
       - description: >-
@@ -85,7 +76,7 @@ subgroups:
         title: Hawaiian Poke Rice Bowl
       - description: >-
           Spicy basil pepper glaze, crispy panko chicken, seasoned sushi rice,
-          stirfried veggies
+          stir-fried veggies ....substitute sautéed baby shrimp 5  
         price: '25'
         title: Thai Crispy Chicken Basil Rice Bowl
     title: Rice Bowls
@@ -94,8 +85,6 @@ subgroups:
         title: House-cut shoestring french fries
       - price: '5'
         title: White Rice
-      - price: '7'
-        title: Brown Rice
       - price: '9'
         title: Brussel Sprouts
       - price: '7'
@@ -104,18 +93,24 @@ subgroups:
         title: Fried Egg
       - price: '4'
         title: Jalapeno Bacon
-      - price: '3'
-        title: Angry Sauce
+      - price: '1'
+        title: Add Cheese
       - price: '2'
         title: Sliced Jalapenos
       - price: '3'
+        title: 'Add Sliced Avocado '
+      - price: '3'
         title: 'Side of Housemade B&B Pickles '
-      - price: '2'
-        title: Add Cheese
-      - description: Extra sides to add your favorites
+      - price: '3'
+        title: Chef Asia's Infamous Angry Sauce
+      - description: >-
+          Add extra sides of any of our housemade sauces: poblano ranch, candied
+          ginger aioli, sherry pesto aioli, sweet chili honey , curry goddess
+          aioli
+        price: '2'
+        title: 'Sauce it up '
+      - description: 'inquire with your server for side substitutions '
         price: Mkt
-        title: Sauce it ups
-      - price: Mkt
         title: Sub Sides/Substitutions
     title: All Fixin’s and Sides
 ---
