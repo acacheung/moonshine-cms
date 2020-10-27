@@ -88,7 +88,7 @@ subgroups:
         price: '8'
         title: 'Stormalong Mass Appeal Cider '
       - description: '12 oz can '
-        price: '6.0'
+        price: '6'
         title: 'Downeast Pumpkin Blend Cider '
       - description: '16 oz tallboy can '
         price: '4'
