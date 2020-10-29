@@ -140,7 +140,7 @@ subgroups:
         title: '(White) 2019 Whitehaven Sauvignon  Blanc '
       - description: 'Mendoza, Argentina '
         price: '12 / 45 '
-        title: '(Red) 2019 The Show Malbec '
+        title: '(Red) 2019 Argento Malbec '
       - description: 'Sonoma County, California USA '
         price: 13 / 50
         title: (Red) 2017 Storypoint Cabernet Sauvignon Select
