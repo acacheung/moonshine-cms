@@ -40,6 +40,11 @@ subgroups:
           Tots  or Steamed White Rice  
         price: '12'
         title: 'MENU ADDITION: Smothered Irish Curry Fries, ''Tots or White Rice  '
+      - description: >-
+          Dippable Shredded Beef Carnitas & Cheese Stuffed Tacos Pan-Griddled
+          with Tomato Salsa, Citrus Crema & Cilantro Taco Jus  
+        price: '17 / 31 '
+        title: 'MENU ADDITION: Mexican Birria Tacos '
     title: To Get Ya Started
 ---
 
