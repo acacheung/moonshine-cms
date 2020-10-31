@@ -98,8 +98,6 @@ subgroups:
       - price: '2'
         title: Sliced Jalapenos
       - price: '3'
-        title: 'Add Sliced Avocado '
-      - price: '3'
         title: 'Side of Housemade B&B Pickles '
       - price: '3'
         title: Chef Asia's Infamous Angry Sauce
