@@ -155,7 +155,9 @@ subgroups:
         title: Add a Fried Egg To Any Dish
       - price: '4'
         title: 'Add Bacon To Any Dish '
-      - price: '2'
+      - price: '3'
+        title: 'Add Sliced Avocado '
+      - price: '1'
         title: 'Add Melted Cheese To Any Dish '
       - price: '2.0'
         title: 'Add Sliced Jalapenos To Any Dish '
@@ -166,10 +168,10 @@ subgroups:
         price: 16 / 27
         title: '"Boston''s Best" Buttermilk Fried Chicken Wings '
       - description: >-
-          Heirloom quinoa, Iceberg lettuce, Caramelized onion & beet dip,
-          Candied bacon, Blue cheese crumbles, Toasted almonds 
+          Heirloom quinoa,  Sauteed kale, Creamy Caesar dressing, Crispy
+          wontons, Fresh pomegranate, Shaved pecorino cheese 
         price: 16 / 26
-        title: Amanda's Favorite Quinoa Wedge Salad
+        title: 'Warm Kale and Quinoa Caesar Salad '
       - description: >-
           Boneless beef shortrib, Asian pear kimchi, Candied ginger aioli,
           Sriracha sauce 
@@ -180,7 +182,7 @@ subgroups:
           liver 
         price: '17'
         title: 'Mama Mei''s Dirty Fried Rice '
-      - description: 'Sharp cheddar, Housemade aioli, LTO & Shoestring fries '
+      - description: 'Sharp cheddar, Housemade aioli, LTO & Shoestring fries  '
         price: '19'
         title: 'Chef Asia''s Famous Mushroom  Burger '
       - description: 'Sharp cheddar, Housemade aioli, LTO & Shoestring fries '
@@ -208,16 +210,21 @@ subgroups:
         price: '11'
         title: 'Jaime''s Favorite Oreo Cookie Layered Fudge Brownie '
       - description: >-
-          Belgian waffle, Strawberry topping, Creme fraiche ice cream, Sea
-          salted dulce de leche caramel sauce, Whipped cream 
+          Belgian waffle, Apple pie filling, Eggnog ice cream, Sea salted dulce
+          de leche caramel sauce, Cobbler Crumbs, Whipped cream 
         price: '15'
-        title: 'Strawberry Shortcake Waffle Ice Cream Sundae '
-      - description: 'Blended Peach, Orange & Cranberry sorbet, Macerated strawberries '
+        title: 'Apple Cobbler Waffle Ice Cream Sundae '
+      - description: >-
+          Dutch cocoa, Chia seeds, Avocado, Chantilly cream, Toasted almonds
+          (available vegan, just ask!) 
+        price: '12'
+        title: 'Creamy Chocolate Chia Pudding '
+      - description: >-
+          Top it off with Chantilly cream, Nutella chocolate sauce OR Sea salted
+          caramel sauce for $1/ea .....add a scoop of ice cream to any dish for
+          $4
         price: '11'
-        title: 'Social Distancing on the Beach Sorbet '
-      - description: add a scoop of creme fraiche ice cream to any dessert for $3
-        price: '11'
-        title: 'Stan''s Dad''s Creeeeeeme Fraiche Ice Cream '
+        title: 'Eggnog Ice Cream '
     title: Brunch Phase 4
 ---
 
