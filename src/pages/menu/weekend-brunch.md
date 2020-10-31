@@ -185,7 +185,9 @@ subgroups:
       - description: 'Sharp cheddar, Housemade aioli, LTO & Shoestring fries  '
         price: '19'
         title: 'Chef Asia''s Famous Mushroom  Burger '
-      - description: 'Sharp cheddar, Housemade aioli, LTO & Shoestring fries '
+      - description: >-
+          Sharp cheddar, Housemade aioli, LTO & Shoestring fries  ...make it a
+          double patty 10 
         price: MKT
         title: 'Grass-fed Beef Burger '
       - description: >-
