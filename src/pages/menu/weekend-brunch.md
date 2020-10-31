@@ -159,29 +159,29 @@ subgroups:
         title: 'Add Sliced Avocado '
       - price: '1'
         title: 'Add Melted Cheese To Any Dish '
-      - price: '2.0'
+      - price: '2'
         title: 'Add Sliced Jalapenos To Any Dish '
     title: Brunch Phase 3
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
-      - description: served with Poblano Ranch Sauce
-        price: 16 / 27
-        title: '"Boston''s Best" Buttermilk Fried Chicken Wings '
+      - description: >-
+          Duck Noodle Soup: Roasted duck broth, Dutch egg noodles, Mirepoix,
+          Fresh Thyme 
+        price: '12 / 19 '
+        title: 'Chef''s Whim Soup for the Soul '
       - description: >-
           Heirloom quinoa,  Sauteed kale, Creamy Caesar dressing, Crispy
           wontons, Fresh pomegranate, Shaved pecorino cheese 
         price: 16 / 26
         title: 'Warm Kale and Quinoa Caesar Salad '
+      - description: served with Poblano Ranch Sauce
+        price: 16 / 27
+        title: '"Boston''s Best" Buttermilk Fried Chicken Wings '
       - description: >-
           Boneless beef shortrib, Asian pear kimchi, Candied ginger aioli,
           Sriracha sauce 
         price: 16 / 24
         title: 'Throwback Korean BBQ Tacos '
-      - description: >-
-          Chinese sausage, Scrambled egg, Fresh ginger, Scallions, Chopped duck
-          liver 
-        price: '17'
-        title: 'Mama Mei''s Dirty Fried Rice '
       - description: 'Sharp cheddar, Housemade aioli, LTO & Shoestring fries  '
         price: '19'
         title: 'Chef Asia''s Famous Mushroom  Burger '
@@ -202,6 +202,11 @@ subgroups:
           Sriracha-bourbon awesome sauce, Cinnamon honey butter 
         price: '27'
         title: 'Leslie Knope''s Fried Chicken & Waffle '
+      - description: >-
+          Chinese sausage, Scrambled egg, Fresh ginger, Scallions, Chopped duck
+          liver 
+        price: '17'
+        title: 'Mama Mei''s Dirty Fried Rice '
     title: All-Day / All-Night Allstars
   - description: 'Sweet Tooth '
     items:
