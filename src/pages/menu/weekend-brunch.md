@@ -11,7 +11,7 @@ subgroups:
 
           ...add candied bacon sea salt $1
 
-          ...add housemade pickled veggies  $2
+          ...add housemade pickles $2
         price: MKT
         title: 'Shine Bloody Mary / Bloody Maria '
       - description: >-
@@ -58,30 +58,30 @@ subgroups:
       - description: 'Japanese ginger-sesame carrot vinaigrette, Roasted kale '
         price: 10 / 14
         title: 'Local Mixed Greens Salad '
-      - description: >-
-          Cherry tomatoes, Baby spinach, Basil, Shaved pecorino cheese, Aged
-          balsamic 
-        price: 16 / 26
-        title: '''Shine Watermelon & Tomato Salad '
       - description: 'Creamy caramelized onion & beet dip, Crispy chickpea papadum chips'
         price: 9 / 14
         title: 'Caramelized Onion Beet Dip '
-      - description: >-
-          Crispy olive oil roasted potatoes, Sherry pesto aioli, Roasted garlic
-          oil 
-        price: '15 / 26 '
-        title: 'Tapas Style Patatas Bravas '
+      - description: 'Toasted sesame, Crispy garlic & shallots, Soy vinaigrette '
+        price: '10 / 15 '
+        title: 'Blistered Shishito Peppers '
       - description: 'Jalapeno crab filling, Spicy honey '
         price: '15 / 26 '
         title: 'Jalapeno Crab Rangoons '
+      - description: >-
+          Sourdough holiday stuffing bites, Crispy pecanwood bacon, Candied
+          ginger aioli 
+        price: 14 / 22
+        title: '''Shine''s Famous Bacon Wrapped Stuffing Bites  '
       - description: >-
           Brioche cinnamon French toast sticks, Fresh berries, Maple berry
           butter dipping sauce 
         price: 10 / 15
         title: 'Chef Asia''s Famous Cinnamon French Toast Sticks '
-      - description: 'Roasted Duck Broth, Dutch Egg Noodles, Fresh Thyme, Mirepoix '
-        price: '12  / 19 '
-        title: 'Menu Addition: Duck Noodle Soup for the Soul '
+      - description: >-
+          Crispy olive oil roasted potatoes, Sherry pesto aioli, Roasted garlic
+          oil 
+        price: '15 / 26 '
+        title: 'Tapas Style Patatas Bravas '
       - description: >-
           Chef Asia’s Famous Irish Potato-Roasted Pumpkin Yellow Curry Sauce
           Smothered Over Your Choice of Shoestring French Fries, Crispy Tater
