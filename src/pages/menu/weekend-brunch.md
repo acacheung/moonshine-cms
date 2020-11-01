@@ -82,12 +82,6 @@ subgroups:
           oil 
         price: '15 / 26 '
         title: 'Tapas Style Patatas Bravas '
-      - description: >-
-          Chef Asia’s Famous Irish Potato-Roasted Pumpkin Yellow Curry Sauce
-          Smothered Over Your Choice of Shoestring French Fries, Crispy Tater
-          Tots or Steamed White Rice 
-        price: '12'
-        title: 'Menu Addition: Smothered Irish Curry Fries, ‘Tots or White Rice  '
     title: Brunch Phase 1
   - description: 'The Main Affair '
     items:
@@ -155,8 +149,6 @@ subgroups:
         title: Add a Fried Egg To Any Dish
       - price: '4'
         title: 'Add Bacon To Any Dish '
-      - price: '3'
-        title: 'Add Sliced Avocado '
       - price: '1'
         title: 'Add Melted Cheese To Any Dish '
       - price: '2'
@@ -191,10 +183,10 @@ subgroups:
         price: MKT
         title: 'Grass-fed Beef Burger '
       - description: >-
-          October 2020 : "Irish Potato-Pumkin Curry Fries Burger" served
-          smothered in our classic potato & roasted pumpkin yellow curry, Paneer
-          cheese & Crispy tater tots. Served with shoestring french fries. (**As
-          always, can be made with our award-winning Mushroom Tofu patty! )
+          November 2020: "The Cheeseburger Parm" Burger-Topped with House
+          mozzarella sticks, Marinara sauce, Parmesan cheese & a Toasted garlic
+          bread top-bun. Served with shoestring french fries. (**As always, can
+          be made with our award winning Mushroom Tofu patty! )
         price: '22'
         title: 'Make Your Burger a VIP Burger of the Month '
       - description: >-
