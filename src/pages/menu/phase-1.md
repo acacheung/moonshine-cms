@@ -34,11 +34,6 @@ subgroups:
           papadums (gluten free)
         price: 9 regular / 14 grande
         title: Caramelized Onion Beet Dip
-      - description: >-
-          Dippable Shredded Beef Carnitas & Cheese Stuffed Tacos Pan-Griddled
-          with Tomato Salsa, Citrus Crema & Cilantro Taco Jus  
-        price: '17 / 31 '
-        title: 'MENU ADDITION: Mexican Birria Tacos '
     title: To Get Ya Started
 ---
 
