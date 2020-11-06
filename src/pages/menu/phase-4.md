@@ -28,6 +28,9 @@ subgroups:
           whipped cream 1
         price: '11'
         title: 'Holiday Eggnog ice Cream '
+      - description: 'Honey Roasted Peanuts, Maple Glaze & Cranberries'
+        price: '12'
+        title: 'Menu Addition: Maple-Brown Butter Cake Squares'
     title: Sweet Tooth
 ---
 
