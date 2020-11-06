@@ -56,6 +56,12 @@ subgroups:
           butter,  Broccoli rabe, Marcona Almonds, Louisiana cream sauce
         price: '28'
         title: 'Louisiana briased Rabbit Pasta '
+      - description: >-
+          Thick-Cut Beef Brisket Wrapped in a Scallion Pancake with Vietnamese
+          Pho-Noodle Salad, served with Bacony Pho Bone Broth - Add fried egg $2
+          - Add Jalapeno Bacon $4
+        price: '27'
+        title: 'Menu Addition: Famous ‘Shine Pho-rrito'
     title: The Main Affair
   - description: Swap out your white rice for mixed greens for 2
     items:
