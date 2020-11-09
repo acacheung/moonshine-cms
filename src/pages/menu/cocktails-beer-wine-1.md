@@ -93,9 +93,6 @@ subgroups:
       - description: '16 oz can '
         price: '8'
         title: 'Stormalong Mass Appeal Cider '
-      - description: '12 oz can '
-        price: '6'
-        title: 'Downeast Pumpkin Blend Cider '
       - description: '16 oz tallboy can '
         price: '4'
         title: 'Narragansett Fest Märzen Lager '
@@ -120,9 +117,9 @@ subgroups:
       - description: 'Veneto, Italy '
         price: 12 / 42
         title: '(Sparkling) NV LaMarca Prosecco '
-      - description: 'Columbia Valley, WA, USA '
+      - description: Vin de France
         price: 12 / 44
-        title: (Rose) 2019 Charles & Charles Rose
+        title: (Rose) 2019 Prophecy Rose
       - description: 'Veneto, Italy '
         price: 13 / 52
         title: (Sparkling Rose) NV Canella Sparkling Rose Brut
