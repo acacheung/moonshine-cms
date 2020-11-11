@@ -141,7 +141,7 @@ subgroups:
       - description: 'Sonoma County, California USA '
         price: 13 / 50
         title: (Red) 2017 Storypoint Cabernet Sauvignon Select
-      - description: 'Central Coast, CA, USA '
+      - description: 'Monterey County, CA, USA '
         price: '13/ 50 '
         title: '(RED) 2018 Cloudfall Monterey County Pinot Noir '
       - description: 'Columbia valley, WA, USA '
