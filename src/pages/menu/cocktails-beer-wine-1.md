@@ -111,6 +111,9 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: Heineken Zero (Non-Alcoholic)
+      - description: 12oz bottle
+        price: '9'
+        title: 'Boulevard Brewing Nutcracker Holiday Ale '
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
