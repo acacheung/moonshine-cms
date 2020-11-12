@@ -132,15 +132,15 @@ subgroups:
       - description: 'Yakima Valley, Washington USA '
         price: 11 / 40
         title: '(White) 2017 Charles & Charles Riesling '
-      - description: 'California, USA '
-        price: 11 / 34
-        title: '(White) 2018 Grayson Cellars Chardonnay '
+      - description: 'Monterey County, California, USA '
+        price: 13 / 54
+        title: '2016 Talbott Kali Hart Chardonnay '
       - description: 'Marlborough, New Zealand '
         price: 13 / 48
         title: '(White) 2019 Whitehaven Sauvignon  Blanc '
       - description: 'Mendoza, Argentina '
         price: '12 / 45 '
-        title: '(Red) 2019 Argento Malbec '
+        title: '(Red) 2019 The Show Malbec '
       - description: 'Sonoma County, California USA '
         price: 13 / 50
         title: (Red) 2017 Storypoint Cabernet Sauvignon Select
@@ -149,7 +149,7 @@ subgroups:
         title: '(RED) 2018 Cloudfall Monterey County Pinot Noir '
       - description: 'Columbia valley, WA, USA '
         price: '12 / 45 '
-        title: '2017 Charles & Charles cabernet/syrah blend '
+        title: '(red) 2017 Charles & Charles cabernet/syrah blend '
     title: Wine List
 ---
 
