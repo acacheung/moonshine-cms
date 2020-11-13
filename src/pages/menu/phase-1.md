@@ -34,6 +34,9 @@ subgroups:
           papadums (gluten free)
         price: 9 regular / 14 grande
         title: Caramelized Onion Beet Dip
+      - description: 'Rustic Tomato-Garlic Ragout, Roasted Squash'
+        price: 19 regular / 32 grande
+        title: 'Menu Addition: Parmesan Lobster Arancini'
     title: To Get Ya Started
 ---
 
