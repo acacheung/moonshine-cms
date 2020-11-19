@@ -76,7 +76,7 @@ subgroups:
         price: '6'
         title: 'Stella Artois '
       - description: '12 oz bottle '
-        price: '6'
+        price: '5'
         title: Blue Moon
       - description: '12 oz bottle '
         price: '6'
@@ -85,7 +85,7 @@ subgroups:
         price: '5'
         title: Narragansett Lager
       - description: '12 oz bottle '
-        price: '6'
+        price: '5'
         title: 'Kona Brewing Longboard Lager '
       - description: '16 oz tallboy can '
         price: '10'
@@ -97,13 +97,16 @@ subgroups:
         price: '4'
         title: 'Narragansett Fest Märzen Lager '
       - description: '16 oz tallboy can '
-        price: '10'
+        price: '9'
         title: 'ClownShoes "Galactica" Double IPA '
       - description: '16oz tallboy can '
-        price: '10'
+        price: '9'
         title: 'Lord Hobo "BoomSauce" New England IPA '
+      - description: 12oz bottle
+        price: '9'
+        title: 'Boulevard Brewing Nutcracker Holiday Ale '
       - description: '12oz  can '
-        price: '7'
+        price: '6'
         title: 'Boulevard Brewing "Steep Drop" Nitro Coffee Milk Stout '
       - description: '16 oz nitro can '
         price: '7'
@@ -111,9 +114,6 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: Heineken Zero (Non-Alcoholic)
-      - description: 12oz bottle
-        price: '9'
-        title: 'Boulevard Brewing Nutcracker Holiday Ale '
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
