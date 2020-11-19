@@ -134,7 +134,7 @@ subgroups:
         title: '(White) 2017 Charles & Charles Riesling '
       - description: 'Monterey County, California, USA '
         price: 13 / 54
-        title: '2016 Talbott Kali Hart Chardonnay '
+        title: '(WHITE) 2016 Talbott Kali Hart Chardonnay '
       - description: 'Marlborough, New Zealand '
         price: 13 / 48
         title: '(White) 2019 Whitehaven Sauvignon  Blanc '
