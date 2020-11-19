@@ -96,15 +96,15 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '4'
         title: 'Narragansett Fest Märzen Lager '
+      - description: 12oz bottle
+        price: '8'
+        title: 'Boulevard Brewing Nutcracker Holiday Ale '
       - description: '16 oz tallboy can '
         price: '9'
         title: 'ClownShoes "Galactica" Double IPA '
       - description: '16oz tallboy can '
         price: '9'
         title: 'Lord Hobo "BoomSauce" New England IPA '
-      - description: 12oz bottle
-        price: '9'
-        title: 'Boulevard Brewing Nutcracker Holiday Ale '
       - description: '12oz  can '
         price: '6'
         title: 'Boulevard Brewing "Steep Drop" Nitro Coffee Milk Stout '
