@@ -7,9 +7,7 @@ subgroups:
       All portions available regular or “Go Grande”. Don’t forget to add your
       favorite protein or fixin’s!
     items:
-      - description: >-
-          Duck Noodle Soup- Roasted Duck Broth, Dutch Egg Noodles, Fresh Thyme,
-          Mirepoix 
+      - description: Spicy Tomato Soup with Olive Oil Roasted Kale & Tempura Crisps
         price: '12 regular / 19 grande '
         title: 'Chef''s whim Soup for the soul '
       - description: >-
