@@ -34,6 +34,11 @@ subgroups:
           papadums (gluten free)
         price: 9 regular / 14 grande
         title: Caramelized Onion Beet Dip
+      - description: >-
+          Sweet Potato Tater Tots, Turkey Sausage, Gravy, Mozzarella Cheese
+          Curds, Fried Sage & Maple Cranberry Preserves
+        price: 12 regular / 19 grande
+        title: 'Menu Addition: Arae & Amei’s Favorite “Thanksgiving Poutine”'
     title: To Get Ya Started
 ---
 
