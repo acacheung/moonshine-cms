@@ -82,6 +82,11 @@ subgroups:
           oil 
         price: '15 / 26 '
         title: 'Tapas Style Patatas Bravas '
+      - description: >-
+          Sweet Potato Tater Tots, Turkey Sausage, Gravy, Mozzarella Cheese
+          Curds, Fried Sage & Maple Cranberry Preserves
+        price: 12 regular / 19 grande
+        title: 'Menu Addition: Arae & Amei’s Favorite “Thanksgiving Poutine”'
     title: Brunch Phase 1
   - description: 'The Main Affair '
     items:
