@@ -35,10 +35,20 @@ subgroups:
         price: 9 regular / 14 grande
         title: Caramelized Onion Beet Dip
       - description: >-
-          Sweet Potato Tater Tots, Turkey Sausage, Gravy, Mozzarella Cheese
-          Curds, Fried Sage & Maple Cranberry Preserves
-        price: 12 regular / 19 grande
-        title: 'Menu Addition: Arae & Amei’s Favorite “Thanksgiving Poutine”'
+          Savory brined big-@ss turkey wing, Crispy garlic, Gremolata, Cranberry
+          balsamic 
+        price: '16'
+        title: >-
+          Menu Addition: "Not 'Yo Mama's Thanksgiving Turkey" Deep Fried Confit
+          Turkey Wing 
+      - description: 'Homemade cornbread, Roasted chicken stock, Rosemary, Sage '
+        price: '8'
+        title: 'Menu Addition: Chorizo Cornbread Stuffing '
+      - description: >-
+          Coconut, Milk, Dark & Butterscotch chips, Brown butter, Vermont maple
+          syrup, Honey roasted peanut crunch 
+        price: '11'
+        title: 'Menu Addition: maple dirty blondie bars '
     title: To Get Ya Started
 ---
 
