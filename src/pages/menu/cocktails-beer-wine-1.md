@@ -69,9 +69,6 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: 'Corona Extra '
-      - description: 12 oz botle
-        price: '6'
-        title: 'Stella Artois '
       - description: '12 oz bottle '
         price: '5'
         title: Blue Moon
