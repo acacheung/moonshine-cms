@@ -41,14 +41,6 @@ subgroups:
         title: >-
           Menu Addition: "Not 'Yo Mama's Thanksgiving Turkey" Deep Fried Confit
           Turkey Wing 
-      - description: 'Homemade cornbread, Roasted chicken stock, Rosemary, Sage '
-        price: '8'
-        title: 'Menu Addition: Chorizo Cornbread Stuffing '
-      - description: >-
-          Coconut, Milk, Dark & Butterscotch chips, Brown butter, Vermont maple
-          syrup, Honey roasted peanut crunch 
-        price: '11'
-        title: 'Menu Addition: maple dirty blondie bars '
     title: To Get Ya Started
 ---
 
