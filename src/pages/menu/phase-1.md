@@ -34,13 +34,6 @@ subgroups:
           papadums (gluten free)
         price: 9 regular / 14 grande
         title: Caramelized Onion Beet Dip
-      - description: >-
-          Savory brined big-@ss turkey wing, Crispy garlic, Gremolata, Cranberry
-          balsamic 
-        price: '16'
-        title: >-
-          Menu Addition: "Not 'Yo Mama's Thanksgiving Turkey" Deep Fried Confit
-          Turkey Wing 
     title: To Get Ya Started
 ---
 
