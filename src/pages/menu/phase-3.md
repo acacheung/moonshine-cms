@@ -16,12 +16,11 @@ subgroups:
         price: '19'
         title: Grass-fed ’Shine Beef Burger
       - description: >-
-          Topped with House mozzarella sticks, Marinara sauce, Parmesan cheese &
-          a Toasted garlic bread top-bun. Served with shoestring french fries.
-          (**As always, can be made with our award winning Mushroom Tofu patty!
-          )
-        price: Mkt
-        title: 'VIP Burger of the Month - November 2020 "Cheeseburger Parm" Burger '
+          Topped with Warm Brie, Bacon Jam Sesame Candied Walnuts & Pineapple
+          Cranberry Glaze. Served with shoestring french fries. (**As always,
+          can be made with our award-winning Mushroom Tofu patty! )
+        price: '23'
+        title: 'December 2020 VIP Burger of the Month : "The Nutcracker" '
       - description: >
           Creamy mashed potato aioli, Shredded cheddar, Bacon jam, Port red wine
           demiglace, Petite mixed greens salad
