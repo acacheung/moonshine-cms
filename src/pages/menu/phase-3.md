@@ -48,7 +48,7 @@ subgroups:
       - description: >-
           Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
-        price: Mkt
+        price: '28'
         title: Spanish Tapas Style Steak Frites
       - description: >-
           Pulled red wine braised rabbit, pasta, Campanelle pasta, Sage-brown
