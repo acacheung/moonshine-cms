@@ -107,7 +107,7 @@ subgroups:
         title: 'Two Roads Brewing "Biere de Noel" Holiday Ale '
       - description: 12oz bottle
         price: '8'
-        title: 'Boulevard Brewing Nutcracker Holiday Ale '
+        title: 'Boulevard Brewing "Nutcracker" Winter Warmer Holiday Ale '
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
