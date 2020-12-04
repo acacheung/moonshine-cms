@@ -44,6 +44,9 @@ subgroups:
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
+      - description: 'Spicy Pepper Vodka, Fresh Cucumber Juice, Elderflower, Lemon '
+        price: '14'
+        title: 'Farm to glass '
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
