@@ -23,16 +23,16 @@ subgroups:
           Belgian waffle, Cobbler crumbles, Whipped cream
         price: '15'
         title: Apple Cobbler Waffle Ice Cream Sundae
-      - description: >
-          Dutch cocoa, Chia Seeds, Avocado, Chantilly creme, Toasted Almonds...
-          Available Vegan, just ask!
-        price: '12'
-        title: 'Creamy Chocolate Chia Pudding '
       - description: >-
           Add nutella-fudge chocolate sauce, sea salted caramel sauce, or
           whipped cream 1
         price: '11'
         title: 'Holiday Eggnog ice Cream '
+      - description: >-
+          Blended Peach, Orange and Cranberry Sorbet with Fresh Pomegranate
+          Seeds
+        price: '9'
+        title: Social Distancing on the Beach Sorbet
     title: Sweet Tooth
 ---
 
