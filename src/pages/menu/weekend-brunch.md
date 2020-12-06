@@ -82,11 +82,6 @@ subgroups:
           oil 
         price: '15 / 26 '
         title: 'Tapas Style Patatas Bravas '
-      - description: >-
-          Sweet Potato Tater Tots, Turkey Sausage, Gravy, Mozzarella Cheese
-          Curds, Fried Sage & Maple Cranberry Preserves
-        price: 12 regular / 19 grande
-        title: 'Menu Addition: Arae & Amei’s Favorite “Thanksgiving Poutine”'
     title: Brunch Phase 1
   - description: 'The Main Affair '
     items:
@@ -218,11 +213,6 @@ subgroups:
           de leche caramel sauce, Cobbler Crumbs, Whipped cream 
         price: '15'
         title: 'Apple Cobbler Waffle Ice Cream Sundae '
-      - description: >-
-          Dutch cocoa, Chia seeds, Avocado, Chantilly cream, Toasted almonds
-          (available vegan, just ask!) 
-        price: '12'
-        title: 'Creamy Chocolate Chia Pudding '
       - description: >-
           Top it off with Chantilly cream, Nutella chocolate sauce OR Sea salted
           caramel sauce for $1/ea .....add a scoop of ice cream to any dish for
