@@ -7,11 +7,6 @@ subgroups:
       Add one scoop of creme fraiche ice cream to your favorite dessert $4 
       Add a Belgian waffle to your favorite  dessert $7
     items:
-      - description: >-
-          topped with Shaved White Chocolate, Nutella Caramel Sauce, Chantilly
-          Cream 
-        price: '13'
-        title: 'MENU ADDITION: Warm red Velvet Bread Pudding '
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
