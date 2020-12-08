@@ -8,8 +8,8 @@ subgroups:
       favorite protein or fixin’s!
     items:
       - description: >-
-          Truffled Corn Bisque: Creamy Corn Chowder, White Truffle Oil, Fresh
-          Thyme 
+          Ginger Carrot Bisque: Creamy roasted carrots, Ginger, Nutmeg, Chicken
+          stock 
         price: '12 regular / 19 grande '
         title: 'Chef''s whim Soup for the soul '
       - description: >-
