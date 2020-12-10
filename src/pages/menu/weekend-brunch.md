@@ -183,10 +183,10 @@ subgroups:
         price: MKT
         title: 'Grass-fed Beef Burger '
       - description: >-
-          November 2020: "The Cheeseburger Parm" Burger-Topped with House
-          mozzarella sticks, Marinara sauce, Parmesan cheese & a Toasted garlic
-          bread top-bun. Served with shoestring french fries. (**As always, can
-          be made with our award winning Mushroom Tofu patty! )
+          December 2020: "The Nutcracker Burger"- Topped with Warm Brie, Bacon
+          Jam Sesame Candied Walnuts & Pineapple Cranberry Glaze. Served with
+          shoestring french fries. (**As always, can be made with our
+          award-winning Mushroom Tofu patty! )
         price: '22'
         title: 'Make Your Burger a VIP Burger of the Month '
       - description: >-
