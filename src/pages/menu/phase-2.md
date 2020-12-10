@@ -9,7 +9,7 @@ subgroups:
     items:
       - description: >-
           Ginger Carrot Bisque: Creamy roasted carrots, Ginger, Nutmeg, Chicken
-          stock 
+          stock, Dill creme fraiche 
         price: '12 regular / 19 grande '
         title: 'Chef''s whim Soup for the soul '
       - description: >-
