@@ -20,8 +20,8 @@ subgroups:
 
           ...add candied bacon sea salt $1
 
-          ...add housemade pickled veggies  $2
-        price: '15'
+          ...add housemade pickles  $2
+        price: '16'
         title: 'Ron Swanson Approved Lagavulin Bloody Mary '
       - description: 'Prosecco splashed with orange juice '
         price: '11'
@@ -156,9 +156,7 @@ subgroups:
     title: Brunch Phase 3
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
-      - description: >-
-          Duck Noodle Soup: Roasted duck broth, Dutch egg noodles, Mirepoix,
-          Fresh Thyme 
+      - description: ' Carrot Ginger Bisque: Creamy roasted carrots,  Ginger, Nutmeg, Chicken stock, Dill creme fraiche '
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >-
@@ -187,7 +185,7 @@ subgroups:
           Jam Sesame Candied Walnuts & Pineapple Cranberry Glaze. Served with
           shoestring french fries. (**As always, can be made with our
           award-winning Mushroom Tofu patty! )
-        price: '22'
+        price: '23'
         title: 'Make Your Burger a VIP Burger of the Month '
       - description: >-
           "Boston's Best" Buttermilk fried chicken, Belgian waffle,
