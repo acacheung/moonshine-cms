@@ -34,9 +34,6 @@ subgroups:
           papadums (gluten free)
         price: 9 regular / 14 grande
         title: Caramelized Onion Beet Dip
-      - description: 'Sweet, Chilled Cinnamon Noodle Baked Pudding, Raisins, Caramel Sauce'
-        price: '12'
-        title: 'MENU ADDITION: Hanukkah Inspired Cinnamon Raisin noodle Kugel '
     title: To Get Ya Started
 ---
 
