@@ -111,6 +111,9 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: Heineken Zero (Non-Alcoholic)
+      - description: 16 oz can
+        price: '10'
+        title: Springdale "Pearly Whit"  White Ale
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
