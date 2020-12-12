@@ -72,27 +72,30 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: 'Corona Extra '
+      - description: 16 oz can
+        price: '10'
+        title: Springdale "Pearly Whit"  White Ale
+      - description: '16 oz can '
+        price: '8'
+        title: 'Stormalong Mass Appeal Cider '
       - description: '12 oz bottle '
         price: '6'
         title: Sapporo
       - description: '16 oz tallboy can '
         price: '5'
         title: Narragansett Lager
-      - description: '16 oz tallboy can '
-        price: '10'
-        title: 'Zero Gravity Brewing "Loral Lager" '
-      - description: 16 oz can
-        price: '10'
-        title: Springdale "Pearly Whit"  White Ale
       - description: '12 oz bottle '
         price: '6'
         title: 'Cisco Brewing "Whale''s Tale" Pale Ale '
+      - description: '16 oz tallboy can '
+        price: '10'
+        title: 'Zero Gravity Brewing "Loral Lager" '
+      - description: '12 oz bottle '
+        price: '7'
+        title: 'Stone IPA '
       - description: '16oz tallboy can '
         price: '11'
         title: 'Orono Brewing "Tubular" Hazy New England IPA '
-      - description: '16 oz can '
-        price: '8'
-        title: 'Stormalong Mass Appeal Cider '
       - description: '16 oz tallboy can '
         price: '4'
         title: 'Narragansett Fest Märzen Lager '
@@ -120,7 +123,7 @@ subgroups:
       - description: Vin de France
         price: 12 / 44
         title: (Rose) 2019 Prophecy Rose
-      - description: 'Veneto, Italy '
+      - description: 'Trentino, Italy '
         price: 13 / 52
         title: (Sparkling Rose) NV Canella Sparkling Rose Brut
       - description: 'Veneto, Italy '
