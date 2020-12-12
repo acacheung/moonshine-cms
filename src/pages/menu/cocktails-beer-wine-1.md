@@ -73,9 +73,6 @@ subgroups:
         price: '6'
         title: 'Corona Extra '
       - description: '12 oz bottle '
-        price: '5'
-        title: Blue Moon
-      - description: '12 oz bottle '
         price: '6'
         title: Sapporo
       - description: '16 oz tallboy can '
