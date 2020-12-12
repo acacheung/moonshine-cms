@@ -84,6 +84,9 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '10'
         title: 'Zero Gravity Brewing "Loral Lager" '
+      - description: 16 oz can
+        price: '10'
+        title: Springdale "Pearly Whit"  White Ale
       - description: '12 oz bottle '
         price: '6'
         title: 'Cisco Brewing "Whale''s Tale" Pale Ale '
@@ -111,9 +114,6 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: Heineken Zero (Non-Alcoholic)
-      - description: 16 oz can
-        price: '10'
-        title: Springdale "Pearly Whit"  White Ale
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
