@@ -28,9 +28,6 @@ subgroups:
           Seeds
         price: '9'
         title: Social Distancing on the Beach Sorbet
-      - description: 'Sweet, Chilled Cinnamon Noodle Baked Pudding, Raisins, Caramel Sauce'
-        price: '12'
-        title: 'MENU ADDITION: Hanukkah inspired cinnamon raisin noodle kugel '
     title: Sweet Tooth
 ---
 
