@@ -5,22 +5,18 @@ order: 7
 subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
-      - description: >-
+      - description: >
           Pair your favorite vodka or tequila with our house bloody mary mix,
           infused with homemade kimchi juice 
 
           ...add candied bacon sea salt $1
-
-          ...add housemade pickles $2
         price: MKT
         title: 'Shine Bloody Mary / Bloody Maria '
-      - description: >-
+      - description: >
           His favorite Lagavulin Scotch paired with our House Bloody Mary Mix,
           infused with homemade kimchi juice 
 
           ...add candied bacon sea salt $1
-
-          ...add housemade pickles  $2
         price: '16'
         title: 'Ron Swanson Approved Lagavulin Bloody Mary '
       - description: 'Prosecco splashed with orange juice '
