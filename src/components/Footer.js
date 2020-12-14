@@ -52,8 +52,16 @@ const Footer = class extends React.Component {
             </a>
           </div>
         </div>
-        <div className='contacts l-colspan'>
+        <div className='contacts l-colspan' id='delivery'>
           <h2 className='contacts__heading'>Order Delivery</h2>
+          <a
+            className='contact chownow-order-online'
+            href='https://ordering.chownow.com/order/25650/locations'
+            target='_blank'
+            rel='noreferrer'
+          >
+            We deliver with CHOWNOW
+          </a>
           <a
             className='contact'
             href='https://www.grubhub.com/restaurant/moonshine-152-152-dorchester-ave-boston/504704'

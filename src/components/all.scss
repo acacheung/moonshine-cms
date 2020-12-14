@@ -475,8 +475,6 @@ b {
 }
 
 .menu__link {
-  margin-bottom: 20px;
-  font-size: 30px;
   font-family: $edmond-regular;
   text-transform: uppercase;
   text-decoration: none;
@@ -485,12 +483,17 @@ b {
   transition-duration: 0.25s;
   transition-property: color;
   @media (max-width: 909px) {
+    margin-bottom: 24px;
+    font-size: 20px;
     float: left;
     clear: left;
   }
   @media (min-width: 910px) {
+    margin-bottom: 30px;
+    font-size: 24px;
     float: right;
     clear: right;
+    text-align: right;
   }
   &:hover {
     color: $gold;
