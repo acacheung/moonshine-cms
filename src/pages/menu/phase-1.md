@@ -1,7 +1,7 @@
 ---
 templateKey: menu-group
 title: Phase 1- To Get Ya Started (Appetizers)
-order: 3
+order: 2
 subgroups:
   - description: All portions available regular or “Go Grande”
     items:
