@@ -1,7 +1,7 @@
 ---
 templateKey: menu-group
 title: 'Phase 4-Dessert '
-order: 6
+order: 5
 subgroups:
   - description: |-
       Add one scoop of creme fraiche ice cream to your favorite dessert $4 
