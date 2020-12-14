@@ -1,7 +1,7 @@
 ---
 templateKey: menu-group
 title: '''Shine Merchandise & Misc.'
-order: 7
+order: 8
 subgroups:
   - items:
       - description: One-Size-Fits All
