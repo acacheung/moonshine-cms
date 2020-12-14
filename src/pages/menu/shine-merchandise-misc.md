@@ -6,10 +6,10 @@ subgroups:
   - items:
       - description: One-Size-Fits All
         price: '30'
-        title: Black & White Logo Strapback
+        title: 'Hat - Black & White Logo Strapback '
       - description: One-Size-Fits All
         price: '35'
-        title: PRIDE Logo Strapback
+        title: Hat - Rainbow PRIDE Logo Strapback
       - description: 'Ask Your Server about Size Availability '
         price: '30'
         title: Tank Tops
