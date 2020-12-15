@@ -132,9 +132,9 @@ subgroups:
       - description: 'Yakima Valley, Washington USA '
         price: 11 / 40
         title: '(White) 2017 Charles & Charles Riesling '
-      - description: 'Monterey County, California, USA '
-        price: 13 / 54
-        title: '(WHITE) 2016 Talbott Kali Hart Chardonnay '
+      - description: 'Napa Valley, California, USA '
+        price: 11 / 42
+        title: '(WHITE) 2018 Grayson CellarsChardonnay '
       - description: 'Marlborough, New Zealand '
         price: 13 / 48
         title: '(White) 2019 Whitehaven Sauvignon  Blanc '
