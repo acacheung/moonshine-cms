@@ -152,7 +152,9 @@ subgroups:
     title: Brunch Phase 3
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
-      - description: ' Carrot Ginger Bisque: Creamy roasted carrots,  Ginger, Nutmeg, Chicken stock, Dill creme fraiche '
+      - description: >-
+          Traditional Bistro French Onion Soup: Melted Swiss, Brioche Crouton,
+          Caramelized Onions, Madeira Beef Bone Broth
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >-
