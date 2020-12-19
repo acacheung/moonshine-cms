@@ -8,8 +8,8 @@ subgroups:
       favorite protein or fixin’s!
     items:
       - description: >-
-          Ginger Carrot Bisque: Creamy roasted carrots, Ginger, Nutmeg, Chicken
-          stock, Dill creme fraiche 
+          Traditional Bistro French Onion Soup: Melted Swiss, Brioche Crouton,
+          Caramelized Onions, Madeira Beef Bone Broth
         price: '12 regular / 19 grande '
         title: 'Chef''s whim Soup for the soul '
       - description: >-
