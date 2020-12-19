@@ -125,7 +125,7 @@ subgroups:
         title: (Sparkling Rose) NV Canella Sparkling Rose Brut
       - description: 'Veneto, Italy '
         price: 11 / 40
-        title: (White) 2018 Riff Pinot Grigio della Venezie
+        title: (White) 2019 Zenato Pinot Grigio della Venezie
       - description: 'Yakima Valley, Washington USA '
         price: 11 / 40
         title: '(White) 2017 Charles & Charles Riesling '
