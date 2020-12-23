@@ -23,11 +23,6 @@ subgroups:
           whipped cream 1
         price: '11'
         title: 'Holiday Eggnog ice Cream '
-      - description: >-
-          Blended Peach, Orange and Cranberry Sorbet with Fresh Pomegranate
-          Seeds
-        price: '9'
-        title: Social Distancing on the Beach Sorbet
     title: Sweet Tooth
 ---
 
