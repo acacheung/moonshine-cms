@@ -59,16 +59,6 @@ subgroups:
   - description: Swap out your white rice for mixed greens for 2
     items:
       - description: >-
-          Braised Beef Shortrib, Asian pear kimchi, Roasted sesame root
-          vegetables, Steamed brown rice & a Fried egg
-        price: '28'
-        title: 'menu addition: ''shine bibimbap rice bowl '
-      - description: >-
-          Chef Asia's famous chopped  mushroom tofu patty Asian pear kimchi,
-          Roasted sesame root vegetables, Steamed brown rice & a Fried egg
-        price: '28'
-        title: 'Menu Additon: ''shine vegetarian bibimbap rice bowl '
-      - description: >-
           Stirfried Chinese sausage, scrambled egg, ginger, scallions, duck
           liver
         price: '17'
