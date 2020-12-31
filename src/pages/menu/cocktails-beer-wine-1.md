@@ -23,6 +23,9 @@ subgroups:
       - description: 'Rye Whiskey, Tart Cherry Liqueur, Cinnamon, Lemon '
         price: '13'
         title: 'Danish Modern '
+      - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
+        price: '13.00'
+        title: Moonshine 76
       - description: 'Blanco Tequila, creme de Cassis, Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
