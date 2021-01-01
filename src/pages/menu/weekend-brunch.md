@@ -82,12 +82,10 @@ subgroups:
   - description: 'The Main Affair '
     items:
       - description: >-
-          Smoky pulled pork, Scrambled egg, Tomato salsa, Petite mixed greens
-          salad, House-cut shoestring fries
-        price: '27'
-        title: >-
-          Ron Swanson Brunch Inspired Chipotle Pulled Pork Scallion Pancake
-          Quesadilla (AVAILABLE VEGETARIAN   24) 
+          Grilled Skirt Steak, Spinach Tomato Frittata, Jalapeno & Pecanwood
+          Bacon, Spiced Homefries. Red Wine Demiglace & Horseradish Crema 
+        price: '35'
+        title: 'Menu Addition: Ron Swanson Steak & Eggs "Meat Tornado"'
       - description: 'Pan-seared shrimp, Spicy green chili cheese grits, Sherry pan sauce'
         price: '19'
         title: 'Shrimp & Grits '
@@ -115,6 +113,13 @@ subgroups:
       - description: 'Melt-in-your-mouth corned beef, Scrambled eggs, Housemade beer bread '
         price: '18'
         title: '''Shine''s Southie Corned Beef Hash '
+      - description: >-
+          Smoky pulled pork, Scrambled egg, Tomato salsa, Petite mixed greens
+          salad, House-cut shoestring fries
+        price: '27'
+        title: >-
+          Ron Swanson Brunch Inspired Chipotle Pulled Pork Scallion Pancake
+          Quesadilla (AVAILABLE VEGETARIAN   24) 
     title: Brunch Phase 2
   - description: 'All the sides & Fixin''s '
     items:
