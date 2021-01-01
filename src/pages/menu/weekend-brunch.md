@@ -184,9 +184,9 @@ subgroups:
         price: MKT
         title: 'Grass-fed Beef Burger '
       - description: >-
-          December 2020: "The Nutcracker Burger"- Topped with Warm Brie, Bacon
-          Jam Sesame Candied Walnuts & Pineapple Cranberry Glaze. Served with
-          shoestring french fries. (**As always, can be made with our
+          January 2021: “The Jalapeno Popper”  topped with Tempura Fried Poblano
+          Pepper Rings &  Scallion Cheddar-Green Chili Cream Cheese. Served with
+          shoestring French fries. (**As always, can be made with our
           award-winning Mushroom Tofu patty! )
         price: '23'
         title: 'Make Your Burger a VIP Burger of the Month '
