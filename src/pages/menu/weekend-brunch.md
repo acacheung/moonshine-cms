@@ -78,8 +78,11 @@ subgroups:
           oil 
         price: '15 / 26 '
         title: 'Tapas Style Patatas Bravas '
-      - price: '14 for 6  26 for 12 '
-        title: 'Menu Addtiion: '
+      - description: |2-
+           Fresh shucked Wellfleet Oysters on the Half Shell served with House cocktail sauce & Thai bird chili mignonette  
+           ** Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions**
+        price: '14 for 6  26 for 12 '
+        title: 'Menu Addition: "Silver Bells" Fresh Shucked Oysters on the Half Shell'
       - description: >-
           Tomato Lobster Ragout, Crispy Risotto Rice Fritters, Garlic Butter &
           Rosemary Aioli 
