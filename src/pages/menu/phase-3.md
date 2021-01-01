@@ -16,11 +16,12 @@ subgroups:
         price: '19'
         title: Grass-fed ’Shine Beef Burger
       - description: >-
-          Topped with Warm Brie, Bacon Jam Sesame Candied Walnuts & Pineapple
-          Cranberry Glaze. Served with shoestring french fries. (**As always,
-          can be made with our award-winning Mushroom Tofu patty! )
+          Topped with topped with Tempura Fried                               
+          Poblano Pepper Rings & Scallion Cheddar-Green Chili Cream Cheese 
+          Served with shoestring French fries. (**As always, can be made with
+          our award-winning Mushroom Tofu patty! )
         price: '23'
-        title: 'December 2020 VIP Burger of the Month : "The Nutcracker" '
+        title: 'January 2021 VIP Burger of the Month : "The Jalapeno Popper"" '
       - description: >
           Creamy mashed potato aioli, Shredded cheddar, Bacon jam, Port red wine
           demiglace, Petite mixed greens salad
