@@ -78,6 +78,18 @@ subgroups:
           oil 
         price: '15 / 26 '
         title: 'Tapas Style Patatas Bravas '
+      - price: '14 for 6  26 for 12 '
+        title: 'Menu Addtiion: '
+      - description: >-
+          Tomato Lobster Ragout, Crispy Risotto Rice Fritters, Garlic Butter &
+          Rosemary Aioli 
+        price: '19 regular 34 grande '
+        title: 'Menu Addition: Lobster Parmesan Arancini'
+      - description: >-
+          Tomato  Ragout, Crispy Risotto Rice Fritters, Garlic Butter & Rosemary
+          Aioli 
+        price: '16 regular  29 grande '
+        title: 'Menu addition: Tomato Parmesan Arancini '
     title: Brunch Phase 1
   - description: 'The Main Affair '
     items:
