@@ -41,9 +41,6 @@ subgroups:
           Red Wine, Hibiscus, Ginger, Apple
         price: '12 '
         title: Sahil's Sangria
-      - description: 'Coconut Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
-        price: '13'
-        title: 'House Painkiller '
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
