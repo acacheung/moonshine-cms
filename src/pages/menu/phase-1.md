@@ -11,11 +11,6 @@ subgroups:
         price: '14 for 1/2 dozen 26 for 1 dozen '
         title: 'Menu Addition: "Silver Bells" Fresh Shucked Oysters on the Half Shell '
       - description: >-
-          Lobster tomato ragout, Crispy risotto rice fritters, Garlic butter,
-          Rosemary arancini 
-        price: '19 regular 34 grande '
-        title: 'Menu Addition: Parmesan Lobster Arancini '
-      - description: >-
           Tomato ragout, Crispy risotto rice fritters, Garlic butter, Rosemary
           arancini 
         price: '16 regular 29 grande '
