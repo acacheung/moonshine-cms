@@ -24,7 +24,7 @@ subgroups:
         price: '13'
         title: 'Danish Modern '
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
-        price: '13.00'
+        price: '13'
         title: Moonshine 76
       - description: 'Blanco Tequila, creme de Cassis, Ginger Beer, Fresh Lime '
         price: '12'
@@ -97,10 +97,10 @@ subgroups:
         price: '5'
         title: 'Boulevard Brewing "Steep Drop" Nitro Coffee Milk Stout '
       - description: '12 oz can '
-        price: '6'
+        price: '5'
         title: 'Two Roads Brewing "Biere de Noel" Holiday Ale '
       - description: 12oz bottle
-        price: '7'
+        price: '6'
         title: 'Boulevard Brewing "Nutcracker" Winter Warmer Holiday Ale '
       - description: '16 oz nitro can '
         price: '7'
