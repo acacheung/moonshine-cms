@@ -78,24 +78,16 @@ subgroups:
           oil 
         price: '15 / 26 '
         title: 'Tapas Style Patatas Bravas '
-      - description: |2-
-           Fresh shucked Wellfleet Oysters on the Half Shell served with House cocktail sauce & Thai bird chili mignonette  
-           ** Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions**
-        price: '14 for 6  26 for 12 '
-        title: 'Menu Addition: "Silver Bells" Fresh Shucked Oysters on the Half Shell'
-      - description: >-
-          Tomato  Ragout, Crispy Risotto Rice Fritters, Garlic Butter & Rosemary
-          Aioli 
-        price: '16 regular  29 grande '
-        title: 'Menu addition: Tomato Parmesan Arancini '
     title: Brunch Phase 1
   - description: 'The Main Affair '
     items:
       - description: >-
-          Grilled Skirt Steak, Spinach Tomato Frittata, Jalapeno & Pecanwood
-          Bacon, Spiced Homefries. Red Wine Demiglace & Horseradish Crema 
-        price: '35'
-        title: 'Menu Addition: Ron Swanson Steak & Eggs "Meat Tornado"'
+          Smoky pulled pork, Scrambled egg, Tomato salsa, Petite mixed greens
+          salad, House-cut shoestring fries
+        price: '27'
+        title: >-
+          Ron Swanson Brunch Inspired Chipotle Pulled Pork Scallion Pancake
+          Quesadilla (AVAILABLE VEGETARIAN   24) 
       - description: 'Pan-seared shrimp, Spicy green chili cheese grits, Sherry pan sauce'
         price: '19'
         title: 'Shrimp & Grits '
@@ -123,13 +115,6 @@ subgroups:
       - description: 'Melt-in-your-mouth corned beef, Scrambled eggs, Housemade beer bread '
         price: '18'
         title: '''Shine''s Southie Corned Beef Hash '
-      - description: >-
-          Smoky pulled pork, Scrambled egg, Tomato salsa, Petite mixed greens
-          salad, House-cut shoestring fries
-        price: '27'
-        title: >-
-          Ron Swanson Brunch Inspired Chipotle Pulled Pork Scallion Pancake
-          Quesadilla (AVAILABLE VEGETARIAN   24) 
     title: Brunch Phase 2
   - description: 'All the sides & Fixin''s '
     items:
