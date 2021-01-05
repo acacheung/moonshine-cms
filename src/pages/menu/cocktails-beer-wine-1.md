@@ -14,9 +14,6 @@ subgroups:
       - description: 'House Spicy Tequila, Ginger Liqueur,  Fresh Lime, Agave '
         price: '13'
         title: 'There''s Fire '
-      - description: 'Smoky Mezcal, Italian Amaro, Maraschino Liqueur, Fresh Lemon  '
-        price: '13'
-        title: 'Epilogue '
       - description: 'Rye Whiskey, Amaro Aperitif, Yellow Chartreuse, Orange Bitters '
         price: '13'
         title: 'New Classic '
@@ -26,14 +23,17 @@ subgroups:
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '13'
         title: Moonshine 76
+      - description: 'Blanco Tequila, creme de Cassis, Ginger Beer, Fresh Lime '
+        price: '12'
+        title: 'La Diabla '
+      - description: 'Smoky Mezcal, Italian Amaro, Maraschino Liqueur, Fresh Lemon  '
+        price: '13'
+        title: 'Epilogue '
       - description: >-
           Bison Grass Vodka, Local Apple Cider, Kalamansi Lemon, Peach,
           Prosecco              ...add Lychee Popping Boba $2
         price: '13'
         title: Orchard Limonada
-      - description: 'Blanco Tequila, creme de Cassis, Ginger Beer, Fresh Lime '
-        price: '12'
-        title: 'La Diabla '
       - description: 'Juicy Strawberry Vodka, Amaretto, Cardamom, Fresh Lime '
         price: '12'
         title: 'Blame It On The Juice '
