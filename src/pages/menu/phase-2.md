@@ -10,7 +10,7 @@ subgroups:
       - description: >-
           Traditional Bistro French Onion Soup: Melted Swiss, Brioche Crouton,
           Caramelized Onions, Madeira Beef Bone Broth
-        price: '12 regular / 19 grande '
+        price: '12 regular '
         title: 'Chef''s whim Soup for the soul '
       - description: >-
           Skillet warmed creamy baked potato dip, Melted cheddar, Bacon jam,
