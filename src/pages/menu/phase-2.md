@@ -8,9 +8,9 @@ subgroups:
       favorite protein or fixin’s!
     items:
       - description: >-
-          Traditional Bistro French Onion Soup: Melted Swiss, Brioche Crouton,
-          Caramelized Onions, Madeira Beef Bone Broth
-        price: '12 regular '
+          Hungarian porcini Mushroom Bisque: Creamy wild Mushroom Bisque, Fresh
+          Cream, Chicken Stock, Madeira, Thyme & Smoked Paprika 
+        price: '12 regular / 19 grande '
         title: 'Chef''s whim Soup for the soul '
       - description: >-
           Skillet warmed creamy baked potato dip, Melted cheddar, Bacon jam,
