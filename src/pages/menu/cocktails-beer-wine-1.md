@@ -20,9 +20,6 @@ subgroups:
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '13'
         title: Moonshine 76
-      - description: 'Blanco Tequila, creme de Cassis, Ginger Beer, Fresh Lime '
-        price: '12'
-        title: 'La Diabla '
       - description: 'Smoky Mezcal, Italian Amaro, Maraschino Liqueur, Fresh Lemon  '
         price: '13'
         title: 'Epilogue '
