@@ -31,9 +31,6 @@ subgroups:
           Prosecco              ...add Lychee Popping Boba $2
         price: '13'
         title: Orchard Limonada
-      - description: 'Juicy Strawberry Vodka, Amaretto, Cardamom, Fresh Lime '
-        price: '12'
-        title: 'Blame It On The Juice '
       - description: 'Mixed Berry Vodkas, White Cranberry Sweet Tea '
         price: '12 '
         title: 'Jungle Berry Tea '
