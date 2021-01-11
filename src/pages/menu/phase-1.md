@@ -5,11 +5,6 @@ order: 2
 subgroups:
   - description: All portions available regular or “Go Grande”
     items:
-      - description: >-
-          Tomato ragout, Crispy risotto rice fritters, Garlic butter, Rosemary
-          arancini 
-        price: '16 regular 29 grande '
-        title: 'Menu Addition: Tomato Parmesan Arancini '
       - description: 'Sweet and spicy honey-sambal, real jalapeno crab filling'
         price: 15 regular / 26 grande
         title: Rangoons
