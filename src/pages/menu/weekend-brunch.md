@@ -198,11 +198,6 @@ subgroups:
     title: All-Day / All-Night Allstars
   - description: 'Sweet Tooth '
     items:
-      - description: >-
-          Whipped Chantilly Cream, Dulce de Leche Caramel Sauce, White Chocolate
-          & Honey Roasted Peanuts 
-        price: '13'
-        title: 'Menu Addition: Warm Nutella Chocolate Bread Pudding '
       - description: 'Whipped chantilly cream, Toasted oat-amaranth streusel '
         price: '12'
         title: 'Butterscotch Pudding '
