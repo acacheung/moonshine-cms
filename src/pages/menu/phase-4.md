@@ -23,9 +23,6 @@ subgroups:
           whipped cream 1
         price: '11'
         title: 'Holiday Eggnog ice Cream '
-      - description: 'Nutella Caramel, Shaved White Chocolate, Chantilly Whipped Cream'
-        price: '13'
-        title: 'Menu Addition: Warm Red Velvet Bread Pudding '
     title: Sweet Tooth
 ---
 
