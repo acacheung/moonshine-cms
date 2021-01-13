@@ -17,12 +17,20 @@ subgroups:
       - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime '
         price: '13'
         title: 'fay''s Fancy '
-      - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
-        price: '13'
-        title: Moonshine 76
       - description: 'Smoky Mezcal, Italian Amaro, Maraschino Liqueur, Fresh Lemon  '
         price: '13'
         title: 'Epilogue '
+      - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime'
+        price: '12'
+        title: 'La Diabla '
+      - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
+        price: '13'
+        title: Moonshine 76
+      - description: >-
+          Coconut Water Infused Rum, Orange Vodka, Pineapple, Fresh Lime,
+          Nutmeg 
+        price: '13'
+        title: '''Shine Painkiller '
       - description: >-
           Bison Grass Vodka, Local Apple Cider, Kalamansi Lemon, Peach,
           Prosecco              ...add Lychee Popping Boba $2
@@ -88,7 +96,7 @@ subgroups:
         price: '4'
         title: 'Narragansett Fest Märzen Lager '
       - description: '12oz  can '
-        price: '5'
+        price: '4'
         title: 'Boulevard Brewing "Steep Drop" Nitro Coffee Milk Stout '
       - description: '12 oz can '
         price: '5'
@@ -122,7 +130,7 @@ subgroups:
         title: '(White) 2017 Charles & Charles Riesling '
       - description: 'Napa Valley, California, USA '
         price: 11 / 42
-        title: '(WHITE) 2018 Grayson CellarsChardonnay '
+        title: '(WHITE) 2018 Grayson Cellars Chardonnay '
       - description: 'Marlborough, New Zealand '
         price: 13 / 48
         title: '(White) 2019 Whitehaven Sauvignon  Blanc '
