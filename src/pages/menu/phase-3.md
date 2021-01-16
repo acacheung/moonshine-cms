@@ -56,6 +56,12 @@ subgroups:
           butter,  Broccoli rabe, Marcona Almonds, Louisiana cream sauce
         price: '28'
         title: 'Louisiana briased Rabbit Pasta '
+      - description: >-
+          Served Open Faced over Texas Toast with Cornmeal Fried Wellfleet
+          Oysters, Baby Shrimp, Spicy Paprika Aioli & Celery Root Remoulade.
+          Comes With a Side of Shoestring French Fries
+        price: '26'
+        title: 'Menu Addition: Crispy Fried Oyster & Shrimp Po''Boy'
     title: The Main Affair
   - description: Swap out your white rice for mixed greens for 2
     items:
