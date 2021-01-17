@@ -115,12 +115,6 @@ subgroups:
       - description: 'Melt-in-your-mouth corned beef, Scrambled eggs, Housemade beer bread '
         price: '18'
         title: '''Shine''s Southie Corned Beef Hash '
-      - description: >-
-          Served Open Faced over Texas Toast with Cornmeal Fried Wellfleet
-          Oysters, Baby Shrimp, Spicy Paprika Aioli & Celery Root Remoulade.
-          Comes With a Side of Shoestring French Fries
-        price: '26.00'
-        title: 'Menu Addition: Crispy Fried Oyster & Shrimp Po''Boy'
     title: Brunch Phase 2
   - description: 'All the sides & Fixin''s '
     items:
