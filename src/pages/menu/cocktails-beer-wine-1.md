@@ -5,6 +5,11 @@ order: 1
 subgroups:
   - description: ''
     items:
+      - description: >-
+          Tito's Vodka, Combier Peche, White Cranberry, Fresh Lemon, Prosecco
+          Bubbles 
+        price: '13'
+        title: 'Cocktail Menu Addition: Metropolitan '
       - description: 'Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'Classic Manhattan '
