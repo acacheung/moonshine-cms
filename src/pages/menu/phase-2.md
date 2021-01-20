@@ -8,8 +8,8 @@ subgroups:
       favorite protein or fixin’s!
     items:
       - description: >-
-          Hungarian porcini Mushroom Bisque: Creamy wild Mushroom Bisque, Fresh
-          Cream, Chicken Stock, Madeira, Thyme & Smoked Paprika 
+          Mama Mei’s Famous Pork Noodle Soup with Shiitake-Napa Cabbage Broth,
+          Crystal Glass Noodles & Lionshead Pork Meatballs
         price: '12 regular / 19 grande '
         title: 'Chef''s whim Soup for the soul '
       - description: >-
