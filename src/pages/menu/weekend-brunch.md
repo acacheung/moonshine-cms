@@ -153,8 +153,8 @@ subgroups:
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >-
-          Hungarian porcini Mushroom Bisque: Creamy wild Mushroom Bisque, Fresh
-          Cream, Chicken Stock, Madeira, Thyme & Smoked Paprika 
+          Mama Mei’s Famous Pork Noodle Soup With Shiitake-Napa Cabbage Broth,
+          Crystal Glass Noodles & Lionshead Pork Meatballs
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >-
