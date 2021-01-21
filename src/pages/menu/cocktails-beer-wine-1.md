@@ -32,11 +32,6 @@ subgroups:
         price: '13'
         title: Moonshine 76
       - description: >-
-          Coconut Water Infused Rum, Orange Vodka, Pineapple, Fresh Lime,
-          Nutmeg 
-        price: '13'
-        title: '''Shine Painkiller '
-      - description: >-
           Bison Grass Vodka, Local Apple Cider, Kalamansi Lemon, Peach,
           Prosecco              ...add Lychee Popping Boba $2
         price: '13'
@@ -51,6 +46,9 @@ subgroups:
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
+      - description: 'Rye Whiskey, Tart Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
+        price: '13'
+        title: danish modern
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
