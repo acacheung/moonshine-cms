@@ -5,12 +5,6 @@ order: 2
 subgroups:
   - description: All portions available regular or “Go Grande”
     items:
-      - description: >
-          Creamy Cheddar-Blue Cheese Bechamel Sauce, Campanelle Pasta ** Add
-          "You're Fired" Buffalo Tempura Cauliflower or Buffalo House Chicken
-          Nuggies for an Additional $7
-        price: '19'
-        title: 'Menu Addition: "Bring on the Blue" Creamy Blue Cheese Mac & Cheese '
       - description: 'Sweet and spicy honey-sambal, real jalapeno crab filling'
         price: 15 regular / 26 grande
         title: Rangoons
