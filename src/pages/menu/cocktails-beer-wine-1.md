@@ -25,6 +25,9 @@ subgroups:
       - description: 'Smoky Mezcal, Italian Amaro, Maraschino Liqueur, Fresh Lemon  '
         price: '13'
         title: 'Epilogue '
+      - description: 'Rye Whiskey, Tart Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
+        price: '13'
+        title: danish modern
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime'
         price: '12'
         title: 'La Diabla '
@@ -46,9 +49,6 @@ subgroups:
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
-      - description: 'Rye Whiskey, Tart Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
-        price: '13'
-        title: danish modern
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
