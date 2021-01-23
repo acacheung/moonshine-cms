@@ -116,6 +116,9 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: Heineken Zero (Non-Alcoholic)
+      - description: 16oz Tallboy Can
+        price: '11'
+        title: Lord Hobo "Boomsauce" Double IPA
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
