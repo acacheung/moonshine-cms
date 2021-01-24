@@ -39,9 +39,6 @@ subgroups:
           Prosecco              ...add Lychee Popping Boba $2
         price: '13'
         title: Orchard Limonada
-      - description: 'Mixed Berry Vodkas, White Cranberry Sweet Tea '
-        price: '12 '
-        title: 'Jungle Berry Tea '
       - description: |
           Red Wine, Hibiscus, Ginger, Apple
         price: '12 '
