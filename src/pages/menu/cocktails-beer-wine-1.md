@@ -13,6 +13,9 @@ subgroups:
       - description: 'Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'Classic Manhattan '
+      - description: 'Spicy Pepper Vodka, Elderflower, Fresh Cucumber Juice, Lemon'
+        price: '14'
+        title: Farm to Glass
       - description: 'House Spicy Tequila, Ginger Liqueur,  Fresh Lime, Agave '
         price: '13'
         title: 'There''s Fire '
@@ -46,9 +49,6 @@ subgroups:
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
-      - description: 'Spicy Vodka, Cucumber, Lemon, Elderflower'
-        price: '14'
-        title: Farm to Glass
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
@@ -95,6 +95,9 @@ subgroups:
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
+      - description: 16oz Tallboy Can
+        price: '11'
+        title: Lord Hobo "Boomsauce" Double IPA
       - description: '16 oz tallboy can '
         price: '4'
         title: 'Narragansett Fest Märzen Lager '
@@ -113,9 +116,6 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: Heineken Zero (Non-Alcoholic)
-      - description: 16oz Tallboy Can
-        price: '11'
-        title: Lord Hobo "Boomsauce" Double IPA
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
