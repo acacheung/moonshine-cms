@@ -5,6 +5,21 @@ order: 2
 subgroups:
   - description: All portions available regular or “Go Grande”
     items:
+      - description: >-
+          Dippable Cheesy-Beef Carnitas Tacos Pan-Seared with Cumin Crema,
+          Tomato Salsa & Cilantro-Chipotle Taco Jus  
+        price: '16 regular / 28 grande '
+        title: 'MEnu addition: ''shine birria tacos '
+      - description: >-
+          Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
+          kale
+        price: 10 regular / 14 grande
+        title: Local Mixed Greens Salad
+      - description: >-
+          Creamy caramelized onion and roasted beet dip, crispy chickpea
+          papadums (gluten free)
+        price: 9 regular / 14 grande
+        title: Caramelized Onion Beet Dip
       - description: 'Sweet and spicy honey-sambal, real jalapeno crab filling'
         price: 15 regular / 26 grande
         title: Rangoons
@@ -24,16 +39,6 @@ subgroups:
           ginger aioli 
         price: 14 regular / 22 grande
         title: '''Shine Famous Bacon Wrapped Stuffing Bites '
-      - description: >-
-          Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
-          kale
-        price: 10 regular / 14 grande
-        title: Local Mixed Greens Salad
-      - description: >-
-          Creamy caramelized onion and roasted beet dip, crispy chickpea
-          papadums (gluten free)
-        price: 9 regular / 14 grande
-        title: Caramelized Onion Beet Dip
     title: To Get Ya Started
 ---
 
