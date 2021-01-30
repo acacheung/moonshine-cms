@@ -78,6 +78,11 @@ subgroups:
           oil 
         price: '15 / 26 '
         title: 'Tapas Style Patatas Bravas '
+      - description: >-
+          Dippable Cheesy-Beef Carnitas Tacos Pan-Seared with Cumin Crema,
+          Tomato Salsa & Cilantro-Chipotle Taco Jus 
+        price: 16 / 28
+        title: 'Menu Addition: ‘Shine Birria Tacos'
     title: Brunch Phase 1
   - description: 'The Main Affair '
     items:
@@ -215,6 +220,9 @@ subgroups:
           $4
         price: '11'
         title: 'Eggnog Ice Cream '
+      - description: 'Tropical Pineapple Glaze, Toasted Coconut, Whipped Cream'
+        price: '13'
+        title: 'Menu Addition: Warm Maple Pancake Bread'
     title: Brunch Phase 4
 ---
 
