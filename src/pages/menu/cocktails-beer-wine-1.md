@@ -59,7 +59,7 @@ subgroups:
       - price: '7'
         title: '(Draft) Lord Hobo "Hobo Life" Session IPA '
       - price: '6'
-        title: '(Draft) Castle Island Lager '
+        title: (Draft)Zero Gravity Brewing "Green State" Lager
       - price: '7'
         title: '(Draft) Downeast Original Unfiltered Cider '
       - description: '12 oz bottle '
