@@ -16,12 +16,13 @@ subgroups:
         price: '19'
         title: Grass-fed ’Shine Beef Burger
       - description: >-
-          Topped with topped with Tempura Fried                               
-          Poblano Pepper Rings & Scallion Cheddar-Green Chili Cream Cheese 
-          Served with shoestring French fries. (**As always, can be made with
-          our award-winning Mushroom Tofu patty! )
+          Topped with Whipped Scallion Cream Cheese, Sweet Chili Honey Sambal &
+          Crispy Wontons  Served with shoestring French fries. (**As always, can
+          be made with our award-winning Mushroom Tofu patty! )
         price: '23'
-        title: 'January 2021 VIP Burger of the Month : "The Jalapeno Popper"" '
+        title: >-
+          February 2021 VIP Burger of the Month : "The Firecracker
+          Burger"                              
       - description: >
           Creamy mashed potato aioli, Shredded cheddar, Bacon jam, Port red wine
           demiglace, Petite mixed greens salad
