@@ -184,8 +184,8 @@ subgroups:
         price: MKT
         title: 'Grass-fed Beef Burger '
       - description: >-
-          January 2021: “The Jalapeno Popper”  topped with Tempura Fried Poblano
-          Pepper Rings &  Scallion Cheddar-Green Chili Cream Cheese. Served with
+          February 2021: “The Firecracker Burger”  Topped with Whipped Scallion
+          Cream Cheese, Sweet Chili Honey Sambal & Crispy Wontons Served with
           shoestring French fries. (**As always, can be made with our
           award-winning Mushroom Tofu patty! )
         price: '23'
