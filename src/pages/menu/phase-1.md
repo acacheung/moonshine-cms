@@ -6,11 +6,6 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
-          Dippable Cheesy-Beef Carnitas Tacos Pan-Seared with Cumin Crema,
-          Tomato Salsa & Cilantro-Chipotle Taco Jus  
-        price: '16 regular / 28 grande '
-        title: 'MEnu addition: ''shine birria tacos '
-      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
