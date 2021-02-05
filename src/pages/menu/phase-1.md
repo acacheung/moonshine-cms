@@ -6,6 +6,11 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
+          Japanese Style Chilled Omelet, Blistered Shishito Peppers, Crispy
+          Sushi Rice Cakes, & Candied Ginger Aioli
+        price: Regular 14 / Grande 25
+        title: 'Menu Addition: Our Favorite ‘Shine Tamago'
+      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
@@ -34,11 +39,6 @@ subgroups:
           ginger aioli 
         price: 14 regular / 22 grande
         title: '''Shine Famous Bacon Wrapped Stuffing Bites '
-      - description: >-
-          Japanese Style Chilled Omelet, Blistered Shishito Peppers, Crispy
-          Sushi Rice Cakes, & Candied Ginger Aioli
-        price: Regular 14 / Grande 25
-        title: 'Menu Addition: Our Favorite ‘Shine Tamago'
     title: To Get Ya Started
 ---
 
