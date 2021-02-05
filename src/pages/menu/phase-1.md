@@ -38,7 +38,7 @@ subgroups:
           Japanese Style Chilled Omelet, Blistered Shishito Peppers, Crispy
           Sushi Rice Cakes, & Candied Ginger Aioli
         price: Regular 14 / Grande 25
-        title: Our Favorite ‘Shine Tamago
+        title: 'Menu Addition: Our Favorite ‘Shine Tamago'
     title: To Get Ya Started
 ---
 
