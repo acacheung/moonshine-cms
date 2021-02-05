@@ -65,6 +65,12 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: 'Budweiser/ Bud Light '
+      - description: 16 oz can
+        price: '7'
+        title: 'Bud Light Black Cherry Hard Seltzer '
+      - description: '16 oz can '
+        price: '7'
+        title: 'Bud Light Strawberry Lemonade Hard Seltzer '
       - description: '12 oz bottle '
         price: '6'
         title: 'Amstel Light '
