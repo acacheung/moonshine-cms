@@ -90,7 +90,7 @@ subgroups:
         price: '6'
         title: 'Cisco Brewing "Whale''s Tale" Pale Ale '
       - description: '16 oz tallboy can '
-        price: '10'
+        price: '8'
         title: 'Zero Gravity Brewing "Loral Lager" '
       - description: '12 oz bottle '
         price: '7'
@@ -105,17 +105,17 @@ subgroups:
         price: '4'
         title: 'Boulevard Brewing "Steep Drop" Nitro Coffee Milk Stout '
       - description: '12 oz can '
-        price: '5'
+        price: '4'
         title: 'Two Roads Brewing "Biere de Noel" Holiday Ale '
       - description: 12oz bottle
-        price: '6'
+        price: '5'
         title: 'Boulevard Brewing "Nutcracker" Winter Warmer Holiday Ale '
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
-      - description: '12 oz bottle '
+      - description: '12 oz can '
         price: '6'
-        title: Heineken Zero (Non-Alcoholic)
+        title: Budweiser Zero (Non-Alcoholic)
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
