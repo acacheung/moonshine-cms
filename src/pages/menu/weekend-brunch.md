@@ -115,6 +115,11 @@ subgroups:
       - description: 'Melt-in-your-mouth corned beef, Scrambled eggs, Housemade beer bread '
         price: '18'
         title: '''Shine''s Southie Corned Beef Hash '
+      - description: >-
+          Grilled Skirt Steak, Shoestring French Fries, Horseradish Creme
+          Fraiche, Demiglace, Fried Eggs
+        price: '29'
+        title: 'Menu Addition: OG Moonshine "Steak Frites & Eggs"'
     title: Brunch Phase 2
   - description: 'All the sides & Fixin''s '
     items:
