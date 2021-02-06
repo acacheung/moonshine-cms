@@ -48,6 +48,11 @@ subgroups:
     title: 'Cheers To The Weekend! '
   - description: To Get Ya Started! All portions available "Regular" or "Go Grande"
     items:
+      - description: >-
+          Japanese Style Chilled Omelet, Blistered Shishito Peppers, Crispy
+          Sushi Rice Cakes, & Candied Ginger Aioli
+        price: 14 regular / 25 grande
+        title: 'Menu Addition: Our Favorite ‘Shine Tamago '
       - description: 'Local honey, Fresh berries, Sunflower seed-oat crumble'
         price: 9 / 14
         title: 'Whipped Greek Yogurt Parfait '
@@ -82,6 +87,11 @@ subgroups:
   - description: 'The Main Affair '
     items:
       - description: >-
+          Grilled Skirt Steak, Shoestring French Fries, Horseradish Creme
+          Fraiche, Demiglace, Fried Eggs
+        price: '29'
+        title: 'Menu Addition: OG Moonshine "Steak Frites & Eggs"'
+      - description: >-
           Smoky pulled pork, Scrambled egg, Tomato salsa, Petite mixed greens
           salad, House-cut shoestring fries
         price: '27'
@@ -115,11 +125,6 @@ subgroups:
       - description: 'Melt-in-your-mouth corned beef, Scrambled eggs, Housemade beer bread '
         price: '18'
         title: '''Shine''s Southie Corned Beef Hash '
-      - description: >-
-          Grilled Skirt Steak, Shoestring French Fries, Horseradish Creme
-          Fraiche, Demiglace, Fried Eggs
-        price: '29'
-        title: 'Menu Addition: OG Moonshine "Steak Frites & Eggs"'
     title: Brunch Phase 2
   - description: 'All the sides & Fixin''s '
     items:
