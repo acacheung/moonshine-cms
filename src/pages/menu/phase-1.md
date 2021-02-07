@@ -6,11 +6,6 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
-          Japanese Style Chilled Omelet, Blistered Shishito Peppers, Crispy
-          Sushi Rice Cakes, & Candied Ginger Aioli
-        price: Regular 14 / Grande 25
-        title: 'Menu Addition: Our Favorite ‘Shine Tamago'
-      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
@@ -39,6 +34,14 @@ subgroups:
           ginger aioli 
         price: 14 regular / 22 grande
         title: '''Shine Famous Bacon Wrapped Stuffing Bites '
+      - description: 'With Cheddar Bechamel, Shaved Celery & Angry Buffalo Dipping Sauce'
+        price: 16 regular / 29 grande
+        title: 'Menu Addition: Super Bowl Crispy Mac N’Cheese Spring Rolls'
+      - description: >-
+          Our Classic Buttermilk Fried Chicken Wings tossed in our House Made
+          Angry Buffalo Sauce served over a Creamy Poblano Ranch
+        price: 18 regular / 29 grande
+        title: 'Menu Addition: Angry Buffalo Fried Chicken'
     title: To Get Ya Started
 ---
 
