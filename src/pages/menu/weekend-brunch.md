@@ -48,11 +48,6 @@ subgroups:
     title: 'Cheers To The Weekend! '
   - description: To Get Ya Started! All portions available "Regular" or "Go Grande"
     items:
-      - description: >-
-          Japanese Style Chilled Omelet, Blistered Shishito Peppers, Crispy
-          Sushi Rice Cakes, & Candied Ginger Aioli
-        price: 14 regular / 25 grande
-        title: 'Menu Addition: Our Favorite ‘Shine Tamago '
       - description: 'Local honey, Fresh berries, Sunflower seed-oat crumble'
         price: 9 / 14
         title: 'Whipped Greek Yogurt Parfait '
@@ -83,6 +78,14 @@ subgroups:
           oil 
         price: '15 / 26 '
         title: 'Tapas Style Patatas Bravas '
+      - description: >-
+          Our Classic Buttermilk Fried Chicken Wings tossed in our House Made
+          Angry Buffalo Sauce served over a Creamy Poblano Ranch
+        price: 18 Regular / 29 Grande
+        title: 'Menu Addition: Angry Buffalo Fried Chicken'
+      - description: 'With Cheddar Bechamel, Shaved Celery & Angry Buffalo Dipping Sauce'
+        price: 16 regular / 29 Grande
+        title: 'Menu Addition: Super Bowl Crispy Mac N’Cheese Spring Rolls'
     title: Brunch Phase 1
   - description: 'The Main Affair '
     items:
