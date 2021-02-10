@@ -206,11 +206,6 @@ subgroups:
     title: All-Day / All-Night Allstars
   - description: 'Sweet Tooth '
     items:
-      - description: >-
-          Toasted Almond Shortbread                   with Whipped Cream Cheese
-          Filling           & Blueberry Pie Topping 
-        price: '13'
-        title: 'Menu Addition: Blueberry Jamboree'
       - description: 'Whipped chantilly cream, Toasted oat-amaranth streusel '
         price: '12'
         title: 'Butterscotch Pudding '
