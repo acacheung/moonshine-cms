@@ -85,7 +85,7 @@ subgroups:
         title: Springdale "Pearly Whit"  White Ale
       - description: '16 oz can '
         price: '8'
-        title: 'Stormalong Mass Appeal Cider '
+        title: 'Artifact Cider Project "Slow Down" Cider '
       - description: '12 oz bottle '
         price: '6'
         title: Sapporo
@@ -110,9 +110,6 @@ subgroups:
       - description: '12oz  can '
         price: '4'
         title: 'Boulevard Brewing "Steep Drop" Nitro Coffee Milk Stout '
-      - description: '12 oz can '
-        price: '4'
-        title: 'Two Roads Brewing "Biere de Noel" Holiday Ale '
       - description: 12oz bottle
         price: '5'
         title: 'Boulevard Brewing "Nutcracker" Winter Warmer Holiday Ale '
