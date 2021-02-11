@@ -113,6 +113,9 @@ subgroups:
       - description: 12oz bottle
         price: '5'
         title: 'Boulevard Brewing "Nutcracker" Winter Warmer Holiday Ale '
+      - description: '16oz tallboy can '
+        price: '10'
+        title: 'Mighty Squirrel (Indulge Series) "Cookies & Cream" Imperial Stout '
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
