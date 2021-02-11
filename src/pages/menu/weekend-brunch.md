@@ -1,7 +1,7 @@
 ---
 templateKey: menu-group
 title: Weekend Brunch
-order: 6
+order: 7
 subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
