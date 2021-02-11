@@ -1,7 +1,7 @@
 ---
 templateKey: menu-group
 title: Phase 2- Next Level Favorites (Shareable Small Plates)
-order: 3
+order: 4
 subgroups:
   - description: >-
       All portions available regular or “Go Grande”. Don’t forget to add your
