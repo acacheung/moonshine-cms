@@ -5,6 +5,9 @@ order: 5
 subgroups:
   - description: Don’t forget to add your favorite fixin’s or sides!
     items:
+      - description: 'Ginger-Jade Sauce, Steamed White Rice, Grilled Broccolini'
+        price: '29'
+        title: 'Menu Addition: Chinese BBQ Charsiu Spareribs'
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
