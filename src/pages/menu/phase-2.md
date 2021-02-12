@@ -8,8 +8,12 @@ subgroups:
       favorite protein or fixin’s!
     items:
       - description: >-
-          Mama Mei’s Famous Pork Noodle Soup with Shiitake-Napa Cabbage Broth,
-          Crystal Glass Noodles & Lionshead Pork Meatballs
+          Chef Asia’s Very First                   “Schitt’s
+          Creek”Special,                     “The Lover’s
+          Curry”                               Thai Coconut-Panang Style
+          Pineapple Curry *Have Over French Fries, Rice or Crispy Fried Tater
+          Tots for $16                                        **Or Add Your
+          Favorite Protein!
         price: '12 regular / 19 grande '
         title: 'Chef''s whim Soup for the soul '
       - description: >-
