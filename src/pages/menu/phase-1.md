@@ -6,6 +6,16 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
+          Voluptuous, Sweet, Briny, Fleshy 3” Oysters served with House Cocktail
+          Sauce & Thai Bird Chili Mignonette
+        price: 14 1/2dozen / 26 Dozen
+        title: >-
+          Menu Addition: “Heart’s Desire” Oysters on the Half Shell (Barnstable,
+          MA)
+      - description: 'House Tortillas, Cucumber, Candied Ginger Aioli, Toasted Sesame'
+        price: 18 regular / 32 grande
+        title: 'Menu Addition: ‘Shine Tuna Tartare w/Smoky Shrimp Aioli '
+      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
@@ -34,14 +44,6 @@ subgroups:
           ginger aioli 
         price: 14 regular / 22 grande
         title: '''Shine Famous Bacon Wrapped Stuffing Bites '
-      - description: 'With Cheddar Bechamel, Shaved Celery & Angry Buffalo Dipping Sauce'
-        price: 16 regular / 29 grande
-        title: 'Menu Addition: Super Bowl Crispy Mac N’Cheese Spring Rolls'
-      - description: >-
-          Our Classic Buttermilk Fried Chicken Wings tossed in our House Made
-          Angry Buffalo Sauce served over a Creamy Poblano Ranch
-        price: 18 regular / 29 grande
-        title: 'Menu Addition: Angry Buffalo Fried Chicken'
     title: To Get Ya Started
 ---
 
