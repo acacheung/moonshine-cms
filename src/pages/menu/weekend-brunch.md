@@ -78,14 +78,6 @@ subgroups:
           oil 
         price: '15 / 26 '
         title: 'Tapas Style Patatas Bravas '
-      - description: >-
-          Our Classic Buttermilk Fried Chicken Wings tossed in our House Made
-          Angry Buffalo Sauce served over a Creamy Poblano Ranch
-        price: 18 Regular / 29 Grande
-        title: 'Menu Addition: Angry Buffalo Fried Chicken'
-      - description: 'With Cheddar Bechamel, Shaved Celery & Angry Buffalo Dipping Sauce'
-        price: 16 regular / 29 Grande
-        title: 'Menu Addition: Super Bowl Crispy Mac N’Cheese Spring Rolls'
     title: Brunch Phase 1
   - description: 'The Main Affair '
     items:
@@ -161,8 +153,12 @@ subgroups:
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >-
-          Mama Mei’s Famous Pork Noodle Soup With Shiitake-Napa Cabbage Broth,
-          Crystal Glass Noodles & Lionshead Pork Meatballs
+          Chef Asia’s Very First                   “Schitt’s
+          Creek”Special,                     “The Lover’s
+          Curry”                               Thai Coconut-Panang Style
+          Pineapple Curry *Have Over French Fries, Rice or Crispy Fried Tater
+          Tots for $16                                        **Or Add Your
+          Favorite Protein!
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >-
