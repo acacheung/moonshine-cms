@@ -103,7 +103,7 @@ subgroups:
         title: 'Stone IPA '
       - description: 16oz Tallboy Can
         price: '11'
-        title: Lord Hobo "Boomsauce" Double IPA
+        title: Clown Shoes Brewing "Bubble Farm IPA"
       - description: '16 oz tallboy can '
         price: '4'
         title: 'Narragansett Fest Märzen Lager '
