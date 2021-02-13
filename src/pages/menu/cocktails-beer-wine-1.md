@@ -25,12 +25,12 @@ subgroups:
       - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime '
         price: '13'
         title: 'fay''s Fancy '
-      - description: 'Smoky Mezcal, Italian Amaro, Maraschino Liqueur, Fresh Lemon  '
+      - description: 'Smoky Mezcal, Italian Amaro, Pamplemousse Liquor, Fresh Lemon  '
         price: '13'
-        title: 'Epilogue '
+        title: Smoky Mountain Don't
       - description: 'Rye Whiskey, Tart Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
         price: '13'
-        title: danish modern
+        title: Danish Modern
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime'
         price: '12'
         title: 'La Diabla '
