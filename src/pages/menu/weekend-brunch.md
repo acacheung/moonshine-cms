@@ -48,6 +48,11 @@ subgroups:
     title: 'Cheers To The Weekend! '
   - description: To Get Ya Started! All portions available "Regular" or "Go Grande"
     items:
+      - description: >-
+          Voluptuous, Sweet, Briny, Fleshy 3” Oysters served with House Cocktail
+          Sauce & Thai Bird Chili Mignonette
+        price: 14 1/2 Dozen / 26 Dozen
+        title: '“Heart’s Desire” Oysters on the Half Shell (Barnstable, MA)'
       - description: 'Local honey, Fresh berries, Sunflower seed-oat crumble'
         price: 9 / 14
         title: 'Whipped Greek Yogurt Parfait '
@@ -81,6 +86,16 @@ subgroups:
     title: Brunch Phase 1
   - description: 'The Main Affair '
     items:
+      - description: >-
+          House Scallion Pancake Stuffed "Burrito-Style" with Braised Oxtail,
+          Pho Noodles & Bacony-Pho Broth for Dipping
+        price: '26'
+        title: 'Menu Addition: Famous Moonshine Phoritto w/ Braised Oxtail'
+      - description: >-
+          Grilled Skirt Steak, Shoestring French Fries, Horseradish Creme
+          Fraiche, Demiglace, Fried Eggs
+        price: '29'
+        title: 'Menu Addition: OG ''Shine "Steak Frites & Eggs"'
       - description: >-
           Smoky pulled pork, Scrambled egg, Tomato salsa, Petite mixed greens
           salad, House-cut shoestring fries
