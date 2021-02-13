@@ -97,7 +97,7 @@ subgroups:
         title: 'Cisco Brewing "Whale''s Tale" Pale Ale '
       - description: '16 oz tallboy can '
         price: '8'
-        title: 'Zero Gravity Brewing "Loral Lager" '
+        title: Zero Gravity Brewing "Cone Head IPA"
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
