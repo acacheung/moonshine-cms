@@ -86,9 +86,6 @@ subgroups:
       - description: '16 oz can '
         price: '8'
         title: 'Artifact Cider Project "Slow Down" Cider '
-      - description: '12 oz bottle '
-        price: '6'
-        title: Sapporo
       - description: '16 oz tallboy can '
         price: '5'
         title: Narragansett Lager
@@ -96,7 +93,7 @@ subgroups:
         price: '6'
         title: 'Cisco Brewing "Whale''s Tale" Pale Ale '
       - description: '16 oz tallboy can '
-        price: '8'
+        price: '10'
         title: Zero Gravity Brewing "Cone Head IPA"
       - description: '12 oz bottle '
         price: '7'
