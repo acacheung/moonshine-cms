@@ -8,9 +8,6 @@ subgroups:
       - description: 'Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'Classic Manhattan '
-      - description: 'House Spicy Tequila, Ginger Liqueur,  Fresh Lime, Agave '
-        price: '13'
-        title: 'There''s Fire '
       - description: 'Rye Whiskey, Amaro Aperitif, Yellow Chartreuse, Orange Bitters '
         price: '13'
         title: 'New Classic '
@@ -20,15 +17,18 @@ subgroups:
       - description: 'Rye Whiskey, Tart Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
         price: '13'
         title: Danish Modern
-      - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
+      - description: 'House Spicy Tequila, Ginger Liqueur,  Fresh Lime, Agave '
         price: '13'
-        title: 'Shine Spritz '
+        title: 'There''s Fire '
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime'
         price: '12'
         title: 'La Diabla '
       - description: 'Smoky Mezcal, Italian Amaro, Pamplemousse Liquor, Fresh Lemon  '
         price: '13'
         title: Smoky Mountain Don't
+      - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
+        price: '13'
+        title: 'Shine Spritz '
       - description: >-
           Tito's Vodka, Combier Peche, White Cranberry, Fresh Lemon, Prosecco
           Bubbles 
@@ -138,15 +138,18 @@ subgroups:
       - description: 'Marlborough, New Zealand '
         price: 13 / 48
         title: '(White) 2019 Whitehaven Sauvignon  Blanc '
-      - description: 'Sonoma County, California USA '
-        price: 13 / 50
-        title: (Red) 2017 Storypoint Cabernet Sauvignon Select
       - description: 'Monterey County, CA, USA '
         price: '13/ 50 '
         title: '(RED) 2018 Cloudfall Monterey County Pinot Noir '
+      - description: 'Mendoza, Argentina '
+        price: '12 / 45 '
+        title: '(red) 2019 Bieler Family Wines "The Show" Malbec '
       - description: 'Columbia valley, WA, USA '
         price: '12 / 45 '
         title: '(red) 2017 Charles & Charles cabernet/syrah blend '
+      - description: 'Sonoma County, California USA '
+        price: 13 / 50
+        title: (Red) 2017 Storypoint Cabernet Sauvignon Select
     title: Wine List
 ---
 
