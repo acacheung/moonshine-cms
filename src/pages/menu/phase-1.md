@@ -6,15 +6,12 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
-          Voluptuous, Sweet, Briny, Fleshy 3” Oysters served with House Cocktail
-          Sauce & Thai Bird Chili Mignonette
-        price: 14 1/2dozen / 26 Dozen
+          featuring “Heart’s Desire" (Barnstable, MA) Oysters served with House
+          Cocktail Sauce & Thai Bird Chili Mignonette
+        price: '1.50 / each '
         title: >-
-          Menu Addition: “Heart’s Desire” Oysters on the Half Shell (Barnstable,
-          MA)
-      - description: 'House Tortillas, Cucumber, Candied Ginger Aioli, Toasted Sesame'
-        price: 18 regular / 32 grande
-        title: 'Menu Addition: ‘Shine Tuna Tartare w/Smoky Shrimp Aioli '
+          Happy Anniversary Moonshine 152!!!! In Honor of our 6th Anniversary
+          We'll Be Offering HALF OFF Oysters on the Half Shell 
       - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
