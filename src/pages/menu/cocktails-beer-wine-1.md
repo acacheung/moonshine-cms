@@ -5,17 +5,9 @@ order: 2
 subgroups:
   - description: ''
     items:
-      - description: >-
-          Tito's Vodka, Combier Peche, White Cranberry, Fresh Lemon, Prosecco
-          Bubbles 
-        price: '13'
-        title: 'Cocktail Menu Addition: Metropolitan '
       - description: 'Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'Classic Manhattan '
-      - description: 'Spicy Pepper Vodka, Elderflower, Fresh Cucumber Juice, Lemon'
-        price: '14'
-        title: Farm to Glass
       - description: 'House Spicy Tequila, Ginger Liqueur,  Fresh Lime, Agave '
         price: '13'
         title: 'There''s Fire '
@@ -25,30 +17,36 @@ subgroups:
       - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime '
         price: '13'
         title: 'fay''s Fancy '
-      - description: 'Smoky Mezcal, Italian Amaro, Pamplemousse Liquor, Fresh Lemon  '
-        price: '13'
-        title: Smoky Mountain Don't
       - description: 'Rye Whiskey, Tart Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
         price: '13'
         title: Danish Modern
+      - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
+        price: '13'
+        title: 'Shine Spritz '
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime'
         price: '12'
         title: 'La Diabla '
-      - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
+      - description: 'Smoky Mezcal, Italian Amaro, Pamplemousse Liquor, Fresh Lemon  '
         price: '13'
-        title: Moonshine 76
+        title: Smoky Mountain Don't
+      - description: >-
+          Tito's Vodka, Combier Peche, White Cranberry, Fresh Lemon, Prosecco
+          Bubbles 
+        price: '13'
+        title: 'Metropolitan '
       - description: >-
           Bison Grass Vodka, Local Apple Cider, Kalamansi Lemon, Peach,
           Prosecco              ...add Lychee Popping Boba $2
         price: '13'
         title: Orchard Limonada
-      - description: |
-          Red Wine, Hibiscus, Ginger, Apple
-        price: '12 '
-        title: Sahil's Sangria
-      - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
+      - description: >-
+          Coconut Water Infused Rum, Orange Vodka, Pineapple, Fresh Lime,
+          Nutmeg 
         price: '13'
-        title: 'Shine Spritz '
+        title: '(let''s pretend it''s summer) painkiller '
+      - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
+        price: '13'
+        title: '''Shine 76'
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
@@ -90,17 +88,14 @@ subgroups:
         price: '5'
         title: Narragansett Lager
       - description: '12 oz bottle '
-        price: '6'
-        title: 'Cisco Brewing "Whale''s Tale" Pale Ale '
-      - description: '16 oz tallboy can '
-        price: '10'
-        title: Zero Gravity Brewing "Cone Head IPA"
-      - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
       - description: 16oz Tallboy Can
         price: '11'
         title: Clown Shoes Brewing "Bubble Farm IPA"
+      - description: '16 oz tallboy can '
+        price: '10'
+        title: Zero Gravity Brewing "Cone Head IPA"
       - description: '16 oz tallboy can '
         price: '4'
         title: 'Narragansett Fest Märzen Lager '
