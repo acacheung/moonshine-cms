@@ -23,11 +23,6 @@ subgroups:
           whipped cream 1
         price: '11'
         title: 'Holiday Eggnog ice Cream '
-      - description: >-
-          Dutch Cocoa Baked, Warm Bread Pudding, Shaved White Chocolate,    
-          Nutella Dulce De Leche Sauce
-        price: '13'
-        title: 'Menu Addition: Red Velvet Bread Pudding'
     title: Sweet Tooth
 ---
 
