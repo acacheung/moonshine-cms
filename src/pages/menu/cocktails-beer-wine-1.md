@@ -29,6 +29,9 @@ subgroups:
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
+      - description: 'Red Wine, Ginger, Hibiscus, Apple, Citrus '
+        price: '11'
+        title: 'sahil''s sangria '
       - description: >-
           Tito's Vodka, Combier Peche, White Cranberry, Fresh Lemon, Prosecco
           Bubbles 
