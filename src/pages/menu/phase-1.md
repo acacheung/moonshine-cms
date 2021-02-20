@@ -6,13 +6,6 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
-          featuring “Heart’s Desire" (Barnstable, MA) Oysters served with House
-          Cocktail Sauce & Thai Bird Chili Mignonette
-        price: '1.50 / each '
-        title: >-
-          Happy Anniversary Moonshine 152!!!! In Honor of our 6th Anniversary
-          We'll Be Offering HALF OFF Oysters on the Half Shell 
-      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
