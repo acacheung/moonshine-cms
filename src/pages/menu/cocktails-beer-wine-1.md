@@ -33,6 +33,11 @@ subgroups:
         price: '11'
         title: 'sahil''s sangria '
       - description: >-
+          Vanilla-Pear Infused Tennessee Moonshine, Pear Nectar, Vanilla Simple,
+          Fresh Lime 
+        price: '13'
+        title: who's the bosc
+      - description: >-
           Tito's Vodka, Combier Peche, White Cranberry, Fresh Lemon, Prosecco
           Bubbles 
         price: '13'
@@ -47,9 +52,6 @@ subgroups:
           Nutmeg 
         price: '13'
         title: '(let''s pretend it''s summer) painkiller '
-      - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
-        price: '13'
-        title: '''Shine 76'
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
@@ -81,15 +83,21 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: 'Corona Extra '
+      - description: '12 oz Bottle '
+        price: '6'
+        title: 'Kona Brewing Longboard Lager '
+      - description: '12 oz Bottle '
+        price: '6'
+        title: 'Allagash White '
       - description: 16 oz can
         price: '10'
         title: Springdale "Pearly Whit"  White Ale
       - description: '16 oz can '
         price: '8'
         title: 'Artifact Cider Project "Slow Down" Cider '
-      - description: '16 oz tallboy can '
-        price: '5'
-        title: Narragansett Lager
+      - description: '12 oz Can '
+        price: '6'
+        title: 'Shacksbury "The Vermonter" Alpine Cider '
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
@@ -99,9 +107,6 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '10'
         title: Zero Gravity Brewing "Cone Head IPA"
-      - description: '16 oz tallboy can '
-        price: '4'
-        title: 'Narragansett Fest Märzen Lager '
       - description: 12oz bottle
         price: '5'
         title: 'Boulevard Brewing "Nutcracker" Winter Warmer Holiday Ale '
