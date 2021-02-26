@@ -8,6 +8,11 @@ subgroups:
       favorite protein or fixin’s!
     items:
       - description: >-
+          Crispy Sushi Rice Cake, Thai Shredded Green Papaya, Nuoc Cham, & Honey
+          Roasted Peanuts
+        price: 17 regular / 29 grande
+        title: 'Menu Addition: The OG ''Shine Grilled Stuffed Avocado'
+      - description: >-
           Chef Asia’s Very First                   “Schitt’s
           Creek”Special,                     “The Lover’s
           Curry”                               Thai Coconut-Panang Style
