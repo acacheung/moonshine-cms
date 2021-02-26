@@ -20,9 +20,6 @@ subgroups:
       - description: 'House Spicy Tequila, Ginger Liqueur,  Fresh Lime, Agave '
         price: '13'
         title: 'There''s Fire '
-      - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime'
-        price: '12'
-        title: 'La Diabla '
       - description: 'Smoky Mezcal, Italian Amaro, Pamplemousse Liquor, Fresh Lemon  '
         price: '13'
         title: Smoky Mountain Don't
@@ -55,6 +52,9 @@ subgroups:
           Nutmeg 
         price: '13'
         title: '(let''s pretend it''s summer) painkiller '
+      - description: 'Malt whiskey, Cherry Heering, Campari, Sweet Vermouth, Orange Bitters'
+        price: '14'
+        title: Member's Only
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
@@ -125,6 +125,9 @@ subgroups:
       - description: '12 oz can '
         price: '6'
         title: Budweiser Zero (Non-Alcoholic)
+      - description: 16 oz Tallboy Can
+        price: '5'
+        title: Narragansett Lager
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
