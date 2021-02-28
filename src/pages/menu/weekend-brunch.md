@@ -224,16 +224,16 @@ subgroups:
         price: '11'
         title: 'Jaime''s Favorite Oreo Cookie Layered Fudge Brownie '
       - description: >-
-          Belgian waffle, Apple pie filling, Eggnog ice cream, Sea salted dulce
-          de leche caramel sauce, Cobbler Crumbs, Whipped cream 
+          Butterfinger Ice Cream, Cornflake-Pecan Crunch, Maple Caramel, and
+          Candied Bacon
         price: '15'
-        title: 'Apple Cobbler Waffle Ice Cream Sundae '
+        title: Belgian Waffle Ice Cream Sundae
       - description: >-
           Top it off with Chantilly cream, Nutella chocolate sauce OR Sea salted
           caramel sauce for $1/ea .....add a scoop of ice cream to any dish for
           $4
         price: '11'
-        title: 'Eggnog Ice Cream '
+        title: 'Butterfinger Ice Cream '
     title: Brunch Phase 4
 ---
 
