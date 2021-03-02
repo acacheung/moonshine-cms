@@ -16,12 +16,13 @@ subgroups:
         price: '19'
         title: Grass-fed ’Shine Beef Burger
       - description: >-
-          Topped with Whipped Scallion Cream Cheese, Sweet Chili Honey Sambal &
-          Crispy Wontons  Served with shoestring French fries. (**As always, can
-          be made with our award-winning Mushroom Tofu patty! )
+          Topped with Green Chive Mashed Potatoes, Guinness Gravy, Melted Orange
+          Cheddar & Rustic Grilled Tomato. Served with shoestring French fries.
+          (**As always, can be made with our award-winning Mushroom Tofu patty!
+          )
         price: '23'
         title: >-
-          February 2021 VIP Burger of the Month : "The Firecracker
+          March 2021 VIP Burger of the Month: "St. Patrick's Day
           Burger"                              
       - description: >
           Creamy mashed potato aioli, Shredded cheddar, Bacon jam, Port red wine
