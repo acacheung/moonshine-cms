@@ -11,15 +11,17 @@ subgroups:
       - description: 'Rye Whiskey, Amaro Aperitif, Yellow Chartreuse, Orange Bitters '
         price: '13'
         title: 'New Classic '
-      - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime '
-        price: '13'
-        title: 'fay''s Fancy '
-      - description: 'Rye Whiskey, Tart Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
-        price: '13'
-        title: Danish Modern
+      - description: >-
+          Single Malt Locally Made Whiskey, Dark Cherry Cordial, Italian Orange
+          Liqueur, Sweet Vermouth, Orange Bitters
+        price: '14'
+        title: Member's Only
       - description: 'House Spicy Tequila, Ginger Liqueur,  Fresh Lime, Agave '
         price: '13'
         title: 'There''s Fire '
+      - description: 'Blanco Tequila, Creme de Cassis Ginger Beer, Fresh Lime '
+        price: '12'
+        title: 'La Diabla '
       - description: 'Smoky Mezcal, Italian Amaro, Pamplemousse Liquor, Fresh Lemon  '
         price: '13'
         title: Smoky Mountain Don't
@@ -29,6 +31,12 @@ subgroups:
       - description: 'Red Wine, Ginger, Hibiscus, Apple, Citrus '
         price: '11'
         title: 'sahil''s sangria '
+      - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime '
+        price: '13'
+        title: 'fay''s Fancy '
+      - description: 'Rye Whiskey, Tart Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
+        price: '13'
+        title: Danish Modern
       - description: >-
           Tito's Vodka, Combier Peche, White Cranberry, Fresh Lemon, Prosecco
           Bubbles 
@@ -52,9 +60,6 @@ subgroups:
           Nutmeg 
         price: '13'
         title: '(let''s pretend it''s summer) painkiller '
-      - description: 'Malt whiskey, Cherry Heering, Campari, Sweet Vermouth, Orange Bitters'
-        price: '14'
-        title: Member's Only
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
