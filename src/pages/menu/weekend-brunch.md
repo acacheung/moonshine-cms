@@ -82,11 +82,6 @@ subgroups:
   - description: 'The Main Affair '
     items:
       - description: >-
-          House Scallion Pancake Stuffed "Burrito-Style" with Beef Brisket, Pho
-          Noodles & Bacony-Pho Broth for Dipping
-        price: '26'
-        title: 'Menu Addition: Famous Moonshine Phoritto w/ Beef Brisket'
-      - description: >-
           Grilled Skirt Steak, Shoestring French Fries, Horseradish Creme
           Fraiche, Demiglace, Fried Eggs
         price: '29'
@@ -193,10 +188,10 @@ subgroups:
         price: MKT
         title: 'Grass-fed Beef Burger '
       - description: >-
-          February 2021: “The Firecracker Burger”  Topped with Whipped Scallion
-          Cream Cheese, Sweet Chili Honey Sambal & Crispy Wontons Served with
-          shoestring French fries. (**As always, can be made with our
-          award-winning Mushroom Tofu patty! )
+          March 2021: "St. Patrick's Day Burger" Topped with Green Chive Mashed
+          Potatoes, Guinness Gravy, Melted Orange Cheddar & Rustic Grilled
+          Tomato. Served with shoestring French fries. (**As always, can be made
+          with our award-winning Mushroom Tofu patty! )
         price: '23'
         title: 'Make Your Burger a VIP Burger of the Month '
       - description: >-
