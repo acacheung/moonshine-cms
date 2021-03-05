@@ -113,6 +113,9 @@ subgroups:
       - description: 12oz bottle
         price: '5'
         title: 'Boulevard Brewing "Nutcracker" Winter Warmer Holiday Ale '
+      - description: 16 oz Tallboy Can
+        price: '5'
+        title: Narragansett Lager
       - description: '16oz  tallboy can '
         price: '5'
         title: 'Narragansett "Autocrat" Coffee Milk Stout '
@@ -125,9 +128,6 @@ subgroups:
       - description: '12 oz can '
         price: '6'
         title: Budweiser Zero (Non-Alcoholic)
-      - description: 16 oz Tallboy Can
-        price: '5'
-        title: Narragansett Lager
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
