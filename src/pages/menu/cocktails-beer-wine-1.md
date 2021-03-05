@@ -71,6 +71,8 @@ subgroups:
         title: '(Draft) Lord Hobo "Hobo Life" Session IPA '
       - price: '7'
         title: '(Draft) Downeast Original Unfiltered Cider '
+      - price: '7'
+        title: (Draft) Notch Brewing Session Pilsner
       - description: '12 oz bottle '
         price: '6'
         title: 'Budweiser/ Bud Light '
