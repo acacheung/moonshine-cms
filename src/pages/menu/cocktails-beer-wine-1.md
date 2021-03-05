@@ -69,8 +69,6 @@ subgroups:
         title: '(Draft) Harpoon IPA '
       - price: '7'
         title: '(Draft) Lord Hobo "Hobo Life" Session IPA '
-      - price: '6'
-        title: '(Draft) Cisco Brewing "Whale''s Tale" Pale Ale '
       - price: '7'
         title: '(Draft) Downeast Original Unfiltered Cider '
       - description: '12 oz bottle '
@@ -97,9 +95,6 @@ subgroups:
       - description: '12 oz Bottle '
         price: '6'
         title: 'Allagash White '
-      - description: 16 oz can
-        price: '10'
-        title: Springdale "Pearly Whit"  White Ale
       - description: '16 oz can '
         price: '8'
         title: 'Artifact Cider Project "Slow Down" Cider '
