@@ -82,11 +82,6 @@ subgroups:
   - description: 'The Main Affair '
     items:
       - description: >-
-          Grilled Skirt Steak, Shoestring French Fries, Horseradish Creme
-          Fraiche, Demiglace, Fried Eggs
-        price: '29'
-        title: 'Menu Addition: OG ''Shine "Steak Frites & Eggs"'
-      - description: >-
           Smoky pulled pork, Scrambled egg, Tomato salsa, Petite mixed greens
           salad, House-cut shoestring fries
         price: '27'
