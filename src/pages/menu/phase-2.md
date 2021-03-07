@@ -12,13 +12,8 @@ subgroups:
           Roasted Peanuts
         price: 17 regular / 29 grande
         title: 'Menu Addition: The OG ''Shine Grilled Stuffed Avocado'
-      - description: >-
-          Chef Asia’s Very First                   “Schitt’s
-          Creek”Special,                     “The Lover’s
-          Curry”                               Thai Coconut-Panang Style
-          Pineapple Curry *Have Over French Fries, Rice or Crispy Fried Tater
-          Tots for $16                                        **Or Add Your
-          Favorite Protein!
+      - description: |2
+                                                                                                 "Mama Mei's Pork Noodle Soup"         with Lionshead Meatballs, Crystal Glass Noodles, Napa Cabbage-Shiitake Broth.                                                          **Make It An Entree By Adding Your Favorite Protein! 
         price: '12 regular / 19 grande '
         title: 'Chef''s whim Soup for the soul '
       - description: >-
