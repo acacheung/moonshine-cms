@@ -31,9 +31,6 @@ subgroups:
       - description: 'Red Wine, Ginger, Hibiscus, Apple, Citrus '
         price: '11'
         title: 'sahil''s sangria '
-      - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime '
-        price: '13'
-        title: 'fay''s Fancy '
       - description: 'Rye Whiskey, Tart Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
         price: '13'
         title: Danish Modern
