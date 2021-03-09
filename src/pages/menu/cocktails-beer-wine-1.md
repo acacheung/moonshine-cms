@@ -79,6 +79,9 @@ subgroups:
       - description: '16 oz can '
         price: '7'
         title: 'Bud Light Strawberry Lemonade Hard Seltzer '
+      - description: 16 oz tallboy can
+        price: '6'
+        title: Harpoon "Celtic Red" Red Ale
       - description: '12 oz bottle '
         price: '6'
         title: 'Amstel Light '
