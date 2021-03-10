@@ -7,11 +7,6 @@ subgroups:
       All portions available regular or “Go Grande”. Don’t forget to add your
       favorite protein or fixin’s!
     items:
-      - description: >-
-          Crispy Sushi Rice Cake, Thai Shredded Green Papaya, Nuoc Cham, & Honey
-          Roasted Peanuts
-        price: 17 regular / 29 grande
-        title: 'Menu Addition: The OG ''Shine Grilled Stuffed Avocado'
       - description: |2
                                                                                                  "Mama Mei's Pork Noodle Soup"         with Lionshead Meatballs, Crystal Glass Noodles, Napa Cabbage-Shiitake Broth.                                                          **Make It An Entree By Adding Your Favorite Protein! 
         price: '12 regular / 19 grande '
