@@ -22,9 +22,6 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
-      - description: 'Smoky Mezcal, Italian Amaro, Pamplemousse Liquor, Fresh Lemon  '
-        price: '13'
-        title: Smoky Mountain Don't
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
