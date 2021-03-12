@@ -71,14 +71,11 @@ subgroups:
         price: '6'
         title: 'Budweiser/ Bud Light '
       - description: 16 oz can
-        price: '7'
+        price: '6'
         title: 'Bud Light Black Cherry Hard Seltzer '
       - description: '16 oz can '
-        price: '7'
-        title: 'Bud Light Strawberry Lemonade Hard Seltzer '
-      - description: 16 oz tallboy can
         price: '6'
-        title: Harpoon "Celtic Red" Red Ale
+        title: 'Bud Light Strawberry Lemonade Hard Seltzer '
       - description: '12 oz bottle '
         price: '6'
         title: 'Amstel Light '
@@ -91,6 +88,9 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: 'Corona Extra '
+      - description: 16 oz tallboy can
+        price: '6'
+        title: Harpoon "Celtic Red" Red Ale
       - description: '12 oz Bottle '
         price: '6'
         title: 'Kona Brewing Longboard Lager '
@@ -111,7 +111,7 @@ subgroups:
         title: Clown Shoes Brewing "Bubble Farm IPA"
       - description: '16 oz tallboy can '
         price: '10'
-        title: Zero Gravity Brewing "Cone Head IPA"
+        title: 'Fiddlehead Brewing IPA '
       - description: 12oz bottle
         price: '5'
         title: 'Boulevard Brewing "Nutcracker" Winter Warmer Holiday Ale '
