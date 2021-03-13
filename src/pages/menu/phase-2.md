@@ -34,6 +34,9 @@ subgroups:
       - description: 'Buttermilk fried chicken wings, poblano ranch dressing '
         price: 16 regular / 27 grande
         title: Moonshine’s Boston’s Best Fried Chicken
+      - description: 'Melted Cheese, House Corn Tortillas, Salsa Fresca, Cumin Crema'
+        price: '24'
+        title: 'Menu Addition: Brown Sugar Kielbasa Nachos'
     title: Next Level Favorites
   - description: Add your favorite proteins to anything!
     items:
