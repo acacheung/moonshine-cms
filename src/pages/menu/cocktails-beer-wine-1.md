@@ -54,6 +54,9 @@ subgroups:
           Nutmeg 
         price: '13'
         title: '(let''s pretend it''s summer) painkiller '
+      - description: 'Spicy Vodka, Cucumber, Elderflower, Fresh Lemon'
+        price: '14'
+        title: Farm To Glass
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
@@ -91,6 +94,9 @@ subgroups:
       - description: 16 oz tallboy can
         price: '6'
         title: Harpoon "Celtic Red" Red Ale
+      - description: 12 oz bottle
+        price: '6'
+        title: Kona Brewing Big Wave Golden Ale
       - description: '12 oz Bottle '
         price: '6'
         title: 'Kona Brewing Longboard Lager '
@@ -110,7 +116,7 @@ subgroups:
         price: '11'
         title: Clown Shoes Brewing "Bubble Farm IPA"
       - description: '16 oz tallboy can '
-        price: '10'
+        price: '11'
         title: 'Fiddlehead Brewing IPA '
       - description: 12oz bottle
         price: '5'
