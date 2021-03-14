@@ -80,7 +80,7 @@ subgroups:
         title: 'Tapas Style Patatas Bravas '
       - description: 'House Corn Tortillas, Salsa Fresca, Melted Cheese, Cumin Crema '
         price: '24'
-        title: 'Menu Addition: Brown Sugar Kielbasa Nachos '
+        title: 'Menu Addition: Brown Sugar Kielbasa Nachos'
     title: Brunch Phase 1
   - description: 'The Main Affair '
     items:
