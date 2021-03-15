@@ -89,12 +89,12 @@ subgroups:
       - description: 16 oz tallboy can
         price: '6'
         title: Harpoon "Celtic Red" Red Ale
-      - description: 12 oz bottle
-        price: '6'
-        title: Kona Brewing Big Wave Golden Ale
       - description: '12 oz Bottle '
         price: '6'
         title: 'Kona Brewing Longboard Lager '
+      - description: 12 oz bottle
+        price: '6'
+        title: Kona Brewing Big Wave Golden Ale
       - description: '12 oz Bottle '
         price: '6'
         title: 'Allagash White '
