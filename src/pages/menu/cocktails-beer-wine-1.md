@@ -48,10 +48,10 @@ subgroups:
         price: '14'
         title: Farm To Glass
       - description: >-
-          Bison Grass Vodka, Local Apple Cider, Kalamansi Lemon, Peach,
+          Bison Grass Vodka, Lychee, Peach Liqueur, Fresh Lemon, Cranberry,
           Prosecco              ...add Lychee Popping Boba $2
         price: '13'
-        title: Orchard Limonada
+        title: Owl Station Inspiration
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
