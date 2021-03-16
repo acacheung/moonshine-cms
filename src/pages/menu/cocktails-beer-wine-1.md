@@ -36,22 +36,22 @@ subgroups:
           Fresh Lime 
         price: '13'
         title: who's the bosc
+      - description: >-
+          Bison Grass Vodka, Lychee, Peach Liqueur, Fresh Lemon, Cranberry,
+          Prosecco              ...add Lychee Popping Boba $2
+        price: '14'
+        title: Owl Station Inspiration
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco Bubbles '
         price: '14'
         title: 'moonshine 76 '
-      - description: >-
-          Tito's Vodka, Combier Peche, White Cranberry, Fresh Lemon, Prosecco
-          Bubbles 
-        price: '13'
-        title: 'Metropolitan '
       - description: 'Spicy Vodka, Cucumber, Elderflower, Fresh Lemon'
         price: '14'
         title: Farm To Glass
       - description: >-
-          Bison Grass Vodka, Lychee, Peach Liqueur, Fresh Lemon, Cranberry,
-          Prosecco              ...add Lychee Popping Boba $2
-        price: '13'
-        title: Owl Station Inspiration
+          Tito's Vodka, Combier Peche, White Cranberry, Fresh Lemon, Prosecco
+          Bubbles 
+        price: '14'
+        title: 'Metropolitan '
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
