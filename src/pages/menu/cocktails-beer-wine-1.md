@@ -3,6 +3,25 @@ templateKey: menu-group
 title: 'Cocktails, Beer & Wine '
 order: 2
 subgroups:
+  - description: Cheers! Sláinte! Salud! 干杯! Prost! Salute! Na zdrowie!
+    items:
+      - description: '888 Blueberry Vodka, Red Bull'
+        price: '13'
+        title: 'meet me down m street '
+      - description: >-
+          Glendalough Irish Whiskey, Bailey Irish Cream, Fernet Brancamentha,
+          Locally Roasted Fazenda Iced Coffee 
+        price: '13'
+        title: 'Irish Good Moring '
+      - description: 'Jameson Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Citrus '
+        price: '13'
+        title: 'Patron Saint of Southie '
+      - description: >-
+          Tullamore Dew Irish Whiskey, Citrus Jello, Fresh Lime & Orange Zest, 
+          St Paddy's Day Sprinkles 
+        price: '6'
+        title: 'Celtic Parade-Day Jello Shots '
+    title: 'Moonshine Parade Day Favorites '
   - description: ''
     items:
       - description: 'Rye Whiskey, Sweet Vermouth, Bitters'
@@ -168,24 +187,5 @@ subgroups:
         price: 13 / 50
         title: (Red) 2017 Storypoint Cabernet Sauvignon Select
     title: Wine List
-  - description: Cheers! Sláinte! Salud! 干杯! Prost! Salute! Na zdrowie!
-    items:
-      - description: '888 Blueberry Vodka, Red Bull'
-        price: '13'
-        title: 'meet me down m street '
-      - description: >-
-          Glendalough Irish Whiskey, Bailey Irish Cream, Fernet Brancamentha,
-          Locally Roasted Fazenda Iced Coffee 
-        price: '13'
-        title: 'Irish Good Moring '
-      - description: 'Jameson Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Citrus '
-        price: '13'
-        title: 'Patron Saint of Southie '
-      - description: >-
-          Tullamore Dew Irish Whiskey, Citrus Jello, Fresh Lime & Orange Zest, 
-          St Paddy's Day Sprinkles 
-        price: '6'
-        title: 'Celtic Parade-Day Jello Shots '
-    title: 'Moonshine Parade Day Favorites '
 ---
 
