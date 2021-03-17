@@ -6,6 +6,16 @@ subgroups:
   - description: Don’t forget to add your favorite fixin’s or sides!
     items:
       - description: >-
+          ARae's Favorite Special Sauce, Melted Swiss, Bacony Sauerkraut. Served
+          with House Shoestring French Fries 
+        price: '22'
+        title: 'Menu Addition: ''Shine''s Famous Corned Beef Sandwich '
+      - description: >-
+          Thick-cut Corned Beef, Whipped Green Chive Mashed Potatoes, Bacony
+          Sauerkraut, Grilled Tomato & Red Wine Demiglace 
+        price: '29'
+        title: 'Menu Addition: St. Paddy''s Day Corned Beef Platter '
+      - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
         price: '19'
