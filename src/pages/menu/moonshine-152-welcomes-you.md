@@ -26,8 +26,7 @@ subgroups:
           each party to 90 minutes or less. The size of a party seated at a
           table cannot exceed 6 persons. All customers must be seated; eat-in
           service to standing customers (e.g., around bar areas) is prohibited.
-          Please note,  we are operating under city imposed 40% capacity limits
-          for in-person dining. To remain as accessible as possible please
+          Please note, in an effort to remain as accessible as possible please
           exercise as much notice as possible in the event you need to change,
           modify or cancel your upcoming reservation. This helps us plan for the
           evening and make any necessary reservation availability adjustments. 
