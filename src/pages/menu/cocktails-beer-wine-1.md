@@ -21,7 +21,7 @@ subgroups:
           St Paddy's Day Sprinkles 
         price: '6'
         title: 'Celtic Parade-Day Jello Shots '
-    title: 'Moonshine Parade Day Favorites '
+    title: 'Moonshine St. Patrick''s Day Favorites '
   - description: ''
     items:
       - description: 'Rye Whiskey, Sweet Vermouth, Bitters'
