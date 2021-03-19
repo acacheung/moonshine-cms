@@ -12,7 +12,7 @@ subgroups:
           Glendalough Irish Whiskey, Bailey Irish Cream, Fernet Brancamentha,
           Locally Roasted Fazenda Iced Coffee 
         price: '13'
-        title: 'Irish Good Moring '
+        title: 'Irish Good Morning '
       - description: 'Jameson Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Citrus '
         price: '13'
         title: 'Patron Saint of Southie '
