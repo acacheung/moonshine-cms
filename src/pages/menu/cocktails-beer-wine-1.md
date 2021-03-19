@@ -209,6 +209,14 @@ subgroups:
           ...RumHaven Coconut...9...Ron Zacapa 23 ...11...Leblon Cachaça...9...
         price: xxxxx
         title: Rum
+      - description: >-
+          Tres Agaves Blanco...9...Tres Agaves Reposado...10...Tres Agaves
+          Anejo...11...Espolon Blanco...9...House Infused Spicy
+          Tequila...9...Don Julio Blanco...11...Don Julio Reposado...12...Don
+          Julio Anejo...13...Xicaru Silver Mezcal...9...Del Maguey Vida
+          Mezcal...10...
+        price: xxxxx
+        title: 'Tequila & Mezcal '
     title: 'Spirit List '
 ---
 
