@@ -204,12 +204,6 @@ subgroups:
         price: xxxxx
         title: Gin
       - description: >-
-          Privateer NE White Rum...9...Privateer Amber Rum...9...Sailor
-          Jerry...8...Goslings Black Seal...9...Mad River Vanilla Bean...10
-          ...RumHaven Coconut...9...Ron Zacapa 23 ...11...Leblon Cachaça...9...
-        price: xxxxx
-        title: Rum
-      - description: >-
           Tres Agaves Blanco...9...Tres Agaves Reposado...10...Tres Agaves
           Anejo...11...Espolon Blanco...9...House Infused Spicy
           Tequila...9...Don Julio Blanco...11...Don Julio Reposado...12...Don
@@ -217,6 +211,25 @@ subgroups:
           Mezcal...10...
         price: xxxxx
         title: 'Tequila & Mezcal '
+      - description: >-
+          Privateer NE White Rum...9...Privateer Amber Rum...9...Sailor
+          Jerry...8...Goslings Black Seal...9...Mad River Vanilla Bean...10
+          ...RumHaven Coconut...9...Ron Zacapa 23...11...Leblon
+          Cachaça...9...Laird's Apple Brandy...9...Hennessey...10...Remy Martin
+          VSOP...12...
+        price: xxxxx
+        title: 'Rum, Brandy & Cognac '
+      - description: >-
+          Four Roses Bourbon...9...Mitcher's Bourbon...9...Maker's Mark
+          Bourbon...10...Mad River Bourbon...10...Basil Hayden's
+          Bourbon...12...Uncle Nearest 1884 Small Batch Whiskey...11...Uncle
+          Nearest 1856 Whiskey...13...Jack Daniels Whiskey...9...Old Overhold
+          Rye...8...Rittenhouse Rye...9...Mitcher's Single Barrel Rye...9...Mad
+          River Revolution Rye...10...Boston Harbor Disitllery Putnam
+          Rye...10...Boston Harbor Distillery Single Malt
+          Whiskey...12...Whistlepig 10 Year Rye...16...
+        price: xxxxx
+        title: 'American Whiskey/Bourbon/Rye '
     title: 'Spirit List '
 ---
 
