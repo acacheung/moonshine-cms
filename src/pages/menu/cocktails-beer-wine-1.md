@@ -237,6 +237,12 @@ subgroups:
           Cask Irish Poitin...11...
         price: XXXXX
         title: Imported Whiskey
+      - description: >-
+          Dewar's "White Label"...9...Johnnie Walker Black...10...Laphroaig
+          10...11...Glenfiddich 12...12...Glenfiddich 14...13...Balvenie
+          12...13...Oban 14...14...Lagavulin 16...16...
+        price: XXXXX
+        title: 'Scotch '
     title: 'Spirit List '
 ---
 
