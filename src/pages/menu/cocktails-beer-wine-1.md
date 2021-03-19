@@ -1,6 +1,6 @@
 ---
 templateKey: menu-group
-title: 'Cocktails, Beer & Wine '
+title: 'Cocktails, Beer, Wine & Spirits '
 order: 2
 subgroups:
   - description: Cheers! Sláinte! Salud! 干杯! Prost! Salute! Na zdrowie!
@@ -205,9 +205,8 @@ subgroups:
         title: Gin
       - description: >-
           Privateer NE White Rum...9...Privateer Amber Rum...9...Sailor
-          Jerry...8...Goslings Black Seal...9...Mad River Vanilla
-          Bean...10...RumHaven Coconut...9...Ron Zacapa 23 ...11...Leblon
-          Cachaça...9...
+          Jerry...8...Goslings Black Seal...9...Mad River Vanilla Bean...10
+          ...RumHaven Coconut...9...Ron Zacapa 23 ...11...Leblon Cachaça...9...
         price: xxxxx
         title: Rum
     title: 'Spirit List '
