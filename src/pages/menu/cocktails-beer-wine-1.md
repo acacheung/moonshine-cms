@@ -187,5 +187,11 @@ subgroups:
         price: 13 / 50
         title: (Red) 2017 Storypoint Cabernet Sauvignon Select
     title: Wine List
+  - description: ''
+    items:
+      - description: 'Reyka  '
+        price: xxxxx
+        title: Vodka List
+    title: 'Spirit List '
 ---
 
