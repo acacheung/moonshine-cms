@@ -203,6 +203,13 @@ subgroups:
           WireWorks...9...Glendalough Wild Botanical...10...
         price: xxxxx
         title: Gin
+      - description: >-
+          Privateer NE White Rum...9...Privateer Amber Rum...9...Sailor
+          Jerry...8...Goslings Black Seal...9...Mad River Vanilla
+          Bean...10...RumHaven Coconut...9...Ron Zacapa 23 ...11...Leblon
+          Cachaça...9...
+        price: xxxxx
+        title: Rum
     title: 'Spirit List '
 ---
 
