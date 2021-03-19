@@ -189,7 +189,13 @@ subgroups:
     title: Wine List
   - description: ''
     items:
-      - description: 'Reyka  '
+      - description: >-
+          Reyka...9.....Tito's...9.....Ketel One...10.....Grey
+          Goose...10.....Grand Ten Firepuncher...10.....Grand Ten Firepuncher
+          Black 10.....Żubrówka Bison Grass ...9.....Van Gogh Double
+          Espresso...9.....Stoli Razberi...9.....New Amsterdam
+          Orange...9.....New Amsterdam Citron...9.....888 Blueberry...9.....888
+          Cranberry...9.....888 Vanilla...9.....
         price: xxxxx
         title: Vodka List
     title: 'Spirit List '
