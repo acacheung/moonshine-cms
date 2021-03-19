@@ -196,7 +196,13 @@ subgroups:
           Amsterdam Orange...9...New Amsterdam Citron...9...888
           Blueberry...9...888 Cranberry...9...888 Vanilla...9.....
         price: xxxxx
-        title: Vodka List
+        title: 'Vodka '
+      - description: >-
+          New Amsterdam...8...Bombay
+          Sapphire...9...Tanqueray...9...Hendrick's...9...Grand Ten
+          WireWorks...9...Glendalough Wild Botanical...10...
+        price: xxxxx
+        title: Gin
     title: 'Spirit List '
 ---
 
