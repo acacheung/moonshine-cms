@@ -190,7 +190,7 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          Reyka...9...Tito's...9...Ketel One...10...Grey Goose...10...Grand Ten
+          Reyka...9...Tito's...10...Ketel One...10...Grey Goose...10...Grand Ten
           Firepuncher...10...Grand Ten Firepuncher Black 10...Żubrówka Bison
           Grass ...9...Van Gogh Double Espresso...9...Stoli Razberi...9...New
           Amsterdam Orange...9...New Amsterdam Citron...9...888
