@@ -108,6 +108,12 @@ subgroups:
       - description: 16 oz tallboy can
         price: '6'
         title: Harpoon "Celtic Red" Red Ale
+      - description: 12oz bottle
+        price: '4'
+        title: 'Boulevard Brewing "Nutcracker" Winter Warmer Holiday Ale '
+      - description: 16 oz Tallboy Can
+        price: '5'
+        title: Narragansett Lager
       - description: '12 oz Bottle '
         price: '6'
         title: 'Kona Brewing Longboard Lager '
@@ -123,6 +129,9 @@ subgroups:
       - description: '12 oz Can '
         price: '6'
         title: 'Shacksbury "The Vermonter" Alpine Cider '
+      - description: '12 oz bottles '
+        price: '7'
+        title: 'Ballast Point "Grapefruit Sculpin" IPA  '
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
@@ -132,18 +141,9 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '11'
         title: 'Fiddlehead Brewing IPA '
-      - description: 12oz bottle
-        price: '5'
-        title: 'Boulevard Brewing "Nutcracker" Winter Warmer Holiday Ale '
-      - description: 16 oz Tallboy Can
-        price: '5'
-        title: Narragansett Lager
       - description: '16oz  tallboy can '
         price: '5'
         title: 'Narragansett "Autocrat" Coffee Milk Stout '
-      - description: '16oz tallboy can '
-        price: '10'
-        title: 'Mighty Squirrel (Indulge Series) "Cookies & Cream" Imperial Stout '
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
