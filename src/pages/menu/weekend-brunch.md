@@ -82,6 +82,14 @@ subgroups:
   - description: 'The Main Affair '
     items:
       - description: >-
+          Thick-cut corned beef., Green chive mashed potatoes, Bacony
+          sauerkraut, Grilled tomato & Red wine demiglace 
+        price: '27'
+        title: 'Menu Addition: St. Paddy''s Day Corned Beef Platter'
+      - description: 'Arae''s favorite special sauce, Melted Swiss, Bacony Sauerkraut. '
+        price: '22'
+        title: 'Menu Addition: ''Shine''s Famous Corned Beef Sandwich'
+      - description: >-
           Smoky pulled pork, Scrambled egg, Tomato salsa, Petite mixed greens
           salad, House-cut shoestring fries
         price: '27'
