@@ -13,7 +13,7 @@ subgroups:
       - description: >-
           Thick-cut Corned Beef, Whipped Green Chive Mashed Potatoes, Bacony
           Sauerkraut, Grilled Tomato & Red Wine Demiglace 
-        price: '29'
+        price: '27'
         title: 'Menu Addition: St. Paddy''s Day Corned Beef Platter '
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
