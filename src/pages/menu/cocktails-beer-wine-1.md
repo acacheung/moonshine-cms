@@ -126,7 +126,7 @@ subgroups:
       - description: '12 oz Can '
         price: '6'
         title: 'Shacksbury "The Vermonter" Alpine Cider '
-      - description: '12 oz bottles '
+      - description: '12 oz can '
         price: '7'
         title: 'Ballast Point "Grapefruit Sculpin" IPA  '
       - description: '12 oz bottle '
