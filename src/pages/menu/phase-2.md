@@ -7,8 +7,7 @@ subgroups:
       All portions available regular or “Go Grande”. Don’t forget to add your
       favorite protein or fixin’s!
     items:
-      - description: |2
-                                                                                                 "Mama Mei's Pork Noodle Soup"         with Lionshead Meatballs, Crystal Glass Noodles, Napa Cabbage-Shiitake Broth.                                                          **Make It An Entree By Adding Your Favorite Protein! 
+      - description: Creamy Potato-Leek & Asparagus Bisque
         price: '12 regular / 19 grande '
         title: 'Chef''s whim Soup for the soul '
       - description: >-
