@@ -160,8 +160,7 @@ subgroups:
     title: Brunch Phase 3
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
-      - description: |2
-                                                                                                    "Mama Mei's Pork Noodle Soup"         with Lionshead Meatballs, Crystal Glass Noodles, Napa Cabbage-Shiitake Broth.                                                          **Make It An Entree By Adding Your Favorite Protein! 
+      - description: Creamy Potato-Leek & Asparagus Bisque
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >-
