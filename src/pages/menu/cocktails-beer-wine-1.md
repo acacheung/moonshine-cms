@@ -153,9 +153,9 @@ subgroups:
       - description: 'Veneto, Italy '
         price: 12 / 42
         title: '(Sparkling) NV LaMarca Prosecco '
-      - description: Vin de France
-        price: 12 / 44
-        title: (Rose) 2019 Prophecy Rose
+      - description: 'Columbia Valley, Washington, USA'
+        price: 12/44
+        title: (Rose) 2019 Charles & Charles Rose
       - description: 'Trentino, Italy '
         price: 13 / 52
         title: (Sparkling Rose) NV Canella Sparkling Rose Brut
