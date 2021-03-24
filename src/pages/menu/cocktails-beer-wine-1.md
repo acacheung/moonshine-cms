@@ -51,11 +51,6 @@ subgroups:
         price: '13'
         title: Danish Modern
       - description: >-
-          Vanilla-Pear Infused Tennessee Moonshine, Pear Nectar, Vanilla Simple,
-          Fresh Lime 
-        price: '13'
-        title: who's the bosc
-      - description: >-
           Bison Grass Vodka, Lychee, Peach Liqueur, Fresh Lemon, Cranberry,
           Prosecco              ...add Lychee Popping Boba $2
         price: '14'
