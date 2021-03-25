@@ -56,6 +56,9 @@ subgroups:
         title: '(Draft) Harpoon IPA '
       - price: '7'
         title: '(Draft) Lord Hobo "Hobo Life" Session IPA '
+      - description: 16oz draft
+        price: '7'
+        title: '(DRAFT) Notch Brewing Session Pilsner '
       - price: '7'
         title: '(Draft) Downeast Original Unfiltered Cider '
       - description: '12 oz bottle '
