@@ -7,6 +7,9 @@ subgroups:
       Add one scoop of butterfinger ice cream to your favorite dessert $4 
       Add a Belgian waffle to your favorite dessert $7
     items:
+      - description: 'Served with Nutella Caramel Sauce & Whipped Chantilly Cream '
+        price: '13'
+        title: 'Menu Addition: Warm Red Velvet Bread Pudding '
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
