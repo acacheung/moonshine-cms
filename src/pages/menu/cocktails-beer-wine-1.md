@@ -16,6 +16,9 @@ subgroups:
           Liqueur, Sweet Vermouth, Orange Bitters
         price: '14'
         title: Member's Only
+      - description: 'Spicy Vodka, Cucumber, Elderflower, Fresh Lemon'
+        price: '14'
+        title: Farm To Glass
       - description: 'House Spicy Tequila, Ginger Liqueur,  Fresh Lime, Agave '
         price: '13'
         title: 'There''s Fire '
@@ -28,9 +31,15 @@ subgroups:
       - description: 'Red Wine, Ginger, Hibiscus, Apple, Citrus '
         price: '11'
         title: 'sahil''s sangria '
+      - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime '
+        price: '13'
+        title: 'Patron Saint of Southie '
       - description: 'Rye Whiskey, Tart Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
         price: '13'
         title: Danish Modern
+      - description: 888 Blueberry Vodka Layered with Red Bull
+        price: '13'
+        title: 'Meet Me Down M Street '
       - description: >-
           Bison Grass Vodka, Lychee, Peach Liqueur, Fresh Lemon, Cranberry,
           Prosecco              ...add Lychee Popping Boba $2
@@ -39,14 +48,6 @@ subgroups:
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco Bubbles '
         price: '14'
         title: 'moonshine 76 '
-      - description: 'Spicy Vodka, Cucumber, Elderflower, Fresh Lemon'
-        price: '14'
-        title: Farm To Glass
-      - description: >-
-          Tito's Vodka, Combier Peche, White Cranberry, Fresh Lemon, Prosecco
-          Bubbles 
-        price: '14'
-        title: 'Metropolitan '
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
