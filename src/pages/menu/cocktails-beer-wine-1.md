@@ -113,9 +113,6 @@ subgroups:
       - description: 16oz Tallboy Can
         price: '11'
         title: Clown Shoes Brewing "Bubble Farm IPA"
-      - description: '16 oz tallboy can '
-        price: '11'
-        title: 'Fiddlehead Brewing IPA '
       - description: '16oz  tallboy can '
         price: '5'
         title: 'Narragansett "Autocrat" Coffee Milk Stout '
