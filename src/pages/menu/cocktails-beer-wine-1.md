@@ -42,6 +42,12 @@ subgroups:
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco Bubbles '
         price: '14'
         title: 'moonshine 76 '
+      - description: 'House Spicy Tequila, Ginger Liqueur, Fresh Lime, Agave'
+        price: '13'
+        title: There's Fire
+      - description: 'Red Wine, Rum, Hibiscus, Ginger, Fresh Citrus, Apples '
+        price: '12'
+        title: Sahil's Sangria
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
@@ -92,6 +98,9 @@ subgroups:
       - description: 12 oz bottle
         price: '6'
         title: Kona Brewing Big Wave Golden Ale
+      - description: 16 oz Tallboy Can
+        price: '7'
+        title: Lord Hobo "Freebird" Golden Ale
       - description: '12 oz Bottle '
         price: '6'
         title: 'Allagash White '
@@ -104,9 +113,6 @@ subgroups:
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
-      - description: 16oz Tallboy Can
-        price: '11'
-        title: Clown Shoes Brewing "Bubble Farm IPA"
       - description: '16oz  tallboy can '
         price: '5'
         title: 'Narragansett "Autocrat" Coffee Milk Stout '
