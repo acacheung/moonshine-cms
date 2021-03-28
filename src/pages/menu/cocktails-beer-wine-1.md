@@ -42,9 +42,6 @@ subgroups:
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco Bubbles '
         price: '14'
         title: 'moonshine 76 '
-      - description: 'House Spicy Tequila, Ginger Liqueur, Fresh Lime, Agave'
-        price: '13'
-        title: There's Fire
       - description: 'Red Wine, Rum, Hibiscus, Ginger, Fresh Citrus, Apples '
         price: '12'
         title: Sahil's Sangria
