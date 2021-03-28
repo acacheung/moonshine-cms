@@ -25,9 +25,6 @@ subgroups:
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
-      - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime '
-        price: '13'
-        title: 'Patron Saint of Southie '
       - description: 'Rye Whiskey, Tart Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
         price: '13'
         title: Danish Modern
