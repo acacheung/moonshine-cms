@@ -11,12 +11,7 @@ subgroups:
       - description: 'Rye Whiskey, Amaro Aperitif, Yellow Chartreuse, Orange Bitters '
         price: '13'
         title: 'New Classic '
-      - description: >-
-          Single Malt Locally Made Whiskey, Dark Cherry Cordial, Italian Orange
-          Liqueur, Sweet Vermouth, Orange Bitters
-        price: '14'
-        title: Member's Only
-      - description: 'Spicy Vodka, Cucumber, Elderflower, Fresh Lemon'
+      - description: 'Titos''s Vodka, Cucumber, Elderflower, Fresh Lemon'
         price: '14'
         title: Farm To Glass
       - description: 'Blanco Tequila, Creme de Cassis Ginger Beer, Fresh Lime '
@@ -28,14 +23,12 @@ subgroups:
       - description: 'Rye Whiskey, Tart Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
         price: '13'
         title: Danish Modern
+      - description: 'Coconut Water Infused Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
+        price: '13'
+        title: (Let's Pretend It's Summer) Painkiller
       - description: 888 Blueberry Vodka Layered with Red Bull
         price: '13'
         title: 'Meet Me Down M Street '
-      - description: >-
-          Bison Grass Vodka, Lychee, Peach Liqueur, Fresh Lemon, Cranberry,
-          Prosecco              ...add Lychee Popping Boba $2
-        price: '14'
-        title: Owl Station Inspiration
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco Bubbles '
         price: '14'
         title: 'moonshine 76 '
