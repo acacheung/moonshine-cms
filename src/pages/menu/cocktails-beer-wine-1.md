@@ -11,12 +11,15 @@ subgroups:
       - description: 'Rye Whiskey, Amaro Aperitif, Yellow Chartreuse, Orange Bitters '
         price: '13'
         title: 'New Classic '
-      - description: 'Titos''s Vodka, Cucumber, Elderflower, Fresh Lemon'
-        price: '14'
-        title: Farm To Glass
+      - description: 'Mezcal, Sicilian Amaro, Maraschino Liqueur, Lemon '
+        price: '13'
+        title: Epilogue
       - description: 'Blanco Tequila, Creme de Cassis Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
+      - description: 'Titos''s Vodka, Cucumber, Elderflower, Fresh Lemon'
+        price: '14'
+        title: Farm To Glass
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
@@ -29,6 +32,9 @@ subgroups:
       - description: 888 Blueberry Vodka Layered with Red Bull
         price: '13'
         title: 'Meet Me Down M Street '
+      - description: 'Smoky Mezcal, Locally Made Amaro, Grapefruit Liqueur, Lemon '
+        price: '13'
+        title: Matador's Bull
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco Bubbles '
         price: '14'
         title: 'moonshine 76 '
