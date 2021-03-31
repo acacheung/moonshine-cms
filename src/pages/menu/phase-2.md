@@ -7,7 +7,7 @@ subgroups:
       All portions available regular or “Go Grande”. Don’t forget to add your
       favorite protein or fixin’s!
     items:
-      - description: Creamy Potato-Leek & Asparagus Bisque
+      - description: Chef Asia's Famous Spicy Pork Noodle Soup
         price: '12 regular / 19 grande '
         title: 'Chef''s whim Soup for the soul '
       - description: >-
