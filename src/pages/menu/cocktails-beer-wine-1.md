@@ -17,15 +17,12 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
-      - description: 'Titos''s Vodka, Cucumber, Elderflower, Fresh Lemon'
+      - description: 'Spicy Vodka, Cucumber, Elderflower, Fresh Lemon'
         price: '14'
         title: Farm To Glass
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
-      - description: 'Rye Whiskey, Tart Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
-        price: '13'
-        title: Danish Modern
       - description: 'Coconut Water Infused Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
         title: (Let's Pretend It's Summer) Painkiller
