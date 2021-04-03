@@ -41,6 +41,9 @@ subgroups:
       - description: 'Red Wine, Rum, Hibiscus, Ginger, Fresh Citrus, Apples '
         price: '12'
         title: Sahil's Sangria
+      - description: 'House Spicy Tequila, Ginger Liqueur, Fresh Lime, Agave'
+        price: '13'
+        title: There's Fire
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
@@ -88,18 +91,12 @@ subgroups:
       - description: '12 oz Bottle '
         price: '6'
         title: 'Kona Brewing Longboard Lager '
-      - description: 12 oz bottle
-        price: '6'
-        title: Kona Brewing Big Wave Golden Ale
       - description: 16 oz Tallboy Can
         price: '7'
         title: Lord Hobo "Freebird" Golden Ale
       - description: '12 oz Bottle '
         price: '6'
         title: 'Allagash White '
-      - description: '12 oz Can '
-        price: '6'
-        title: 'Shacksbury "The Vermonter" Alpine Cider '
       - description: '12 oz can '
         price: '7'
         title: 'Ballast Point "Grapefruit Sculpin" IPA  '
