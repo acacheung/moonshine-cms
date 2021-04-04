@@ -82,6 +82,11 @@ subgroups:
   - description: 'The Main Affair '
     items:
       - description: >-
+          Red Wine Braised Rabbit, Roasted Carrots, Green Chili Cheese Grits &
+          Brown Butte
+        price: '28'
+        title: Chef Asia’s Annual “Easter Bunny & Grits”
+      - description: >-
           Smoky pulled pork, Scrambled egg, Tomato salsa, Petite mixed greens
           salad, House-cut shoestring fries
         price: '27'
@@ -115,11 +120,6 @@ subgroups:
       - description: 'Melt-in-your-mouth corned beef, Scrambled eggs, Housemade beer bread '
         price: '18'
         title: '''Shine''s Southie Corned Beef Hash '
-      - description: >-
-          Red Wine Braised Rabbit, Roasted Carrots, Green Chili Cheese Grits &
-          Brown Butte
-        price: '28'
-        title: Chef Asia’s Annual “Easter Bunny & Grits”
     title: Brunch Phase 2
   - description: 'All the sides & Fixin''s '
     items:
@@ -193,6 +193,11 @@ subgroups:
           liver 
         price: '17'
         title: 'Mama Mei''s Dirty Fried Rice '
+      - description: >
+          Heirloom quinoa, sautéed kale, creamy Caesar dressing, wonton crisps,
+          fresh pomegranate, shaved pecorino cheese
+        price: 16 regular / 26 grande
+        title: 'Warm Kale and Quinoa Caesar Salad '
     title: All-Day / All-Night Allstars
   - description: 'Sweet Tooth '
     items:
