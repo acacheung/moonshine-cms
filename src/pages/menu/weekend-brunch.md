@@ -160,6 +160,11 @@ subgroups:
       - description: Creamy Potato-Leek & Asparagus Bisque
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
+      - description: >
+          Heirloom quinoa, sautéed kale, creamy Caesar dressing, wonton crisps,
+          fresh pomegranate, shaved pecorino cheese
+        price: 16 regular / 26 grande
+        title: 'Warm Kale and Quinoa Caesar Salad '
       - description: served with Poblano Ranch Sauce
         price: 16 / 27
         title: '"Boston''s Best" Buttermilk Fried Chicken Wings '
@@ -193,11 +198,6 @@ subgroups:
           liver 
         price: '17'
         title: 'Mama Mei''s Dirty Fried Rice '
-      - description: >
-          Heirloom quinoa, sautéed kale, creamy Caesar dressing, wonton crisps,
-          fresh pomegranate, shaved pecorino cheese
-        price: 16 regular / 26 grande
-        title: 'Warm Kale and Quinoa Caesar Salad '
     title: All-Day / All-Night Allstars
   - description: 'Sweet Tooth '
     items:
