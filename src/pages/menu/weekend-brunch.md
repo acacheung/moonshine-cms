@@ -115,6 +115,11 @@ subgroups:
       - description: 'Melt-in-your-mouth corned beef, Scrambled eggs, Housemade beer bread '
         price: '18'
         title: '''Shine''s Southie Corned Beef Hash '
+      - description: >-
+          Red Wine Braised Rabbit, Roasted Carrots, Green Chili Cheese Grits &
+          Brown Butte
+        price: '28'
+        title: Chef Asia’s Annual “Easter Bunny & Grits”
     title: Brunch Phase 2
   - description: 'All the sides & Fixin''s '
     items:
