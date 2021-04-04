@@ -11,15 +11,18 @@ subgroups:
       - description: 'Rye Whiskey, Amaro Aperitif, Yellow Chartreuse, Orange Bitters '
         price: '13'
         title: 'New Classic '
-      - description: 'Mezcal, Sicilian Amaro, Maraschino Liqueur, Lemon '
-        price: '13'
-        title: Epilogue
-      - description: 'Blanco Tequila, Creme de Cassis Ginger Beer, Fresh Lime '
-        price: '12'
-        title: 'La Diabla '
       - description: 'Spicy Vodka, Cucumber, Elderflower, Fresh Lemon'
         price: '14'
         title: Farm To Glass
+      - description: 'House Spicy Tequila, Ginger Liqueur, Fresh Lime, Agave'
+        price: '13'
+        title: There's Fire
+      - description: 'Blanco Tequila, Creme de Cassis Ginger Beer, Fresh Lime '
+        price: '12'
+        title: 'La Diabla '
+      - description: 'Mezcal, Sicilian Amaro, Maraschino Liqueur, Lemon '
+        price: '13'
+        title: Epilogue
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
@@ -35,9 +38,11 @@ subgroups:
       - description: 'Red Wine, Rum, Hibiscus, Ginger, Fresh Citrus, Apples '
         price: '12'
         title: Sahil's Sangria
-      - description: 'House Spicy Tequila, Ginger Liqueur, Fresh Lime, Agave'
-        price: '13'
-        title: There's Fire
+      - description: >-
+          Bison Grass Vodka, Lychi, Peach Liquer, Fresh Lemon, Cranberry,
+          Bubbles 
+        price: '14'
+        title: Owl Station Inspiration
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
