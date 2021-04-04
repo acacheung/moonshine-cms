@@ -155,11 +155,6 @@ subgroups:
       - description: Creamy Potato-Leek & Asparagus Bisque
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
-      - description: >-
-          Heirloom quinoa,  Sauteed kale, Creamy Caesar dressing, Crispy
-          wontons, Fresh pomegranate, Shaved pecorino cheese 
-        price: 16 / 26
-        title: 'Warm Kale and Quinoa Caesar Salad '
       - description: served with Poblano Ranch Sauce
         price: 16 / 27
         title: '"Boston''s Best" Buttermilk Fried Chicken Wings '
