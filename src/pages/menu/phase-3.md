@@ -59,6 +59,11 @@ subgroups:
           butter,  Broccoli rabe, Marcona Almonds, Louisiana cream sauce
         price: '28'
         title: 'Louisiana briased Rabbit Pasta '
+      - description: >-
+          Red Wine Braised Rabbit, Roasted Carrots, Green Chili Cheese Grits &
+          Brown Butter
+        price: '28'
+        title: 'Menu Addition: Chef Asia’s Annual “Easter Bunny & Grits”'
     title: The Main Affair
   - description: Swap out your white rice for mixed greens for 2
     items:
