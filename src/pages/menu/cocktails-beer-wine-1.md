@@ -23,9 +23,6 @@ subgroups:
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
-      - description: 'Coconut Water Infused Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
-        price: '13'
-        title: (Let's Pretend It's Summer) Painkiller
       - description: 888 Blueberry Vodka Layered with Red Bull
         price: '13'
         title: 'Meet Me Down M Street '
