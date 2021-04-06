@@ -6,11 +6,6 @@ subgroups:
   - description: Don’t forget to add your favorite fixin’s or sides!
     items:
       - description: >-
-          Red Wine Braised Rabbit, Roasted Carrots, Green Chili Cheese Grits &
-          Brown Butter
-        price: '28'
-        title: 'Menu Addition: Chef Asia’s Annual “Easter Bunny & Grits”'
-      - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
         price: '19'
