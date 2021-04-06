@@ -82,11 +82,6 @@ subgroups:
   - description: 'The Main Affair '
     items:
       - description: >-
-          Red Wine Braised Rabbit, Roasted Carrots, Green Chili Cheese Grits &
-          Brown Butte
-        price: '28'
-        title: Chef Asia’s Annual “Easter Bunny & Grits”
-      - description: >-
           Smoky pulled pork, Scrambled egg, Tomato salsa, Petite mixed greens
           salad, House-cut shoestring fries
         price: '27'
