@@ -11,6 +11,9 @@ subgroups:
       - description: 'Rye Whiskey, Amaro Aperitif, Yellow Chartreuse, Orange Bitters '
         price: '13'
         title: 'New Classic '
+      - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime '
+        price: '13'
+        title: Fay's Fancy
       - description: 'Spicy Vodka, Cucumber, Elderflower, Fresh Lemon'
         price: '14'
         title: Farm To Glass
@@ -20,24 +23,21 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
-      - description: 'Mezcal, Sicilian Amaro, Maraschino Liqueur, Lemon '
-        price: '13'
-        title: Epilogue
-      - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
-        price: '13'
-        title: 'Shine Spritz '
-      - description: 888 Blueberry Vodka Layered with Red Bull
-        price: '13'
-        title: 'Meet Me Down M Street '
       - description: 'Smoky Mezcal, Locally Made Amaro, Grapefruit Liqueur, Lemon '
         price: '13'
         title: Matador's Bull
-      - description: 'Gin, Elderflower, Fresh Lemon, Prosecco Bubbles '
-        price: '14'
-        title: 'moonshine 76 '
+      - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
+        price: '13'
+        title: 'Shine Spritz '
       - description: 'Red Wine, Rum, Hibiscus, Ginger, Fresh Citrus, Apples '
         price: '12'
         title: Sahil's Sangria
+      - description: 888 Blueberry Vodka Layered with Red Bull
+        price: '13'
+        title: 'Meet Me Down M Street '
+      - description: 'Gin, Elderflower, Fresh Lemon, Prosecco Bubbles '
+        price: '14'
+        title: 'moonshine 76 '
       - description: >-
           Bison Grass Vodka, Lychi, Peach Liquer, Fresh Lemon, Cranberry,
           Bubbles 
