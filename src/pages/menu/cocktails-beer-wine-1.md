@@ -92,15 +92,24 @@ subgroups:
       - description: 16 oz Tallboy Can
         price: '5'
         title: Narragansett Lager
+      - description: 12 oz Bottle
+        price: '6'
+        title: Kona Brewing Big Wave Golden Ale
       - description: '12 oz Bottle '
         price: '6'
         title: 'Kona Brewing Longboard Lager '
+      - description: 12 oz Bottle
+        price: '6'
+        title: Sapporo Premium Lager
       - description: 16 oz Tallboy Can
         price: '7'
         title: Lord Hobo "Freebird" Golden Ale
       - description: '12 oz Bottle '
         price: '6'
         title: 'Allagash White '
+      - description: 12 oz can
+        price: '6'
+        title: Golden Road Mango Cart Wheat Ale
       - description: '12 oz can '
         price: '7'
         title: 'Ballast Point "Grapefruit Sculpin" IPA  '
