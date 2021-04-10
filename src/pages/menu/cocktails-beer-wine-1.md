@@ -95,9 +95,6 @@ subgroups:
       - description: 12 oz Bottle
         price: '6'
         title: Kona Brewing Big Wave Golden Ale
-      - description: '12 oz Bottle '
-        price: '6'
-        title: 'Kona Brewing Longboard Lager '
       - description: 12 oz Bottle
         price: '6'
         title: Sapporo Premium Lager
