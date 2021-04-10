@@ -83,30 +83,27 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: 'Corona Extra '
-      - description: 16 oz tallboy can
-        price: '6'
-        title: Harpoon "Celtic Red" Red Ale
-      - description: 12oz bottle
-        price: '4'
-        title: 'Boulevard Brewing "Nutcracker" Winter Warmer Holiday Ale '
-      - description: 16 oz Tallboy Can
-        price: '5'
-        title: Narragansett Lager
-      - description: 12 oz Bottle
-        price: '6'
-        title: Kona Brewing Big Wave Golden Ale
       - description: 12 oz Bottle
         price: '6'
         title: Sapporo Premium Lager
+      - description: 16 oz tallboy can
+        price: '6'
+        title: Harpoon "Celtic Red" Red Ale
+      - description: 16 oz Tallboy Can
+        price: '5'
+        title: Narragansett Lager
+      - description: 12 oz can
+        price: '6'
+        title: Golden Road Mango Cart Wheat Ale
+      - description: 12 oz Bottle
+        price: '6'
+        title: Kona Brewing Big Wave Golden Ale
       - description: 16 oz Tallboy Can
         price: '7'
         title: Lord Hobo "Freebird" Golden Ale
       - description: '12 oz Bottle '
         price: '6'
         title: 'Allagash White '
-      - description: 12 oz can
-        price: '6'
-        title: Golden Road Mango Cart Wheat Ale
       - description: '12 oz can '
         price: '7'
         title: 'Ballast Point "Grapefruit Sculpin" IPA  '
