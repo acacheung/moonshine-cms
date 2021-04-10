@@ -155,6 +155,9 @@ subgroups:
       - description: Creamy Potato-Leek & Asparagus Bisque
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
+      - description: 'Crispy garlic & shallots, Toasted sesame, Soy vinaigrette'
+        price: 10 regular / 15 grande
+        title: Blistered Shishito Peppers
       - description: >
           Heirloom quinoa, sautéed kale, creamy Caesar dressing, wonton crisps,
           fresh pomegranate, shaved pecorino cheese
