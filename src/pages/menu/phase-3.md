@@ -6,11 +6,6 @@ subgroups:
   - description: Don’t forget to add your favorite fixin’s or sides!
     items:
       - description: >-
-          Braised Beef Shortrib Grilled Cheese Sandwich, Birria -Style with
-          Carnitas Dipping Jus, Salsa Fresca & Cumin Crema 
-        price: '28'
-        title: 'Menu Addition: Beef Shortrib Birria GRILLED CHEESE Sandwich'
-      - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
         price: '19'
