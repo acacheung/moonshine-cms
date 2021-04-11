@@ -177,10 +177,12 @@ subgroups:
         price: MKT
         title: 'Grass-fed Beef Burger '
       - description: >-
-          March 2021: "St. Patrick's Day Burger" Topped with Green Chive Mashed
-          Potatoes, Guinness Gravy, Melted Orange Cheddar & Rustic Grilled
-          Tomato. Served with shoestring French fries. (**As always, can be made
-          with our award-winning Mushroom Tofu patty! )
+          April 2021: Don't Be A Jerk Burger" Topped with  Jamaican Inspired
+          Habanero Jerk Rub, Pineapple-Black Bean Salsa, Crispy Plantain Chips &
+          Citrus Aioli. (**As always, can be made with our award winning
+          Mushroom Tofu patty! ) Served with your choice of side. Served with
+          shoestring French fries. (**As always, can be made with our
+          award-winning Mushroom Tofu patty! )
         price: '23'
         title: 'Make Your Burger a VIP Burger of the Month '
       - description: >-
