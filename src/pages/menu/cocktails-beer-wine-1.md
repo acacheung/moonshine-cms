@@ -7,7 +7,7 @@ subgroups:
     items:
       - description: 'Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
-        title: 'Classic Manhattan '
+        title: 'House Manhattan '
       - description: 'Rye Whiskey, Amaro Aperitif, Yellow Chartreuse, Orange Bitters '
         price: '13'
         title: 'New Classic '
