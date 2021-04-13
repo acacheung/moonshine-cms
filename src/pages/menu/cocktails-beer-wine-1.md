@@ -130,7 +130,7 @@ subgroups:
         title: '(Sparkling) NV LaMarca Prosecco '
       - description: 'Columbia Valley, Washington, USA'
         price: 12/44
-        title: (Rose) 2019 Charles & Charles Rose
+        title: (Rose) 2018 Charles & Charles Rose
       - description: 'Trentino, Italy '
         price: 13 / 52
         title: (Sparkling Rose) NV Canella Sparkling Rose Brut
