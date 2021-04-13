@@ -93,7 +93,7 @@ subgroups:
         price: '5'
         title: Narragansett Lager
       - description: 12 oz can
-        price: '6'
+        price: '5'
         title: Golden Road Mango Cart Wheat Ale
       - description: 12 oz Bottle
         price: '6'
@@ -105,7 +105,7 @@ subgroups:
         price: '6'
         title: 'Allagash White '
       - description: '12 oz can '
-        price: '7'
+        price: '6'
         title: 'Ballast Point "Grapefruit Sculpin" IPA  '
       - description: '16 oz tallboy can '
         price: '11'
