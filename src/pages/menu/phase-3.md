@@ -59,6 +59,12 @@ subgroups:
           butter,  Broccoli rabe, Marcona Almonds, Louisiana cream sauce
         price: '28'
         title: 'Louisiana briased Rabbit Pasta '
+      - description: >-
+          Braised Beef Shortrib Grilled Cheese Sandwich, Birria -Style with
+          Carnitas Dipping Jus, Salsa Fresca & Cumin Crema. Served with
+          Shoestring French Fries 
+        price: '28'
+        title: 'Menu Addition: Shortrib Birria Grilled Cheese Sandwich'
     title: The Main Affair
   - description: Swap out your white rice for mixed greens for 2
     items:
