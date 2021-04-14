@@ -32,6 +32,9 @@ subgroups:
       - description: 'Red Wine, Rum, Hibiscus, Ginger, Fresh Citrus, Apples '
         price: '12'
         title: Sahil's Sangria
+      - description: 'Pineapple Vodka Soaked Fresh Pineapple, Soda '
+        price: '13'
+        title: 'Aloha Spritz Agua Fresca '
       - description: 888 Blueberry Vodka Layered with Red Bull
         price: '13'
         title: 'Meet Me Down M Street '
