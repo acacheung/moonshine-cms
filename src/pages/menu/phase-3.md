@@ -6,6 +6,12 @@ subgroups:
   - description: Don’t forget to add your favorite fixin’s or sides!
     items:
       - description: >-
+          Braised Beef Shortrib Grilled Cheese Sandwich, Birria -Style with
+          Carnitas Dipping Jus, Salsa Fresca & Cumin Crema. Served with
+          Shoestring French Fries 
+        price: '28'
+        title: 'Menu Addition: Shortrib Birria Grilled Cheese Sandwich'
+      - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
         price: '19'
@@ -59,12 +65,6 @@ subgroups:
           butter,  Broccoli rabe, Marcona Almonds, Louisiana cream sauce
         price: '28'
         title: 'Louisiana briased Rabbit Pasta '
-      - description: >-
-          Braised Beef Shortrib Grilled Cheese Sandwich, Birria -Style with
-          Carnitas Dipping Jus, Salsa Fresca & Cumin Crema. Served with
-          Shoestring French Fries 
-        price: '28'
-        title: 'Menu Addition: Shortrib Birria Grilled Cheese Sandwich'
     title: The Main Affair
   - description: Swap out your white rice for mixed greens for 2
     items:
