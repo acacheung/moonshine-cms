@@ -6,11 +6,11 @@ subgroups:
   - description: Don’t forget to add your favorite fixin’s or sides!
     items:
       - description: >-
-          Braised Beef Shortrib Grilled Cheese Sandwich, Birria -Style with
-          Carnitas Dipping Jus, Salsa Fresca & Cumin Crema. Served with
-          Shoestring French Fries 
+          Carved Ham, Melted Swiss Cheese, Whole Grain Mustard-Cola Glaze,
+          Pickled Cabbage & served with a Spanish                  Potato-Leek
+          Tortilla   
         price: '28'
-        title: 'Menu Addition: Shortrib Birria Grilled Cheese Sandwich'
+        title: 'Menu Addition: Ron Swanson "MANwich" Belgian Waffle Croque Monsieur '
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
