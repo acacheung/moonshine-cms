@@ -7,8 +7,7 @@ subgroups:
     items:
       - description: >-
           Carved Ham, Melted Swiss Cheese, Whole Grain Mustard-Cola Glaze,
-          Pickled Cabbage & served with a Spanish                  Potato-Leek
-          Tortilla   
+          Pickled Cabbage & served with House Cut Shoestring French Fries 
         price: '28'
         title: 'Menu Addition: Ron Swanson "MANwich" Belgian Waffle Croque Monsieur '
       - description: >-
