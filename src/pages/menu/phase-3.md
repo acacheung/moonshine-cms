@@ -6,11 +6,6 @@ subgroups:
   - description: Don’t forget to add your favorite fixin’s or sides!
     items:
       - description: >-
-          Carved Ham, Melted Swiss Cheese, Whole Grain Mustard-Cola Glaze,
-          Pickled Cabbage & served with House Cut Shoestring French Fries 
-        price: '28'
-        title: 'Menu Addition: Ron Swanson "MANwich" Belgian Waffle Croque Monsieur '
-      - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
         price: '19'
