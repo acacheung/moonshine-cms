@@ -174,7 +174,7 @@ subgroups:
       - description: >-
           Sharp cheddar, Housemade aioli, LTO & Shoestring fries  ...make it a
           double patty 10 
-        price: MKT
+        price: '19'
         title: 'Grass-fed Beef Burger '
       - description: >-
           April 2021: Don't Be A Jerk Burger" Topped with  Jamaican Inspired
