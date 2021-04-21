@@ -130,6 +130,9 @@ subgroups:
         title: 'Two Eggs Any Style '
       - price: '6'
         title: 'Spicy Green Chili Cheese Grits '
+      - description: 'Cinnamon Honey Butter & Sriracha-Bourbon Awesome Sauce '
+        price: '7'
+        title: House Belgian Waffle
       - price: '3'
         title: 'Homemade English Muffin '
       - price: '3'
@@ -187,7 +190,8 @@ subgroups:
         title: 'Make Your Burger a VIP Burger of the Month '
       - description: >-
           "Boston's Best" Buttermilk fried chicken, Belgian waffle,
-          Sriracha-bourbon awesome sauce, Cinnamon honey butter 
+          Sriracha-bourbon awesome sauce, Cinnamon honey butter  ** GO GRANDE by
+          adding an additional Belgian Waffle for $7**
         price: '27'
         title: 'Leslie Knope''s Fried Chicken & Waffle '
       - description: >-
