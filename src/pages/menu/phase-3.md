@@ -98,6 +98,9 @@ subgroups:
         title: Pan-Roasted Brussel Sprouts
       - price: '7'
         title: Asian Pear Kimchi
+      - description: 'Cinnamon Honey Butter & Sriracha-Bourbon Awesome Sauce '
+        price: '7'
+        title: House Belgian Waffle
       - price: '2'
         title: Fried Egg
       - price: '4'
