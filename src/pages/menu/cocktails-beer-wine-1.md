@@ -215,12 +215,13 @@ subgroups:
       - description: >-
           Four Roses Bourbon...9...Mitcher's Bourbon...9...Maker's Mark
           Bourbon...10...Mad River Bourbon...10...Basil Hayden's
-          Bourbon...12...Uncle Nearest 1884 Small Batch Whiskey...11...Uncle
-          Nearest 1856 Whiskey...13...Jack Daniels Whiskey...9...Old Overhold
-          Rye...8...Rittenhouse Rye...9...Mitcher's Single Barrel Rye...9...Mad
-          River Revolution Rye...10...Boston Harbor Distillery Putnam
-          Rye...11...Boston Harbor Distillery Single Malt
-          Whiskey...13...Whistlepig 10 Year Rye...16...
+          Bourbon...Blanton's Bourbon...12...12...Uncle Nearest 1884 Small Batch
+          Whiskey...11...Uncle Nearest 1856 Whiskey...13...Jack Daniels
+          Whiskey...9...Old Overhold Rye...8...Rittenhouse Rye...9...Mitcher's
+          Single Barrel Rye...9...Mad River Revolution Rye...10...Boston Harbor
+          Distillery Putnam Rye...11...Boston Harbor Distillery Single Malt
+          Whiskey...13...Whistlepig 10 Year Rye...16...Old Smokey Tennessee
+          White Whiskey Moonshine...9...
         price: xxxxx
         title: 'American Whiskey/Bourbon/Rye '
       - description: >-
@@ -232,8 +233,9 @@ subgroups:
         title: Imported Whiskey
       - description: >-
           Dewar's "White Label"...9...Johnnie Walker Black...10...Laphroaig
-          10...11...Glenfiddich 12...12...Glenfiddich 14...13...Balvenie
-          12...13...Oban 14...14...Lagavulin 16...16...
+          10...11...Dalmore Highland Single Malt 12 Yr ...12...Glenfiddich
+          12...12...Glenfiddich 14...13...Balvenie 12...13...Oban
+          14...14...Lagavulin 16...16...
         price: XXXXX
         title: 'Scotch '
     title: 'Spirit List '
