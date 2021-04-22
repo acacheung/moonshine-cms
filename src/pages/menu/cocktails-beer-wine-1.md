@@ -49,11 +49,6 @@ subgroups:
           Bubbles 
         price: '14'
         title: Owl Station Inspiration
-      - description: >-
-          Pear & Vanilla Bean Infused Tennessee Moonshine, Pear Nectar, Vanilla
-          Syrup, Fresh Lime 
-        price: '13'
-        title: who's the bosc
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
