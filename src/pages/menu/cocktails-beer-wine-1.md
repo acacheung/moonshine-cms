@@ -74,9 +74,18 @@ subgroups:
       - description: 16 oz can
         price: '5'
         title: 'Bud Light Black Cherry Hard Seltzer '
+      - description: '16 oz tallboy can '
+        price: '5'
+        title: Bud Light Lime Hard Seltzer
+      - description: '16 oz tallboy can '
+        price: '5'
+        title: 'Bud Light Lemonade Hard Seltzer '
       - description: '16 oz can '
         price: '5'
         title: 'Bud Light Strawberry Lemonade Hard Seltzer '
+      - description: '16 oz tallboy can '
+        price: '7'
+        title: Artifact Cider Project "Slow Down" Craft Cider
       - description: '12 oz bottle '
         price: '6'
         title: 'Amstel Light '
@@ -111,7 +120,7 @@ subgroups:
         price: '6'
         title: 'Allagash White '
       - description: '12 oz can '
-        price: '6'
+        price: '5'
         title: 'Ballast Point "Grapefruit Sculpin" IPA  '
       - description: '16 oz tallboy can '
         price: '11'
