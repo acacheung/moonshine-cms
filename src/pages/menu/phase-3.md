@@ -6,11 +6,6 @@ subgroups:
   - description: Don’t forget to add your favorite fixin’s or sides!
     items:
       - description: >-
-          Chef Asia’s Famous Buffalo Chicken Nuggies, Campanelle Pasta, Cheddar
-          Bechamel, Hamburger 
-        price: '28'
-        title: 'Menu Addition: 420 Munchies Hamburger Helper Mac & Cheese '
-      - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
         price: '19'
