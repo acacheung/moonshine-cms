@@ -6,6 +6,11 @@ subgroups:
   - description: Don’t forget to add your favorite fixin’s or sides!
     items:
       - description: >-
+          Basil-Mint Pesto Risotto, Pan-Seared Maine Crabcakes, Pickled Cabbage,
+          Citrus Aioli
+        price: 18 regular / 32 grande
+        title: 'Menu Addition: Maine Crabcake Risotto'
+      - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
         price: '19'
