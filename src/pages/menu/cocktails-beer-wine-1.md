@@ -108,9 +108,6 @@ subgroups:
       - description: 12 oz Bottle
         price: '6'
         title: Kona Brewing Big Wave Golden Ale
-      - description: 16 oz Tallboy Can
-        price: '7'
-        title: Lord Hobo "Freebird" Golden Ale
       - description: '16 oz tallboy can '
         price: '8'
         title: 'Bell''s Brewery "Oberon" American Wheat Ale '
