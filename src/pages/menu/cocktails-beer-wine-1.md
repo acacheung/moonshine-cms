@@ -166,8 +166,8 @@ subgroups:
         price: '13/ 50 '
         title: '(RED) 2018 Cloudfall Monterey County Pinot Noir '
       - description: 'Mendoza, Argentina '
-        price: '12 / 45 '
-        title: '(red) 2019 Bieler Family Wines "The Show" Malbec '
+        price: 13 / 48
+        title: '(red) 2018 Domaine Bousquet "Gaia" Malbec '
       - description: 'Columbia valley, WA, USA '
         price: '12 / 45 '
         title: '(red) 2017 Charles & Charles cabernet/syrah blend '
