@@ -6,6 +6,11 @@ subgroups:
   - description: Don’t forget to add your favorite fixin’s or sides!
     items:
       - description: >-
+          Maine Crab Cakes with Basil-Mint Pesto Risotto, Pickled Cabbage &
+          Citrus Aioli                                                      
+        price: '18 / 32 '
+        title: 'menu addition: Maine Crab Cake Risotto '
+      - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
         price: '19'
