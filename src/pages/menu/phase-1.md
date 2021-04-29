@@ -5,6 +5,9 @@ order: 3
 subgroups:
   - description: All portions available regular or “Go Grande”
     items:
+      - description: 'Basil Peso, Rustic Tomato, Shaved Parmesan & Aged Balsamic '
+        price: '17 regular /  28 grande '
+        title: 'Menu Addition: Creamy Parmesan Arancini '
       - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
