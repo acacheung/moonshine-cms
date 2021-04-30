@@ -147,6 +147,9 @@ subgroups:
       - description: 'Columbia Valley, Washington, USA'
         price: 12/44
         title: (Rose) 2018 Charles & Charles Rose
+      - description: 'Cotes De Provence, France '
+        price: 15 / 58
+        title: '(Rose) 2020 Whispering Angel Rose '
       - description: 'Trentino, Italy '
         price: 13 / 52
         title: (Sparkling Rose) NV Canella Sparkling Rose Brut
