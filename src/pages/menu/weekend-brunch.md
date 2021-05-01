@@ -180,12 +180,12 @@ subgroups:
         price: '19'
         title: 'Grass-fed Beef Burger '
       - description: >-
-          April 2021: Don't Be A Jerk Burger" Topped with  Jamaican Inspired
-          Habanero Jerk Rub, Pineapple-Black Bean Salsa, Crispy Plantain Chips &
-          Citrus Aioli. (**As always, can be made with our award winning
-          Mushroom Tofu patty! ) Served with your choice of side. Served with
-          shoestring French fries. (**As always, can be made with our
-          award-winning Mushroom Tofu patty! )
+          May 2021 VIP Burger of the Month "Musubi Madness-Sushi Burger":Topped
+          with Crispy Spam-Sushi Rice Cake, Pickled Ginger, Wasabi Aioli,
+          Teriyaki Glaze, Furikake. (**As always, can be made with our award
+          winning Mushroom Tofu patty! ) Served with your choice of side. .
+          (**As always, can be made with our award winning Mushroom Tofu patty!
+          ) Served with your choice of side.
         price: '23'
         title: 'Make Your Burger a VIP Burger of the Month '
       - description: >-
