@@ -52,8 +52,8 @@ subgroups:
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
-      - price: '4'
-        title: (Draft) Miller light
+      - price: '5'
+        title: (Draft) Miller High Life
       - price: '7'
         title: '(Draft) Harpoon IPA '
       - price: '7'
