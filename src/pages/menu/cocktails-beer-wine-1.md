@@ -76,7 +76,7 @@ subgroups:
         price: '5'
         title: 'Bud Light Strawberry Lemonade Hard Seltzer '
       - description: '16 oz tallboy can '
-        price: '7'
+        price: '6'
         title: Artifact Cider Project "Slow Down" Craft Cider
       - description: '12 oz bottle '
         price: '6'
@@ -102,6 +102,9 @@ subgroups:
       - description: 12 oz Bottle
         price: '6'
         title: Kona Brewing Big Wave Golden Ale
+      - description: '12 oz bottle '
+        price: '6'
+        title: 'Brooklyn Brewing Summer Ale '
       - description: '16 oz tallboy can '
         price: '8'
         title: 'Bell''s Brewery "Oberon" American Wheat Ale '
