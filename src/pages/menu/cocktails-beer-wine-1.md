@@ -5,6 +5,13 @@ order: 2
 subgroups:
   - description: ''
     items:
+      - description: >-
+          Tito's Vodka, Lychee, Combier Peach Liqueur, Fresh Lemon, Cranberry,
+          Bubbles  **In honor of Asian Heritage Month, Tito’s Handmade Vodka
+          will be making a charitable donation to the Greater Boston Golden Age
+          Center in cooperation with Moonshine 152**
+        price: '15'
+        title: Owl Station Inspiration
       - description: 'Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'House Manhattan '
@@ -41,11 +48,6 @@ subgroups:
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco Bubbles '
         price: '14'
         title: 'moonshine 76 '
-      - description: >-
-          Bison Grass Vodka, Lychi, Peach Liquer, Fresh Lemon, Cranberry,
-          Bubbles 
-        price: '14'
-        title: Owl Station Inspiration
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
