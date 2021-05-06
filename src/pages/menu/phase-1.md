@@ -5,9 +5,6 @@ order: 3
 subgroups:
   - description: All portions available regular or “Go Grande”
     items:
-      - description: 'Basil Peso, Rustic Tomato, Shaved Parmesan & Aged Balsamic '
-        price: '17 regular /  28 grande '
-        title: 'Menu Addition: Creamy Parmesan Arancini '
       - description: >-
           Braised Brisket Chili, Melted Cheeses, Pineapple Salsa, Cumin Crema,
           Black Beans & Pickled Cabbage Over House Corn Tortilla Chips 
