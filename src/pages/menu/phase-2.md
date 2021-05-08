@@ -7,6 +7,11 @@ subgroups:
       All portions available regular or “Go Grande”. Don’t forget to add your
       favorite protein or fixin’s!
     items:
+      - description: >-
+          BBQ Beef Brisket Carnitas, Melted Cheeses, Pineapple Salsa, Cumin
+          Crema, Black Beans & Pickled Cabbage Over House Corn Tortilla Chips 
+        price: '28.00'
+        title: 'Menu Addition: BBQ Beef Brisket Carnitas Nachos'
       - description: Chef Asia's Famous Spicy Pork Noodle Soup
         price: '12 regular / 19 grande '
         title: 'Chef''s whim Soup for the soul '
