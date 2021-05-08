@@ -48,6 +48,11 @@ subgroups:
     title: 'Cheers To The Weekend! '
   - description: To Get Ya Started! All portions available "Regular" or "Go Grande"
     items:
+      - description: >-
+          Pineapple-Apricot Syrup, Fresh Raspberries, Chantilly Cream, Toasted
+          Coconut
+        price: '15'
+        title: 'Menu Addition: Warm Tropical Pancake Bread'
       - description: 'Local honey, Fresh berries, Sunflower seed-oat crumble'
         price: 9 / 14
         title: 'Whipped Greek Yogurt Parfait '
