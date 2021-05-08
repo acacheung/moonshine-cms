@@ -6,11 +6,6 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
-          Braised Brisket Chili, Melted Cheeses, Pineapple Salsa, Cumin Crema,
-          Black Beans & Pickled Cabbage Over House Corn Tortilla Chips 
-        price: '28'
-        title: 'Menu Addition: Cinco de Mayo Chili Con Carne Nachos '
-      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
