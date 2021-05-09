@@ -21,9 +21,6 @@ subgroups:
       - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime '
         price: '13'
         title: Fay's Fancy
-      - description: 'Spicy Vodka, Cucumber, Elderflower, Fresh Lemon'
-        price: '14'
-        title: Farm To Glass
       - description: 'House Spicy Tequila, Ginger Liqueur, Fresh Lime, Agave'
         price: '13'
         title: There's Fire
