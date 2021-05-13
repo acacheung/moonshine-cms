@@ -1,6 +1,7 @@
 ---
 templateKey: menu-group
 title: '''Shine Merchandise & Misc.'
+subtitle: ''
 order: 8
 subgroups:
   - items:

@@ -12,7 +12,11 @@ class MenuSubgroupNav extends React.Component {
         {posts &&
           posts.map(({ node: post }) => (
             <Link to={post.fields.slug} key={post.id} className="menu__link" activeClassName="is-active">
-              {post.frontmatter.title}
+              <img alt="moon-icon" className="menu__link__icon" src="/img/moon.png" />
+              <div>
+                <p className="menu__link__title">{post.frontmatter.title}</p>
+                <p className="menu__link__subtitle">{post.frontmatter.subtitle}</p>
+              </div>
             </Link>
           ))}
       </nav>
@@ -44,6 +48,7 @@ export default () => (
               }
               frontmatter {
                 title
+                subtitle
                 order
                 templateKey
               }

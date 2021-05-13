@@ -19,6 +19,7 @@ collections:
           default: 'menu-group',
         }
       - { label: 'Menu Group', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'subtitle', widget: 'string' }
       - {
           label: 'Order',
           name: 'order',

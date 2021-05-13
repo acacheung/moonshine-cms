@@ -1,6 +1,7 @@
 ---
 templateKey: menu-group
-title: 'Moonshine 152 Welcomes You! '
+title: 'Moonshine 152 Welcomes You!'
+subtitle: ''
 order: 1
 subgroups:
   - items:

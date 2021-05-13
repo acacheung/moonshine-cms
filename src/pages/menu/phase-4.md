@@ -1,6 +1,7 @@
 ---
 templateKey: menu-group
-title: 'Phase 4-Dessert '
+title: 'Phase 4'
+subtitle: 'Dessert'
 order: 6
 subgroups:
   - description: |-
