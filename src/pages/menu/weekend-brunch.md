@@ -1,7 +1,7 @@
 ---
 templateKey: menu-group
 title: Weekend Brunch
-subtitle: ''
+subtitle: Moonshine's Weekend Brunch Menu 1130-3pm Saturday and Sunday
 order: 7
 subgroups:
   - description: 'Brunch Cocktails & Beverages '
@@ -49,11 +49,6 @@ subgroups:
     title: 'Cheers To The Weekend! '
   - description: To Get Ya Started! All portions available "Regular" or "Go Grande"
     items:
-      - description: >-
-          Pineapple-Apricot Syrup, Fresh Raspberries, Chantilly Cream, Toasted
-          Coconut
-        price: '15'
-        title: 'Menu Addition: Warm Tropical Pancake Bread'
       - description: 'Local honey, Fresh berries, Sunflower seed-oat crumble'
         price: 9 / 14
         title: 'Whipped Greek Yogurt Parfait '
