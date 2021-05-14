@@ -1,7 +1,7 @@
 ---
 templateKey: menu-group
 title: Weekend Brunch
-subtitle: Moonshine's Weekend Brunch Menu 1130-3pm Saturday and Sunday
+subtitle: Moonshine's Weekend Brunch Menu 1130am-3pm Saturday and Sunday
 order: 7
 subgroups:
   - description: 'Brunch Cocktails & Beverages '
