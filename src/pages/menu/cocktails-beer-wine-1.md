@@ -1,6 +1,6 @@
 ---
 templateKey: menu-group
-title: 'Beverages'
+title: Beverages
 subtitle: 'Cocktails, Beer, Wine & Spirits'
 order: 2
 subgroups:
@@ -103,7 +103,7 @@ subgroups:
         price: '10'
         title: 'Mighty Squirrel "Sour Face" Sour Berliner Weisse '
       - description: 12 oz can
-        price: '5'
+        price: '4'
         title: Golden Road Mango Cart Wheat Ale
       - description: 12 oz Bottle
         price: '6'
@@ -121,7 +121,7 @@ subgroups:
         price: '6'
         title: 'Allagash White '
       - description: '16 oz tallboy can '
-        price: '11'
+        price: '9'
         title: 'Medusa Brewing  "Green Beard" Hazy IPA '
       - description: '12 oz bottle '
         price: '7'
