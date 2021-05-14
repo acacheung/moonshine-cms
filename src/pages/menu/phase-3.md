@@ -58,7 +58,7 @@ subgroups:
           Pulled red wine braised rabbit, pasta, Campanelle pasta, Sage-brown
           butter,  Broccoli rabe, Marcona Almonds, Louisiana cream sauce
         price: '28'
-        title: 'Louisiana briased Rabbit Pasta '
+        title: 'Louisiana braised Rabbit Pasta '
     title: The Main Affair
   - description: Swap out your white rice for mixed greens for 2
     items:
