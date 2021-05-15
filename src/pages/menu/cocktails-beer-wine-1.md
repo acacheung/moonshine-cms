@@ -157,7 +157,7 @@ subgroups:
         price: 15 / 58
         title: '(Rose) 2020 Whispering Angel Rose '
       - description: 'Trentino, Italy '
-        price: 13 / 52
+        price: 12 / 52
         title: (Sparkling Rose) NV Canella Sparkling Rose Brut
       - description: 'Veneto, Italy '
         price: 11 / 40
