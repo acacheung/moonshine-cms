@@ -49,16 +49,16 @@ subgroups:
           macerated tomatoes
         price: '28'
         title: Spanish Tapas Style Steak Frites
-      - description: >
-          Creamy mashed potato aioli, Shredded cheddar, Bacon jam, Port red wine
-          demiglace, Petite mixed greens salad
-        price: '28'
-        title: '''Shine Smoky Meatloaf '
       - description: >-
           Pulled red wine braised rabbit, pasta, Campanelle pasta, Sage-brown
           butter,  Broccoli rabe, Marcona Almonds, Louisiana cream sauce
         price: '28'
         title: 'Louisiana braised Rabbit Pasta '
+      - description: >
+          Creamy mashed potato aioli, Shredded cheddar, Bacon jam, Port red wine
+          demiglace, Petite mixed greens salad
+        price: '28'
+        title: '''Shine Smoky Meatloaf '
     title: The Main Affair
   - description: Swap out your white rice for mixed greens for 2
     items:
