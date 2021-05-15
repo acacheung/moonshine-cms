@@ -24,11 +24,6 @@ subgroups:
           ) Served with your choice of side.
         price: '23'
         title: May 2021 VIP Burger of the Month "Musubi Madness-Sushi Burger"
-      - description: >
-          Creamy mashed potato aioli, Shredded cheddar, Bacon jam, Port red wine
-          demiglace, Petite mixed greens salad
-        price: '28'
-        title: '''Shine Smoky Meatloaf '
       - description: >-
           Smoky pulled pork, scrambled egg, tomato salsa, petite mixed greens
           salad, teriyaki, sweet chili glaze, house-cut shoestring french
@@ -54,6 +49,11 @@ subgroups:
           macerated tomatoes
         price: '28'
         title: Spanish Tapas Style Steak Frites
+      - description: >
+          Creamy mashed potato aioli, Shredded cheddar, Bacon jam, Port red wine
+          demiglace, Petite mixed greens salad
+        price: '28'
+        title: '''Shine Smoky Meatloaf '
       - description: >-
           Pulled red wine braised rabbit, pasta, Campanelle pasta, Sage-brown
           butter,  Broccoli rabe, Marcona Almonds, Louisiana cream sauce
