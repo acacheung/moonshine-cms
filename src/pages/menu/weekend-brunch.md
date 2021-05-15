@@ -79,6 +79,9 @@ subgroups:
           oil 
         price: '15 / 26 '
         title: 'Tapas Style Patatas Bravas '
+      - description: 'Served with House Tortilla Chips, Tobiko, Fresh Salsa & Yuzu Citrus'
+        price: 16 regular / 28 grande
+        title: 'Menu Addition: Scallop, Shrimp & Tilapia Ceviche'
     title: Brunch Phase 1
   - description: 'The Main Affair '
     items:
