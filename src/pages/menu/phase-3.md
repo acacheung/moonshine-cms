@@ -55,8 +55,8 @@ subgroups:
         price: '28'
         title: 'Louisiana braised Rabbit Pasta '
       - description: >
-          Creamy mashed potato aioli, Shredded cheddar, Bacon jam, Port red wine
-          demiglace, Petite mixed greens salad
+          Creamy mashed potato aioli, Shredded cheddar, Port red wine demiglace,
+          Petite mixed greens salad
         price: '28'
         title: '''Shine Smoky Meatloaf '
     title: The Main Affair
