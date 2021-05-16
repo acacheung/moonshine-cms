@@ -54,6 +54,11 @@ subgroups:
           butter,  Broccoli rabe, Marcona Almonds, Louisiana cream sauce
         price: '28'
         title: 'Louisiana braised Rabbit Pasta '
+      - description: >
+          Creamy mashed potato aioli, Shredded cheddar, Port red wine demiglace,
+          Petite mixed greens salad
+        price: '28'
+        title: '''Shine Smoky Meatloaf '
     title: The Main Affair
   - description: Swap out your white rice for mixed greens for 2
     items:
