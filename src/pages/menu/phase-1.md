@@ -6,9 +6,6 @@ order: 3
 subgroups:
   - description: All portions available regular or “Go Grande”
     items:
-      - description: 'Served with House Tortilla Chips, Tobiko, Fresh Salsa & Yuzu Citrus'
-        price: 16 regular / 28 Grande
-        title: 'Menu Addition: Scallop, Shrimp & Tilapia Ceviche'
       - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
