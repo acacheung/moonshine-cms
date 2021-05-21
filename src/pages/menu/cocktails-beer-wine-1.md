@@ -37,9 +37,9 @@ subgroups:
       - description: 'Red Wine, Rum, Hibiscus, Ginger, Fresh Citrus, Apples '
         price: '12'
         title: Sahil's Sangria
-      - description: 'White Wine, Orange Infused Brandy, Muddled Blackberries, Fresh Citrus'
+      - description: 'White Wine, Raspberry Vodka, Summer Berries, Fresh Citrus'
         price: '12'
-        title: 'Blackberry Orange White Sangria '
+        title: 'Summer Berry White Sangria '
       - description: 'Strawberry Lemon Infused Peach Vodka, Sweet Tea '
         price: '13'
         title: 'Strawberry Peach Lemonade Sweet Tea Agua Fresca '
@@ -66,9 +66,6 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: 'Budweiser/ Bud Light '
-      - description: 16 oz can
-        price: '5'
-        title: 'Bud Light Black Cherry Hard Seltzer '
       - description: '16 oz tallboy can '
         price: '5'
         title: Bud Light Lime Hard Seltzer
