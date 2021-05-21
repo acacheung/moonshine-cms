@@ -9,7 +9,7 @@ subgroups:
       - description: >-
           Two Steamed Chinese Soft Bao Buns with Tempura Softshell Crab, House
           B&B Pickle Slaw, Honey Roasted Peanut Crumble & Sweet Chili Glaze  
-        price: '18'
+        price: '20'
         title: 'Menu Addition: Spring Softshell Crab Bao Buns '
       - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
