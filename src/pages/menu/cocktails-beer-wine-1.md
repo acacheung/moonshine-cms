@@ -59,8 +59,8 @@ subgroups:
       - price: '7'
         title: '(Draft) Lord Hobo "Hobo Life" Session IPA '
       - description: 16oz draft
-        price: '6'
-        title: '(DRAFT) Von Trapp Brewing Bohemian Pilsner '
+        price: '7'
+        title: (DRAFT) Medusa Brewing " Duchovni" Bohemian Pilsner
       - price: '7'
         title: '(Draft) Downeast Original Unfiltered Cider '
       - description: '12 oz bottle '
