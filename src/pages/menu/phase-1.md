@@ -7,11 +7,6 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
-          Two Steamed Chinese Soft Bao Buns with Tempura Softshell Crab, House
-          B&B Pickle Slaw, Honey Roasted Peanut Crumble & Sweet Chili Glaze  
-        price: '20'
-        title: 'Menu Addition: Spring Softshell Crab Bao Buns '
-      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
@@ -40,6 +35,11 @@ subgroups:
           ginger aioli 
         price: 14 regular / 22 grande
         title: '''Shine Famous Bacon Wrapped Stuffing Bites '
+      - description: >-
+          Two Steamed Chinese Soft Bao Buns with Tempura Softshell Crab, House
+          B&B Pickle Slaw, Honey Roasted Peanut Crumble & Sweet Chili Glaze  
+        price: '20'
+        title: 'Menu Addition: Spring Softshell Crab Bao Buns '
     title: To Get Ya Started
 ---
 
