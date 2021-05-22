@@ -98,9 +98,6 @@ subgroups:
         title: Narragansett Lager
       - description: '16 oz tallboy can '
         price: '8'
-        title: 'Bell''s Brewery "Oberon" American Wheat Ale '
-      - description: '16 oz tallboy can '
-        price: '8'
         title: 'Zero Gravity "Green State" Lager '
       - description: '16 oz tallboy can '
         price: '10'
