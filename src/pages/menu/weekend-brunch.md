@@ -49,6 +49,9 @@ subgroups:
     title: 'Cheers To The Weekend! '
   - description: To Get Ya Started! All portions available "Regular" or "Go Grande"
     items:
+      - description: 'Vanilla Bean, Pineapple Coulis & Spring Berries '
+        price: '12'
+        title: 'Menu Addition: Greek Yogurt Panna Cotta'
       - description: 'Local honey, Fresh berries, Sunflower seed-oat crumble'
         price: 9 / 14
         title: 'Whipped Greek Yogurt Parfait '
