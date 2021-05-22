@@ -1,13 +1,16 @@
 ---
 templateKey: menu-group
-title: 'Phase 4'
-subtitle: 'Dessert'
+title: Phase 4
+subtitle: Dessert
 order: 6
 subgroups:
   - description: |-
       Add one scoop of butterfinger ice cream to your favorite dessert $4 
       Add a Belgian waffle to your favorite dessert $7
     items:
+      - description: 'Vanilla Bean, Pineapple Coulis, Spring  Berries '
+        price: '12'
+        title: 'Menu Addition: Greek Yogurt Panna Cotta'
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
