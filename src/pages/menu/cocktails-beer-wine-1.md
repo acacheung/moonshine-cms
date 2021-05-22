@@ -211,9 +211,8 @@ subgroups:
           Whiskey...11...Uncle Nearest 1856 Whiskey...13...Jack Daniels
           Whiskey...9...Old Overhold Rye...8...Rittenhouse Rye...9...Mitcher's
           Single Barrel Rye...9...Mad River Revolution Rye...10...Boston Harbor
-          Distillery Putnam Rye...11...Boston Harbor Distillery Single Malt
-          Whiskey...13...Whistlepig 10 Year Rye...16...Old Smokey Tennessee
-          White Whiskey Moonshine...9...
+          Distillery Putnam Rye...11....Old Smokey Tennessee White Whiskey
+          Moonshine...9...
         price: xxxxx
         title: 'American Whiskey/Bourbon/Rye '
       - description: >-
