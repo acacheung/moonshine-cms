@@ -108,9 +108,6 @@ subgroups:
       - description: 12 oz can
         price: '4'
         title: Golden Road Mango Cart Wheat Ale
-      - description: 12 oz Bottle
-        price: '6'
-        title: Kona Brewing Big Wave Golden Ale
       - description: '12 oz bottle '
         price: '6'
         title: 'Brooklyn Brewing Summer Ale '
