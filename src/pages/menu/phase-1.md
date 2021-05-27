@@ -7,8 +7,9 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
-          Two Steamed Chinese Soft Bao Buns with Tempura Softshell Crab, House
-          B&B Pickle Slaw, Honey Roasted Peanut Crumble & Sweet Chili Glaze  
+          Two Steamed Chinese Soft Bao Buns with Jumbo Tempura Softshell Crab,
+          House B&B Pickle Slaw, Honey Roasted Peanut Crumble & Sweet Chili
+          Glaze  
         price: MKT
         title: 'Menu Addition: Spring Softshell Crab Bao Buns '
       - description: >-
