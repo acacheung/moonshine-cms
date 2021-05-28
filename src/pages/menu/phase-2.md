@@ -8,7 +8,7 @@ subgroups:
       All portions available regular or “Go Grande”. Don’t forget to add your
       favorite protein or fixin’s!
     items:
-      - description: Chef Asia's Famous Spicy Pork Noodle Soup
+      - description: Chef Asia's Famous Chilled Beet Soup
         price: '12 regular / 19 grande '
         title: 'Chef''s whim Soup for the soul '
       - description: >-
