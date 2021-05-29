@@ -75,9 +75,6 @@ subgroups:
       - description: '16 oz can '
         price: '5'
         title: 'Bud Light Strawberry Lemonade Hard Seltzer '
-      - description: '16 oz tallboy can '
-        price: '6'
-        title: Artifact Cider Project "Slow Down" Craft Cider
       - description: '12 oz bottle '
         price: '6'
         title: 'Amstel Light '
