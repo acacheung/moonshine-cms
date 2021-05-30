@@ -68,9 +68,6 @@ subgroups:
         title: 'Budweiser/ Bud Light '
       - description: '16 oz tallboy can '
         price: '5'
-        title: Bud Light Lime Hard Seltzer
-      - description: '16 oz tallboy can '
-        price: '5'
         title: 'Bud Light Lemonade Hard Seltzer '
       - description: '16 oz can '
         price: '5'
@@ -120,9 +117,9 @@ subgroups:
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
-      - description: '12 oz can '
+      - description: 12 oz bottle
         price: '6'
-        title: Budweiser Zero (Non-Alcoholic)
+        title: Heineken Zero (Non-Alcoholic)
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
@@ -158,7 +155,7 @@ subgroups:
         title: '(RED) 2018 Cloudfall Monterey County Pinot Noir '
       - description: 'Mendoza, Argentina '
         price: 13 / 48
-        title: '(red) 2018 Domaine Bousquet "Gaia" Malbec '
+        title: '(red) 2018 Charles Bieler "The Show" Malbec '
       - description: 'Columbia valley, WA, USA '
         price: '12 / 45 '
         title: '(red) 2017 Charles & Charles cabernet/syrah blend '
