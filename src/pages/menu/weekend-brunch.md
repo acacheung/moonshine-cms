@@ -203,6 +203,11 @@ subgroups:
     title: All-Day / All-Night Allstars
   - description: 'Sweet Tooth '
     items:
+      - description: >-
+          Chewy Toasted Coconut Mochi Blondie Bites, Pineapple Glaze, Powdered
+          Sugar
+        price: '12'
+        title: 'Menu Addition: Hawaiian Coconut Mochi Blondies'
       - description: 'Whipped chantilly cream, Toasted oat-amaranth streusel '
         price: '12'
         title: 'Butterscotch Pudding '
