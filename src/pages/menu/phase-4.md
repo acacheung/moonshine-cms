@@ -10,7 +10,7 @@ subgroups:
     items:
       - description: >-
           Chewy Toasted Coconut Mochi Blondie Bites, Pineapple Glaze, Powdered
-          Sugar
+          Sugar *Gluten Free
         price: '12'
         title: 'Menu Addition: Hawaiian Coconut Mochi Blondies'
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
