@@ -40,9 +40,6 @@ subgroups:
       - description: 'White Wine, Raspberry Vodka, Summer Berries, Fresh Citrus'
         price: '12'
         title: 'Summer Berry White Sangria '
-      - description: 'Strawberry Lemon Infused Peach Vodka, Sweet Tea '
-        price: '13'
-        title: 'Strawberry Peach Lemonade Sweet Tea Agua Fresca '
       - description: 888 Blueberry Vodka Layered with Red Bull
         price: '13'
         title: 'Meet Me Down M Street '
