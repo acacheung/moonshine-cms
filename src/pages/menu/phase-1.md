@@ -8,8 +8,7 @@ subgroups:
     items:
       - description: >-
           Two Steamed Chinese Soft Bao Buns with Jumbo Tempura Softshell Crab,
-          House B&B Pickle Slaw, Honey Roasted Peanut Crumble & Sweet Chili
-          Glaze  
+          Pickled Ginger, Furikake Seasoning & Sweet Chili Glaze  
         price: MKT
         title: 'Menu Addition: Spring Softshell Crab Bao Buns '
       - description: >-
