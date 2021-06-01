@@ -47,7 +47,7 @@ subgroups:
         price: '14'
         title: 'moonshine 76 '
       - description: 'Pineapple Infused Vodka, Soda Water'
-        price: '12'
+        price: '13'
         title: Aloha Spritz Pineapple Agua Fresca
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
