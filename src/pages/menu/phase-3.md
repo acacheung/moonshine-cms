@@ -1,7 +1,7 @@
 ---
 templateKey: menu-group
-title: Phase 3
-subtitle: The Main Affair (Entrees)
+title: The Main Affair
+subtitle: (Entrees)
 order: 5
 subgroups:
   - description: Don’t forget to add your favorite fixin’s or sides!
