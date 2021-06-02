@@ -8,9 +8,10 @@ subgroups:
     items:
       - description: >-
           Two Steamed Chinese Soft Bao Buns with Jumbo Tempura Softshell Crab,
-          Pickled Ginger, Furikake Seasoning & Sweet Chili Glaze  
+          Pickled Ginger, Furikake Seasoning & Sweet Chili Glaze. **Grande
+          Option Available
         price: MKT
-        title: 'Menu Addition: Spring Softshell Crab Bao Buns '
+        title: 'Spring Softshell Crab Bao Buns '
       - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
