@@ -1,7 +1,7 @@
 ---
 templateKey: menu-group
-title: Phase 2
-subtitle: Next Level Favorites (Shareable Small Plates)
+title: Next Level Favorites
+subtitle: (Shareable Small Plates)
 order: 4
 subgroups:
   - description: >-
