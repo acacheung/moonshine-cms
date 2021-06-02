@@ -17,11 +17,6 @@ subgroups:
           kale
         price: 10 regular / 14 grande
         title: Local Mixed Greens Salad
-      - description: >-
-          Creamy caramelized onion and roasted beet dip, crispy chickpea
-          papadums (gluten free)
-        price: 9 regular / 14 grande
-        title: Caramelized Onion Beet Dip
       - description: 'Sweet and spicy honey-sambal, real jalapeno crab filling'
         price: 15 regular / 26 grande
         title: Rangoons
