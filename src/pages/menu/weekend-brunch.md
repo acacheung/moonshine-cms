@@ -47,7 +47,7 @@ subgroups:
         price: '4'
         title: Soda
     title: 'Cheers To The Weekend! '
-  - description: To Get Ya Started! All portions available "Regular" or "Go Grande"
+  - description: ' All portions available "Regular" or "Go Grande"'
     items:
       - description: 'Local honey, Fresh berries, Sunflower seed-oat crumble'
         price: 9 / 14
@@ -79,8 +79,8 @@ subgroups:
           oil 
         price: '15 / 26 '
         title: 'Tapas Style Patatas Bravas '
-    title: Brunch Phase 1
-  - description: 'The Main Affair '
+    title: To Get Ya Started!
+  - description: ' (Entrees)'
     items:
       - description: >-
           Smoky pulled pork, Scrambled egg, Tomato salsa, Petite mixed greens
@@ -116,8 +116,8 @@ subgroups:
       - description: 'Melt-in-your-mouth corned beef, Scrambled eggs, Housemade beer bread '
         price: '18'
         title: '''Shine''s Southie Corned Beef Hash '
-    title: Brunch Phase 2
-  - description: 'All the sides & Fixin''s '
+    title: The Main Affair
+  - description: ' All the sides & Fixin''s'
     items:
       - price: '7'
         title: 'House-cut Shoestring Fries '
@@ -153,7 +153,7 @@ subgroups:
         title: 'Add Melted Cheese To Any Dish '
       - price: '2'
         title: 'Add Sliced Jalapenos To Any Dish '
-    title: Brunch Phase 3
+    title: All the sides & Fixin's
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: Creamy Potato-Leek & Asparagus Bisque
@@ -201,7 +201,7 @@ subgroups:
         price: '17'
         title: 'Mama Mei''s Dirty Fried Rice '
     title: All-Day / All-Night Allstars
-  - description: 'Sweet Tooth '
+  - description: ' (Dessert)'
     items:
       - description: >-
           Chewy Toasted Coconut Mochi Blondie Bites, Pineapple Glaze, Powdered
@@ -225,6 +225,6 @@ subgroups:
           $4
         price: '11'
         title: 'Butterfinger Ice Cream '
-    title: Brunch Phase 4
+    title: Sweet Tooth
 ---
 
