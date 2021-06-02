@@ -1,7 +1,7 @@
 ---
 templateKey: menu-group
 title: Sweet Tooth
-subtitle: Dessert
+subtitle: (Dessert)
 order: 6
 subgroups:
   - description: |-
