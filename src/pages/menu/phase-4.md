@@ -1,6 +1,6 @@
 ---
 templateKey: menu-group
-title: Phase 4
+title: Sweet Tooth
 subtitle: Dessert
 order: 6
 subgroups:
