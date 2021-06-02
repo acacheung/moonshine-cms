@@ -55,9 +55,6 @@ subgroups:
       - description: 'Japanese ginger-sesame carrot vinaigrette, Roasted kale '
         price: 10 / 14
         title: 'Local Mixed Greens Salad '
-      - description: 'Creamy caramelized onion & beet dip, Crispy chickpea papadum chips'
-        price: 9 / 14
-        title: 'Caramelized Onion Beet Dip '
       - description: 'Toasted sesame, Crispy garlic & shallots, Soy vinaigrette '
         price: '10 / 15 '
         title: 'Blistered Shishito Peppers '
