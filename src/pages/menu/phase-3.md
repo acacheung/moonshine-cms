@@ -48,11 +48,6 @@ subgroups:
           macerated tomatoes
         price: '28'
         title: Spanish Tapas Style Steak Frites
-      - description: >-
-          Pulled red wine braised rabbit, pasta, Campanelle pasta, Sage-brown
-          butter,  Broccoli rabe, Marcona Almonds, Louisiana cream sauce
-        price: '28'
-        title: 'Louisiana braised Rabbit Pasta '
       - description: >
           Creamy mashed potato aioli, Shredded cheddar, Port red wine demiglace,
           Petite mixed greens salad
