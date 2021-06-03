@@ -1,7 +1,7 @@
 ---
 templateKey: menu-group
 title: Moonshine 152 Welcomes You!
-subtitle: 'Thanks For Joining Us '
+subtitle: 'Moonshine 152 Welcomes You! '
 order: 1
 subgroups:
   - items:
