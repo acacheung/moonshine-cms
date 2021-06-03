@@ -66,6 +66,9 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: 'Budweiser/ Bud Light '
+      - description: '12 oz can '
+        price: '5'
+        title: 'Bud Light Black Cherry Seltzer '
       - description: '16 oz tallboy can '
         price: '5'
         title: 'Bud Light Lemonade Hard Seltzer '
@@ -96,6 +99,9 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '10'
         title: 'Mighty Squirrel "Sour Face" Sour Berliner Weisse '
+      - description: '12 oz can '
+        price: '6'
+        title: DownEast Unfiltered Blackberry Cider
       - description: 12 oz can
         price: '4'
         title: Golden Road Mango Cart Wheat Ale
