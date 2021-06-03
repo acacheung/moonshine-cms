@@ -1,7 +1,7 @@
 ---
 templateKey: menu-group
 title: Next Level Favorites
-subtitle: (Shareable Small Plates)
+subtitle: (Shareable 'Shine Classics Available in Small or Large Portions)
 order: 4
 subgroups:
   - description: >-
