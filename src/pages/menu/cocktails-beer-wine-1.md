@@ -221,5 +221,34 @@ subgroups:
         price: XXXXX
         title: 'Scotch '
     title: 'Spirit List '
+  - items:
+      - price: '4'
+        title: 'Unsweetened Iced Tea '
+      - price: '5'
+        title: Fresh-Made Lemonade
+      - price: '5'
+        title: Fresh-Made Limeade
+      - description: >-
+          Orange, Grapefruit, Pineapple, Cranberry, Pear Nectar, White
+          Cranberry 
+        price: '4'
+        title: Assorted Juices
+      - description: >-
+          Just Ask!  Sweet, Tart, Spicy, Citrusy, Sour-  Your Choice. Just Let
+          Us Know What Flavors You Like & Our Bartenders Are Happy To Create A
+          Unique Beverage Just For You.
+        price: '5'
+        title: House Mocktails
+      - description: 'Coca-Cola, Diet Coke, Sprite, Ginger Ale '
+        price: '3'
+        title: Sodas
+      - price: '4'
+        title: Fever-Tree Premium Ginger Beer
+      - price: '4'
+        title: Fever-Tree Lime Yuzu Soda
+      - description: 'Original, Sugar Free, Tropical or Watermelon '
+        price: '4.50'
+        title: Red Bull
+    title: 'Non-Alcoholic '
 ---
 
