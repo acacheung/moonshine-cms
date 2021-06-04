@@ -9,8 +9,8 @@ subgroups:
       Add a Belgian waffle to your favorite dessert $7
     items:
       - description: >-
-          Chewy Toasted Coconut Mochi Blondie Bites, Pineapple Glaze, Powdered
-          Sugar *Gluten Free
+          Chewy Toasted Coconut Mochi Blondie Bites, Dulce De Leche, Guava
+          Candy, Powdered Sugar *Gluten Free
         price: '12'
         title: 'Menu Addition: Hawaiian Coconut Mochi Blondies'
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
