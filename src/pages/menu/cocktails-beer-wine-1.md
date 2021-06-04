@@ -7,6 +7,11 @@ subgroups:
   - description: ''
     items:
       - description: >-
+          Made with The Colors of the Rainbow! Mango & Blueberry Vodkas,
+          Hibiscus, Cranberry,  Fresh Lemon & Lime Juices  
+        price: '10'
+        title: PRIDE Punch
+      - description: >-
           Tito's Vodka, Lychee, Combier Peach Liqueur, Fresh Lemon, Cranberry,
           Bubbles  **In honor of Asian Heritage Month, Tito’s Handmade Vodka
           will be making a charitable donation to the Greater Boston Golden Age
@@ -16,12 +21,12 @@ subgroups:
       - description: 'Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'House Manhattan '
-      - description: 'Spicy Pepper Vodka, Fresh Cucumber Juice, Elderflower, Lemon '
-        price: '14'
-        title: Farm To Glass
       - description: 'Rye Whiskey, Amaro Aperitif, Yellow Chartreuse, Orange Bitters '
         price: '13'
         title: 'New Classic '
+      - description: 'Spicy Pepper Vodka, Fresh Cucumber Juice, Elderflower, Lemon '
+        price: '14'
+        title: Farm To Glass
       - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime '
         price: '13'
         title: Fay's Fancy
@@ -31,24 +36,21 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
-      - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
+      - description: 'Lime Infused Coconut Vodka, FeverTree Yuzu Lime Soda, Fresh Lime '
         price: '13'
-        title: 'Shine Spritz '
+        title: 'You(ZU) Put the Lime in The Coconut '
+      - description: 'Pineapple Infused Vodka, Soda Water'
+        price: '13'
+        title: Aloha Spritz Pineapple Agua Fresca
       - description: 'Red Wine, Rum, Hibiscus, Ginger, Fresh Citrus, Apples '
         price: '12'
         title: Sahil's Sangria
       - description: 'White Wine, Raspberry Vodka, Summer Berries, Fresh Citrus'
         price: '12'
         title: 'Summer Berry White Sangria '
-      - description: 888 Blueberry Vodka Layered with Red Bull
+      - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
-        title: 'Meet Me Down M Street '
-      - description: 'Gin, Elderflower, Fresh Lemon, Prosecco Bubbles '
-        price: '14'
-        title: 'moonshine 76 '
-      - description: 'Pineapple Infused Vodka, Soda Water'
-        price: '13'
-        title: Aloha Spritz Pineapple Agua Fresca
+        title: 'Shine Spritz '
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
