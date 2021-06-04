@@ -51,6 +51,9 @@ subgroups:
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
+      - description: 'Spicy Pepper Vodka, Fresh Cucumber Juice, Elderflower, Fresh Lemon '
+        price: '14'
+        title: Farm To Glass
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
@@ -146,6 +149,9 @@ subgroups:
       - description: 'Provence, FR'
         price: '15 gl / 32 375ml bottle '
         title: '(Rose) 2020 Château d’Esclan Whispering Angel Rose '
+      - description: 'Saint-André de Cubzac, Bordeaux, France '
+        price: 9  /  35
+        title: '(Sparkling Rose) NV Café de Paris Brut Sparkling Rose   '
       - description: 'Trentino, Italy '
         price: 12 / 52
         title: (Sparkling Rose) NV Canella Sparkling Rose Brut
