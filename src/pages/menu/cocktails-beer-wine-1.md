@@ -10,7 +10,7 @@ subgroups:
           Made with The Colors of the Rainbow! Mango & Blueberry Vodkas,
           Hibiscus, Cranberry,  Fresh Lemon & Lime Juices  
         price: '10'
-        title: PRIDE Punch
+        title: PRIDE Punch  * Happy PRIDE Month xo Moonshine 152!*
       - description: >-
           Tito's Vodka, Lychee, Combier Peach Liqueur, Fresh Lemon, Cranberry,
           Bubbles  **In honor of Asian Heritage Month, Tito’s Handmade Vodka
