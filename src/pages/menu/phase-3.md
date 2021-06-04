@@ -32,6 +32,12 @@ subgroups:
           Ron Swanson Brunch-Inspired Chipotle Pulled Pork Scallion Pancake
           Quesadilla
       - description: >-
+          Slow Cooked Charsiu-Hoisin Glazed BBQ Pork Ribs Served with New
+          England Potato Egg Salad, Grilled Asparagus & Ginger Emerald Jade
+          Sauce 
+        price: '28'
+        title: Charsiu Glazed BBQ Pork Ribs
+      - description: >-
           Cajun grilled fish of the day, fried pickled green tomatoes,
           srirachi-shrimp uni butter, sauteed tomatoes... add a side of white
           rice 5 
@@ -82,6 +88,10 @@ subgroups:
         title: House-cut shoestring french fries
       - price: '5'
         title: Steamed White Rice
+      - price: '8'
+        title: 'new england potato egg salad '
+      - price: '9'
+        title: grilled asparagus
       - price: '9'
         title: Pan-Roasted Brussel Sprouts
       - price: '7'
@@ -99,15 +109,15 @@ subgroups:
         title: Sliced Jalapenos
       - price: '3'
         title: Chef Asia's Infamous Angry Sauce
+      - description: 'inquire with your server for side substitutions '
+        price: Mkt
+        title: Sub Sides/Substitutions
       - description: >-
           Add extra sides of any of our housemade sauces: poblano ranch, candied
           ginger aioli, sherry pesto aioli, sweet chili honey , curry goddess
           aioli
         price: '2'
         title: 'Sauce it up '
-      - description: 'inquire with your server for side substitutions '
-        price: Mkt
-        title: Sub Sides/Substitutions
     title: All Fixin’s and Sides
 ---
 
