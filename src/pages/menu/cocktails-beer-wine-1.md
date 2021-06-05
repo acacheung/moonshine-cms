@@ -11,13 +11,6 @@ subgroups:
           Hibiscus, Cranberry,  Fresh Lemon & Lime Juices  
         price: '10'
         title: PRIDE Punch  * Happy PRIDE Month xo Moonshine 152!*
-      - description: >-
-          Tito's Vodka, Lychee, Combier Peach Liqueur, Fresh Lemon, Cranberry,
-          Bubbles  **In honor of Asian Heritage Month, Tito’s Handmade Vodka
-          will be making a charitable donation to the Greater Boston Golden Age
-          Center in cooperation with Moonshine 152**
-        price: '15'
-        title: Owl Station Inspiration
       - description: 'Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'House Manhattan '
@@ -45,9 +38,6 @@ subgroups:
       - description: 'Red Wine, Rum, Hibiscus, Ginger, Fresh Citrus, Apples '
         price: '12'
         title: Sahil's Sangria
-      - description: 'White Wine, Raspberry Vodka, Summer Berries, Fresh Citrus'
-        price: '12'
-        title: 'Summer Berry White Sangria '
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
