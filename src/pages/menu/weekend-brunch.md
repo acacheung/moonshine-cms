@@ -174,6 +174,17 @@ subgroups:
           Sriracha sauce 
         price: 16 / 24
         title: 'Throwback Korean BBQ Tacos '
+      - description: >-
+          Chinese sausage, Scrambled egg, Fresh ginger, Scallions, Chopped duck
+          liver 
+        price: '17'
+        title: 'Mama Mei''s Dirty Fried Rice '
+      - description: >-
+          "Boston's Best" Buttermilk fried chicken, Belgian waffle,
+          Sriracha-bourbon awesome sauce, Cinnamon honey butter  ** GO GRANDE by
+          adding an additional Belgian Waffle for $7**
+        price: '27'
+        title: 'Leslie Knope''s Fried Chicken & Waffle '
       - description: 'Sharp cheddar, Housemade aioli, LTO & Shoestring fries  '
         price: '19'
         title: 'Chef Asia''s Famous Mushroom  Burger '
@@ -189,17 +200,6 @@ subgroups:
           patty! ) Served with your choice of side. 
         price: '23'
         title: 'Make Your Burger a VIP Burger of the Month '
-      - description: >-
-          "Boston's Best" Buttermilk fried chicken, Belgian waffle,
-          Sriracha-bourbon awesome sauce, Cinnamon honey butter  ** GO GRANDE by
-          adding an additional Belgian Waffle for $7**
-        price: '27'
-        title: 'Leslie Knope''s Fried Chicken & Waffle '
-      - description: >-
-          Chinese sausage, Scrambled egg, Fresh ginger, Scallions, Chopped duck
-          liver 
-        price: '17'
-        title: 'Mama Mei''s Dirty Fried Rice '
     title: All-Day / All-Night Allstars
   - description: ' (Dessert)'
     items:
