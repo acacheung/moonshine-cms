@@ -43,9 +43,12 @@ subgroups:
       - description: 'Apple, Orange, Grapefruit, Cranberry, Pineapple '
         price: '5'
         title: 'Juices '
-      - description: 'Coca-Cola, Diet Coke, Sprite, Ginger Ale, Gosling''s Ginger Beer '
+      - description: 'Coca-Cola, Diet Coke, Sprite, Ginger Ale'
         price: '4'
         title: Soda
+      - description: 'Premium Ginger Beer or Yuzu Lime '
+        price: '4'
+        title: Fever Tree Soda
     title: 'Cheers To The Weekend! '
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
