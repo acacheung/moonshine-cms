@@ -6,6 +6,11 @@ order: 5
 subgroups:
   - description: Don’t forget to add your favorite fixin’s or sides!
     items:
+      - description: >
+          Creamy mashed potato aioli, Shredded cheddar, Port red wine demiglace,
+          Petite mixed greens salad
+        price: '28'
+        title: '''Shine Smoky Meatloaf '
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
@@ -54,11 +59,6 @@ subgroups:
           macerated tomatoes
         price: '28'
         title: Spanish Tapas Style Steak Frites
-      - description: >
-          Creamy mashed potato aioli, Shredded cheddar, Port red wine demiglace,
-          Petite mixed greens salad
-        price: '28'
-        title: '''Shine Smoky Meatloaf '
     title: The Main Affair
   - description: Swap out your white rice for mixed greens for 2
     items:
