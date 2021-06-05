@@ -156,7 +156,9 @@ subgroups:
     title: All the sides & Fixin's
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
-      - description: Creamy Potato-Leek & Asparagus Bisque
+      - description: >-
+          Chef Asia's Famous Chilled Beet Soup with Dill Creme Fraiche and
+          Cucumber Ribbons 
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >
@@ -181,12 +183,10 @@ subgroups:
         price: '19'
         title: 'Grass-fed Beef Burger '
       - description: >-
-          May 2021 VIP Burger of the Month "Musubi Madness-Sushi Burger":Topped
-          with Crispy Spam-Sushi Rice Cake, Pickled Ginger, Wasabi Aioli,
-          Teriyaki Glaze, Furikake. (**As always, can be made with our award
-          winning Mushroom Tofu patty! ) Served with your choice of side. .
-          (**As always, can be made with our award winning Mushroom Tofu patty!
-          ) Served with your choice of side.
+          June 2021: "The Ranch Burger" Topped with House Buttermilk-Poblano
+          Ranch, Ranch Pickles, Cool Ranch Doritos & Ranch Garlic-Herb Cheese
+          Spread (**As always, can be made with our award winning Mushroom Tofu
+          patty! ) Served with your choice of side. 
         price: '23'
         title: 'Make Your Burger a VIP Burger of the Month '
       - description: >-
