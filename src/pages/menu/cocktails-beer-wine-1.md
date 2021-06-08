@@ -99,13 +99,16 @@ subgroups:
         title: Golden Road Mango Cart Wheat Ale
       - description: '12 oz bottle '
         price: '6'
-        title: 'Brooklyn Brewing Summer Ale '
+        title: Kona Brewing Big Wave Golden Ale
       - description: '12 oz bottle '
         price: '6'
         title: 'Cisco Brewing "Whale''s Tale" Pale Ale '
       - description: '12 oz Bottle '
         price: '6'
         title: 'Allagash White '
+      - description: '12 oz can '
+        price: '6'
+        title: Peak Brewing Summer Session IPA
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
