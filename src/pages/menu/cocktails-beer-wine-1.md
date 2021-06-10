@@ -52,7 +52,7 @@ subgroups:
         title: '(Draft) Lord Hobo "Hobo Life" Session IPA '
       - description: 16oz draft
         price: '7'
-        title: (DRAFT) Medusa Brewing " Duchovni" Bohemian Pilsner
+        title: (DRAFT) Cisco Brewing Grey Lady Wheat Ale
       - price: '7'
         title: '(Draft) Downeast Original Unfiltered Cider '
       - description: '12 oz bottle '
