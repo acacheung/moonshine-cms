@@ -8,14 +8,11 @@ subgroups:
       All portions available regular or “Go Grande”. Don’t forget to add your
       favorite protein or fixin’s!
     items:
-      - description: Chef Asia's Famous Chilled Beet Soup
+      - description: >-
+          'The H-Erbaluce" Cream of Asparagus, Lovage & Celery Soup served with
+          a House Pepper Jelly Biscuit & Fresh Local Herbs 
         price: '12 regular / 19 grande '
         title: 'Chef''s whim Soup for the soul '
-      - description: >-
-          Skillet warmed creamy baked potato dip, Melted cheddar, Bacon jam,
-          Corn tortilla chips
-        price: 15 regular / 25 grande
-        title: Seamus’ Favorite Warm Loaded Baked Potato Dip
       - description: >
           Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton crisps,
           Fresh pomegranate, Shaved pecorino cheese
@@ -47,8 +44,6 @@ subgroups:
         title: Spicy Lamb Meatballs
       - price: '13'
         title: Pulled Chinatown Style Roasted Duck
-      - price: '13'
-        title: '''Shine Smoky Meatloaf '
       - description: add cheddar cheese 1
         price: '10'
         title: 'Grass-fed Beef Burger Patty '
