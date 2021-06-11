@@ -94,9 +94,6 @@ subgroups:
       - description: '12 oz can '
         price: '6'
         title: DownEast Unfiltered Blackberry Cider
-      - description: 12 oz can
-        price: '4'
-        title: Golden Road Mango Cart Wheat Ale
       - description: '12 oz bottle '
         price: '6'
         title: Kona Brewing Big Wave Golden Ale
