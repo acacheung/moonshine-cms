@@ -157,8 +157,8 @@ subgroups:
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >-
-          Chef Asia's Famous Chilled Beet Soup with Dill Creme Fraiche and
-          Cucumber Ribbons 
+          'The H-Erbaluce" Cream of Asparagus, Lovage & Celery Soup served with
+          a House Pepper Jelly Biscuit & Fresh Local Herbs 
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >
