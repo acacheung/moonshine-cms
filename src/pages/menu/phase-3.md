@@ -6,11 +6,11 @@ order: 5
 subgroups:
   - description: Don’t forget to add your favorite fixin’s or sides!
     items:
-      - description: >
-          Creamy mashed potato aioli, Shredded cheddar, Port red wine demiglace,
-          Petite mixed greens salad
+      - description: >-
+          Slow Roasted Pulled Duck Confit, Chilled Glass Noodles, Beansprouts &
+          Honey Roasted Peanuts 
         price: '28'
-        title: '''Shine Smoky Meatloaf '
+        title: 'Tiki-Inspired Roasted Duck Noodle Salad '
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
