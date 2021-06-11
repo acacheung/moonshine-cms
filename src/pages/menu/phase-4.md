@@ -19,6 +19,9 @@ subgroups:
       - description: 'Powdered sugar, nutella chocolate fudge sauce'
         price: '11'
         title: Jaime’s Favorite Oreo Cookie Layered Fudge Brownie
+      - description: 'Strawberry-Rhubarb with Local Rhubarb Preserves & Fresh Pomegranate '
+        price: '11'
+        title: 'Chef''s Whim Sorbet '
       - description: >-
           Butterfinger Ice Cream, Cornflake-Pecan Crunch, Maple Caramel, and
           Candied Bacon
