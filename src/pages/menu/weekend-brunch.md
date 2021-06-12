@@ -225,6 +225,9 @@ subgroups:
           $4
         price: '11'
         title: 'Butterfinger Ice Cream '
+      - description: 'Strawberry-Rhubarb with Local Rhubarb Preserves & Fresh Pomegranate '
+        price: '11'
+        title: Chef Whim's Sorbet
     title: Sweet Tooth
 ---
 
