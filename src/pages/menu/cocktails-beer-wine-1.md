@@ -29,9 +29,6 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
-      - description: 'Lime Infused Coconut Vodka, FeverTree Yuzu Lime Soda, Fresh Lime '
-        price: '13'
-        title: 'You(ZU) Put the Lime in The Coconut '
       - description: 'Pineapple Infused Vodka, Soda Water'
         price: '13'
         title: Aloha Spritz Pineapple Agua Fresca
