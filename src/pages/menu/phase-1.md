@@ -7,12 +7,6 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
-          Two Steamed Chinese Soft Bao Buns with Jumbo Tempura Softshell Crab,
-          Pickled Ginger, Furikake Seasoning & Sweet Chili Glaze. **Grande
-          Option Available
-        price: MKT
-        title: 'Spring Softshell Crab Bao Buns '
-      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
