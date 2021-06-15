@@ -179,8 +179,8 @@ subgroups:
         title: 'Vodka '
       - description: >-
           New Amsterdam...8...Bombay
-          Sapphire...9...Tanqueray...9...Hendrick's...9...Grand Ten
-          WireWorks...9...Glendalough Wild Botanical...10...
+          Sapphire...9...Tanqueray...9...Hendrick's...9...Glendalough Wild
+          Botanical...10...
         price: xxxxx
         title: Gin
       - description: >-
