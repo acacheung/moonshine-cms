@@ -29,6 +29,9 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
+      - description: 'Lime Infused Coconut Vodka, FeverTree Yuzu Lime Soda, Fresh Lime '
+        price: '13'
+        title: 'You(ZU) Put the Lime in The Coconut '
       - description: 'Pineapple Infused Vodka, Soda Water'
         price: '13'
         title: Aloha Spritz Pineapple Agua Fresca
@@ -38,9 +41,6 @@ subgroups:
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
-      - description: 'Tito''s Vodka, Lychee Puree, Lemon, Peach Liqueur, Cranberry Juice'
-        price: '15'
-        title: Owl Station Inspiration
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
@@ -64,6 +64,9 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '5'
         title: 'Bud Light Lemonade Hard Seltzer '
+      - description: '16 oz can '
+        price: '5'
+        title: 'Bud Light Strawberry Lemonade Hard Seltzer '
       - description: '12 oz bottle '
         price: '6'
         title: 'Amstel Light '
@@ -160,6 +163,9 @@ subgroups:
       - description: 'Columbia valley, WA, USA '
         price: '12 / 45 '
         title: '(red) 2017 Charles & Charles cabernet/syrah blend '
+      - description: 'Sonoma County, California USA '
+        price: 13 / 50
+        title: (Red) 2017 Storypoint Cabernet Sauvignon Select
     title: Wine List
   - description: ''
     items:
