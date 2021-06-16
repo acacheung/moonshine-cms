@@ -17,6 +17,11 @@ subgroups:
       - description: 'Rye Whiskey, Amaro Aperitif, Yellow Chartreuse, Orange Bitters '
         price: '13'
         title: 'New Classic '
+      - description: >-
+          Tito's Vodka, Lychee Puree, Peach Liqueur, Cranberry, Prosecco
+          Bubbles 
+        price: '15'
+        title: 'Owl Station Inspiration '
       - description: 'Spicy Pepper Vodka, Fresh Cucumber Juice, Elderflower, Lemon '
         price: '14'
         title: Farm To Glass
@@ -29,18 +34,18 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
-      - description: 'Lime Infused Coconut Vodka, FeverTree Yuzu Lime Soda, Fresh Lime '
+      - description: 'Coconut Water Infused Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
-        title: 'You(ZU) Put the Lime in The Coconut '
-      - description: 'Pineapple Infused Vodka, Soda Water'
-        price: '13'
-        title: Aloha Spritz Pineapple Agua Fresca
+        title: Summer Painkiller
       - description: 'Red Wine, Rum, Hibiscus, Ginger, Fresh Citrus, Apples '
         price: '12'
         title: Sahil's Sangria
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
+      - description: 'Pineapple Infused Vodka, Soda Water'
+        price: '13'
+        title: Aloha Spritz Pineapple Agua Fresca
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
