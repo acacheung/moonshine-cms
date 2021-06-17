@@ -43,7 +43,7 @@ subgroups:
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
-      - description: 'Pineapple Infused Vodka, Soda Water'
+      - description: 'Pineapple Infused Pineapple Vodka, Soda Water'
         price: '13'
         title: Aloha Spritz Pineapple Agua Fresca
     title: '''Shine Specialty Cocktails '
