@@ -82,6 +82,23 @@ subgroups:
     title: To Get Ya Started!
   - description: ' (Entrees)'
     items:
+      - description: 'Pan-seared shrimp, Spicy green chili cheese grits, Sherry pan sauce'
+        price: '19'
+        title: 'Shrimp & Grits '
+      - description: >-
+          Tasso ham hollandaise sauce, Fried egg, Spinach, Housemade english
+          muffin 
+        price: '17'
+        title: '''Shine''s Crab Eggs Benedict**'
+      - description: 'Spiced homefries, Petite mixed greens'
+        price: '17'
+        title: Sauteed Mushroom & Swiss Omelet
+      - description: 'Melt-in-your-mouth corned beef, Scrambled eggs, Housemade beer bread '
+        price: '18'
+        title: '''Shine''s Southie Corned Beef Hash '
+      - description: 'Sauteed kale, Spiced homefries, Petite mixed greens salad'
+        price: '17'
+        title: Vegan Turmeric Tofu Scramble
       - description: >-
           Smoky pulled pork, Scrambled egg, Tomato salsa, Petite mixed greens
           salad, House-cut shoestring fries
@@ -89,33 +106,16 @@ subgroups:
         title: >-
           Ron Swanson Brunch Inspired Chipotle Pulled Pork Scallion Pancake
           Quesadilla (AVAILABLE VEGETARIAN   24) 
-      - description: 'Pan-seared shrimp, Spicy green chili cheese grits, Sherry pan sauce'
-        price: '19'
-        title: 'Shrimp & Grits '
-      - description: 'Spiced homefries, Petite mixed greens'
-        price: '17'
-        title: Sauteed Mushroom & Swiss Omelet
-      - description: 'Sauteed kale, Spiced homefries, Petite mixed greens salad'
-        price: '17'
-        title: Vegan Turmeric Tofu Scramble
       - description: >-
           Red-eye gravy, Chinese sausage, Green onions, Chopped melted white
           cheese
         price: '16'
         title: 'Tater Tot Poutine '
       - description: >-
-          Tasso ham hollandaise sauce, Fried egg, Spinach, Housemade english
-          muffin 
-        price: '17'
-        title: '''Shine''s Crab Eggs Benedict**'
-      - description: >-
           Crispy polenta, scrambled eggs, Spicy tomato sauce, Your choice of
           bacon 
         price: '17'
         title: Tommy G's Favorite "Gypsy Eggs"
-      - description: 'Melt-in-your-mouth corned beef, Scrambled eggs, Housemade beer bread '
-        price: '18'
-        title: '''Shine''s Southie Corned Beef Hash '
     title: The Main Affair
   - description: ' All the sides & Fixin''s'
     items:
