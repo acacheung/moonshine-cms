@@ -7,11 +7,6 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
-          Tempura Beer Battered SoftShell Crab, Chinese Steamed Bao Buns, Pickle
-          Slaw, Sweet Chili, Teriyaki & Furikake-Sesame Sprinkle 
-        price: '22 for 2 / 33 for 3 '
-        title: 'Menu Addition: Spring SoftShell Crab Bao Buns '
-      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
