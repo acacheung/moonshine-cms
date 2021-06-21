@@ -11,6 +11,11 @@ subgroups:
           kale
         price: 10 regular / 14 grande
         title: Local Mixed Greens Salad
+      - description: >-
+          Grilled Sweet Summer Corn, Heirloom Cherry Tomatoes, Cotija Cheese,
+          Citrus Aioli, Scallions 
+        price: 16 / 28
+        title: Summer Street Corn Salad
       - description: 'Sweet and spicy honey-sambal, real jalapeno crab filling'
         price: 15 regular / 26 grande
         title: Rangoons
