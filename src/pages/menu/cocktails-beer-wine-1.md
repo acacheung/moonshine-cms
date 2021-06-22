@@ -66,9 +66,6 @@ subgroups:
       - description: '12 oz can '
         price: '5'
         title: 'Bud Light Black Cherry Seltzer '
-      - description: '16 oz tallboy can '
-        price: '5'
-        title: 'Bud Light Lemonade Hard Seltzer '
       - description: '16 oz can '
         price: '5'
         title: 'Bud Light Strawberry Lemonade Hard Seltzer '
@@ -114,6 +111,9 @@ subgroups:
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
+      - description: '16 oz tallboy can '
+        price: '10'
+        title: Collective Arts Brewing "Life in the Clouds" New England IPA
       - description: 16 oz Tallboy Can
         price: '10'
         title: Lord Hobo "Boomsauce" Double IPA
