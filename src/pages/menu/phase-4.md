@@ -27,13 +27,6 @@ subgroups:
           Candied Bacon
         price: '15'
         title: Belgian Waffle Ice Cream Sundae
-      - description: >-
-          Add nutella-fudge chocolate sauce, sea salted caramel sauce, or
-          whipped cream 1
-
-          *Peanut Allergy Alert
-        price: '11'
-        title: 'Butterfinger ice Cream '
     title: Sweet Tooth
 ---
 
