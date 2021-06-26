@@ -141,9 +141,6 @@ subgroups:
       - description: 'Provence, FR'
         price: '15 gl / 32 375ml bottle '
         title: '(Rose) 2020 Château d’Esclan Whispering Angel Rose '
-      - description: 'Saint-André de Cubzac, Bordeaux, France '
-        price: 9  /  35
-        title: '(Sparkling Rose) NV Café de Paris Brut Sparkling Rose   '
       - description: 'Trentino, Italy '
         price: 12 / 52
         title: (Sparkling Rose) NV Canella Sparkling Rose Brut
