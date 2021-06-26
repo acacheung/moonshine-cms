@@ -13,15 +13,15 @@ subgroups:
           Candy, Powdered Sugar *Gluten Free
         price: '12'
         title: 'Menu Addition: Hawaiian Coconut Mochi Blondies'
+      - description: 'Strawberry-Rhubarb with Local Rhubarb Preserves & Fresh Pomegranate '
+        price: '11'
+        title: 'Chef''s Whim Sorbet '
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
       - description: 'Powdered sugar, nutella chocolate fudge sauce'
         price: '11'
         title: Jaime’s Favorite Oreo Cookie Layered Fudge Brownie
-      - description: 'Strawberry-Rhubarb with Local Rhubarb Preserves & Fresh Pomegranate '
-        price: '11'
-        title: 'Chef''s Whim Sorbet '
       - description: >-
           Butterfinger Ice Cream, Cornflake-Pecan Crunch, Maple Caramel, and
           Candied Bacon
