@@ -208,6 +208,9 @@ subgroups:
           Sugar
         price: '12'
         title: 'Menu Addition: Hawaiian Coconut Mochi Blondies'
+      - description: 'Strawberry-Rhubarb with Local Rhubarb Preserves & Fresh Pomegranate '
+        price: '11'
+        title: Chef Whim's Sorbet
       - description: 'Whipped chantilly cream, Toasted oat-amaranth streusel '
         price: '12'
         title: 'Butterscotch Pudding '
@@ -219,15 +222,6 @@ subgroups:
           Candied Bacon
         price: '15'
         title: Belgian Waffle Ice Cream Sundae
-      - description: >-
-          Top it off with Chantilly cream, Nutella chocolate sauce OR Sea salted
-          caramel sauce for $1/ea .....add a scoop of ice cream to any dish for
-          $4
-        price: '11'
-        title: 'Butterfinger Ice Cream '
-      - description: 'Strawberry-Rhubarb with Local Rhubarb Preserves & Fresh Pomegranate '
-        price: '11'
-        title: Chef Whim's Sorbet
     title: Sweet Tooth
 ---
 
