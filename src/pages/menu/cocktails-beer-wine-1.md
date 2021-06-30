@@ -88,9 +88,6 @@ subgroups:
         price: '5'
         title: Narragansett Lager
       - description: '16 oz tallboy can '
-        price: '8'
-        title: 'Zero Gravity "Green State" Lager '
-      - description: '16 oz tallboy can '
         price: '10'
         title: 'Mighty Squirrel "Sour Face" Sour Berliner Weisse '
       - description: '12 oz can '
