@@ -7,12 +7,6 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
-          Steak Carnitas Nachos served Birria Style with Cumin-Adobo Birria
-          Dipping Jus, Salsa Fresca, Melted Queso, Sour Cream & served on House
-          Corn Tortilla Chips 
-        price: '28'
-        title: 'Menu Addition: Birria Nachos'
-      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
