@@ -128,12 +128,6 @@ subgroups:
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
-      - description: >
-          Enjoy 3 Three Ounces Pours from One of our Favorite Winemakers,
-          Charles Bieler! Featuring their 2017 Riesling, 2018 Rose &  2017
-          Cab/Syrah Blend  
-        price: '18'
-        title: 'Let''s Take A Flight! Featuring Wines of Charles & Charles '
       - description: 'Veneto, Italy '
         price: 12 / 42
         title: '(Sparkling) NV LaMarca Prosecco '
