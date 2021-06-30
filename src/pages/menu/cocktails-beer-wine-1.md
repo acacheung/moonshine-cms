@@ -100,7 +100,7 @@ subgroups:
         price: '6'
         title: Kona Brewing Big Wave Golden Ale
       - description: '12 oz bottle '
-        price: '6'
+        price: '5'
         title: 'Cisco Brewing "Whale''s Tale" Pale Ale '
       - description: '12 oz Bottle '
         price: '6'
