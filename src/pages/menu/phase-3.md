@@ -27,12 +27,12 @@ subgroups:
         price: '19'
         title: Grass-fed ’Shine Beef Burger
       - description: >-
-          Topped with House Buttermilk-Poblano Ranch, Ranch Pickles, Ranch
-          Doritos & Ranch Garlic-Herb Cheese Spread (**As always, can be made
-          with our award winning Mushroom Tofu patty! ) Served with your choice
-          of side.
+          Topped with Bacon Marmalade, Candied Bacon Bits, Tomato-Basil Salsa,
+          Pesto Aioli, Fresh Marinated Mozzarella & Lettuce (**As always, can be
+          made with our award winning Mushroom Tofu patty! ) Served with your
+          choice of side.
         price: '23'
-        title: June 2021 VIP Burger of the Month "The Ranch Burger"
+        title: July 2021 VIP Burger of the Month "The Caprese BLT Burger"
       - description: >-
           Smoky pulled pork, scrambled egg, tomato salsa, petite mixed greens
           salad, teriyaki, sweet chili glaze, house-cut shoestring french
