@@ -150,8 +150,8 @@ subgroups:
         price: 11 / 42
         title: '(WHITE) 2018 Grayson Cellars Chardonnay '
       - description: 'Marlborough, New Zealand '
-        price: 13 / 48
-        title: '(White) 2019 Whitehaven Sauvignon  Blanc '
+        price: 12 / 44
+        title: '(White) 2020 Starborough Sauvignon  Blanc '
       - description: 'Monterey County, CA, USA '
         price: '13/ 50 '
         title: '(RED) 2018 Cloudfall Monterey County Pinot Noir '
