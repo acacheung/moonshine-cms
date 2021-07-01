@@ -125,6 +125,9 @@ subgroups:
       - description: 12 oz bottle
         price: '6'
         title: Heineken Zero (Non-Alcoholic)
+      - description: '12 oz can '
+        price: '8'
+        title: Sam Adams "Just The Haze" IPA (Non-Alcoholic)
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
