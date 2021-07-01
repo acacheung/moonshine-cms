@@ -7,6 +7,11 @@ subgroups:
   - description: Don’t forget to add your favorite fixin’s or sides!
     items:
       - description: >-
+          Shredded Steak Carnitas Nachos with Melted Queso, Salsa Fresca, Sour
+          Cream, & Birria-style Adobo-Cilantro Dipping Jus
+        price: '28'
+        title: 'Menu Additon: birria Nachos'
+      - description: >-
           Slow Roasted Pulled Duck Confit, Chilled Glass Noodles, Beansprouts &
           Honey Roasted Peanuts 
         price: '28'
