@@ -194,10 +194,10 @@ subgroups:
         price: '19'
         title: 'Grass-fed Beef Burger '
       - description: >-
-          June 2021: "The Ranch Burger" Topped with House Buttermilk-Poblano
-          Ranch, Ranch Pickles, Cool Ranch Doritos & Ranch Garlic-Herb Cheese
-          Spread (**As always, can be made with our award winning Mushroom Tofu
-          patty! ) Served with your choice of side. 
+          July 2021: "The Caprese BLT Burger" Topped with Bacon Marmalade,
+          Candied Bacon Bits, Tomato-Basil Salsa, Pesto Aioli, Fresh Marinated
+          Mozzarella & Lettuce (**As always, can be made with our award winning
+          Mushroom Tofu patty! ) Served with your choice of side
         price: '23'
         title: 'Make Your Burger a VIP Burger of the Month '
     title: All-Day / All-Night Allstars
