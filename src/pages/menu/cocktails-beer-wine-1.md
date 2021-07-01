@@ -90,12 +90,12 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '5'
         title: 'Narragansett Del''s Shandy '
-      - description: '16 oz tallboy can '
-        price: '10'
-        title: 'Mighty Squirrel "Sour Face" Sour Berliner Weisse '
       - description: '12 oz can '
         price: '6'
         title: DownEast Unfiltered Blackberry Cider
+      - description: '16 oz tallboy can '
+        price: '10'
+        title: Mikkeller "Passion Pool" Sour Gose Ale
       - description: '12 oz bottle '
         price: '6'
         title: Kona Brewing Big Wave Golden Ale
