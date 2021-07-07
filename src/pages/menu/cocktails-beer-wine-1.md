@@ -212,8 +212,7 @@ subgroups:
       - description: >-
           Jameson Irish Whiskey...9...Glendalough Double Barrel Irish
           Whiskey...9...GrandTen Distilling South Boston Irish
-          Whiskey...9...Crown Royal Canadian Whiskey...9...Glendalough Sherry
-          Cask Irish Poitin...11...
+          Whiskey...9...Crown Royal Canadian Whiskey...9...
         price: XXXXX
         title: Imported Whiskey
       - description: >-
