@@ -7,6 +7,11 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
+          Shredded Steak Carnitas Nachos with Melted Queso, Salsa Fresca, Sour
+          Cream, & Birria-style Adobo-Cilantro Dipping Jus
+        price: '28'
+        title: 'Menu Addition: Birria Nachos'
+      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
