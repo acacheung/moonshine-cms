@@ -140,9 +140,6 @@ subgroups:
       - description: 'Provence, FR'
         price: '15 gl / 32 375ml bottle '
         title: '(Rose) 2020 Château d’Esclan Whispering Angel Rose '
-      - description: 'Trentino, Italy '
-        price: 12 / 52
-        title: (Sparkling Rose) NV Canella Sparkling Rose Brut
       - description: 'Veneto, Italy '
         price: 11 / 40
         title: (White) 2019 Zenato Pinot Grigio della Venezie
