@@ -12,17 +12,9 @@ subgroups:
       - description: 'Rye Whiskey, Amaro Aperitif, Yellow Chartreuse, Orange Bitters '
         price: '13'
         title: 'New Classic '
-      - description: >-
-          Tito's Vodka, Lychee Puree, Peach Liqueur, Cranberry, Prosecco
-          Bubbles 
-        price: '15'
-        title: 'Owl Station Inspiration '
       - description: 'Spicy Pepper Vodka, Fresh Cucumber Juice, Elderflower, Lemon '
         price: '14'
         title: Farm To Glass
-      - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime '
-        price: '13'
-        title: Fay's Fancy
       - description: 'House Spicy Tequila, Ginger Liqueur, Fresh Lime, Agave'
         price: '13'
         title: There's Fire
