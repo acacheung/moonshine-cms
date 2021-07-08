@@ -15,6 +15,9 @@ subgroups:
       - description: 'Spicy Pepper Vodka, Fresh Cucumber Juice, Elderflower, Lemon '
         price: '14'
         title: Farm To Glass
+      - description: 'Smokey Mezcal. Localy Made Amaro, Grapefruit Liqueur, Citrus '
+        price: '13'
+        title: matador's bull
       - description: 'House Spicy Tequila, Ginger Liqueur, Fresh Lime, Agave'
         price: '13'
         title: There's Fire
