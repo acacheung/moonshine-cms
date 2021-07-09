@@ -9,7 +9,7 @@ subgroups:
       - description: >-
           Classic Brandied Chicken Liver Mousse, Summer Vegetable Salad,
           Pomegranate-Balsamic, Herbed Crostin
-        price: 17 / 26
+        price: 17 regular / 26 grande
         title: 'Menu Addition: Bistro Chicken Liver Mousse'
       - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
