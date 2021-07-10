@@ -136,9 +136,9 @@ subgroups:
       - description: 'Veneto, Italy '
         price: 11 / 40
         title: (White) 2019 Zenato Pinot Grigio della Venezie
-      - description: 'Yakima Valley, Washington USA '
+      - description: 'Central Coast, CA, USA '
         price: 11 / 40
-        title: '(White) 2017 Charles & Charles Riesling '
+        title: '(White) 2019 Seaglass Riesling '
       - description: 'Napa Valley, California, USA '
         price: 11 / 42
         title: '(WHITE) 2018 Grayson Cellars Chardonnay '
