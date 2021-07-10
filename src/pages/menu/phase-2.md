@@ -36,7 +36,7 @@ subgroups:
     items:
       - price: '13'
         title: Roasted Statler Chicken Breast
-      - price: '13'
+      - price: '14'
         title: House Crispy Chicken Nuggies
       - price: Mkt
         title: Organic Grass-fed Skirt Steak
