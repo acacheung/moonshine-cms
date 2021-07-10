@@ -27,6 +27,9 @@ subgroups:
       - description: 'Coconut Water Infused Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
         title: Summer Painkiller
+      - description: 'White Wine, Mango Vodka, Mixed Summer Berries, Fresh Citrus'
+        price: '12'
+        title: Mango Berry White Sangria
       - description: 'Red Wine, Rum, Hibiscus, Ginger, Fresh Citrus, Apples '
         price: '12'
         title: Sahil's Sangria
@@ -244,6 +247,12 @@ subgroups:
       - description: 'Original, Sugar Free, Tropical or Watermelon '
         price: '4.50'
         title: Red Bull
+      - description: '12 oz can '
+        price: '8'
+        title: Sam Adams "Just The Haze" IPA (Non-Alcoholic)
+      - description: 12 oz bottle
+        price: '6'
+        title: Heineken Zero (Non-Alcoholic)
     title: 'Non-Alcoholic '
 ---
 
