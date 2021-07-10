@@ -79,6 +79,11 @@ subgroups:
           oil 
         price: '15 / 26 '
         title: 'Tapas Style Patatas Bravas '
+      - description: >-
+          Classic Brandied Chicken Liver Mousse, Summer Vegetable Salad,
+          Pomegranate-Balsamic, Herbed Crostini
+        price: 17 regular / grande 26
+        title: 'Menu Addition: Bistro Chicken Liver Mousse'
     title: To Get Ya Started!
   - description: ' (Entrees)'
     items:
