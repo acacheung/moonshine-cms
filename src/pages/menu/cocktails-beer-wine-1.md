@@ -24,6 +24,14 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
+      - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime'
+        price: '13'
+        title: Fay's fancy
+      - description: >-
+          Ginger Infused Kentucky Whiskey, Raspberry Puree, Fresh Lemon, Fever
+          Tree Ginger Beer
+        price: '12'
+        title: Kentucky Cooler
       - description: 'Coconut Water Infused Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
         title: Summer Painkiller
@@ -33,9 +41,6 @@ subgroups:
       - description: 'Red Wine, Rum, Hibiscus, Ginger, Fresh Citrus, Apples '
         price: '12'
         title: Sahil's Sangria
-      - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime'
-        price: '13'
-        title: Fay's fancy
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
