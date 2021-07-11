@@ -208,11 +208,6 @@ subgroups:
     title: All-Day / All-Night Allstars
   - description: ' (Dessert)'
     items:
-      - description: >-
-          Chewy Toasted Coconut Mochi Blondie Bites, Pineapple Glaze, Powdered
-          Sugar
-        price: '12'
-        title: 'Menu Addition: Hawaiian Coconut Mochi Blondies'
       - description: 'Strawberry-Rhubarb with Local Rhubarb Preserves & Fresh Pomegranate '
         price: '11'
         title: Chef Whim's Sorbet
