@@ -8,7 +8,7 @@ subgroups:
     items:
       - description: >-
           Classic Brandied Chicken Liver Mousse, Summer Vegetable Salad,
-          Pomegranate-Balsamic, Herbed Crostin
+          Pomegranate-Balsamic, House Made Tortilla Chips
         price: 17 regular / 26 grande
         title: 'Menu Addition: Bistro Chicken Liver Mousse'
       - description: >-
