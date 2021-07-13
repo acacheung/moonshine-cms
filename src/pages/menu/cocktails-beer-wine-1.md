@@ -38,9 +38,6 @@ subgroups:
       - description: 'White Wine, Mango Vodka, Mixed Summer Berries, Fresh Citrus'
         price: '12'
         title: Mango Berry White Sangria
-      - description: 'Red Wine, Rum, Hibiscus, Ginger, Fresh Citrus, Apples '
-        price: '12'
-        title: Sahil's Sangria
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
