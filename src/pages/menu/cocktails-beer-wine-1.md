@@ -71,10 +71,10 @@ subgroups:
         price: '5'
         title: 'Amstel Light '
       - description: 12 oz Bottle
-        price: '7'
+        price: '6'
         title: 'Stella Artois '
       - description: '12 oz bottle '
-        price: '7'
+        price: '6'
         title: 'Heineken '
       - description: '12 oz bottle '
         price: '6'
