@@ -7,11 +7,6 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
-          Classic Brandied Chicken Liver Mousse, Summer Vegetable Salad,
-          Pomegranate-Balsamic, House Made Tortilla Chips
-        price: 17 regular / 26 grande
-        title: 'Menu Addition: Bistro Chicken Liver Mousse'
-      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
