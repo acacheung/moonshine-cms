@@ -7,6 +7,11 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
+          Chinatown Inspired Crispy Shrimp Toasts with Water Chestnuts, Wasabi
+          Aoili, Sweet Chili-Teriyaki & Local Mixed Greens 
+        price: 17 regular / 29 grande
+        title: 'Menu Addition: Dimsum Golden Sesame Shrimp Toasts'
+      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
