@@ -61,15 +61,18 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: 'Budweiser/ Bud Light '
+      - description: 12oz bottle
+        price: '6'
+        title: Michelob Ultra
+      - description: '12 oz bottle '
+        price: '5'
+        title: 'Amstel Light '
       - description: '12 oz can '
         price: '5'
         title: 'Bud Light Black Cherry Seltzer '
       - description: '16 oz can '
         price: '5'
         title: 'Bud Light Strawberry Lemonade Hard Seltzer '
-      - description: '12 oz bottle '
-        price: '5'
-        title: 'Amstel Light '
       - description: 12 oz Bottle
         price: '6'
         title: 'Stella Artois '
@@ -88,6 +91,9 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '5'
         title: 'Narragansett Del''s Shandy '
+      - description: '16oz tallboy can '
+        price: '6'
+        title: Castle Island Lager
       - description: '16 oz tallboy can '
         price: '8'
         title: Stormalong "Mass Appeal" Hard Cider
@@ -103,6 +109,9 @@ subgroups:
       - description: '12 oz Bottle '
         price: '6'
         title: 'Allagash White '
+      - description: '16oz tallboy can '
+        price: '8'
+        title: Springdale "Pearly Whit" White Ale
       - description: '12 oz can '
         price: '5'
         title: Peak Brewing Summer Session IPA
