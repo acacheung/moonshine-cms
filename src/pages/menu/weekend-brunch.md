@@ -52,11 +52,6 @@ subgroups:
     title: 'Cheers To The Weekend! '
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
-      - description: >-
-          Classic Brandied Chicken Liver Mousse, Summer Vegetable Salad,
-          Pomegranate-Balsamic, Herbed Crostini
-        price: 17 regular / grande 26
-        title: 'Menu Addition: Bistro Chicken Liver Mousse'
       - description: 'Local honey, Fresh berries, Sunflower seed-oat crumble'
         price: 9 / 14
         title: 'Whipped Greek Yogurt Parfait '
