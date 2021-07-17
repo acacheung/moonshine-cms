@@ -7,11 +7,6 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
-          Chinatown Inspired Crispy Shrimp Toasts with Water Chestnuts, Wasabi
-          Aoili, Sweet Chili-Teriyaki & Local Mixed Greens 
-        price: 17 regular / 29 grande
-        title: 'Menu Addition: Dimsum Golden Sesame Shrimp Toasts'
-      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
@@ -40,6 +35,11 @@ subgroups:
           ginger aioli 
         price: 14 regular / 22 grande
         title: '''Shine Famous Bacon Wrapped Stuffing Bites '
+      - description: >-
+          Served with Shredded Steak Carnitas, Melted Queso, Salsa Fresca, Sour
+          Cream, and Birria-Style Adobo-Cilantro Dipping Jus
+        price: '28'
+        title: 'Menu Addition: Birria Nachos'
     title: To Get Ya Started
 ---
 
