@@ -7,6 +7,11 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
+          Served with Shredded Steak Carnitas, Melted Queso, Salsa Fresca, Sour
+          Cream, and Birria-Style Adobo-Cilantro Dipping Jus
+        price: '28'
+        title: 'Menu Addition: Birria Nachos'
+      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
@@ -35,11 +40,6 @@ subgroups:
           ginger aioli 
         price: 14 regular / 22 grande
         title: '''Shine Famous Bacon Wrapped Stuffing Bites '
-      - description: >-
-          Served with Shredded Steak Carnitas, Melted Queso, Salsa Fresca, Sour
-          Cream, and Birria-Style Adobo-Cilantro Dipping Jus
-        price: '28'
-        title: 'Menu Addition: Birria Nachos'
     title: To Get Ya Started
 ---
 
