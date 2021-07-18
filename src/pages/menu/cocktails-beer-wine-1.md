@@ -213,7 +213,8 @@ subgroups:
           Whiskey...9...Old Overhold Rye...8...Rittenhouse Rye...9...Mitcher's
           Single Barrel Rye...9...Mad River Revolution Rye...10...Boston Harbor
           Distillery Putnam Rye...11....Old Smokey Tennessee White Whiskey
-          Moonshine...9...Screwball Peanut Butter Whiskey...9...
+          Moonshine...9...Screwball Peanut Butter Whiskey...9...Misunderstood
+          Ginger Spiced Whiskey...9...
         price: xxxxx
         title: 'American Whiskey/Bourbon/Rye '
       - description: >-
