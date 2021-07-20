@@ -110,7 +110,7 @@ subgroups:
         price: '6'
         title: 'Allagash White '
       - description: '16oz tallboy can '
-        price: '8'
+        price: '7'
         title: Springdale "Pearly Whit" White Ale
       - description: '12 oz can '
         price: '5'
