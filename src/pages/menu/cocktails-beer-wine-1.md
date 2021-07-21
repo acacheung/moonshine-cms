@@ -35,9 +35,12 @@ subgroups:
       - description: 'Coconut Water Infused Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
         title: Summer Painkiller
+      - description: 'Red Wine, Apple Brandy, Hibiscus, Ginger, Fresh Citrus '
+        price: '12'
+        title: Sahil's Red Sangria
       - description: 'White Wine, Mango Vodka, Mixed Summer Berries, Fresh Citrus'
         price: '12'
-        title: Mango Berry White Sangria
+        title: Mango Summer Berry White Sangria
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
