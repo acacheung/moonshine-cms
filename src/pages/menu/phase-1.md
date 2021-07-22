@@ -6,6 +6,11 @@ order: 3
 subgroups:
   - description: All portions available regular or “Go Grande”
     items:
+      - description: >
+          Shredded Steak Carnitas Tacos Served with Melted Queso, Salsa Fresca,
+          Sour Cream & a Birria-Style Adobo-Cilantro Dipping Jus
+        price: $17 for 2 / $25 for 3
+        title: 'Menu Additions: Birria Tacos'
       - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
