@@ -55,7 +55,7 @@ subgroups:
         title: '(Draft) Lord Hobo "Hobo Life" Session IPA '
       - description: 16oz draft
         price: '7'
-        title: (DRAFT) Harpoon Brewing "UFO White" Belgium Ale
+        title: (DRAFT) Harpoon Brewing "UFO White" Wheat Beer
       - price: '7'
         title: '(Draft) Downeast Original Unfiltered Cider '
       - description: '12 oz bottle '
