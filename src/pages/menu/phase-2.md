@@ -9,8 +9,10 @@ subgroups:
       favorite protein or fixin’s!
     items:
       - description: >-
-          Chef Asia's Famous Chilled Beet Soup with Dill Creme Fraiche &
-          Cucumber Ribbons 
+          Chef Asia's Famous Panang Thai Curry with Sesame Candied Walnuts, and
+          Coconut Milk (Vegan)
+
+          *Add Bacon, Fried Egg or Your Favorite Protein!!
         price: '12 regular / 19 grande '
         title: 'Chef''s whim Soup for the soul '
       - description: >
