@@ -27,11 +27,6 @@ subgroups:
       - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime'
         price: '13'
         title: Fay's fancy
-      - description: >-
-          Ginger Infused Kentucky Whiskey, Raspberry Puree, Fresh Lemon, Fever
-          Tree Ginger Beer
-        price: '12'
-        title: Kentucky Cooler
       - description: 'Coconut Water Infused Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
         title: Summer Painkiller
