@@ -113,11 +113,6 @@ subgroups:
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
-      - description: '16 oz tallboy can '
-        price: '8'
-        title: >-
-          Collective Arts Brewing PRIDE EDITION  "Life in the Clouds" New
-          England IPA
       - description: 16 oz Tallboy Can
         price: '10'
         title: Lord Hobo "Boomsauce" Double IPA
