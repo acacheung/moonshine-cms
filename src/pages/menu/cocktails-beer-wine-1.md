@@ -30,15 +30,15 @@ subgroups:
       - description: 'Coconut Water Infused Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
         title: Summer Painkiller
+      - description: 'Pineapple Infused Pineapple Vodka, Soda Water'
+        price: '10'
+        title: Aloha Spritz Pineapple Agua Fresca
       - description: 'Red Wine, Fresh Citrus, Hibiscus, Ginger Liqueur, Brandy'
         price: '12'
         title: Sahil's Sangria
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
-      - description: 'Pineapple Infused Pineapple Vodka, Soda Water'
-        price: '13'
-        title: Aloha Spritz Pineapple Agua Fresca
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
@@ -89,6 +89,9 @@ subgroups:
       - description: '16oz tallboy can '
         price: '6'
         title: Castle Island Lager
+      - description: '12 oz can '
+        price: '6'
+        title: Downeast "Aloha Friday" Pineapple Cider
       - description: '16 oz tallboy can '
         price: '8'
         title: Stormalong "Mass Appeal" Hard Cider
@@ -196,14 +199,16 @@ subgroups:
         price: xxxxx
         title: 'Rum, Brandy & Cognac '
       - description: >-
-          Four Roses Bourbon...9...Mitcher's Bourbon...9...Maker's Mark
-          Bourbon...10...Mad River Bourbon...10...Basil Hayden's
-          Bourbon...Blanton's Bourbon...12...12...Uncle Nearest 1884 Small Batch
-          Whiskey...11...Uncle Nearest 1856 Whiskey...13...Jack Daniels
+          Four Roses Bourbon...9...Mitcher's Bourbon...9...Rabbit Hole
+          "Cavehill" Bourbon...9...Maker's Mark Bourbon...10...Mad River
+          Bourbon...10...Basil Hayden's Bourbon...12....Uncle Nearest 1884 Small
+          Batch Whiskey...11...Uncle Nearest 1856 Whiskey...13...Jack Daniels
           Whiskey...9...Old Overhold Rye...8...Rittenhouse Rye...9...Mitcher's
           Single Barrel Rye...9...Mad River Revolution Rye...10...Boston Harbor
-          Distillery Putnam Rye...11....Old Smokey Tennessee White Whiskey
-          Moonshine...9...Screwball Peanut Butter Whiskey...9...
+          Distillery Putnam Rye...11....Boston Harbor Distillery Putnam Single
+          Malt Whiskey...13...Old Smokey Tennessee White Whiskey
+          Moonshine...9...Screwball Peanut Butter Whiskey...9...Misunderstood
+          Ginger Infused Whiskey...9...
         price: xxxxx
         title: 'American Whiskey/Bourbon/Rye '
       - description: >-
