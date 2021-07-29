@@ -132,8 +132,8 @@ subgroups:
         price: 12 / 42
         title: '(Sparkling) NV LaMarca Prosecco '
       - description: 'Veneto, Italy '
-        price: 12 / 46
-        title: (Sparkling Rose) NV Canella Sparkling Rose Brut
+        price: 11 / 42
+        title: (sparkling rose) 2020 Zardetto Prosecco Rose
       - description: 'Columbia Valley, Washington, USA'
         price: 12/44
         title: (Rose) 2018 Charles & Charles Rose
