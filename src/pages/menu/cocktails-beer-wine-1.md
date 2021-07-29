@@ -138,7 +138,7 @@ subgroups:
         price: 12/44
         title: (Rose) 2018 Charles & Charles Rose
       - description: 'Provence, FR'
-        price: '15 gl / 32 375ml bottle '
+        price: 15 / 58
         title: '(Rose) 2020 Château d’Esclan Whispering Angel Rose '
       - description: 'Veneto, Italy '
         price: 11 / 40
