@@ -7,6 +7,12 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
+          Heirloom Tomato-Watermelon Salad, Grilled Avocado, Crispy Sushi Rice
+          Cake, Fresh Basil, Crumbled Feta Cheese                          &
+          Aged Balsamic 
+        price: 18 / 29
+        title: 'Menu Addition: "shine Summer grilled stuffed avocado salad'
+      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
