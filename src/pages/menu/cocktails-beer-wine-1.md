@@ -96,7 +96,7 @@ subgroups:
         price: '8'
         title: Stormalong "Mass Appeal" Hard Cider
       - description: '16 oz tallboy can '
-        price: '10'
+        price: '8'
         title: Mikkeller "Passion Pool" Sour Gose Ale
       - description: '12 oz bottle '
         price: '6'
