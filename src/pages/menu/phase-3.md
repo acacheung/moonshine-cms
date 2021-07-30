@@ -12,6 +12,12 @@ subgroups:
         price: '28'
         title: 'Tiki-Inspired Roasted Duck Noodle Salad '
       - description: >-
+          Slow Cooked BBQ Pork Ribs Glazed with Charsiu-Hoisin,Grilled Summer
+          Street Corn Salad with Heirloom Cherry Tomatoes, Cotija Cheese, Citrus
+          Aioli, Scallions 
+        price: '28'
+        title: Charsiu Glazed BBQ Pork Ribs
+      - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
         price: '19'
@@ -36,12 +42,6 @@ subgroups:
         title: >-
           Ron Swanson Brunch-Inspired Chipotle Pulled Pork Scallion Pancake
           Quesadilla
-      - description: >-
-          Slow Cooked Charsiu-Hoisin Glazed BBQ Pork Ribs Served with New
-          England Potato Egg Salad, Grilled Asparagus & Ginger Emerald Jade
-          Sauce 
-        price: '28'
-        title: Charsiu Glazed BBQ Pork Ribs
       - description: >-
           Cajun grilled fish of the day, fried pickled green tomatoes,
           srirachi-shrimp uni butter, sauteed tomatoes... add a side of white
