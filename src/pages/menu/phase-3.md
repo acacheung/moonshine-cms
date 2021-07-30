@@ -88,10 +88,6 @@ subgroups:
         title: House-cut shoestring french fries
       - price: '5'
         title: Steamed White Rice
-      - price: '8'
-        title: 'new england potato egg salad '
-      - price: '9'
-        title: grilled asparagus
       - price: '9'
         title: Pan-Roasted Brussel Sprouts
       - price: '7'
