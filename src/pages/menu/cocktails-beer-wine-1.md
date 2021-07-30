@@ -39,6 +39,11 @@ subgroups:
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
+      - description: >-
+          House Infused Vanilla Pear Moonshine, Pear Nectar, Fresh Lemon,
+          Cinnamon Syrup
+        price: '13'
+        title: Who's The Bosc
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
