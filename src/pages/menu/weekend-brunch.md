@@ -157,10 +157,8 @@ subgroups:
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >-
-          Chef Asia's Famous Panang Thai Curry with Sesame Candied Walnuts, and
-          Coconut Milk (Vegan)
-
-          *Add Bacon, Fried Egg or Your Favorite Protein!!
+          Chef Asia's Famous Chilled Beet Soup, With Dill Creme Fraiche and
+          Cucumber Ribbons
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >
