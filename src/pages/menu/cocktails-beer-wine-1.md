@@ -12,9 +12,6 @@ subgroups:
       - description: 'Rye Whiskey, Amaro Aperitif, Yellow Chartreuse, Orange Bitters '
         price: '13'
         title: 'New Classic '
-      - description: 'Spicy Pepper Vodka, Fresh Cucumber Juice, Elderflower, Lemon '
-        price: '14'
-        title: Farm To Glass
       - description: 'Smokey Mezcal. Localy Made Amaro, Grapefruit Liqueur, Citrus '
         price: '13'
         title: matador's bull
@@ -30,6 +27,11 @@ subgroups:
       - description: 'Coconut Water Infused Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
         title: Summer Painkiller
+      - description: >-
+          Dark Cherry Liqueur, Orange, Fresh Summer Berries, Fresh Citrus, White
+          Wine
+        price: '12'
+        title: 'Cherry Berry White Sangria '
       - description: 'Red Wine, Fresh Citrus, Hibiscus, Ginger Liqueur, Brandy'
         price: '12'
         title: Sahil's Sangria
@@ -41,11 +43,9 @@ subgroups:
           Cinnamon Syrup
         price: '13'
         title: Who's The Bosc
-      - description: >-
-          Dark Cherry Liqueur, Orange, Fresh Summer Berries, Fresh Citrus, White
-          Wine
-        price: '12'
-        title: 'Cherry Berry White Sangria '
+      - description: 'Spicy Pepper Vodka, Fresh Cucumber Juice, Elderflower, Lemon '
+        price: '14'
+        title: Farm To Glass
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
