@@ -30,9 +30,6 @@ subgroups:
       - description: 'Coconut Water Infused Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
         title: Summer Painkiller
-      - description: 'Pineapple Infused Pineapple Vodka, Soda Water'
-        price: '10'
-        title: Aloha Spritz Pineapple Agua Fresca
       - description: 'Red Wine, Fresh Citrus, Hibiscus, Ginger Liqueur, Brandy'
         price: '12'
         title: Sahil's Sangria
@@ -44,6 +41,11 @@ subgroups:
           Cinnamon Syrup
         price: '13'
         title: Who's The Bosc
+      - description: >-
+          Dark Cherry Liqueur, Orange, Fresh Summer Berries, Fresh Citrus, White
+          Wine
+        price: '12'
+        title: 'Cherry Berry White Sangria '
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
