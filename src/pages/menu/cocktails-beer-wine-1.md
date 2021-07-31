@@ -27,9 +27,7 @@ subgroups:
       - description: 'Coconut Water Infused Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
         title: Summer Painkiller
-      - description: >-
-          Dark Cherry Liqueur, Orange, Fresh Summer Berries, Fresh Citrus, White
-          Wine
+      - description: 'White Wine, Dark Cherry Liqueur, Orange, Fresh Summer Berries, Citrus'
         price: '12'
         title: 'Cherry Berry White Sangria '
       - description: 'Red Wine, Fresh Citrus, Hibiscus, Ginger Liqueur, Brandy'
@@ -157,8 +155,8 @@ subgroups:
         price: 11 / 42
         title: '(WHITE) 2018 Grayson Cellars Chardonnay '
       - description: 'Marlborough, New Zealand '
-        price: 12 / 44
-        title: '(White) 2020 Starborough Sauvignon  Blanc '
+        price: 13 / 48
+        title: '(White) 2020 Whitehaven Sauvignon  Blanc '
       - description: 'Monterey County, CA, USA '
         price: '13/ 50 '
         title: '(RED) 2018 Cloudfall Monterey County Pinot Noir '
