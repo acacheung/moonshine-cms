@@ -18,7 +18,7 @@ subgroups:
       - description: 'House Spicy Tequila, Ginger Liqueur, Fresh Lime, Agave'
         price: '13'
         title: There's Fire
-      - description: 'Blanco Tequila, Creme de Cassis Ginger Beer, Fresh Lime '
+      - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
       - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime'
