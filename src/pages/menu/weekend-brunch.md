@@ -194,10 +194,12 @@ subgroups:
         price: '19'
         title: 'Grass-fed Beef Burger '
       - description: >-
-          July 2021: "The Caprese BLT Burger" Topped with Bacon Marmalade,
-          Candied Bacon Bits, Tomato-Basil Salsa, Pesto Aioli, Fresh Marinated
-          Mozzarella & Lettuce (**As always, can be made with our award winning
-          Mushroom Tofu patty! ) Served with your choice of side
+          August 2021: "The Picnic Burger 3.0": Topped with Creamy Chickpea
+          Hummus, Cucumber Tabbouleh, Basil-Tomato Salsa, Crumbled White Cheese
+          & Pita Chip Ribbons(**As always, can be made with our award winning
+          Mushroom Tofu patty! ) Served with your choice of side.(**As always,
+          can be made with our award winning Mushroom Tofu patty! ) Served with
+          your choice of side
         price: '23'
         title: 'Make Your Burger a VIP Burger of the Month '
     title: All-Day / All-Night Allstars
