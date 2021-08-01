@@ -28,12 +28,12 @@ subgroups:
         price: '19'
         title: Grass-fed ’Shine Beef Burger
       - description: >-
-          Topped with Bacon Marmalade, Candied Bacon Bits, Tomato-Basil Salsa,
-          Pesto Aioli, Fresh Marinated Mozzarella & Lettuce (**As always, can be
+          Topped with Creamy Chickpea Hummus, Cucumber Tabbouleh, Basil-Tomato
+          Salsa, Crumbled White Cheese & Pita Chip Ribbons(**As always, can be
           made with our award winning Mushroom Tofu patty! ) Served with your
           choice of side.
         price: '23'
-        title: July 2021 VIP Burger of the Month "The Caprese BLT Burger"
+        title: 'August’s VIP Burger of the Month: “The Picnic Burger 3.0”   '
       - description: >-
           Smoky pulled pork, scrambled egg, tomato salsa, petite mixed greens
           salad, teriyaki, sweet chili glaze, house-cut shoestring french
