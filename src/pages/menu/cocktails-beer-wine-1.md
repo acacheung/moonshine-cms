@@ -121,9 +121,6 @@ subgroups:
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
-      - description: 16 oz Tallboy Can
-        price: '10'
-        title: Lord Hobo "Boomsauce" Double IPA
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
