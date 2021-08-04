@@ -106,6 +106,9 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '8'
         title: Mikkeller "Passion Pool" Sour Gose Ale
+      - description: '16oz tallboy can '
+        price: '7'
+        title: Jack's Abby Post-Shift Pilsner
       - description: '12 oz bottle '
         price: '6'
         title: Kona Brewing Big Wave Golden Ale
