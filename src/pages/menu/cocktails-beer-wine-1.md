@@ -12,41 +12,41 @@ subgroups:
       - description: 'Rye Whiskey, Amaro Aperitif, Yellow Chartreuse, Orange Bitters '
         price: '13'
         title: 'New Classic '
-      - description: 'Smokey Mezcal. Localy Made Amaro, Grapefruit Liqueur, Citrus '
-        price: '13'
-        title: matador's bull
+      - description: 'Vodka, Lychee Syrup, Peach Liqueur, Cranberry, Prosecco Float '
+        price: '14'
+        title: Owl Station Inspiration
+      - description: 'Spicy Pepper Vodka, Fresh Cucumber Juice, Elderflower, Lemon '
+        price: '14'
+        title: Farm To Glass
       - description: 'House Spicy Tequila, Ginger Liqueur, Fresh Lime, Agave'
         price: '13'
         title: There's Fire
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
-      - description: 'Vodka, Lychee Syrup, Peach Liqueur, Cranberry, Prosecco Float '
-        price: '14'
-        title: Owl Station Inspiration
+      - description: 'Smokey Mezcal. Localy Made Amaro, Grapefruit Liqueur, Citrus '
+        price: '13'
+        title: matador's bull
       - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime'
         price: '13'
         title: Fay's fancy
-      - description: 'White Wine, Dark Cherry Liqueur, Orange, Fresh Summer Berries, Citrus'
-        price: '12'
-        title: 'Cherry Berry White Sangria '
-      - description: 'Red Wine, Fresh Citrus, Hibiscus, Ginger Liqueur, Brandy'
-        price: '12'
-        title: Sahil's Sangria
-      - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
+      - description: 'Coconut Water Infused Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
-        title: 'Shine Spritz '
+        title: Summer Painkiller
       - description: >-
           House Infused Vanilla Pear Moonshine, Pear Nectar, Fresh Lemon,
           Cinnamon Syrup
         price: '13'
         title: Who's The Bosc
-      - description: 'Coconut Water Infused Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
+      - description: 'Red Wine, Fresh Citrus, Hibiscus, Ginger Liqueur, Brandy'
+        price: '12'
+        title: Sahil's Sangria
+      - description: 'White Wine, Dark Cherry Liqueur, Orange, Fresh Summer Berries, Citrus'
+        price: '12'
+        title: 'Cherry Berry White Sangria '
+      - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
-        title: Summer Painkiller
-      - description: 'Spicy Pepper Vodka, Fresh Cucumber Juice, Elderflower, Lemon '
-        price: '14'
-        title: Farm To Glass
+        title: 'Shine Spritz '
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
@@ -56,7 +56,7 @@ subgroups:
         title: '(Draft) Harpoon IPA '
       - price: '7'
         title: '(Draft) Lord Hobo "Hobo Life" Session IPA '
-      - description: 16oz draft
+      - description: ''
         price: '7'
         title: (DRAFT) Harpoon Brewing "UFO White" Wheat Beer
       - price: '7'
@@ -112,9 +112,6 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: Kona Brewing Big Wave Golden Ale
-      - description: '12 oz bottle '
-        price: '5'
-        title: 'Cisco Brewing "Whale''s Tale" Pale Ale '
       - description: '16oz tallboy can '
         price: '7'
         title: 'Allagash White '
