@@ -6,6 +6,16 @@ order: 2
 subgroups:
   - description: ''
     items:
+      - description: >
+          Because Tito’s Gives Rescue Pups Wings! featuring Tito’s Vodka, Lime
+          Jello, Fresh Lime Zest & Watermelon Red Bull   
+
+          ***In honor of Tito’s cooperation with Moonshine 152 in donating to
+          Angell Animal Medical Center to celebrate Chef Asia’s  newly adopted
+          rescue pup, Mochi!***
+                                                                                                                                                   
+        price: '6'
+        title: 'Jello Shots: "Mochi''s Watermelon Rickey"'
       - description: 'Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'House Manhattan '
@@ -33,6 +43,11 @@ subgroups:
       - description: 'Coconut Water Infused Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
         title: Summer Painkiller
+      - description: >-
+          Pink Lemonade Vodka, Fresh Watermelon Juice, Lemon, Watermelon Red
+          Bull 
+        price: '13'
+        title: Pretty In Pink
       - description: >-
           House Infused Vanilla Pear Moonshine, Pear Nectar, Fresh Lemon,
           Cinnamon Syrup
@@ -172,10 +187,9 @@ subgroups:
       - description: >-
           Reyka...9...Tito's...10...Ketel One...10...Grey Goose...10...Grand Ten
           Firepuncher...10...Grand Ten Firepuncher Black 10...Żubrówka Bison
-          Grass ...9...Van Gogh Double Espresso...9...New Amsterdam
-          Raspberry..9...New Amsterdam Orange...9...New Amsterdam
-          Citron...9...888 Blueberry...9...888 Cranberry...9...888
-          Vanilla...9.....
+          Grass ...9...Van Gogh Double Espresso...9Van Gogh Vanilla...9....New
+          Amsterdam Raspberry..9...New Amsterdam Orange...9...New Amsterdam
+          Citron...9...888 Blueberry...9...888 Cranberry...9...
         price: xxxxx
         title: 'Vodka '
       - description: >-
