@@ -22,12 +22,12 @@ subgroups:
       - description: 'Rye Whiskey, Amaro Aperitif, Yellow Chartreuse, Orange Bitters '
         price: '13'
         title: 'New Classic '
+      - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
+        price: '14'
+        title: Moonshine 76
       - description: 'Vodka, Lychee Syrup, Peach Liqueur, Cranberry, Prosecco Float '
         price: '14'
         title: Owl Station Inspiration
-      - description: 'Spicy Pepper Vodka, Fresh Cucumber Juice, Elderflower, Lemon '
-        price: '14'
-        title: Farm To Glass
       - description: 'House Spicy Tequila, Ginger Liqueur, Fresh Lime, Agave'
         price: '13'
         title: There's Fire
