@@ -87,7 +87,7 @@ subgroups:
         title: 'Bud Light Black Cherry Seltzer '
       - description: '16 oz can '
         price: '5'
-        title: 'Bud Light Strawberry Lemonade Hard Seltzer '
+        title: 'Bud Light Lemonade Hard Seltzer '
       - description: 12 oz Bottle
         price: '6'
         title: 'Stella Artois '
