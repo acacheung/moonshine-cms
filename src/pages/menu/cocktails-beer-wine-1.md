@@ -16,7 +16,7 @@ subgroups:
                                                                                                                                                    
         price: '6'
         title: 'Jello Shots: "Mochi''s Watermelon Rickey"'
-      - description: 'Rye Whiskey, Sweet Vermouth, Bitters'
+      - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'House Manhattan '
       - description: 'Rye Whiskey, Amaro Aperitif, Yellow Chartreuse, Orange Bitters '
@@ -25,9 +25,9 @@ subgroups:
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '14'
         title: Moonshine 76
-      - description: 'Vodka, Lychee Syrup, Peach Liqueur, Cranberry, Prosecco Float '
+      - description: 'Spicy Pepper Vodka, Fresh Cucumber Juice, Elderflower, Lemon '
         price: '14'
-        title: Owl Station Inspiration
+        title: farm to glass
       - description: 'House Spicy Tequila, Ginger Liqueur, Fresh Lime, Agave'
         price: '13'
         title: There's Fire
