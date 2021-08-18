@@ -44,11 +44,6 @@ subgroups:
         price: '13'
         title: Summer Painkiller
       - description: >-
-          Pink Lemonade Vodka, Fresh Watermelon Juice, Lemon, Watermelon Red
-          Bull 
-        price: '13'
-        title: Pretty In Pink
-      - description: >-
           House Infused Vanilla Pear Moonshine, Pear Nectar, Fresh Lemon,
           Cinnamon Syrup
         price: '13'
