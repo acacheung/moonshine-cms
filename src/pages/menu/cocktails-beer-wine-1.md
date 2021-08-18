@@ -134,9 +134,9 @@ subgroups:
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
-      - description: '12 oz can '
-        price: '8'
-        title: Sam Adams "Just The Haze" IPA (Non-Alcoholic)
+      - description: NA 12oz can
+        price: '6'
+        title: NA Bud Zero
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
@@ -264,9 +264,9 @@ subgroups:
       - description: 'Original, Sugar Free, Tropical or Watermelon '
         price: '4.50'
         title: Red Bull
-      - description: '12 oz can '
-        price: '8'
-        title: Sam Adams "Just The Haze" IPA (Non-Alcoholic)
+      - description: 'NA 12 oz can '
+        price: '6'
+        title: NA Bud Zero
     title: 'Non-Alcoholic '
 ---
 
