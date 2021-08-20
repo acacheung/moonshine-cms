@@ -29,7 +29,7 @@ subgroups:
         price: 16 regular / 26 grande
         title: Party Sprouts
       - description: 'Buttermilk fried chicken wings, poblano ranch dressing '
-        price: 16 regular / 27 grande
+        price: 17 regular / 29 grande
         title: Moonshine’s Boston’s Best Fried Chicken
     title: Next Level Favorites
   - description: Add your favorite proteins to anything!
