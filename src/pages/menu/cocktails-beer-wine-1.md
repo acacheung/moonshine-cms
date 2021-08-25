@@ -51,9 +51,11 @@ subgroups:
       - description: 'Red Wine, Fresh Citrus, Hibiscus, Ginger Liqueur, Brandy'
         price: '12'
         title: Sahil's Sangria
-      - description: 'White Wine, Dark Cherry Liqueur, Orange, Fresh Summer Berries, Citrus'
+      - description: >-
+          White Wine, Mango Vodka, Brandy, Lychi, Watermelon, Summer
+          Strawberries, Fresh Citrus 
         price: '12'
-        title: 'Cherry Berry White Sangria '
+        title: 'Summer in The Tropics White Sangria '
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
@@ -111,7 +113,7 @@ subgroups:
         price: '6'
         title: Downeast "Aloha Friday" Pineapple Cider
       - description: '16 oz tallboy can '
-        price: '8'
+        price: '7'
         title: Stormalong "Mass Appeal" Hard Cider
       - description: '16oz tallboy can '
         price: '7'
