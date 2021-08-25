@@ -105,7 +105,7 @@ subgroups:
         price: '5'
         title: 'Narragansett Del''s Passionfruit-Mango Shandy '
       - description: '16oz tallboy can '
-        price: '6'
+        price: '5'
         title: Castle Island Lager
       - description: '12 oz can '
         price: '6'
