@@ -6,16 +6,6 @@ order: 2
 subgroups:
   - description: ''
     items:
-      - description: >
-          Because Tito’s Gives Rescue Pups Wings! featuring Tito’s Vodka, Lime
-          Jello, Fresh Lime Zest & Watermelon Red Bull   
-
-          ***In honor of Tito’s cooperation with Moonshine 152 in donating to
-          Angell Animal Medical Center to celebrate Chef Asia’s  newly adopted
-          rescue pup, Mochi!***
-                                                                                                                                                   
-        price: '6'
-        title: 'Jello Shots: "Mochi''s Watermelon Rickey"'
       - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'House Manhattan '
