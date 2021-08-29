@@ -6,16 +6,6 @@ order: 2
 subgroups:
   - description: ''
     items:
-      - description: >
-          Because Tito’s Gives Rescue Pups Wings! featuring Tito’s Vodka, Lime
-          Jello, Fresh Lime Zest & Watermelon Red Bull   
-
-          ***In honor of Tito’s cooperation with Moonshine 152 in donating to
-          Angell Animal Medical Center to celebrate Chef Asia’s  newly adopted
-          rescue pup, Mochi!***
-                                                                                                                                                   
-        price: '6'
-        title: 'Jello Shots: "Mochi''s Watermelon Rickey"'
       - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'House Manhattan '
@@ -63,7 +53,7 @@ subgroups:
         title: '(Draft) Lord Hobo "Hobo Life" Session IPA '
       - description: ''
         price: '7'
-        title: '(DRAFT) Zero Gravity Brewing "Green State" Lager '
+        title: (DRAFT) HARPOON BREWING UFO WHITE ALE
       - price: '7'
         title: '(Draft) Downeast Original Unfiltered Cider '
       - description: '12 oz bottle '
@@ -96,18 +86,12 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '5'
         title: 'Narragansett Del''s Shandy '
-      - description: '16oz tallboy can '
-        price: '6'
-        title: Castle Island Lager
       - description: '12 oz can '
         price: '6'
         title: Downeast "Aloha Friday" Pineapple Cider
       - description: '16 oz tallboy can '
         price: '8'
         title: Stormalong "Mass Appeal" Hard Cider
-      - description: '16 oz tallboy can '
-        price: '8'
-        title: Mikkeller "Passion Pool" Sour Gose Ale
       - description: '16oz tallboy can '
         price: '7'
         title: Jack's Abby Post-Shift Pilsner
@@ -126,6 +110,9 @@ subgroups:
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
+      - description: '16oz tallboy can '
+        price: '9'
+        title: MIGHTY SQUIRREL " CLOUD CANDY" NE STYLE IPA
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
