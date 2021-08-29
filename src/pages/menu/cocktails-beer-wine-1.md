@@ -86,6 +86,9 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '5'
         title: 'Narragansett Del''s Shandy '
+      - description: '16 oz tallboy can '
+        price: '5'
+        title: Narragansett Del's Passionfruit-Mango Shandy
       - description: '12 oz can '
         price: '6'
         title: Downeast "Aloha Friday" Pineapple Cider
