@@ -36,9 +36,9 @@ subgroups:
       - description: 'Red Wine, Fresh Citrus, Hibiscus, Ginger Liqueur, Brandy'
         price: '12'
         title: Sahil's Sangria
-      - description: 'White Wine, Dark Cherry Liqueur, Orange, Fresh Summer Berries, Citrus'
+      - description: 'White Wine, Mango Vodka, Lychi, Watermelon, Strawberry, Citrus'
         price: '12'
-        title: 'Cherry Berry White Sangria '
+        title: Summer in the Tropics White sangria
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
