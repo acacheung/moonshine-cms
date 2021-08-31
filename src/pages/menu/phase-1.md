@@ -7,6 +7,11 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
+          Creamy Burrata Cheese served with Brandied Figs, Sliced Proscuitto,
+          Herbed Crostini & a Herbed Crostini 
+        price: 19 regular / 29 grande
+        title: 'Menu Addition:  Creamy Burrata Cheese '
+      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
