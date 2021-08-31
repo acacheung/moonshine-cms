@@ -8,7 +8,7 @@ subgroups:
     items:
       - description: >-
           Creamy Burrata Cheese served with Brandied Figs, Sliced Proscuitto,
-          Herbed Crostini & a Herbed Crostini 
+          Herbed Crostini & a Petite Mixed Greens Salad
         price: 19 regular / 29 grande
         title: 'Menu Addition:  Creamy Burrata Cheese '
       - description: >-
