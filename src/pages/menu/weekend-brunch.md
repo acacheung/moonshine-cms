@@ -194,12 +194,12 @@ subgroups:
         price: '19'
         title: 'Grass-fed Beef Burger '
       - description: >-
-          August 2021: "The Picnic Burger 3.0": Topped with Creamy Chickpea
-          Hummus, Cucumber Tabbouleh, Basil-Tomato Salsa, Crumbled White Cheese
-          & Pita Chip Ribbons(**As always, can be made with our award winning
+          September 2021: "The Cowboy BBQ Burger": Served Piled High with Pulled
+          Barbecued Beef Brisket, Smoky Melted Gouda Cheese, House B&B Pickles &
+          Cabbage Slaw. (**As always, can be made with our award winning
           Mushroom Tofu patty! ) Served with your choice of side.(**As always,
           can be made with our award winning Mushroom Tofu patty! ) Served with
-          your choice of side
+          house-cut shoestring french fries 
         price: '23'
         title: 'Make Your Burger a VIP Burger of the Month '
     title: All-Day / All-Night Allstars
