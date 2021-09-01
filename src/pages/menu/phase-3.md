@@ -28,12 +28,12 @@ subgroups:
         price: '19'
         title: Grass-fed ’Shine Beef Burger
       - description: >-
-          Topped with Creamy Chickpea Hummus, Cucumber Tabbouleh, Basil-Tomato
-          Salsa, Crumbled White Cheese & Pita Chip Ribbons(**As always, can be
-          made with our award winning Mushroom Tofu patty! ) Served with your
-          choice of side.
+          Served Piled High with Pulled Barbecued Beef Brisket, Smoky Melted
+          Gouda Cheese, House B&B Pickles & Cabbage Slaw. (**As always, can be
+          made with our award winning Mushroom Tofu patty! ) Served with House
+          Shoestring French Fries 
         price: '23'
-        title: 'August’s VIP Burger of the Month: “The Picnic Burger 3.0”   '
+        title: 'September''s VIP Burger of the Month: “The Cowboy BBQ Burger"”   '
       - description: >-
           Smoky pulled pork, scrambled egg, tomato salsa, petite mixed greens
           salad, teriyaki, sweet chili glaze, house-cut shoestring french
