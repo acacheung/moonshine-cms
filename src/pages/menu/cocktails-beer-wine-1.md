@@ -27,12 +27,20 @@ subgroups:
       - description: 'Smokey Mezcal. Localy Made Amaro, Grapefruit Liqueur, Citrus '
         price: '13'
         title: matador's bull
+      - description: >-
+          House Infused Pear-Vanilla Bean Tennessee Moonshine, Pear Nectar,
+          Cinnamon Simple, Lime 
+        price: '13'
+        title: Who's The Bosc
       - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime'
         price: '13'
         title: Fay's fancy
       - description: 'Coconut Water Infused Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
         title: Summer Painkiller
+      - description: 'Raspberry Sweet Tea Vodka, Chambord, Narragansett Del''s Shandy '
+        price: '12'
+        title: John Delsy's Hole in One
       - description: 'Red Wine, Fresh Citrus, Hibiscus, Ginger Liqueur, Brandy'
         price: '12'
         title: Sahil's Sangria
