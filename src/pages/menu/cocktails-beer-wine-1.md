@@ -18,6 +18,9 @@ subgroups:
       - description: 'Spicy Pepper Vodka, Fresh Cucumber Juice, Elderflower, Lemon '
         price: '14'
         title: farm to glass
+      - description: 'House Infused Spicy Tequilla, Ginger Liqueur, Fresh Lime, Agave '
+        price: '13'
+        title: There's Fire
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
