@@ -14,6 +14,18 @@ subgroups:
         price: ........
         title: 'Thanks For Joining Us! '
       - description: >-
+          Please note that as of August 28th 2021,  all restaurants and
+          businesses in the City of Boston. As of August 28, everyone over age 2
+          is required to wear a mask or face covering whenever they are indoors
+          on the premises of a business, club, or other places that are open to
+          members of the public—including (but not limited to) restaurants,
+          bars, performance venues & event spaces. This would include standing
+          and mingling around the bar or the indoor spaces/restrooms. Please do
+          your part by wearing a mask when not actively eating or drinking.
+          Thank you & we appreciate your understanding. 
+        price: .......
+        title: Return of the Masks
+      - description: >-
           To guarantee seating, please give us a call or head to our website to
           make a reservation. Now taking reservations for indoor and outdoor
           tables. Please note, in an effort to remain as accessible as possible
