@@ -8,6 +8,11 @@ subgroups:
       Add one scoop of butterfinger ice cream to your favorite dessert $4 
       Add a Belgian waffle to your favorite dessert $7
     items:
+      - description: >-
+          Crispy House-Baked Meringue, Nutella Chocolate Ganache, Shaved White
+          Chocolate & Chantilly Cream   *gluten-free 
+        price: '12'
+        title: 'Menu Addition: Dalgona Coffee-Mocha Meringue'
       - description: 'Strawberry-Rhubarb with Local Rhubarb Preserves & Fresh Pomegranate '
         price: '11'
         title: 'Chef''s Whim Sorbet '
