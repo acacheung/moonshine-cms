@@ -118,9 +118,6 @@ subgroups:
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
-      - description: '16oz tallboy can '
-        price: '9'
-        title: MIGHTY SQUIRREL " CLOUD CANDY" NE STYLE IPA
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
