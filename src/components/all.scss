@@ -540,6 +540,7 @@ b {
 }
 
 .menu__link__subtitle {
+  display: inline-block;
   @media (max-width: 909px) {
     font-size: 14px;
   }
