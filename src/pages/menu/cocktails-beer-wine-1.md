@@ -24,9 +24,6 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
-      - description: 'Smokey Mezcal. Localy Made Amaro, Grapefruit Liqueur, Citrus '
-        price: '13'
-        title: matador's bull
       - description: >-
           House Infused Pear-Vanilla Bean Tennessee Moonshine, Pear Nectar,
           Cinnamon Simple, Lime 
