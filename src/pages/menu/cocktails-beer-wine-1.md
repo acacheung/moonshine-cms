@@ -118,9 +118,6 @@ subgroups:
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
-      - description: NA 12oz can
-        price: '6'
-        title: NA Bud Zero
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
@@ -248,9 +245,6 @@ subgroups:
       - description: 'Original, Sugar Free, Tropical or Watermelon '
         price: '4.50'
         title: Red Bull
-      - description: 'NA 12 oz can '
-        price: '6'
-        title: NA Bud Zero
     title: 'Non-Alcoholic '
 ---
 
