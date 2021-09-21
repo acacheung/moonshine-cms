@@ -106,9 +106,6 @@ subgroups:
       - description: '16oz tallboy can '
         price: '8'
         title: Springdale "Pearly Whit" White Ale
-      - description: '12 oz can '
-        price: '5'
-        title: Peak Brewing Summer Session IPA
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
