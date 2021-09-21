@@ -57,7 +57,7 @@ subgroups:
         price: '7'
         title: (DRAFT) HARPOON BREWING UFO WHITE ALE
       - price: '7'
-        title: '(Draft) Downeast Original Unfiltered Cider '
+        title: '(Draft) Citizen Cider Unified Press Hard Cider '
       - description: '12 oz bottle '
         price: '6'
         title: 'Budweiser/ Bud Light '
