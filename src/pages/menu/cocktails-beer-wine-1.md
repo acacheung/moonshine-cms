@@ -106,6 +106,9 @@ subgroups:
       - description: '16oz tallboy can '
         price: '8'
         title: Springdale "Pearly Whit" White Ale
+      - description: '16 oz tallboy can '
+        price: '9'
+        title: Mighty Squirrel "Cloud Candy" IPA
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
