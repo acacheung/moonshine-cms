@@ -11,7 +11,7 @@ subgroups:
       - description: >-
           Light & Crispy Meringue. Guava Candy, Litchi Popping Boba, Toasted
           Coconut,  Macerated Berries, Salted Caramel 
-        price: '12'
+        price: '13'
         title: 'Menu Addition: Tropical Fruit Meringue Pavlova '
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
