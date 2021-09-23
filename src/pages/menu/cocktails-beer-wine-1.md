@@ -24,11 +24,6 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
-      - description: >-
-          House Infused Pear-Vanilla Bean Tennessee Moonshine, Pear Nectar,
-          Cinnamon Simple, Lime 
-        price: '13'
-        title: Who's The Bosc
       - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime'
         price: '13'
         title: Fay's fancy
