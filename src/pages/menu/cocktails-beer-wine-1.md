@@ -62,9 +62,6 @@ subgroups:
       - description: '12 oz can '
         price: '5'
         title: 'Bud Light Black Cherry Seltzer '
-      - description: '16 oz can '
-        price: '5'
-        title: 'Bud Light Lemonade Hard Seltzer '
       - description: 12 oz Bottle
         price: '6'
         title: 'Stella Artois '
@@ -84,14 +81,8 @@ subgroups:
         price: '5'
         title: 'Narragansett Del''s Shandy '
       - description: '16 oz tallboy can '
-        price: '5'
-        title: Narragansett Del's Passionfruit-Mango Shandy
-      - description: '16 oz tallboy can '
         price: '8'
         title: Stormalong "Mass Appeal" Hard Cider
-      - description: '16oz tallboy can '
-        price: '7'
-        title: Jack's Abby Post-Shift Pilsner
       - description: '12 oz bottle '
         price: '6'
         title: Kona Brewing Big Wave Golden Ale
@@ -104,9 +95,6 @@ subgroups:
       - description: '16oz tallboy can '
         price: '8'
         title: Springdale "Pearly Whit" White Ale
-      - description: '16 oz tallboy can '
-        price: '9'
-        title: Mighty Squirrel "Cloud Candy" IPA
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
