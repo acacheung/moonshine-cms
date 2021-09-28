@@ -8,11 +8,6 @@ subgroups:
       Add one scoop of butterfinger ice cream to your favorite dessert $4 
       Add a Belgian waffle to your favorite dessert $7
     items:
-      - description: >-
-          Light & Crispy Meringue. Guava Candy, Litchi Popping Boba, Toasted
-          Coconut,  Macerated Berries, Salted Caramel 
-        price: '13'
-        title: 'Menu Addition: Tropical Fruit Meringue Pavlova '
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
