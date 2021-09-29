@@ -94,8 +94,8 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: Kona Brewing Big Wave Golden Ale
-      - description: '7'
-        price: '16 oz tallboy can '
+      - description: '16 oz tallboy can '
+        price: '7'
         title: 'Good Measure Brewing "Early Riser" Cream Ale '
       - description: 12 oz bottle
         price: '6'
