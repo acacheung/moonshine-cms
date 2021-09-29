@@ -24,6 +24,11 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
+      - description: >-
+          Smoky Mezcal, Grapefruit Liqueur, Locally Made Amaro, Fresh Citrus,
+          Orange Bitters 
+        price: '13'
+        title: Matador's Bull
       - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime'
         price: '13'
         title: Fay's fancy
@@ -122,9 +127,9 @@ subgroups:
       - description: 'Veneto, Italy '
         price: 12 / 42
         title: '(Sparkling) NV LaMarca Prosecco '
-      - description: 'Veneto, Italy '
-        price: 11 / 42
-        title: (sparkling rose) 2020 Zardetto Prosecco Rose
+      - description: 'Burgundy, FR'
+        price: 13 (187ml mini bottle)
+        title: '(sparkling rose) NV Le Grand CourtÂge Brut Rose '
       - description: 'Columbia Valley, Washington, USA'
         price: 12/44
         title: (Rose) 2018 Charles & Charles Rose
@@ -189,14 +194,14 @@ subgroups:
         price: xxxxx
         title: 'Rum, Brandy & Cognac '
       - description: >-
-          Four Roses Bourbon...9...Mitcher's Bourbon...9...Rabbit Hole
-          "Cavehill" Bourbon...9...Maker's Mark Bourbon...10...Mad River
-          Bourbon...10...Basil Hayden's Bourbon...12....Uncle Nearest 1884 Small
-          Batch Whiskey...11...Uncle Nearest 1856 Whiskey...13...Jack Daniels
-          Whiskey...9...Old Overholt Rye...8...Rittenhouse Rye...9...Mitcher's
-          Single Barrel Rye...9...Mad River Revolution Rye...10...Boston Harbor
-          Distillery Putnam Rye...11....Boston Harbor Distillery Putnam Single
-          Malt Whiskey...13...Old Smokey Tennessee White Whiskey
+          Four Roses Bourbon...9...Mitcher's Bourbon...9...Maker's Mark
+          Bourbon...10...Mad River Bourbon...10...Basil Hayden's
+          Bourbon...12....Uncle Nearest 1884 Small Batch Whiskey...11...Uncle
+          Nearest 1856 Whiskey...13...Jack Daniels Whiskey...9...Old Overholt
+          Rye...8...Rittenhouse Rye...9...Mitcher's Single Barrel Rye...9...Mad
+          River Revolution Rye...10...Boston Harbor Distillery Putnam
+          Rye...11....Boston Harbor Distillery Putnam Single Malt
+          Whiskey...13...Old Smokey Tennessee White Whiskey
           Moonshine...9...Screwball Peanut Butter Whiskey...9...Misunderstood
           Ginger Infused Whiskey...9...
         price: xxxxx
@@ -240,7 +245,7 @@ subgroups:
         title: Fever-Tree Premium Ginger Beer
       - price: '4'
         title: Fever-Tree Lime Yuzu Soda
-      - description: 'Original, Sugar Free, Tropical or Watermelon '
+      - description: 'Original, Sugar Free or Tropical '
         price: '4.50'
         title: Red Bull
     title: 'Non-Alcoholic '
