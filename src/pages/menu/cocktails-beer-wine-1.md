@@ -128,7 +128,7 @@ subgroups:
         price: 12 / 42
         title: '(Sparkling) NV LaMarca Prosecco '
       - description: 'Burgundy, FR'
-        price: 13 (187ml mini bottle)
+        price: 14       (187ml mini bottle)
         title: '(sparkling rose) NV Le Grand CourtÂge Brut Rose '
       - description: 'Columbia Valley, Washington, USA'
         price: 12/44
