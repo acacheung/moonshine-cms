@@ -54,8 +54,8 @@ subgroups:
       - price: '7'
         title: '(Draft) Lord Hobo "Hobo Life" Session IPA '
       - description: ''
-        price: '7'
-        title: (DRAFT) HARPOON BREWING UFO WHITE ALE
+        price: '5'
+        title: (DRAFT) Wormtown Brewing Summer Ale
       - price: '7'
         title: '(Draft) Citizen Cider Unified Press Hard Cider '
       - description: '12 oz bottle '
