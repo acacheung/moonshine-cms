@@ -9,9 +9,6 @@ subgroups:
       - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'House Manhattan '
-      - description: 'Rye Whiskey, Amaro Aperitif, Yellow Chartreuse, Orange Bitters '
-        price: '13'
-        title: 'New Classic '
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '14'
         title: Moonshine 76
@@ -24,11 +21,6 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
-      - description: >-
-          Smoky Mezcal, Grapefruit Liqueur, Locally Made Amaro, Fresh Citrus,
-          Orange Bitters 
-        price: '13'
-        title: Matador's Bull
       - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime'
         price: '13'
         title: Fay's fancy
