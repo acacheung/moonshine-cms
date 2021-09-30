@@ -9,10 +9,10 @@ subgroups:
       Add a Belgian waffle to your favorite dessert $7
     items:
       - description: >-
-          Light & Crispy Meringue. Guava Candy, Litchi Popping Boba, Toasted
-          Coconut,  Macerated Berries, Salted Caramel
-        price: '13'
-        title: 'Menu Addition: Tropical Fruit Pavlova'
+          Maple Whoopie Pie filled with Cardamon Cream Cheese Filling & topped
+          with Maple Glazed Cranberries 
+        price: '11'
+        title: 'Menu Addition: Maple whoopie pie'
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
