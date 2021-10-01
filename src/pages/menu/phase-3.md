@@ -28,12 +28,16 @@ subgroups:
         price: '19'
         title: Grass-fed ’Shine Beef Burger
       - description: >-
-          Served Piled High with Pulled Barbecued Beef Brisket, Smoky Melted
-          Gouda Cheese, House B&B Pickles & Cabbage Slaw. (**As always, can be
-          made with our award winning Mushroom Tofu patty! ) Served with House
-          Shoestring French Fries 
+          Served with Sea Monster Ink Risotto Arancini, Black as Night Garlic
+          Aioli, Monster (Meunster) Cheese & Pickled
+          Pumpkin.                                                                       
+          *Contains Shellfish and Dairy (**As always, can be made with our award
+          winning Mushroom Tofu patty! ) Served with House Shoestring French
+          Fries 
         price: '23'
-        title: 'September''s VIP Burger of the Month: “The Cowboy BBQ Burger"”   '
+        title: >-
+          October 2021 Burger of the Month: “The Trick or Treat” Halloween
+          Burger
       - description: >-
           Smoky pulled pork, scrambled egg, tomato salsa, petite mixed greens
           salad, teriyaki, sweet chili glaze, house-cut shoestring french
