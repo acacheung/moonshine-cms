@@ -80,7 +80,7 @@ subgroups:
           Sweet Maui onion salmon poke, house applewood smoked shrimp salad,
           mango-edamame salsa, sushi rice, crispy chickpea papadum chips
         price: '29'
-        title: Hawaiian Poke Rice Bowl
+        title: Hawaiian Poke Rice Bowl**
       - description: >-
           Spicy basil pepper glaze, crispy panko chicken, seasoned sushi rice,
           stir-fried veggies ....substitute sautéed baby shrimp 5  
@@ -100,10 +100,10 @@ subgroups:
         price: '7'
         title: House Belgian Waffle
       - price: '2'
-        title: Fried Egg
-      - price: '4'
+        title: Fried Egg**
+      - price: '7'
         title: Jalapeno Bacon
-      - price: '1'
+      - price: '2'
         title: Add Cheese
       - price: '2'
         title: Sliced Jalapenos
