@@ -38,22 +38,22 @@ subgroups:
         title: Roasted Statler Chicken Breast
       - price: '14'
         title: House Crispy Chicken Nuggies
-      - price: Mkt
-        title: Organic Grass-fed Skirt Steak
-      - price: '13'
+      - price: '14'
+        title: Organic Grass-fed Skirt Steak**
+      - price: '14'
         title: Spicy Lamb Meatballs
       - price: '13'
         title: Pulled Chinatown Style Roasted Duck
       - description: add cheddar cheese 1
         price: '10'
-        title: 'Grass-fed Beef Burger Patty '
+        title: Grass-fed Beef Burger Patty**
       - description: add cheddar cheese 1
         price: '10'
         title: Chef Asia’s Famous Vegan  Mushroom Tofu Burger Patty
       - price: '13'
-        title: 'Sautéed Baby Shrimp '
-      - price: '13'
-        title: Cajun Grilled Fish of the Day
+        title: Sautéed Baby Shrimp**
+      - price: '15'
+        title: Cajun Grilled Fish of the Day**
     title: Add-Ons
   - description: 'Regular 2 Tacos, Go Grande 3'
     items:
