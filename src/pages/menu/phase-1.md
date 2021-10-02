@@ -23,7 +23,7 @@ subgroups:
         price: 10 regular / 15 grande
         title: Shishitos
       - description: 'Organic ground lamb, habanero date jam, lingonberry (gluten free)'
-        price: 15 regular / 26 grande
+        price: 16 regular / 27 grande
         title: Lamb Meatballs
       - description: >-
           Crispy olive oil roasted potatoes, sherry pesto aioli, roasted garlic
@@ -33,7 +33,7 @@ subgroups:
       - description: >-
           Sourdough holiday stuffing wrapped in crispy pecanwood bacon, Candied
           ginger aioli 
-        price: 14 regular / 22 grande
+        price: 15 regular / 23 grande
         title: '''Shine Famous Bacon Wrapped Stuffing Bites '
     title: To Get Ya Started
 ---
