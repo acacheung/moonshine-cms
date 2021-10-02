@@ -26,7 +26,7 @@ subgroups:
           Sharp cheddar, Housemade  aioli, LTO, House-cut shoestring french
           fries .... Make it a double patty 10 
         price: '19'
-        title: Grass-fed ’Shine Beef Burger
+        title: Grass-fed ’Shine Beef Burger**
       - description: >-
           Served with Sea Monster Ink Risotto Arancini, Black as Night Garlic
           Aioli, Monster (Meunster) Cheese & Pickled
@@ -37,7 +37,7 @@ subgroups:
         price: '23'
         title: >-
           October 2021 Burger of the Month: “The Trick or Treat” Halloween
-          Burger
+          Burger**
       - description: >-
           Smoky pulled pork, scrambled egg, tomato salsa, petite mixed greens
           salad, teriyaki, sweet chili glaze, house-cut shoestring french
@@ -45,13 +45,13 @@ subgroups:
         price: '27'
         title: >-
           Ron Swanson Brunch-Inspired Chipotle Pulled Pork Scallion Pancake
-          Quesadilla
+          Quesadilla**
       - description: >-
           Cajun grilled fish of the day, fried pickled green tomatoes,
           srirachi-shrimp uni butter, sauteed tomatoes... add a side of white
           rice 5 
         price: Mkt
-        title: Cajun Grilled Fish of the Day
+        title: Cajun Grilled Fish of the Day**
       - description: >-
           Moonshine’s Best of Boston fried chicken, Belgian waffle,
           sriracha-bourbon awesome sauce, cinnamon honey butter ** GO GRANDE by
@@ -61,8 +61,8 @@ subgroups:
       - description: >-
           Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
-        price: '28'
-        title: Spanish Tapas Style Steak Frites
+        price: '29'
+        title: Spanish Tapas Style Steak Frites**
     title: The Main Affair
   - description: Swap out your white rice for mixed greens for 2
     items:
