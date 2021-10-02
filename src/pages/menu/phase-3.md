@@ -69,22 +69,22 @@ subgroups:
       - description: >-
           Stirfried Chinese sausage, scrambled egg, ginger, scallions, duck
           liver
-        price: '17'
+        price: '18'
         title: Mama Mei’s Famous Dirty Fried Rice
       - description: >-
           Asian pear kimchi, jalapenos, scrambled egg, stirfried veggies...
           available vegan, just ask! 
-        price: '17'
+        price: '18'
         title: Spicy Kimchi Thai Vegetarian Fried Rice
       - description: >-
           Sweet Maui onion salmon poke, house applewood smoked shrimp salad,
           mango-edamame salsa, sushi rice, crispy chickpea papadum chips
-        price: Mkt
+        price: '29'
         title: Hawaiian Poke Rice Bowl
       - description: >-
           Spicy basil pepper glaze, crispy panko chicken, seasoned sushi rice,
           stir-fried veggies ....substitute sautéed baby shrimp 5  
-        price: '25'
+        price: '27'
         title: Thai Crispy Chicken Basil Rice Bowl
     title: Rice Bowls
   - items:
