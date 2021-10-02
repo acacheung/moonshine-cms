@@ -21,12 +21,12 @@ subgroups:
       - description: >-
           Tater tots smothered with kimchi butter, sweet chili, truffled
           teriyaki sauce
-        price: 14 regular / 24 grande
+        price: 15 regular / 25 grande
         title: Party Tots
       - description: >-
           Roasted brussels sprouts smothered with kimchi butter, sweet chili,
           truffled teriyaki sauce
-        price: 16 regular / 26 grande
+        price: 17 regular / 27 grande
         title: Party Sprouts
       - description: 'Buttermilk fried chicken wings, poblano ranch dressing '
         price: 17 regular / 29 grande
