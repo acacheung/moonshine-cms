@@ -70,7 +70,7 @@ subgroups:
           Beer battered tempura cod, mango-cabbage slaw, sweet chili, ginger
           aioli
         price: 16 regular / 24 grande
-        title: 'Devon’s Favorite ’Shine Fish Tacos '
+        title: Devon’s Favorite ’Shine Fish Tacos**
     title: A-Mei Street Tacos
 ---
 
