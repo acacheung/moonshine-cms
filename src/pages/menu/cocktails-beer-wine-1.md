@@ -71,9 +71,6 @@ subgroups:
       - description: 16 oz Tallboy Can
         price: '5'
         title: Narragansett Lager
-      - description: '16 oz tallboy can '
-        price: '5'
-        title: 'Narragansett Del''s Shandy '
       - description: '12 oz can '
         price: '6'
         title: 'Downiest Blackberry Cider '
