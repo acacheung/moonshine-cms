@@ -194,12 +194,13 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          September 2021: "The Cowboy BBQ Burger": Served Piled High with Pulled
-          Barbecued Beef Brisket, Smoky Melted Gouda Cheese, House B&B Pickles &
-          Cabbage Slaw. (**As always, can be made with our award winning
-          Mushroom Tofu patty! ) Served with your choice of side.(**As always,
-          can be made with our award winning Mushroom Tofu patty! ) Served with
-          house-cut shoestring french fries 
+          October 2021 Burger of the Month- Served with Sea Monster Ink Risotto
+          Arancini, Black as Night Garlic Aioli, Monster (Meunster) Cheese &
+          Pickled
+          Pumpkin.                                                                       
+          *Contains Shellfish and Dairy (**As always, can be made with our award
+          winning Mushroom Tofu patty! ) Served with House Shoestring French
+          Fries 
         price: '23'
         title: 'Make Your Burger a VIP Burger of the Month '
     title: All-Day / All-Night Allstars
