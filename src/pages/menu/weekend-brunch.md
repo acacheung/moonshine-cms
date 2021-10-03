@@ -84,7 +84,7 @@ subgroups:
     items:
       - description: 'Pan-seared shrimp, Spicy green chili cheese grits, Sherry pan sauce'
         price: '19'
-        title: 'Shrimp & Grits '
+        title: Shrimp & Grits**
       - description: >-
           Tasso ham hollandaise sauce, Fried egg, Spinach, Housemade english
           muffin 
@@ -92,10 +92,10 @@ subgroups:
         title: '''Shine''s Crab Eggs Benedict**'
       - description: 'Spiced homefries, Petite mixed greens'
         price: '17'
-        title: Sauteed Mushroom & Swiss Omelet
+        title: Sauteed Mushroom & Swiss Omelet**
       - description: 'Melt-in-your-mouth corned beef, Scrambled eggs, Housemade beer bread '
-        price: '18'
-        title: '''Shine''s Southie Corned Beef Hash '
+        price: '19'
+        title: '''Shine''s Southie Corned Beef Hash**'
       - description: 'Sauteed kale, Spiced homefries, Petite mixed greens salad'
         price: '17'
         title: Vegan Turmeric Tofu Scramble
@@ -105,7 +105,7 @@ subgroups:
         price: '27'
         title: >-
           Ron Swanson Brunch Inspired Chipotle Pulled Pork Scallion Pancake
-          Quesadilla (AVAILABLE VEGETARIAN   24) 
+          Quesadilla (AVAILABLE VEGETARIAN   24)**
       - description: >-
           Red-eye gravy, Chinese sausage, Green onions, Chopped melted white
           cheese
@@ -115,20 +115,20 @@ subgroups:
           Crispy polenta, scrambled eggs, Spicy tomato sauce, Your choice of
           bacon 
         price: '17'
-        title: Tommy G's Favorite "Gypsy Eggs"
+        title: Tommy G's Favorite "Gypsy Eggs"**
     title: The Main Affair
   - description: ' All the sides & Fixin''s'
     items:
       - price: '7'
         title: 'House-cut Shoestring Fries '
-      - price: '6'
+      - price: '7'
         title: 'Side of Pecanwood Bacon '
       - price: '7'
         title: 'Side of Jalapeno Bacon '
       - price: '5'
         title: 'Spiced Homefries '
       - price: '5'
-        title: 'Two Eggs Any Style '
+        title: 'Two Eggs Any Style** '
       - price: '6'
         title: 'Spicy Green Chili Cheese Grits '
       - description: 'Cinnamon Honey Butter & Sriracha-Bourbon Awesome Sauce '
@@ -146,10 +146,10 @@ subgroups:
       - price: '9'
         title: 'Side Order of Corned Beef Hash '
       - price: '2'
-        title: Add a Fried Egg To Any Dish
+        title: Add a Fried Egg To Any Dish**
       - price: '4'
         title: 'Add Bacon To Any Dish '
-      - price: '1'
+      - price: '2'
         title: 'Add Melted Cheese To Any Dish '
       - price: '2'
         title: 'Add Sliced Jalapenos To Any Dish '
