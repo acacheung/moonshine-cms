@@ -67,12 +67,12 @@ subgroups:
       - description: >-
           Sourdough holiday stuffing bites, Crispy pecanwood bacon, Candied
           ginger aioli 
-        price: 14 / 22
+        price: 15 / 23
         title: '''Shine''s Famous Bacon Wrapped Stuffing Bites  '
       - description: >-
           Brioche cinnamon French toast sticks, Fresh berries, Maple berry
           butter dipping sauce 
-        price: 10 / 15
+        price: 12 / 17
         title: 'Chef Asia''s Famous Cinnamon French Toast Sticks '
       - description: >-
           Crispy olive oil roasted potatoes, Sherry pesto aioli, Roasted garlic
