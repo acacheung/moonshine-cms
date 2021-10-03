@@ -167,7 +167,7 @@ subgroups:
         price: 16 regular / 26 grande
         title: 'Warm Kale and Quinoa Caesar Salad '
       - description: served with Poblano Ranch Sauce
-        price: 16 / 27
+        price: 17 / 29
         title: '"Boston''s Best" Buttermilk Fried Chicken Wings '
       - description: >-
           Boneless beef shortrib, Asian pear kimchi, Candied ginger aioli,
@@ -177,7 +177,7 @@ subgroups:
       - description: >-
           Chinese sausage, Scrambled egg, Fresh ginger, Scallions, Chopped duck
           liver 
-        price: '17'
+        price: '18'
         title: 'Mama Mei''s Dirty Fried Rice '
       - description: >-
           "Boston's Best" Buttermilk fried chicken, Belgian waffle,
@@ -192,7 +192,7 @@ subgroups:
           Sharp cheddar, Housemade aioli, LTO & Shoestring fries  ...make it a
           double patty 10 
         price: '19'
-        title: 'Grass-fed Beef Burger '
+        title: Grass-fed Beef Burger**
       - description: >-
           September 2021: "The Cowboy BBQ Burger": Served Piled High with Pulled
           Barbecued Beef Brisket, Smoky Melted Gouda Cheese, House B&B Pickles &
