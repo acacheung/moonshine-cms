@@ -27,9 +27,6 @@ subgroups:
       - description: 'Coconut Water Infused Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
         title: Summer Painkiller
-      - description: 'Raspberry Sweet Tea Vodka, Chambord, Narragansett Del''s Shandy '
-        price: '12'
-        title: John Delsy's Hole in One
       - description: 'Red Wine, Fresh Citrus, Hibiscus, Ginger Liqueur, Brandy'
         price: '12'
         title: Sahil's Sangria
