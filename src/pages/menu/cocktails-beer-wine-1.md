@@ -9,27 +9,35 @@ subgroups:
       - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'House Manhattan '
-      - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
-        price: '14'
-        title: Moonshine 76
+      - description: 'Rye Whiskey, Dark Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
+        price: '13'
+        title: Danish Modern
+      - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime'
+        price: '13'
+        title: Fay's fancy
       - description: 'Spicy Pepper Vodka, Fresh Cucumber Juice, Elderflower, Lemon '
         price: '14'
         title: farm to glass
       - description: 'House Infused Spicy Tequilla, Ginger Liqueur, Fresh Lime, Agave '
         price: '13'
         title: There's Fire
+      - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
+        price: '14'
+        title: Moonshine 76
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
-      - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime'
-        price: '13'
-        title: Fay's fancy
       - description: 'Coconut Water Infused Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
         title: Summer Painkiller
       - description: 'Red Wine, Fresh Citrus, Hibiscus, Ginger Liqueur, Brandy'
         price: '12'
         title: Sahil's Sangria
+      - description: >-
+          White Wine Blend, Ginger Infused Brandy, Apricot, Apple Cider, Fresh
+          Citrus, Ginger Beer 
+        price: '12'
+        title: Fall Ginger Apple White Sangria
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
