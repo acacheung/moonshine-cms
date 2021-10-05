@@ -146,6 +146,9 @@ subgroups:
       - description: 'Sonoma County, California USA '
         price: 13 / 50
         title: (Red) 2017 Storypoint Cabernet Sauvignon Select
+      - description: 'Puglia, Italy '
+        price: 12 gl  / 32 btl
+        title: '(Red) 2017 Cantele Primitivo Salento Primitivo (Zinfandel) '
     title: Wine List
   - description: ''
     items:
