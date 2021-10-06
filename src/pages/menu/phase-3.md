@@ -12,12 +12,6 @@ subgroups:
         price: '28'
         title: 'Tiki-Inspired Roasted Duck Noodle Salad '
       - description: >-
-          Slow Cooked BBQ Pork Ribs Glazed with Charsiu-Hoisin,Grilled Summer
-          Street Corn Salad with Heirloom Cherry Tomatoes, Cotija Cheese, Citrus
-          Aioli, Scallions 
-        price: '28'
-        title: Charsiu Glazed BBQ Pork Ribs
-      - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
         price: '19'
