@@ -27,6 +27,9 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
+      - description: 'Fig Infused Vodka, Amaretto, Brown Sugar-Fig Simple, Fresh Lemon '
+        price: '13'
+        title: Gettin' Figgy Wit It
       - description: 'Coconut Water Infused Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
         title: Summer Painkiller
