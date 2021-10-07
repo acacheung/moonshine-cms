@@ -51,7 +51,7 @@ subgroups:
           ****$1 from this cocktail will be donated by Tito’s Handmade Vodka to
           Community Servings from 10/1-11/30 up to $20,000****
         price: '14'
-        title: 'Pumpkin Pie Chai '
+        title: 'Iced Pumpkin Pie Chai '
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
