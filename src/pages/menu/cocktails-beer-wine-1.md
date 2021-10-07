@@ -32,7 +32,7 @@ subgroups:
         title: Gettin' Figgy Wit It
       - description: 'Coconut Water Infused Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
-        title: Summer Painkiller
+        title: (We Wish it was Summer) Painkiller
       - description: 'Red Wine, Fresh Citrus, Hibiscus, Ginger Liqueur, Brandy'
         price: '12'
         title: Sahil's Sangria
