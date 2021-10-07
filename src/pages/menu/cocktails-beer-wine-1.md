@@ -33,6 +33,9 @@ subgroups:
       - description: 'Coconut Water Infused Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
         price: '13'
         title: Summer Painkiller
+      - description: 'Red Wine, Fresh Citrus, Hibiscus, Ginger Liqueur, Brandy'
+        price: '12'
+        title: Sahil's Sangria
       - description: >-
           White Wine Blend, Ginger Infused Brandy, Apricot, Apple Cider, Fresh
           Citrus, Ginger Beer 
@@ -41,6 +44,14 @@ subgroups:
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
+      - description: >
+          Tito’s Handmade Vodka, Rumchata, Pumpkin-Chai Tea Syrup, Grated
+          Nutmeg 
+
+          ****$1 from this cocktail will be donated by Tito’s Handmade Vodka to
+          Community Servings from 10/1-11/30 up to $20,000****
+        price: '14'
+        title: 'Pumpkin Pie Chai '
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
@@ -96,7 +107,7 @@ subgroups:
         title: 'Magic Hat #9'
       - description: '12 oz can '
         price: '6'
-        title: 'Downeast Blackberry Cider '
+        title: 'Downiest Blackberry Cider '
       - description: '16 oz tallboy can '
         price: '8'
         title: Stormalong "Mass Appeal" Hard Cider
