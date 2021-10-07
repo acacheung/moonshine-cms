@@ -12,6 +12,12 @@ subgroups:
         price: '28'
         title: 'Tiki-Inspired Roasted Duck Noodle Salad '
       - description: >-
+          Cajun grilled fish of the day, fried pickled green tomatoes,
+          srirachi-shrimp uni butter, sauteed tomatoes... add a side of white
+          rice 5 
+        price: Mkt
+        title: Cajun Grilled Fish of the Day**
+      - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
         price: '19'
@@ -33,6 +39,19 @@ subgroups:
           October 2021 Burger of the Month: “The Trick or Treat” Halloween
           Burger**
       - description: >-
+          Pulled Braised Beef Shortrib, Brioche, Melted 3-Cheese Blend & Served
+          with a cup of Spicy Tomato Soup **available vegetarian** Don't forget
+          to add on your favorite like Jalapeno Bacon $4, a Fried Egg**$2 or a
+          side of Shoestring French Fries $7
+        price: '27'
+        title: Texas Toast Shortrib Grilled Cheese Sandwich
+      - description: >-
+          Moonshine’s Best of Boston fried chicken, Belgian waffle,
+          sriracha-bourbon awesome sauce, cinnamon honey butter ** GO GRANDE by
+          adding an additional Belgian Waffle for $7**
+        price: '27'
+        title: Leslie Knope’s “Fried Chicken and Waffle”
+      - description: >-
           Smoky pulled pork, scrambled egg, tomato salsa, petite mixed greens
           salad, teriyaki, sweet chili glaze, house-cut shoestring french
           fries... available vegetarian 24
@@ -41,29 +60,10 @@ subgroups:
           Ron Swanson Brunch-Inspired Chipotle Pulled Pork Scallion Pancake
           Quesadilla**
       - description: >-
-          Cajun grilled fish of the day, fried pickled green tomatoes,
-          srirachi-shrimp uni butter, sauteed tomatoes... add a side of white
-          rice 5 
-        price: Mkt
-        title: Cajun Grilled Fish of the Day**
-      - description: >-
-          Moonshine’s Best of Boston fried chicken, Belgian waffle,
-          sriracha-bourbon awesome sauce, cinnamon honey butter ** GO GRANDE by
-          adding an additional Belgian Waffle for $7**
-        price: '27'
-        title: Leslie Knope’s “Fried Chicken and Waffle”
-      - description: >-
           Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
         price: '29'
         title: Spanish Tapas Style Steak Frites**
-      - description: >-
-          Pulled Braised Beef Shortrib, Brioche, Melted 3-Cheese Blend & Served
-          with a cup of Spicy Tomato Soup **available vegetarian** Don't forget
-          to add on your favorite like Jalapeno Bacon $4, a Fried Egg**$2 or a
-          side of Shoestring French Fries $7
-        price: '27'
-        title: Texas Toast Shortrib Grilled Cheese Sandwich
     title: The Main Affair
   - description: Swap out your white rice for mixed greens for 2
     items:
