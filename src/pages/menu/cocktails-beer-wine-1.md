@@ -65,7 +65,7 @@ subgroups:
         price: '5'
         title: (DRAFT) Wormtown Brewing Summer Ale
       - price: '7'
-        title: '(Draft) Citizen Cider Unified Press Hard Cider '
+        title: '(Draft) Downeast Hard Cider '
       - description: '12 oz bottle '
         price: '6'
         title: 'Budweiser/ Bud Light '
