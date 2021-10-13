@@ -9,8 +9,8 @@ subgroups:
       favorite protein or fixin’s!
     items:
       - description: >-
-          Chef Asia's Famous Chilled Beet Soup, With Dill Creme Fraiche and
-          Cucumber Ribbons
+          Chef Asia’s Favorite  Carrot Ginger Bisque with Fresh Ginger, Nutmeg &
+          Thyme 
         price: '12 regular / 19 grande '
         title: 'Chef''s whim Soup for the soul '
       - description: >
