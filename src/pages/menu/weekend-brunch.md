@@ -157,8 +157,8 @@ subgroups:
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >-
-          Chef Asia's Famous Chilled Beet Soup, With Dill Creme Fraiche and
-          Cucumber Ribbons
+          Chef Asia’s Favorite  Carrot Ginger Bisque with Fresh Ginger, Nutmeg &
+          Thyme 
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >
