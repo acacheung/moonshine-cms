@@ -214,8 +214,8 @@ subgroups:
           Nearest 1856 Whiskey...13...Jack Daniels Whiskey...9...Old Overholt
           Rye...8...Rittenhouse Rye...9...Mitcher's Single Barrel Rye...9...Mad
           River Revolution Rye...10...Boston Harbor Distillery Putnam
-          Rye...11....Boston Harbor Distillery Putnam Single Malt
-          Whiskey...13...Old Smokey Tennessee White Whiskey
+          Rye...11....High West Doubel Rye...12...Boston Harbor Distillery
+          Putnam Single Malt Whiskey...13...Old Smokey Tennessee White Whiskey
           Moonshine...9...Screwball Peanut Butter Whiskey...9...Misunderstood
           Ginger Infused Whiskey...9...
         price: xxxxx
