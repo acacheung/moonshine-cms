@@ -7,10 +7,10 @@ subgroups:
   - description: Don’t forget to add your favorite fixin’s or sides!
     items:
       - description: >-
-          Slow Roasted Pulled Duck Confit, Chilled Glass Noodles, Beansprouts &
-          Honey Roasted Peanuts 
-        price: '28'
-        title: 'Tiki-Inspired Roasted Duck Noodle Salad '
+          Brown Butter braised Rabbit, Toasted Cheese Ravioli, Roasted Local
+          Squash, Candied Spiced Hazelnuts, Aged Balsamic 
+        price: '29'
+        title: Brown Butter braised Rabbit pasta
       - description: >-
           Cajun grilled fish of the day, fried pickled green tomatoes,
           srirachi-shrimp uni butter, sauteed tomatoes... add a side of white
