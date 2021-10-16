@@ -30,6 +30,11 @@ subgroups:
           ginger aioli 
         price: 15 regular / 23 grande
         title: '''Shine Famous Bacon Wrapped Stuffing Bites '
+      - description: >-
+          Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
+          Chickpea Papadums
+        price: 14 regular / 23 grande
+        title: '''Shine Famous Caramelized Onion-Roasted Beet Dip'
     title: To Get Ya Started
 ---
 
