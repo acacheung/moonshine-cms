@@ -79,6 +79,11 @@ subgroups:
           oil 
         price: '15 / 26 '
         title: 'Tapas Style Patatas Bravas '
+      - description: >-
+          Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
+          Chickpea Papadums
+        price: 14 regular / 23 grande
+        title: '''Shine Famous Caramelized Onion-Roasted Beet Dip'
     title: To Get Ya Started!
   - description: ' (Entrees)'
     items:
