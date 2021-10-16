@@ -109,7 +109,7 @@ subgroups:
         title: 'Magic Hat #9'
       - description: '12 oz can '
         price: '6'
-        title: 'Downiest Blackberry Cider '
+        title: 'Downeast Blackberry Cider '
       - description: '16 oz tallboy can '
         price: '8'
         title: Stormalong "Mass Appeal" Hard Cider
