@@ -9,9 +9,11 @@ subgroups:
       - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'House Manhattan '
-      - description: 'Rye Whiskey, Aperol Aperfit, Yellow Chartreuse, Angostura Bitters '
-        price: '13'
-        title: New classic
+      - description: >-
+          Spicy Firepuncher Vodka, Fresh Cucumber Juice, Fresh Lemon,
+          Elderflower
+        price: '14'
+        title: Farm to Glass
       - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime'
         price: '13'
         title: Fay's fancy
