@@ -2,7 +2,7 @@
 templateKey: menu-group
 title: Beverages
 subtitle: 'Cocktails, Beer, Wine & Spirits'
-order: 2
+order: 1
 subgroups:
   - description: ''
     items:
@@ -46,14 +46,6 @@ subgroups:
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
-      - description: >
-          Tito’s Handmade Vodka, Rumchata, Pumpkin-Chai Tea Syrup, Grated
-          Nutmeg 
-
-          ****$1 from this cocktail will be donated by Tito’s Handmade Vodka to
-          Community Servings from 10/1-11/30 up to $20,000****
-        price: '14'
-        title: 'Iced Pumpkin Pie Chai '
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
