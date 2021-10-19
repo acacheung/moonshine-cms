@@ -42,10 +42,10 @@ subgroups:
         title: Spicy Lamb Meatballs
       - price: '13'
         title: Pulled Chinatown Style Roasted Duck
-      - description: add cheddar cheese 1
+      - description: add cheddar cheese 2
         price: '10'
         title: Grass-fed Beef Burger Patty**
-      - description: add cheddar cheese 1
+      - description: add cheddar cheese 2
         price: '10'
         title: Chef Asia’s Famous Vegan  Mushroom Tofu Burger Patty
       - price: '13'
