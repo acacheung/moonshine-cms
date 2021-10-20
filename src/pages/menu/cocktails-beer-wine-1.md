@@ -147,9 +147,9 @@ subgroups:
       - description: 'Central Coast, CA, USA '
         price: 11 / 40
         title: '(White) 2019 Seaglass Riesling '
-      - description: 'Napa Valley, California, USA '
+      - description: 'Mendoza, Argentina'
         price: 11 / 42
-        title: '(WHITE) 2018 Grayson Cellars Chardonnay '
+        title: 2021 Domaine Bousquet Chardonnay
       - description: 'Marlborough, New Zealand '
         price: 13 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
