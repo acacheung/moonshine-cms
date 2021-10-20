@@ -59,7 +59,7 @@ subgroups:
         price: '5'
         title: (DRAFT) Wormtown Brewing Summer Ale
       - price: '7'
-        title: '(Draft) Downeast Hard Cider '
+        title: '(Draft) Downeast Original Unfiltered Hard Cider '
       - description: '12 oz bottle '
         price: '6'
         title: 'Budweiser/ Bud Light '
@@ -94,7 +94,7 @@ subgroups:
         price: '7'
         title: 'Jack''s Abby "Copper Legend" Ocktoberfest '
       - description: '16 oz tallboy can '
-        price: '7'
+        price: '6'
         title: 'Good Measure Brewing "Early Riser" Cream Ale '
       - description: 12 oz bottle
         price: '6'
@@ -103,13 +103,13 @@ subgroups:
         price: '6'
         title: 'Downeast Blackberry Cider '
       - description: '16 oz tallboy can '
-        price: '8'
+        price: '7'
         title: Stormalong "Mass Appeal" Hard Cider
       - description: '16oz tallboy can '
         price: '7'
         title: 'Allagash White '
       - description: '16oz tallboy can '
-        price: '8'
+        price: '7'
         title: Springdale "Pearly Whit" White Ale
       - description: '12 oz bottle '
         price: '7'
