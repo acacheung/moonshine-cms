@@ -162,8 +162,8 @@ subgroups:
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >-
-          Chef Asia’s Favorite  Carrot Ginger Bisque with Fresh Ginger, Nutmeg &
-          Thyme 
+          Korean Soft Tofu Stew (Sundubu Jjigae) with a Spicy Kimchi-Pork Broth,
+          Soft Tofu, Mushrooms, Sesame 
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >
