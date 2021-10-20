@@ -8,7 +8,9 @@ subgroups:
       All portions available regular or “Go Grande”. Don’t forget to add your
       favorite protein or fixin’s!
     items:
-      - description: 'Creamy Spicy Tomato Soup '
+      - description: >-
+          Korean Soft Tofu Stew (Sundubu Jjigae) with a Spicy Kimchi-Pork Broth,
+          Soft Tofu, Mushrooms, Sesame 
         price: '12 regular / 19 grande '
         title: 'Chef''s whim Soup for the soul '
       - description: >
