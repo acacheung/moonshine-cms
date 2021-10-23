@@ -56,8 +56,8 @@ subgroups:
       - price: '7'
         title: '(Draft) Lord Hobo "Hobo Life" Session IPA '
       - description: ''
-        price: '5'
-        title: (DRAFT) Wormtown Brewing Summer Ale
+        price: '6'
+        title: (DRAFT) Green State Lager
       - price: '7'
         title: '(Draft) Downeast Original Unfiltered Hard Cider '
       - description: '12 oz bottle '
