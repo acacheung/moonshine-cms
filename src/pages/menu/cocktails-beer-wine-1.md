@@ -91,9 +91,6 @@ subgroups:
         price: '5'
         title: Narragansett Fest Märzen Lager
       - description: '16 oz tallboy can '
-        price: '7'
-        title: 'Jack''s Abby "Copper Legend" Ocktoberfest '
-      - description: '16 oz tallboy can '
         price: '6'
         title: 'Good Measure Brewing "Early Riser" Cream Ale '
       - description: 12 oz bottle
