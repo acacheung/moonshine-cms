@@ -57,14 +57,14 @@ subgroups:
         title: '(Draft) Lord Hobo "Hobo Life" Session IPA '
       - description: ''
         price: '6'
-        title: (DRAFT) Green State Lager
+        title: (DRAFT) Zero Gravity Brewing Green State Lager
       - price: '7'
         title: '(Draft) Downeast Original Unfiltered Hard Cider '
       - description: '12 oz bottle '
         price: '6'
         title: 'Budweiser/ Bud Light '
       - description: 12oz bottle
-        price: '6'
+        price: '5'
         title: Michelob Ultra
       - description: '12 oz can '
         price: '5'
@@ -91,7 +91,7 @@ subgroups:
         price: '5'
         title: Narragansett Fest Märzen Lager
       - description: '16 oz tallboy can '
-        price: '6'
+        price: '5'
         title: 'Good Measure Brewing "Early Riser" Cream Ale '
       - description: 12 oz bottle
         price: '6'
@@ -100,13 +100,13 @@ subgroups:
         price: '6'
         title: 'Downeast Blackberry Cider '
       - description: '16 oz tallboy can '
-        price: '7'
+        price: '6'
         title: Stormalong "Mass Appeal" Hard Cider
       - description: '16oz tallboy can '
         price: '7'
         title: 'Allagash White '
       - description: '16oz tallboy can '
-        price: '7'
+        price: '6'
         title: Springdale "Pearly Whit" White Ale
       - description: '12 oz bottle '
         price: '7'
@@ -115,10 +115,10 @@ subgroups:
         price: '7'
         title: 'Castle Island Brewing "Keeper" New Age IPA '
       - description: '16 oz tallboy can '
-        price: '10'
+        price: '7'
         title: Vanished Valley Brewing  "Watershed" New England IPA
       - description: '16 oz tallboy can '
-        price: '10'
+        price: '9'
         title: 'Lord Hobo Boom Sauce Double IPA '
       - description: '16 oz nitro can '
         price: '7'
