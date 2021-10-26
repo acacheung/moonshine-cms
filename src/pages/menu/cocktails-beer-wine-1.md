@@ -162,9 +162,6 @@ subgroups:
       - description: 'Sonoma County, California USA '
         price: 13 / 50
         title: (Red) 2017 Storypoint Cabernet Sauvignon Select
-      - description: 'Puglia, Italy '
-        price: 12 gl  / 32 btl
-        title: '(Red) 2017 Cantele Primitivo Salento Primitivo (Zinfandel) '
     title: Wine List
   - description: ''
     items:
@@ -220,8 +217,8 @@ subgroups:
       - description: >-
           Dewar's "White Label"...9...Johnnie Walker Black...10...Laphroaig
           10...11...Dalmore Highland Single Malt 12 Yr ...12...Glenfiddich
-          12...12...Glenfiddich 14...13...Balvenie 12...13...MacAllen 12
-          Yr...13...Oban 14...14...Lagavulin 16...16...
+          12...12...Glenfiddich 14...13... MacAllen 12 Yr...13...Oban
+          14...14...Lagavulin 16...16...
         price: XXXXX
         title: 'Scotch '
     title: 'Spirit List '
