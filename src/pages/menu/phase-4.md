@@ -10,7 +10,7 @@ subgroups:
     items:
       - description: >-
           Slow Poached Bosc Pear stuffed with Cardamon Whipped Mascarpone
-          Cheese, Cinnamon & Honey Roasted Peanuts *gluten free 
+          Cheese, Cinnamon & Honey Roasted Peanuts *gluten-free 
         price: '11'
         title: 'Menu Addition: Mascarpone Stuffed Red Wine Poached Pear'
       - description: >-
