@@ -12,7 +12,7 @@ subgroups:
           Slow Poached Bosc Pears stuffed with Cardamon Whipped Mascarpone
           Cheese, Cinnamon & Honey Roasted Peanuts *gluten free 
         price: '11'
-        title: 'Menu Addition: Mascarpone Stuffed Red Wine Poached Pears'
+        title: 'Menu Addition: Mascarpone Stuffed Red Wine Poached Pear'
       - description: >-
           Maple Pumpkin Whoopie Pie with Cardamon Cream Cheese Filling & Maple
           Cranberries
