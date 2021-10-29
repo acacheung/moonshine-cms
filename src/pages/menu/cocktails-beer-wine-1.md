@@ -26,7 +26,7 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
-      - description: 'Mezcal, Aperol Apertif, Green Chartreuse, Lime '
+      - description: 'Mezcal, Aperol Aperitif, Yellow Chartreuse, Lime '
         price: '13'
         title: Naked & Famous
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
