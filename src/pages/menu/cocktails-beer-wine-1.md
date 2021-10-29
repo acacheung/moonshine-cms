@@ -9,40 +9,35 @@ subgroups:
       - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'House Manhattan '
+      - description: 'Rye Whiskey, Dark Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
+        price: '13'
+        title: Danish Modern
+      - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Lime'
+        price: '13'
+        title: 'Patron Saint of Southie '
       - description: >-
           Spicy Firepuncher Vodka, Fresh Cucumber Juice, Fresh Lemon,
           Elderflower
         price: '14'
         title: Farm to Glass
-      - description: 'Tennessee Whiskey, Peach Liqueur, White Cranberry, Lime'
-        price: '13'
-        title: Fay's fancy
-      - description: 'Rye Whiskey, Dark Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
-        price: '13'
-        title: Danish Modern
       - description: 'House Infused Spicy Tequilla, Ginger Liqueur, Fresh Lime, Agave '
         price: '13'
         title: There's Fire
-      - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
-        price: '14'
-        title: Moonshine 76
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
+      - description: 'Mezcal, Aperol Apertif, Green Chartreuse, Lime '
+        price: '13'
+        title: Naked & Famous
+      - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
+        price: '14'
+        title: Moonshine 76
       - description: 'Fig Infused Vodka, Amaretto, Brown Sugar-Fig Simple, Fresh Lemon '
         price: '13'
         title: Gettin' Figgy Wit It
-      - description: 'Coconut Water Infused Rum, Orange Vodka, Pineapple, Lime, Nutmeg'
-        price: '13'
-        title: (We Wish it was Summer) Painkiller
       - description: 'Red Wine, Fresh Citrus, Hibiscus, Ginger Liqueur, Brandy'
         price: '12'
         title: Sahil's Sangria
-      - description: >-
-          White Wine Blend, Ginger Infused Brandy, Apricot, Apple Cider, Fresh
-          Citrus, Ginger Beer 
-        price: '12'
-        title: Fall Ginger Apple White Sangria
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
@@ -146,10 +141,15 @@ subgroups:
         title: '(White) 2019 Seaglass Riesling '
       - description: 'Mendoza, Argentina'
         price: 11 / 42
-        title: 2021 Domaine Bousquet Chardonnay
+        title: 2021 (White)  Domaine Bousquet Chardonnay
       - description: 'Marlborough, New Zealand '
         price: 13 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
+      - description: ' A blend of Petite Sirah, Barbera, Tempranillo, Syrah, and Grenache barrel-aged in French oak barrels that showcases the best grapes of the Golden State for a rich, smooth mouthfeel full of blackberry, plum, licorice, pepper & spice'
+        price: '48'
+        title: >-
+          Bottle Special: (RED) Locations by David Phinney  “CA” Red Wine
+          Blend   
       - description: 'Monterey County, CA, USA '
         price: '13/ 50 '
         title: '(RED) 2018 Cloudfall Monterey County Pinot Noir '
