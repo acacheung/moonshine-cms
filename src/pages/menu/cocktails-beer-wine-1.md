@@ -88,9 +88,9 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '5'
         title: 'Good Measure Brewing "Early Riser" Cream Ale '
-      - description: 12 oz bottle
-        price: '5'
-        title: 'Magic Hat #9'
+      - description: '16oz tallboy can '
+        price: '8'
+        title: Exhibit A Brewing "All The Barry's" Kettle Sour Ale
       - description: '12 oz can '
         price: '6'
         title: 'Downeast Blackberry Cider '
