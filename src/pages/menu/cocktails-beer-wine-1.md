@@ -89,7 +89,7 @@ subgroups:
         price: '5'
         title: 'Good Measure Brewing "Early Riser" Cream Ale '
       - description: 12 oz bottle
-        price: '6'
+        price: '5'
         title: 'Magic Hat #9'
       - description: '12 oz can '
         price: '6'
