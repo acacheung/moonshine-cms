@@ -124,9 +124,9 @@ subgroups:
       - description: 'Veneto, Italy '
         price: 12 / 42
         title: '(Sparkling) NV LaMarca Prosecco '
-      - description: 'Burgundy, FR'
-        price: 14       (187ml mini bottle)
-        title: '(sparkling rose) NV Le Grand CourtÂge Brut Rose '
+      - description: 'Veneto, ITALY'
+        price: 13       (187ml mini bottle)
+        title: '(sparkling rose) NV Casa Vinicola Canella Rose Brut '
       - description: 'Columbia Valley, Washington, USA'
         price: 12/44
         title: (Rose) 2018 Charles & Charles Rose
