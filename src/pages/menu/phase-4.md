@@ -13,11 +13,6 @@ subgroups:
           Cheese, Cinnamon & Honey Roasted Peanuts *gluten-free 
         price: '11'
         title: 'Menu Addition: Mascarpone Stuffed Red Wine Poached Pear'
-      - description: >-
-          Maple Pumpkin Whoopie Pie with Cardamon Cream Cheese Filling & Maple
-          Cranberries
-        price: '11'
-        title: 'Menu Addition: Maple Pumpkin Whoopie Pie'
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
