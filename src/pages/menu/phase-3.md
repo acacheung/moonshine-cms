@@ -28,16 +28,11 @@ subgroups:
         price: '19'
         title: Grass-fed ’Shine Beef Burger**
       - description: >-
-          Served with Sea Monster Ink Risotto Arancini, Black as Night Garlic
-          Aioli, Monster (Meunster) Cheese & Pickled
-          Pumpkin.                                                                       
-          *Contains Shellfish and Dairy (**As always, can be made with our award
-          winning Mushroom Tofu patty! ) Served with House Shoestring French
-          Fries 
+          Topped with Turkey Sausage-Cornbread Stuffing, Melted Sharp Cheddar &
+          Cranberry Mayo.  (**As always, can be made with our award-winning
+          Mushroom Tofu patty! ) Served with House Shoestring French Fries 
         price: '23'
-        title: >-
-          October 2021 Burger of the Month: “The Trick or Treat” Halloween
-          Burger**
+        title: 'November 2021 Burger of the Month: “Thansgiving Burger**'
       - description: >-
           Pulled Braised Beef Shortrib, Brioche, Melted 3-Cheese Blend & Served
           with a cup of Spicy Tomato Soup **available vegetarian** Don't forget
