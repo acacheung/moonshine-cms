@@ -104,7 +104,7 @@ subgroups:
         price: '7'
         title: 'Stone IPA '
       - description: '16 oz tallboy can '
-        price: '7'
+        price: '6'
         title: 'Castle Island Brewing "Keeper" New Age IPA '
       - description: '16 oz tallboy can '
         price: '7'
