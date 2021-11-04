@@ -32,9 +32,6 @@ subgroups:
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '14'
         title: Moonshine 76
-      - description: 'Fig Infused Vodka, Amaretto, Brown Sugar-Fig Simple, Fresh Lemon '
-        price: '13'
-        title: Gettin' Figgy Wit It
       - description: 'Red Wine, Fresh Citrus, Hibiscus, Ginger Liqueur, Brandy'
         price: '12'
         title: Sahil's Sangria
