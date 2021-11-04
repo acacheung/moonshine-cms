@@ -143,7 +143,7 @@ subgroups:
         price: 13 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
       - description: ' A blend of Petite Sirah, Barbera, Tempranillo, Syrah, and Grenache barrel-aged in French oak barrels that showcases the best grapes of the Golden State for a rich, smooth mouthfeel full of blackberry, plum, licorice, pepper & spice'
-        price: '48'
+        price: '42'
         title: >-
           Bottle Special: (RED) Locations by David Phinney  “CA” Red Wine
           Blend   
