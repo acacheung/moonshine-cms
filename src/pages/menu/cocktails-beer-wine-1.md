@@ -29,6 +29,11 @@ subgroups:
       - description: 'Mezcal, Aperol Aperitif, Yellow Chartreuse, Lime '
         price: '13'
         title: Naked & Famous
+      - description: >-
+          Bosc Pear Infused Tennessee Moonshine, Pear Nectar, Vanilla Bean,
+          Cinnamon, Fresh Lemon 
+        price: '13'
+        title: who's the bosc
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '14'
         title: Moonshine 76
