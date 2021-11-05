@@ -9,8 +9,8 @@ subgroups:
       favorite protein or fixin’s!
     items:
       - description: >-
-          Korean Soft Tofu Stew (Sundubu Jjigae) with a Spicy Kimchi-Pork Broth,
-          Soft Tofu, Mushrooms, Sesame 
+          "Thai Style" Panang Pumpkin Curry with Pickled Pumpkin, Thai Chilies,
+          Chickpeas, Raisins & Toasted Coconut
         price: '12 regular / 19 grande '
         title: 'Chef''s whim Soup for the soul '
       - description: >
