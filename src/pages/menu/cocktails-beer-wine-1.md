@@ -113,7 +113,7 @@ subgroups:
         title: 'Castle Island Brewing "Keeper" New Age IPA '
       - description: '16 oz tallboy can '
         price: '7'
-        title: Vanished Valley Brewing  "Watershed" New England IPA
+        title: 'Evil Genius Brewing "Stacy''s Mom" Citra IPA '
       - description: '16 oz tallboy can '
         price: '9'
         title: 'Lord Hobo Boom Sauce Double IPA '
