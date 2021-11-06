@@ -13,13 +13,6 @@ subgroups:
           ...add candied bacon sea salt rim $1
         price: MKT
         title: 'Shine Bloody Mary / Bloody Maria '
-      - description: >
-          His favorite Lagavulin Scotch paired with our House Bloody Mary Mix,
-          infused with homemade kimchi juice 
-
-          ...add candied bacon sea salt rim $1
-        price: '16'
-        title: 'Ron Swanson Approved Lagavulin Bloody Mary '
       - description: 'Prosecco splashed with orange juice '
         price: '11'
         title: 'Classic Mimosa '
@@ -87,6 +80,9 @@ subgroups:
     title: To Get Ya Started!
   - description: ' (Entrees)'
     items:
+      - description: ' Thick-cut Beef Brisket wrapped in a Scallion Pancake topped with Pho Noodle Salad, Beansprouts & a Bacony Pho-Bone Broth      '
+        price: '27'
+        title: 'Menu Addition: Chef Asia''s Famous ''Shine PHO-RRITO'
       - description: 'Pan-seared shrimp, Spicy green chili cheese grits, Sherry pan sauce'
         price: '19'
         title: Shrimp & Grits**
