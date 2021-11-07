@@ -45,6 +45,9 @@ subgroups:
     title: 'Cheers To The Weekend! '
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
+      - description: 'Rhubarb-Berry Glaze & Whipped Cream '
+        price: '13'
+        title: 'Menu Addition: Warm Maple Pancake Bread'
       - description: 'Local honey, Fresh berries, Sunflower seed-oat crumble'
         price: 9 / 14
         title: 'Whipped Greek Yogurt Parfait '
