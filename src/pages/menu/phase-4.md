@@ -8,11 +8,6 @@ subgroups:
       Add one scoop of butterfinger ice cream to your favorite dessert $4 
       Add a Belgian waffle to your favorite dessert $7
     items:
-      - description: >-
-          Slow Poached Bosc Pear stuffed with Cardamon Whipped Mascarpone
-          Cheese, Cinnamon & Honey Roasted Peanuts *gluten-free 
-        price: '11'
-        title: 'Menu Addition: Mascarpone Stuffed Red Wine Poached Pear'
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
@@ -27,6 +22,9 @@ subgroups:
           Candied Bacon
         price: '15'
         title: Belgian Waffle Ice Cream Sundae
+      - description: 'Served with Rhubarb-Berry Glaze & Whipped Cream '
+        price: '13'
+        title: 'Menu Addition: warm maple pancake bread'
     title: Sweet Tooth
 ---
 
