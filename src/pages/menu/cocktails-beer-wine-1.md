@@ -170,9 +170,10 @@ subgroups:
       - description: >-
           Reyka...9...Tito's...10...Ketel One...10...Grey Goose...10...Grand Ten
           Firepuncher...10...Grand Ten Firepuncher Black 10...Żubrówka Bison
-          Grass ...9...Van Gogh Double Espresso...9Van Gogh Vanilla...9....New
-          Amsterdam Raspberry..9...New Amsterdam Orange...9...New Amsterdam
-          Citron...9...888 Blueberry...9...888 Cranberry...9...
+          Grass ...9...Van Gogh Double Espresso...9...Van Gogh
+          Vanilla...9....New Amsterdam Raspberry..9...New Amsterdam
+          Orange...9...New Amsterdam Citron...9...888 Blueberry...9...888
+          Cranberry...9...
         price: xxxxx
         title: 'Vodka '
       - description: >-
