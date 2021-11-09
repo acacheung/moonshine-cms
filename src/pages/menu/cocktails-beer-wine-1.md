@@ -85,7 +85,7 @@ subgroups:
         price: '5'
         title: Narragansett Lager
       - description: '16 oz tallboy can '
-        price: '5'
+        price: '4'
         title: Narragansett Fest Märzen Lager
       - description: '16 oz tallboy can '
         price: '5'
@@ -199,13 +199,13 @@ subgroups:
         title: 'Rum, Brandy & Cognac '
       - description: >-
           Four Roses Bourbon...9...Mitcher's Bourbon...9...Maker's Mark
-          Bourbon...10...Mad River Bourbon...10...Basil Hayden's
-          Bourbon...12....Uncle Nearest 1884 Small Batch Whiskey...11...Uncle
-          Nearest 1856 Whiskey...13...Jack Daniels Whiskey...9...Old Overholt
-          Rye...8...Rittenhouse Rye...9...Mitcher's Single Barrel Rye...9...Mad
-          River Revolution Rye...10...Boston Harbor Distillery Putnam
-          Rye...11....High West Doubel Rye...12...Boston Harbor Distillery
-          Putnam Single Malt Whiskey...13...Old Smokey Tennessee White Whiskey
+          Bourbon...10...Mad River Bourbon...10....12....Uncle Nearest 1884
+          Small Batch Whiskey...11...Uncle Nearest 1856 Whiskey...13...Jack
+          Daniels Whiskey...9...Old Overholt Rye...8...Rittenhouse
+          Rye...9...Mitcher's Single Barrel Rye...9...Mad River Revolution
+          Rye...10...Boston Harbor Distillery Putnam Rye...11....High West
+          Double Rye...12...Boston Harbor Distillery Putnam Single Malt
+          Whiskey...13...Old Smokey Tennessee White Whiskey
           Moonshine...9...Screwball Peanut Butter Whiskey...9...Misunderstood
           Ginger Infused Whiskey...9...
         price: xxxxx
@@ -219,8 +219,7 @@ subgroups:
       - description: >-
           Dewar's "White Label"...9...Johnnie Walker Black...10...Laphroaig
           10...11...Dalmore Highland Single Malt 12 Yr ...12...Glenfiddich
-          12...12...Glenfiddich 14...13... MacAllen 12 Yr...13...Oban
-          14...14...Lagavulin 16...16...
+          12...12...Glenfiddich 14...13... MacAllen 12 Yr...13...Oban 14...14...
         price: XXXXX
         title: 'Scotch '
     title: 'Spirit List '
