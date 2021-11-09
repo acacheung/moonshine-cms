@@ -184,10 +184,10 @@ subgroups:
         title: Gin
       - description: >-
           Tres Agaves Blanco...9...Tres Agaves Reposado...10...Tres Agaves
-          Anejo...11...Espolon Blanco...9...House Infused Spicy
-          Tequila...9...Don Julio Blanco...11...Don Julio Reposado...12...Don
-          Julio Anejo...13...Xicaru Silver Mezcal...9...Del Maguey Vida
-          Mezcal...10...
+          Anejo...11...Espolon Blanco...9...Espolon Reposado...10...House
+          Infused Spicy Tequila...9...Don Julio Blanco...11...Don Julio
+          Reposado...12...Don Julio Anejo...13...Xicaru Silver Mezcal...9...Del
+          Maguey Vida Mezcal...10...
         price: xxxxx
         title: 'Tequila & Mezcal '
       - description: >-
