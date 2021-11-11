@@ -83,9 +83,6 @@ subgroups:
     title: To Get Ya Started!
   - description: ' (Entrees)'
     items:
-      - description: ' Thick-cut Beef Brisket wrapped in a Scallion Pancake topped with Pho Noodle Salad, Beansprouts & a Bacony Pho-Bone Broth      '
-        price: '27'
-        title: 'Menu Addition: Chef Asia''s Famous ''Shine PHO-RRITO'
       - description: 'Pan-seared shrimp, Spicy green chili cheese grits, Sherry pan sauce'
         price: '19'
         title: Shrimp & Grits**
