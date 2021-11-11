@@ -32,7 +32,7 @@ subgroups:
           Cranberry Mayo.  (**As always, can be made with our award-winning
           Mushroom Tofu patty! ) Served with House Shoestring French Fries 
         price: '23'
-        title: 'November 2021 Burger of the Month: “Thansgiving Burger**'
+        title: 'November 2021 Burger of the Month: “Thanksgiving Burger**'
       - description: >-
           Pulled Braised Beef Shortrib, Brioche, Melted 3-Cheese Blend & Served
           with a cup of Spicy Tomato Soup **available vegetarian** Don't forget
