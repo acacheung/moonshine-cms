@@ -158,8 +158,8 @@ subgroups:
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >-
-          Korean Soft Tofu Stew (Sundubu Jjigae) with a Spicy Kimchi-Pork Broth,
-          Soft Tofu, Mushrooms, Sesame 
+          "Thai Style" Panang Pumpkin Curry with Pickled Pumpkin, Thai Chilies,
+          Chickpeas, Raisins & Toasted Coconut
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >
