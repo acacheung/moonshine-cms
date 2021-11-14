@@ -78,9 +78,6 @@ subgroups:
       - description: 12 oz Bottle
         price: '6'
         title: Sapporo Premium Lager
-      - description: '12 oz bottle '
-        price: '6'
-        title: Kona Brewing Big Wave Golden Ale
       - description: 16 oz Tallboy Can
         price: '5'
         title: Narragansett Lager
@@ -108,9 +105,6 @@ subgroups:
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
-      - description: '16 oz tallboy can '
-        price: '5'
-        title: 'Castle Island Brewing "Keeper" New Age IPA '
       - description: '16 oz tallboy can '
         price: '7'
         title: 'Evil Genius Brewing "Stacy''s Mom" Citra IPA '
