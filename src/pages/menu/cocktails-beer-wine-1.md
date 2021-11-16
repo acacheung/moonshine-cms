@@ -78,6 +78,9 @@ subgroups:
       - description: 12 oz Bottle
         price: '6'
         title: Sapporo Premium Lager
+      - description: '16oz tallboy can '
+        price: '6'
+        title: Castle Island Lager
       - description: 16 oz Tallboy Can
         price: '5'
         title: Narragansett Lager
@@ -94,8 +97,11 @@ subgroups:
         price: '6'
         title: 'Downeast Blackberry Cider '
       - description: '16 oz tallboy can '
-        price: '6'
+        price: '7'
         title: Stormalong "Mass Appeal" Hard Cider
+      - description: '12 oz bottle '
+        price: '6'
+        title: Cisco Brewing "grey Lady" Wheat Ale
       - description: '16oz tallboy can '
         price: '5'
         title: Springdale "Pearly Whit" White Ale
