@@ -6,6 +6,11 @@ order: 1
 subgroups:
   - description: ''
     items:
+      - description: >-
+          Mulled Spiced Wine: Red Wine Blend, Peter’s Secret Spices (Cinnamon,
+          Clove, Juniper, Allspice, Fresh Ginger), Orange & Lemon Zest 
+        price: '12'
+        title: Peter's Rotating Hot Cocktail
       - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'House Manhattan '
@@ -78,9 +83,6 @@ subgroups:
       - description: 12 oz Bottle
         price: '6'
         title: Sapporo Premium Lager
-      - description: '16oz tallboy can '
-        price: '6'
-        title: Castle Island Lager
       - description: 16 oz Tallboy Can
         price: '5'
         title: Narragansett Lager
@@ -97,11 +99,8 @@ subgroups:
         price: '6'
         title: 'Downeast Blackberry Cider '
       - description: '16 oz tallboy can '
-        price: '7'
-        title: Stormalong "Mass Appeal" Hard Cider
-      - description: '12 oz bottle '
         price: '6'
-        title: Cisco Brewing "grey Lady" Wheat Ale
+        title: Stormalong "Mass Appeal" Hard Cider
       - description: '16oz tallboy can '
         price: '5'
         title: Springdale "Pearly Whit" White Ale
