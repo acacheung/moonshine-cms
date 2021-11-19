@@ -146,11 +146,14 @@ subgroups:
       - description: 'Marlborough, New Zealand '
         price: 13 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
-      - description: ' A blend of Petite Sirah, Barbera, Tempranillo, Syrah, and Grenache barrel-aged in French oak barrels that showcases the best grapes of the Golden State for a rich, smooth mouthfeel full of blackberry, plum, licorice, pepper & spice'
-        price: '42'
+      - description: >
+          Complex, layered and elegant with subtle vanilla and discreet earthy
+          notes with tart cherry/plum, bittersweet chocolate, and
+          well-integrated oak spice flavors
+        price: '38'
         title: >-
-          Bottle Special: (RED) Locations by David Phinney  “CA” Red Wine
-          Blend   
+          Bottle Special: (RED) 2018 Barnard Griffin Syrah (Columbia Valley, WA
+          USA) 
       - description: 'Monterey County, CA, USA '
         price: '13/ 50 '
         title: '(RED) 2018 Cloudfall Monterey County Pinot Noir '
