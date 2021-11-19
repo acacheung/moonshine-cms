@@ -22,9 +22,6 @@ subgroups:
           Candied Bacon
         price: '15'
         title: Belgian Waffle Ice Cream Sundae
-      - description: 'Served with Rhubarb-Berry Glaze & Whipped Cream '
-        price: '13'
-        title: 'Menu Addition: warm maple pancake bread'
     title: Sweet Tooth
 ---
 
