@@ -114,8 +114,8 @@ subgroups:
         price: '7'
         title: 'Evil Genius Brewing "Stacy''s Mom" Citra IPA '
       - description: '16 oz tallboy can '
-        price: '9'
-        title: 'Lord Hobo Boom Sauce Double IPA '
+        price: '7'
+        title: Boulevard Tank 7 Saison
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
