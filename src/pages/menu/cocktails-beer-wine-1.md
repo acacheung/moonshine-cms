@@ -244,7 +244,7 @@ subgroups:
           Unique Beverage Just For You.
         price: '5'
         title: House Mocktails
-      - description: 'Coca-Cola, Diet Coke, Sprite, Ginger Ale '
+      - description: 'Coca-Cola, Diet Coke, Sprite, Ginger Ale, Root Beer'
         price: '3'
         title: Sodas
       - price: '4'
