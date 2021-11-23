@@ -45,7 +45,9 @@ subgroups:
     title: 'Cheers To The Weekend! '
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
-      - description: 'Local honey, Fresh berries, Sunflower seed-oat crumble'
+      - description: >-
+          Local honey, Fresh berries, Sunflower seed-oat crumble **add a belgian
+          waffle $7**
         price: 9 / 14
         title: 'Whipped Greek Yogurt Parfait '
       - description: 'Japanese ginger-sesame carrot vinaigrette, Roasted kale '
