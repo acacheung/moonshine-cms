@@ -36,7 +36,7 @@ subgroups:
       - description: 'Apple, Orange, Grapefruit, Cranberry, Pineapple '
         price: '5'
         title: 'Juices '
-      - description: 'Coca-Cola, Diet Coke, Sprite, Ginger Ale'
+      - description: 'Coca-Cola, Diet Coke, Sprite, Ginger Ale, Root Beer'
         price: '4'
         title: Soda
       - description: 'Premium Ginger Beer or Yuzu Lime '
