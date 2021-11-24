@@ -8,9 +8,7 @@ subgroups:
       All portions available regular or “Go Grande”. Don’t forget to add your
       favorite protein or fixin’s!
     items:
-      - description: >-
-          "Thai Style" Panang Pumpkin Curry with Pickled Pumpkin, Thai Chilies,
-          Chickpeas, Raisins & Toasted Coconut
+      - description: Carrot-Ginger Soup
         price: '12 regular / 19 grande '
         title: 'Chef''s whim Soup for the soul '
       - description: >
