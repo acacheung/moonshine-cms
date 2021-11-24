@@ -35,22 +35,6 @@ subgroups:
           Chickpea Papadums
         price: 14 regular / 23 grande
         title: '''Shine Famous Caramelized Onion-Roasted Beet Dip'
-      - description: >-
-          House Shoestring French Fries Smothered in Thai Style Panang Pumpkin
-          Curry with Thai Chilies, Chickpeas, Pickled Pumpkin, Raisins & Toasted
-          Coconut 
-        price: '19'
-        title: 'Menu Addition: Panang Curry Fries '
-      - description: >-
-          Crispy Tater Tots  Smothered in Thai Style Panang Pumpkin Curry with
-          Thai Chilies, Chickpeas, Pickled Pumpkin, Raisins & Toasted Coconut 
-        price: '19'
-        title: 'Menu Addition: Panang Curry Tots'
-      - description: >-
-          White Rice  Smothered in Thai Style Panang Pumpkin Curry with Thai
-          Chilies, Chickpeas, Pickled Pumpkin, Raisins & Toasted Coconut 
-        price: '17'
-        title: 'Menu Addition: Panang Curry Rice'
     title: To Get Ya Started
 ---
 
