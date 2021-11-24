@@ -39,6 +39,11 @@ subgroups:
           Cinnamon, Fresh Lemon 
         price: '13'
         title: who's the bosc
+      - description: >-
+          Fig Infused Vodka, Vanilla-Brown Sugar Simple, Fresh Lemon, Ginger
+          Beer 
+        price: '13'
+        title: Go Fig or Go Home
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '14'
         title: Moonshine 76
