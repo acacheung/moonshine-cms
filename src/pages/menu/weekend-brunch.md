@@ -156,9 +156,7 @@ subgroups:
     title: All the sides & Fixin's
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
-      - description: >-
-          "Thai Style" Panang Pumpkin Curry with Pickled Pumpkin, Thai Chilies,
-          Chickpeas, Raisins & Toasted Coconut
+      - description: Carrot-Ginger Soup
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >
