@@ -107,12 +107,15 @@ subgroups:
       - description: '16oz tallboy can '
         price: '7'
         title: 'Allagash White '
+      - description: '16 oz tallboy can '
+        price: '7'
+        title: Boulevard Tank 7 Saison
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
       - description: '16 oz tallboy can '
-        price: '7'
-        title: Boulevard Tank 7 Saison
+        price: '8'
+        title: Exhibit A Brewing Briefcase Porter
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
