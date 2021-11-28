@@ -35,9 +35,9 @@ subgroups:
         title: 'November 2021 Burger of the Month: “Thanksgiving Burger**'
       - description: >-
           Pulled Braised Beef Shortrib, Brioche, Melted 3-Cheese Blend & Served
-          with a cup of Spicy Tomato Soup **available vegetarian** Don't forget
-          to add on your favorite like Jalapeno Bacon $4, a Fried Egg**$2 or a
-          side of Shoestring French Fries $7
+          with a cup of Spicy Tomato Soup **available vegetarian for $21** Don't
+          forget to add on your favorite like Jalapeno Bacon $4, a Fried Egg**$2
+          or a side of Shoestring French Fries $7
         price: '27'
         title: Texas Toast Shortrib Grilled Cheese Sandwich
       - description: >-
