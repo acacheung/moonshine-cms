@@ -35,10 +35,10 @@ subgroups:
         price: '13'
         title: Naked & Famous
       - description: >-
-          Bosc Pear Infused Tennessee Moonshine, Pear Nectar, Vanilla Bean,
-          Cinnamon, Fresh Lemon 
+          White Wine Blend, Orange Infused Dark Rum, Cranberry, Apple, Fresh
+          Citrus, Cinnamon-Chamomile Simple 
         price: '13'
-        title: who's the bosc
+        title: Cranberry Orange White Sangria
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '14'
         title: Moonshine 76
