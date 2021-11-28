@@ -22,6 +22,9 @@ subgroups:
           Candied Bacon
         price: '15'
         title: Belgian Waffle Ice Cream Sundae
+      - description: 'Sweet Cinnamon-Egg Custard, Caramel Sauce, Local Noodles'
+        price: '12'
+        title: 'Menu Addition: Chanukkah Inspired Noodle Kugel'
     title: Sweet Tooth
 ---
 
