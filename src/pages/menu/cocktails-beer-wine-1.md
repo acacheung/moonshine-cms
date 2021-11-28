@@ -101,15 +101,18 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '6'
         title: Stormalong "Mass Appeal" Hard Cider
+      - description: '16 oz tallboy can '
+        price: '7'
+        title: Boulevard Brewing "Tank 7" Farmhouse Saison
+      - description: '12 oz bottle '
+        price: '6'
+        title: Cisco brewing "grey lady" wheat ale
       - description: '16oz tallboy can '
         price: '5'
         title: Springdale "Pearly Whit" White Ale
       - description: '16oz tallboy can '
         price: '7'
         title: 'Allagash White '
-      - description: '16 oz tallboy can '
-        price: '7'
-        title: Boulevard Tank 7 Saison
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
