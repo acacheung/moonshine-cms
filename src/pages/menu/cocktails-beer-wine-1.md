@@ -6,11 +6,6 @@ order: 1
 subgroups:
   - description: ''
     items:
-      - description: >-
-          Mulled Spiced Wine: Red Wine Blend, Peter’s Secret Spices (Cinnamon,
-          Clove, Juniper, Allspice, Fresh Ginger), Orange & Lemon Zest 
-        price: '12'
-        title: Peter's Rotating Hot Cocktail
       - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'House Manhattan '
