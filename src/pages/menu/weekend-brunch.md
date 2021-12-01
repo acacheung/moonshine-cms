@@ -156,7 +156,7 @@ subgroups:
     title: All the sides & Fixin's
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
-      - description: Carrot-Ginger Soup
+      - description: 'Roasted Carrot-Ginger Bisque '
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >
@@ -192,10 +192,11 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          November 2021 Burger of the Month: "Thanksgiving Burger" - Topped with
-          Turkey Sausage-Cornbread Stuffing Melted Sharp Cheffar & Cranberry
-          Mayo. (**As always, can be made with our award-winning Mushroom Tofu
-          patty! ) Served with House Shoestring French Fries 
+          December 2020: “Elvis’ Last Hurrah" - The Anti-New Years’ Resolution
+          Burger........The King’s Favorite Combo served with Peanut Butter
+          Sauce, Fresh Sliced Bananas, Candied Bacon Bits & Tempura Crisps 
+          (**As always, can be made with our award-winning Mushroom Tofu patty!
+          ) Served with House Shoestring French Fries 
         price: '23'
         title: 'Make Your Burger a VIP Burger of the Month '
     title: All-Day / All-Night Allstars
