@@ -28,11 +28,12 @@ subgroups:
         price: '19'
         title: Grass-fed ’Shine Beef Burger**
       - description: >-
-          Topped with Turkey Sausage-Cornbread Stuffing, Melted Sharp Cheddar &
-          Cranberry Mayo.  (**As always, can be made with our award-winning
-          Mushroom Tofu patty! ) Served with House Shoestring French Fries 
+          The King’s Favorite Combo…..Served with Peanut Butter Sauce, Fresh
+          Sliced Bananas, Candied Bacon Bits & Tempura Crisps    
         price: '23'
-        title: 'November 2021 Burger of the Month: “Thanksgiving Burger**'
+        title: >-
+          December 2020 “Elvis’ Last Hurrah"- The Anti-New Years’ Resolution
+          Burger
       - description: >-
           Pulled Braised Beef Shortrib, Brioche, Melted 3-Cheese Blend & Served
           with a cup of Spicy Tomato Soup **available vegetarian for $21** Don't
