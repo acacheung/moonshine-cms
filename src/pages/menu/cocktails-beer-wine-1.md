@@ -82,9 +82,6 @@ subgroups:
         price: '5'
         title: Narragansett Lager
       - description: '16 oz tallboy can '
-        price: '4'
-        title: Narragansett Fest Märzen Lager
-      - description: '16 oz tallboy can '
         price: '5'
         title: 'Good Measure Brewing "Early Riser" Cream Ale '
       - description: '16oz tallboy can '
@@ -102,9 +99,6 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: Cisco brewing "grey lady" wheat ale
-      - description: '16oz tallboy can '
-        price: '5'
-        title: Springdale "Pearly Whit" White Ale
       - description: '16oz tallboy can '
         price: '7'
         title: 'Allagash White '
