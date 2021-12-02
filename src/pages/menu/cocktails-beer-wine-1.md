@@ -137,10 +137,10 @@ subgroups:
         title: (White) 2019 Zenato Pinot Grigio della Venezie
       - description: 'Central Coast, CA, USA '
         price: 11 / 40
-        title: '(White) 2019 Seaglass Riesling '
-      - description: 'Mendoza, Argentina'
+        title: '(White) 2019 SeaGlass Wine Co. Riesling '
+      - description: 'Napa Valley, CA, USA '
         price: 11 / 42
-        title: 2021 (White)  Domaine Bousquet Chardonnay
+        title: 2019 (White)  Grayson Cellars Chardonnay
       - description: 'Marlborough, New Zealand '
         price: 13 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
@@ -177,9 +177,9 @@ subgroups:
         price: xxxxx
         title: 'Vodka '
       - description: >-
-          New Amsterdam...8...Bombay
-          Sapphire...9...Tanqueray...9...Hendrick's...9..GrandTen Wire Works
-          Gin...9....Glendalough Wild Botanical...10...
+          Gin Lane London Dry...8...Bombay Sapphire...9...
+          Tanqueray...9...Hendrick's...9..GrandTen Wire Works Gin...9....
+          Glendalough Wild Botanical...10...
         price: xxxxx
         title: Gin
       - description: >-
