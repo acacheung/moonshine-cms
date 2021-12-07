@@ -112,7 +112,7 @@ subgroups:
         price: '9'
         title: Clownshoes Brewing " Galactica" West-Coast Style IPA
       - description: '12 oz bottle '
-        price: '6'
+        price: '5'
         title: 'Newcastle Brown Ale '
       - description: '16 oz tallboy can '
         price: '8'
