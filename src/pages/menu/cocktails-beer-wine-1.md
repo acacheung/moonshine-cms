@@ -33,6 +33,11 @@ subgroups:
         price: '14'
         title: Moonshine 76
       - description: >-
+          Fig Infused Vodka, Vanilla-Brown Sugar Simple. Ginger Beer, Fresh
+          Citrus 
+        price: '13'
+        title: Go Fig or Go Home
+      - description: >-
           White Wine Blend, Orange Infused Dark Rum, Cranberry, Apple, Fresh
           Citrus, Cinnamon-Chamomile Simple 
         price: '13'
