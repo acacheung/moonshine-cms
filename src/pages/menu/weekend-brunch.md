@@ -156,7 +156,9 @@ subgroups:
     title: All the sides & Fixin's
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
-      - description: 'Roasted Carrot-Ginger Bisque '
+      - description: >-
+          Creamy Hungarian Mushroom Bisque with Wild Mushrooms,  Fresh Cream,
+          Thyme, Paprika 
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >
