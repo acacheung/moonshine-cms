@@ -7,11 +7,6 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
-          Mexican-Style Stuffed Beef & Cheese Tamales served with Braised
-          Shortrib Jus, Red Cabbage Salsa Fresca, Sour Cream 
-        price: 17 / 28
-        title: 'Menu addition: Birria Tamales'
-      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
