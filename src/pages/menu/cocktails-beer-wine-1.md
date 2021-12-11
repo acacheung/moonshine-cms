@@ -26,17 +26,17 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
+      - description: >-
+          Vanilla-Pear Infused Tenessee Moonshine, Pear Nectar, Cinnamon Simple,
+          Fresh Lemon 
+        price: '13'
+        title: Who's The Bosc
       - description: 'Mezcal, Aperol Aperitif, Yellow Chartreuse, Lime '
         price: '13'
         title: Naked & Famous
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '14'
         title: Moonshine 76
-      - description: >-
-          Fig Infused Vodka, Vanilla-Brown Sugar Simple. Ginger Beer, Fresh
-          Citrus 
-        price: '13'
-        title: Go Fig or Go Home
       - description: >-
           White Wine Blend, Orange Infused Dark Rum, Cranberry, Apple, Fresh
           Citrus, Cinnamon-Chamomile Simple 
