@@ -53,8 +53,8 @@ subgroups:
       - price: '7'
         title: '(Draft) Lord Hobo "Hobo Life" Session IPA '
       - description: ''
-        price: '6'
-        title: (DRAFT) Zero Gravity Brewing Green State Lager
+        price: '7'
+        title: (DRAFT) Downiest Original Unfiltered Cider
       - price: '7'
         title: (Draft) Harpoon UFO White
       - description: '12 oz bottle '
