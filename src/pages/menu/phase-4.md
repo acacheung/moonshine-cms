@@ -22,9 +22,6 @@ subgroups:
           Candied Bacon
         price: '15'
         title: Belgian Waffle Ice Cream Sundae
-      - description: Whipped Cream Cheese Topping & Shaved White Chocolate
-        price: '13'
-        title: Warm Red Velvet Bread Pudding
     title: Sweet Tooth
 ---
 
