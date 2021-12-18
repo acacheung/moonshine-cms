@@ -7,17 +7,6 @@ subgroups:
   - description: Don’t forget to add your favorite fixin’s or sides!
     items:
       - description: >-
-          Brown Butter braised Rabbit, Toasted Cheese Ravioli, Roasted Local
-          Squash, Candied Spiced Hazelnuts, Aged Balsamic 
-        price: '29'
-        title: Brown Butter braised Rabbit pasta
-      - description: >-
-          Cajun grilled fish of the day, fried pickled green tomatoes,
-          srirachi-shrimp uni butter, sauteed tomatoes... add a side of white
-          rice 5 
-        price: Mkt
-        title: Cajun Grilled Fish of the Day**
-      - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
         price: '19'
@@ -55,6 +44,17 @@ subgroups:
         title: >-
           Ron Swanson Brunch-Inspired Chipotle Pulled Pork Scallion Pancake
           Quesadilla**
+      - description: >-
+          Cajun grilled fish of the day, fried pickled green tomatoes,
+          srirachi-shrimp uni butter, sauteed tomatoes... add a side of white
+          rice 5 
+        price: Mkt
+        title: Cajun Grilled Fish of the Day**
+      - description: >-
+          Brown Butter braised Rabbit, Campanelle Pasta, Roasted Local Squash,
+          Candied Spiced Hazelnuts, Aged Balsamic 
+        price: '29'
+        title: Brown Butter braised Rabbit pasta
       - description: >-
           Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
