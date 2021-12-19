@@ -49,6 +49,11 @@ subgroups:
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
       - description: >-
+          Japanese Style with Broiled Tobiko, Scallion Wonton Chips & Toasted
+          Potato Pancakes
+        price: '18'
+        title: 'Menu Addition: Warm Crab & Spinach Dip '
+      - description: >-
           Local honey, Fresh berries, Sunflower seed-oat crumble **add a belgian
           waffle $7**
         price: 9 / 14
