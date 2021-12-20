@@ -96,9 +96,6 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '6'
         title: Stormalong "Mass Appeal" Hard Cider
-      - description: '16 oz tallboy can '
-        price: '7'
-        title: Boulevard Brewing "Tank 7" Farmhouse Saison
       - description: '12 oz bottle '
         price: '6'
         title: Cisco brewing "grey lady" wheat ale
