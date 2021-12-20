@@ -144,14 +144,6 @@ subgroups:
       - description: 'Marlborough, New Zealand '
         price: 13 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
-      - description: >
-          Complex, layered and elegant with subtle vanilla and discreet earthy
-          notes with tart cherry/plum, bittersweet chocolate, and
-          well-integrated oak spice flavors
-        price: '38'
-        title: >-
-          Bottle Special: (RED) 2018 Barnard Griffin Syrah (Columbia Valley, WA
-          USA) 
       - description: 'Monterey County, CA, USA '
         price: '13/ 50 '
         title: '(RED) 2018 Cloudfall Monterey County Pinot Noir '
