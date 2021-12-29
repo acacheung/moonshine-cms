@@ -7,11 +7,6 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
-          Japanese Style with Broiled Tobiko, Scallion Wonton Chips & Toasted
-          Potato Pancakes
-        price: '18'
-        title: ' Menu Addition: Warm Crab and Spinach Dip'
-      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
