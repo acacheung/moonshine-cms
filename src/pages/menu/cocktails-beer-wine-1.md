@@ -12,9 +12,6 @@ subgroups:
       - description: 'Rye Whiskey, Dark Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
         price: '13'
         title: Danish Modern
-      - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Lime'
-        price: '13'
-        title: 'Patron Saint of Southie '
       - description: >-
           Spicy Firepuncher Vodka, Fresh Cucumber Juice, Fresh Lemon,
           Elderflower
