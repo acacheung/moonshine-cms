@@ -6,6 +6,9 @@ order: 3
 subgroups:
   - description: All portions available regular or “Go Grande”
     items:
+      - description: 'Homemade Cornbread, Cranberry Mayo'
+        price: 15 regular / 26 grande
+        title: 'menu addition: holiday cornbread stuffing'' Muffins '
       - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
