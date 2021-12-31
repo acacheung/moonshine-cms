@@ -6,6 +6,11 @@ order: 1
 subgroups:
   - description: ''
     items:
+      - description: >-
+          Warm Mulled Red Wine Blend, Peter's Secret Spice Blend (Ginger,
+          Cloves, Cinnamon, Allspice, Juniper), Honey, Fresh Citrus Peels 
+        price: '12'
+        title: Peter's Warm Mulled Wine
       - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'House Manhattan '
