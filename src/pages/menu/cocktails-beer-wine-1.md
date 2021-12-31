@@ -12,6 +12,9 @@ subgroups:
       - description: 'Rye Whiskey, Dark Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
         price: '13'
         title: Danish Modern
+      - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime '
+        price: '13'
+        title: PATRON SAINT OF SOUTHIE
       - description: >-
           Spicy Firepuncher Vodka, Fresh Cucumber Juice, Fresh Lemon,
           Elderflower
@@ -23,17 +26,17 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
-      - description: >-
-          Vanilla-Pear Infused Tenessee Moonshine, Pear Nectar, Cinnamon Simple,
-          Fresh Lemon 
-        price: '13'
-        title: Who's The Bosc
       - description: 'Mezcal, Aperol Aperitif, Yellow Chartreuse, Lime '
         price: '13'
         title: Naked & Famous
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '14'
         title: Moonshine 76
+      - description: >-
+          Vanilla-Pear Infused Tenessee Moonshine, Pear Nectar, Cinnamon Simple,
+          Fresh Lemon 
+        price: '13'
+        title: Who's The Bosc
       - description: 'White Wine, Orange Infused Brandy, Cranberry, Fresh Citrus '
         price: '12'
         title: 'Winter White Sangria '
@@ -104,7 +107,7 @@ subgroups:
         title: 'Stone IPA '
       - description: '16oz tallboy can '
         price: '9'
-        title: Clownshoes Brewing " Galactica" West-Coast Style IPA
+        title: 'Medusa Brewing " Light Runner" Hazy IPA '
       - description: '12 oz bottle '
         price: '5'
         title: 'Newcastle Brown Ale '
