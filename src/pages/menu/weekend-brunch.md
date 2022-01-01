@@ -211,11 +211,11 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          December 2020: “Elvis’ Last Hurrah" - The Anti-New Years’ Resolution
-          Burger........The King’s Favorite Combo served with Peanut Butter
-          Sauce, Fresh Sliced Bananas, Candied Bacon Bits & Tempura Crisps 
-          (**As always, can be made with our award-winning Mushroom Tofu patty!
-          ) Served with House Shoestring French Fries 
+          January 2022: "Classic Wedge Salad" The 2022 Resolution Burger topped
+          with Thick-cut Iceberg Lettuce, House Poblano Ranch, Honey Mustard,
+          Candied Bacon Bits & Crumbled Blue Cheese (**As always, can be made
+          with our award-winning Mushroom Tofu patty! ) Served with House
+          Shoestring French Fries 
         price: '23'
         title: 'Make Your Burger a VIP Burger of the Month '
     title: All-Day / All-Night Allstars
