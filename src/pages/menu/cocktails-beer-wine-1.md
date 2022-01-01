@@ -83,6 +83,9 @@ subgroups:
       - description: 12 oz Bottle
         price: '6'
         title: Sapporo Premium Lager
+      - description: '12 oz bottle '
+        price: '6'
+        title: Kona Brewing "Big Wave" Golden Ale
       - description: 16 oz Tallboy Can
         price: '5'
         title: Narragansett Lager
