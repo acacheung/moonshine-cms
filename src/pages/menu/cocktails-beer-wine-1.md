@@ -117,7 +117,7 @@ subgroups:
         price: '5'
         title: 'Newcastle Brown Ale '
       - description: '16 oz tallboy can '
-        price: '7'
+        price: '6'
         title: Exhibit A Brewing Briefcase Porter
       - description: '16 oz nitro can '
         price: '7'
