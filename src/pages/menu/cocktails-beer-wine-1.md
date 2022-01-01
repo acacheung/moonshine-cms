@@ -93,7 +93,7 @@ subgroups:
         price: '5'
         title: 'Good Measure Brewing "Early Riser" Cream Ale '
       - description: '16oz tallboy can '
-        price: '6'
+        price: '5'
         title: Exhibit A Brewing "All The Barry's" Kettle Sour Ale
       - description: '12 oz can '
         price: '6'
