@@ -125,6 +125,12 @@ subgroups:
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
+      - description: |
+          Vibrant, bright, and approachable with
+           notes of citrus, orange blossom & green apple
+           with a refreshing zest of acidity.
+        price: '40'
+        title: bottle special (SParkling) J Vineyards California Cuvée Brut
       - description: 'Veneto, Italy '
         price: 12 / 42
         title: '(Sparkling) NV LaMarca Prosecco '
