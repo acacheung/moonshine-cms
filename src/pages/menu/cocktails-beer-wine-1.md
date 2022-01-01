@@ -42,9 +42,6 @@ subgroups:
           Fresh Lemon 
         price: '13'
         title: Who's The Bosc
-      - description: 'White Wine, Orange Infused Brandy, Cranberry, Fresh Citrus '
-        price: '12'
-        title: 'Winter White Sangria '
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
