@@ -17,12 +17,13 @@ subgroups:
         price: '19'
         title: Grass-fed ’Shine Beef Burger**
       - description: >-
-          The King’s Favorite Combo…..Served with Peanut Butter Sauce, Fresh
-          Sliced Bananas, Candied Bacon Bits & Tempura Crisps    
+          January 2022: "Classic Wedge Salad" The 2022 Resolution Burger topped
+          with Thick-cut Iceberg Lettuce, House Poblano Ranch, Honey Mustard,
+          Candied Bacon Bits & Crumbled Blue Cheese (**As always, can be made
+          with our award-winning Mushroom Tofu patty! ) Served with House
+          Shoestring French Fries 
         price: '23'
-        title: >-
-          December 2021 “Elvis’ Last Hurrah"- The Anti-New Years’ Resolution
-          Burger
+        title: 'Burger of the Month '
       - description: >-
           Pulled Braised Beef Shortrib, Brioche, Melted 3-Cheese Blend & Served
           with a cup of Spicy Tomato Soup **available vegetarian for $21** Don't
