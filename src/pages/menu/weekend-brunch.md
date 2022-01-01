@@ -48,6 +48,20 @@ subgroups:
     title: 'Cheers To The Weekend! '
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
+      - description: >
+          Thick-Cut Warm Banana Bread, Salted Caramel, Blueberries, Sesame
+          Candied Walnuts, Whipped Cream 
+        price: '13'
+        title: 'Menu Addition: Warm Banana Bread'
+      - description: |
+          Homemade Cornbread Stuffing, Cranberry Mayo
+        price: 15 regular / 26 grande
+        title: 'Menu Addition: Holiday Cornbread Stuffin’ Muffins'
+      - description: >
+          Grilled Marinated Skirt Steak, 2 Fried Eggs, Holiday Cornbread
+          Stuffin’ Muffins served with Cranberry Mayo, Spiced Homefries 
+        price: '29'
+        title: Hangover Helper "Steak n Eggs"
       - description: >-
           Local honey, Fresh berries, Sunflower seed-oat crumble **add a belgian
           waffle $7**
