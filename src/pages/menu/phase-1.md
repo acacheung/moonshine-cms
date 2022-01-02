@@ -10,16 +10,6 @@ subgroups:
         price: 15 regular / 26 grande
         title: 'menu addition: holiday cornbread stuffing'' Muffins '
       - description: >-
-          Crispy Risotto Fritters with Shaved Pecorino Cheese, Tomato Basil
-          Salsa, Black Garlic Aioli 
-        price: 17 regular / 32 grande
-        title: 'Menu Addition: Parmesan Squid Ink Arancini '
-      - description: >-
-          Caramelized Miso-Sake Glazed Rack of Lamb, Shredded Cabbage Slaw,
-          Toasted Almonds 
-        price: 19 regular / 32 grande
-        title: 'Menu Addition: Miso-Sake Glazed Lamb Lollipops'
-      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
