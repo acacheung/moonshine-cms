@@ -6,9 +6,9 @@ order: 1
 subgroups:
   - description: ''
     items:
-      - description: Hot Cocktail
+      - description: Hot Buttered Rum Cider
         price: '13'
-        title: Peter's Hot Buttered Rum Cider
+        title: Peter's Rotational Hot Cocktail
       - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'House Manhattan '
