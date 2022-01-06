@@ -7,7 +7,7 @@ subgroups:
   - description: ''
     items:
       - description: Hot Cocktail
-        price: '12'
+        price: '13'
         title: Peter's Hot Buttered Rum Cider
       - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
@@ -43,6 +43,9 @@ subgroups:
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
+      - description: 'Red Wine, Brandy, Ginger, Apples, Orange Juice, Fresh Fruit'
+        price: '12'
+        title: Sahil's Red Sangria
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
