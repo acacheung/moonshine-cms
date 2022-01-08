@@ -216,6 +216,9 @@ subgroups:
     title: All-Day / All-Night Allstars
   - description: ' (Dessert)'
     items:
+      - description: 'with Dulce De Leche, Shaved White Chocolate & Dutch Cocoa'
+        price: '13'
+        title: 'Menu Addition: Warm Red Velvet Breadpudding'
       - description: 'Strawberry-Rhubarb with Local Rhubarb Preserves & Fresh Pomegranate '
         price: '11'
         title: Chef Whim's Sorbet
