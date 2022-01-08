@@ -52,7 +52,7 @@ subgroups:
           Grilled Marinated Skirt Steak, 2 Fried Eggs, Spiced Homefries, Tasso
           Ham Hollandaise & Salsa Fresca
         price: '29'
-        title: Hangover Helper "Steak n Eggs"
+        title: 'Menu Addition: ''Shine Steak n Eggs'
       - description: >-
           Local honey, Fresh berries, Sunflower seed-oat crumble **add a belgian
           waffle $7**
