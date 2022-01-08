@@ -48,13 +48,9 @@ subgroups:
     title: 'Cheers To The Weekend! '
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
-      - description: |
-          Homemade Cornbread Stuffing, Cranberry Mayo
-        price: 15 regular / 26 grande
-        title: 'Menu Addition: Holiday Cornbread Stuffin’ Muffins'
       - description: >
-          Grilled Marinated Skirt Steak, 2 Fried Eggs, Holiday Cornbread
-          Stuffin’ Muffins served with Cranberry Mayo, Spiced Homefries 
+          Grilled Marinated Skirt Steak, 2 Fried Eggs, Spiced Homefries, Tasso
+          Ham Hollandaise & Salsa Fresca
         price: '29'
         title: Hangover Helper "Steak n Eggs"
       - description: >-
