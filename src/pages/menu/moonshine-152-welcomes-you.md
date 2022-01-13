@@ -13,6 +13,17 @@ subgroups:
           healthy! 
         price: ........
         title: 'Thanks For Joining Us! '
+      - description: >
+          Please Note: In addition to the City of Boston Indoor Mask Mandate,
+          beginning Saturday, Jan. 15th, 2022, all guests will be required to
+          show proof of vaccination against COVID-19 to enter certain indoor
+          spaces in Boston that offer Indoor dining, including restaurants and
+          bars. Verification can be done with a CDC vaccination card, a digital
+          image of your CDC card, an image of any official immunization record,
+          a City of Boston app, or another vaccine verification app. Thank You
+          for your cooperation in keeping our neighborhood healthy & safe. 
+        price: ........
+        title: 'Come Prepared! Be sure to bring your Vaccine Card '
       - description: >-
           Please note that as of August 28th 2021,  all restaurants and
           businesses in the City of Boston. As of August 28, everyone over age 2
