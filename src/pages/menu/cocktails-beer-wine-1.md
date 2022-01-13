@@ -130,7 +130,7 @@ subgroups:
           Vibrant, bright, and approachable with
            notes of citrus, orange blossom & green apple
            with a refreshing zest of acidity.
-        price: '40'
+        price: '34'
         title: bottle special (SParkling) J Vineyards California Cuvée Brut
       - description: 'Veneto, Italy '
         price: 12 / 42
