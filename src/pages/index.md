@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
 banner: >-
-  We look  forward to hosting you for Dinner Tues-Sun evenings & Brunch on Sat &
-  Sun mornings! Find us on OpenTable or call directly at 617.752.4191 for dining
+  We look  forward to hosting you for Dinner Tues-Sun night & Brunch on Sat &
+  Sun morning! Find us on OpenTable or call directly at 617.752.4191 for dining
   reservations & takeout service. Delivery service via ChowNow, GrubHub &
   UberEats!  Please note: In addition to the City of Boston Indoor Mask Mandate,
   beginning Saturday 1/15/22, all guests over 12 years old will be required to
