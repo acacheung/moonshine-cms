@@ -48,11 +48,6 @@ subgroups:
     title: 'Cheers To The Weekend! '
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
-      - description: >
-          Grilled Marinated Skirt Steak, 2 Fried Eggs, Spiced Homefries, Tasso
-          Ham Hollandaise & Salsa Fresca
-        price: '29'
-        title: 'Menu Addition: ''Shine Steak n Eggs'
       - description: >-
           Local honey, Fresh berries, Sunflower seed-oat crumble **add a belgian
           waffle $7**
