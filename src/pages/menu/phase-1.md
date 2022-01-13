@@ -6,6 +6,13 @@ order: 3
 subgroups:
   - description: All portions available regular or “Go Grande”
     items:
+      - description: >
+          Gluten-Free Brazillian Cheesy Bread Bites, Pepperoni, Basil Marinara,
+          Melted Mozzarella
+        price: '17 regular / 26 grande '
+        title: >-
+          In Honor of National Pizza Week: Menu Addition: Mini Cheesy-Poof
+          Pepperoni Pizza Muffins
       - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
