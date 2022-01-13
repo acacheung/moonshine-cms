@@ -90,9 +90,6 @@ subgroups:
       - description: '16oz tallboy can '
         price: '6'
         title: Castle Island Brewing Lager
-      - description: '16 oz tallboy can '
-        price: '5'
-        title: 'Good Measure Brewing "Early Riser" Cream Ale '
       - description: '16oz tallboy can '
         price: '5'
         title: Exhibit A Brewing "All The Barry's" Kettle Sour Ale
