@@ -111,6 +111,9 @@ subgroups:
       - description: '16oz tallboy can '
         price: '9'
         title: 'Medusa Brewing " Light Runner" Hazy IPA '
+      - description: '16oz tallboy can '
+        price: '8'
+        title: Lord Hobo "Boom Sauce" DIPA
       - description: '12 oz bottle '
         price: '5'
         title: 'Newcastle Brown Ale '
