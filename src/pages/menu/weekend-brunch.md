@@ -87,8 +87,8 @@ subgroups:
     items:
       - description: >
           Grilled Marinated Skirt Steak, 2 Fried Eggs, Spiced Homefries, Tasso
-          Ham Hollandaise & Salsa Fresca
-        price: '29.00'
+          Ham Hollandaise,  Salsa Fresca & Petite Mixed Greens 
+        price: '29'
         title: 'Menu Addition: ''Shine Steak n Eggs'
       - description: 'Pan-seared shrimp, Spicy green chili cheese grits, Sherry pan sauce'
         price: '19'
