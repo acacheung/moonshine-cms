@@ -84,6 +84,9 @@ subgroups:
       - description: '12 oz bottle '
         price: '5'
         title: Kona Brewing "Big Wave" Golden Ale
+      - description: '16oz tallboy can '
+        price: '6'
+        title: 'Night Shift Brewing "Nite Lite" Light Lager '
       - description: 16 oz Tallboy Can
         price: '5'
         title: Narragansett Lager
@@ -95,7 +98,7 @@ subgroups:
         title: Exhibit A Brewing "All The Barry's" Kettle Sour Ale
       - description: '12 oz can '
         price: '6'
-        title: 'Downeast Blackberry Cider '
+        title: 'Downeast Winter Blend Cider '
       - description: '16 oz tallboy can '
         price: '6'
         title: Stormalong "Mass Appeal" Hard Cider
@@ -109,11 +112,11 @@ subgroups:
         price: '7'
         title: 'Stone IPA '
       - description: '16oz tallboy can '
-        price: '9'
-        title: 'Medusa Brewing " Light Runner" Hazy IPA '
-      - description: '16oz tallboy can '
         price: '8'
         title: Lord Hobo "Boom Sauce" DIPA
+      - description: '16oz tallboy can '
+        price: '10'
+        title: Mighty Squirrel "Cosmic Distortion" IPA
       - description: '12 oz bottle '
         price: '5'
         title: 'Newcastle Brown Ale '
