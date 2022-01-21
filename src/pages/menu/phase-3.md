@@ -53,7 +53,7 @@ subgroups:
         title: Cajun Grilled Fish of the Day**
       - description: >-
           Brown Butter braised Rabbit, Campanelle Pasta, Roasted Local Squash,
-          Candied Spiced Hazelnuts, Aged Balsamic 
+          Candied Spiced Hazelnuts, Louisiana Cream Sauce, Aged Balsamic 
         price: '29'
         title: Brown Butter braised Rabbit pasta
       - description: >-
