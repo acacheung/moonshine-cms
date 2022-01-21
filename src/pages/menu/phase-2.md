@@ -9,8 +9,8 @@ subgroups:
       favorite protein or fixin’s!
     items:
       - description: >-
-          Creamy Hungarian Mushroom Bisque with Wild Mushrooms,  Fresh Cream,
-          Thyme, Paprika 
+          Chef Asia's Famous "Duck Noodle Soup: Melted Leeks, Egg Noodles,
+          Mirepoix, Five-Spice & Sherry  
         price: '12 regular / 19 grande '
         title: 'Chef''s whim Soup for the soul '
       - description: >
