@@ -35,11 +35,6 @@ subgroups:
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '14'
         title: Moonshine 76
-      - description: >-
-          Vanilla-Pear Infused Tenessee Moonshine, Pear Nectar, Cinnamon Simple,
-          Fresh Lemon 
-        price: '13'
-        title: Who's The Bosc
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
