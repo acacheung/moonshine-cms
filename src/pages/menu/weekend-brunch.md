@@ -165,8 +165,8 @@ subgroups:
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >-
-          Creamy Hungarian Mushroom Bisque with Wild Mushrooms,  Fresh Cream,
-          Thyme, Paprika 
+          Chef Asia's Famous "Duck Noodle Soup: Melted Leeks, Egg Noodles,
+          Mirepoix, Five-Spice & Sherry  
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >
