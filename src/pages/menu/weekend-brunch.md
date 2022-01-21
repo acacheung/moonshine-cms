@@ -212,9 +212,11 @@ subgroups:
     title: All-Day / All-Night Allstars
   - description: ' (Dessert)'
     items:
-      - description: 'with Dulce De Leche, Shaved White Chocolate & Dutch Cocoa'
-        price: '13'
-        title: 'Menu Addition: Warm Red Velvet Breadpudding'
+      - description: >-
+          Made with Chewy Tapioca Flour, Toasted Coconut, Dulce de Leche & House
+          Guava Coulis *gluten free
+        price: '14'
+        title: 'Menu Addition: Tropical Mascarpone-Ricotta Crepes'
       - description: 'Strawberry-Rhubarb with Local Rhubarb Preserves & Fresh Pomegranate '
         price: '11'
         title: Chef Whim's Sorbet
