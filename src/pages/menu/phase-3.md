@@ -7,6 +7,12 @@ subgroups:
   - description: Don’t forget to add your favorite fixin’s or sides!
     items:
       - description: >-
+          Crispy Herb Chicken Breast stuffed with Virginia  Baked Ham, Melted
+          Swiss Cheese served with local mixed greens, shoestring french fries &
+          honey dijon butter sauce  
+        price: '28'
+        title: 'Menu Addition: Crispy Chicken Cordon Bleu '
+      - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
         price: '19'
