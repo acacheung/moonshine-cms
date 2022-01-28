@@ -231,15 +231,15 @@ subgroups:
         title: 'Rum, Brandy & Cognac '
       - description: >-
           Four Roses Bourbon...9...Mitcher's Bourbon...9...Maker's Mark
-          Bourbon...10...Mad River Bourbon...10....12....Uncle Nearest 1884
-          Small Batch Whiskey...11...Uncle Nearest 1856 Whiskey...13...Jack
-          Daniels Whiskey...9...Old Overholt Rye...8...Rittenhouse
-          Rye...9...Mitcher's Single Barrel Rye...9...Mad River Revolution
-          Rye...10...Boston Harbor Distillery Putnam Rye...11....High West
-          Double Rye...12...Boston Harbor Distillery Putnam Single Malt
-          Whiskey...13...Old Smokey Tennessee White Whiskey
-          Moonshine...9...Screwball Peanut Butter Whiskey...9...Misunderstood
-          Ginger Infused Whiskey...9...
+          Bourbon...10...Mad River Bourbon...10....12....Bully Boy Straight
+          American Whiskey...9...Uncle Nearest 1884 Small Batch
+          Whiskey...11...Uncle Nearest 1856 Whiskey...13...Jack Daniels
+          Whiskey...9...Old Overholt Rye...8...Rittenhouse Rye...9...Mitcher's
+          Single Barrel Rye...9...Mad River Revolution Rye...10...Boston Harbor
+          Distillery Putnam Rye...11....High West Double Rye...12...Boston
+          Harbor Distillery Putnam Single Malt Whiskey...13...Old Smokey
+          Tennessee White Whiskey Moonshine...9...Screwball Peanut Butter
+          Whiskey...9...Misunderstood Ginger Infused Whiskey...9...
         price: xxxxx
         title: 'American Whiskey/Bourbon/Rye '
       - description: >-
