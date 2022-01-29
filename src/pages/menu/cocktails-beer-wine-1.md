@@ -53,8 +53,6 @@ subgroups:
       - description: ''
         price: '7'
         title: (DRAFT) Downiest Original Unfiltered Cider
-      - price: '7'
-        title: (Draft) Harpoon UFO White
       - description: '12 oz bottle '
         price: '6'
         title: 'Budweiser/ Bud Light '
