@@ -202,11 +202,10 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          January 2022: "Classic Wedge Salad" The 2022 Resolution Burger topped
-          with Thick-cut Iceberg Lettuce, House Poblano Ranch, Honey Mustard,
-          Candied Bacon Bits & Crumbled Blue Cheese (**As always, can be made
-          with our award-winning Mushroom Tofu patty! ) Served with House
-          Shoestring French Fries 
+          February 2022: “Firecracker Rangoon Burger:  Served Smothered with
+          Bruleed Scallion Cream Cheese, Crispy Wonton Ribbons & Sweet Chili
+          Glaze    (**As always, can be made with our award-winning Mushroom
+          Tofu patty! ) Served with House Shoestring French Fries 
         price: '23'
         title: 'Make Your Burger a VIP Burger of the Month '
     title: All-Day / All-Night Allstars
