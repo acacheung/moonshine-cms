@@ -17,13 +17,12 @@ subgroups:
         price: '19'
         title: Grass-fed ’Shine Beef Burger**
       - description: >-
-          January 2022: "Classic Wedge Salad" The 2022 Resolution Burger topped
-          with Thick-cut Iceberg Lettuce, House Poblano Ranch, Honey Mustard,
-          Candied Bacon Bits & Crumbled Blue Cheese (**As always, can be made
-          with our award-winning Mushroom Tofu patty! ) Served with House
-          Shoestring French Fries 
+          Served Smothered with Bruleed Scallion Cream
+          Cheese,                                    Crispy Wonton Ribbons &
+          Sweet Chili Glaze    (**As always, can be made with our award-winning
+          Mushroom Tofu patty! ) Served with House Shoestring French Fries 
         price: '23'
-        title: 'Burger of the Month '
+        title: 'February 2022 Burger of the Month: Firecracker Rangoon Burger '
       - description: >-
           Pulled Braised Beef Shortrib, Brioche, Melted 3-Cheese Blend & Served
           with a cup of Spicy Tomato Soup **available vegetarian for $21** Don't
