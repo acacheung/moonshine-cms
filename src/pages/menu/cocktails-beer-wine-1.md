@@ -19,11 +19,6 @@ subgroups:
         price: '13'
         title: PATRON SAINT OF SOUTHIE
       - description: >-
-          Locally Made Bully Boy Straight American Whiskey, Bully Boy Amaro,
-          Mandarin Orange Simple, Orange Bitters 
-        price: '13'
-        title: Old fashioned bully
-      - description: >-
           Spicy Firepuncher Vodka, Fresh Cucumber Juice, Fresh Lemon,
           Elderflower
         price: '14'
@@ -43,9 +38,6 @@ subgroups:
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
-      - description: 'Red Wine, Brandy, Ginger, Apples, Orange Juice, Fresh Fruit'
-        price: '12'
-        title: Sahil's Red Sangria
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
