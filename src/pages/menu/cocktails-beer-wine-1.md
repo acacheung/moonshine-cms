@@ -19,6 +19,11 @@ subgroups:
         price: '13'
         title: PATRON SAINT OF SOUTHIE
       - description: >-
+          Locally Made Bully Boy Straight American Whiskey, Bully Boy Amaro,
+          Mandarin Orange Simple, Orange Bitters 
+        price: '13'
+        title: Old fashioned bully
+      - description: >-
           Spicy Firepuncher Vodka, Fresh Cucumber Juice, Fresh Lemon,
           Elderflower
         price: '14'
