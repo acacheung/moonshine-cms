@@ -6,6 +6,15 @@ order: 3
 subgroups:
   - description: All portions available regular or “Go Grande”
     items:
+      - description: >
+          Golden Shrimp Toasts, Crispy “Bird’s Nest” Pork & Shrimp Dumplings,
+          Fresh Shiitake-Tofu Veggie Spring Rolls & Jalapeno Crab Rangoons
+          Served with Napa Cabbage-Mandarin Orange Slaw & Soy Sesame Dipping
+          Sauce 
+        price: '32'
+        title: >-
+          Menu Addition: Happy Lunar New Year "Year of the Tiger" Dimsum PuPu
+          Platter
       - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
