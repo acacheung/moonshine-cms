@@ -15,6 +15,11 @@ subgroups:
       - description: 'Rye Whiskey, Dark Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
         price: '13'
         title: Danish Modern
+      - description: >-
+          Locally Made Straight Whiskey & Amaro, Mandarin Orange Simple, Orange
+          Bitters 
+        price: '13'
+        title: Old Fashioned Bully
       - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime '
         price: '13'
         title: PATRON SAINT OF SOUTHIE
