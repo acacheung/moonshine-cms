@@ -57,7 +57,7 @@ subgroups:
         title: '(Draft) Lord Hobo "Hobo Life" Session IPA '
       - description: ''
         price: '7'
-        title: (DRAFT) Downiest Original Unfiltered Cider
+        title: (DRAFT) Downeast Original Unfiltered Cider
       - description: '12 oz bottle '
         price: '6'
         title: 'Budweiser/ Bud Light '
@@ -124,6 +124,12 @@ subgroups:
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
+      - description: 12 oz bottle
+        price: '6'
+        title: Heineken ZERO (non-alcoholic)
+      - description: '12 oz can '
+        price: '7'
+        title: Sam Adams "Just The Haze" IPA (non-alcoholic)
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
