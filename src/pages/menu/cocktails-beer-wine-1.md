@@ -6,7 +6,9 @@ order: 1
 subgroups:
   - description: ''
     items:
-      - description: Hot Buttered Rum Cider
+      - description: >-
+          Hot Buttered Rum Cider: Spiced Rum, Mulled Apple Cider, Cinnamon Honey
+          Butter 
         price: '13'
         title: Peter's Rotational Hot Cocktail
       - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
