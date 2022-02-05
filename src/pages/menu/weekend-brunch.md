@@ -170,9 +170,9 @@ subgroups:
     title: All the sides & Fixin's
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
-      - description: >-
-          Chef Asia's Famous "Duck Noodle Soup: Melted Leeks, Egg Noodles,
-          Mirepoix, Five-Spice & Sherry  
+      - description: >
+          Chef Asia’s Ode to Schitt’s Creek "The Lover's Curry": Sweet Potato
+          Thai Style Curry, Coconut Milk, Braised Pineapple & Penang Spice
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >
