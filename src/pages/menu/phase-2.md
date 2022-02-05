@@ -9,10 +9,29 @@ subgroups:
       favorite protein or fixin’s!
     items:
       - description: >-
-          Chef Asia's Famous "Duck Noodle Soup: Melted Leeks, Egg Noodles,
-          Mirepoix, Five-Spice & Sherry  
+          Chef Asia's ode to the Schitt's Creek "The Lover's Curry" with Sweet
+          Potato Thai Style Curry, Coconut Milk, Braised Pineapple & Penang
+          Spice 
         price: '12 regular / 19 grande '
         title: 'Chef''s whim Soup for the soul '
+      - description: >-
+          White Rice smothered in Chef Asia's ode to the Schitt's Creek "The
+          Lover's Curry" with Sweet Potato Thai Style Curry, Coconut Milk,
+          Braised Pineapple & Penang Spice
+        price: '17'
+        title: 'Menu Addition: Curry Rice'
+      - description: >-
+          Crispy Tater Tots smothered in Chef Asia's ode to the Schitt's Creek
+          "The Lover's Curry" with Sweet Potato Thai Style Curry, Coconut Milk,
+          Braised Pineapple & Penang Spice
+        price: '19'
+        title: 'Menu Addition: Curry ''Tots'
+      - description: >-
+          House-cut Shoestring Fries smothered in Chef Asia's ode to the
+          Schitt's Creek "The Lover's Curry" with Sweet Potato Thai Style Curry,
+          Coconut Milk, Braised Pineapple & Penang Spice
+        price: '19'
+        title: 'Menu Addition: Curry Fries'
       - description: >
           Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton crisps,
           Fresh pomegranate, Shaved pecorino cheese
