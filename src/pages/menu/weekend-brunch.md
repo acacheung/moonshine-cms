@@ -89,7 +89,7 @@ subgroups:
           Thick-Cut, Tender Beef Brisket wrapped in
           a                                Scallion Pancake with Pho Noodle
           Salad, Beansprouts &  Bacony Pho Bone Broth for Dipping 
-        price: '29'
+        price: '28'
         title: 'Menu Addition: Chef Asia''s Famous "Pho-Rrito"'
       - description: >
           Grilled Marinated Skirt Steak, 2 Fried Eggs, Spiced Homefries, Tasso
