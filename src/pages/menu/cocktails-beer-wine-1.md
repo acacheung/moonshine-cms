@@ -75,9 +75,6 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: 'Budweiser/ Bud Light '
-      - description: 12oz bottle
-        price: '5'
-        title: Michelob Ultra
       - description: '12 oz can '
         price: '5'
         title: 'Bud Light Black Cherry Seltzer '
