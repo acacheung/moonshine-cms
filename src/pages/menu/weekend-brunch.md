@@ -217,11 +217,11 @@ subgroups:
     title: All-Day / All-Night Allstars
   - description: ' (Dessert)'
     items:
-      - description: >-
-          Made with Chewy Tapioca Flour, Toasted Coconut, Dulce de Leche & House
-          Guava Coulis *gluten free
+      - description: >
+          Honey Ricotta, Cream Cheese Topping, Chocolate Chips & Hazelnut
+          Chocolate Syrup 
         price: '14'
-        title: 'Menu Addition: Tropical Mascarpone-Ricotta Crepes'
+        title: 'Menu Addition: Red Velvet Dessert Crepes'
       - description: 'Strawberry-Rhubarb with Local Rhubarb Preserves & Fresh Pomegranate '
         price: '11'
         title: Chef Whim's Sorbet
