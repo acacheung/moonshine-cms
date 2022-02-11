@@ -8,9 +8,11 @@ subgroups:
       Add one scoop of butterfinger ice cream to your favorite dessert $4 
       Add a Belgian waffle to your favorite dessert $7
     items:
-      - description: '  Made with Chewy Tapioca Flour, Toasted Coconut, House Mango Coulis & Dulce de Leche   *gluten free'
+      - description: >
+          Honey Ricotta, Cream Cheese Topping, Chocolate Chips & Hazelnut
+          Chocolate Syrup 
         price: '14'
-        title: 'Tropical Whipped Mascarpone-Ricotta Crepes '
+        title: 'Red Velvet Dessert Crepes '
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
