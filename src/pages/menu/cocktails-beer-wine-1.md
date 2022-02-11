@@ -180,6 +180,11 @@ subgroups:
       - description: 'Sonoma County, California USA '
         price: 13 / 50
         title: (Red) 2017 Storypoint Cabernet Sauvignon Select
+      - description: ''
+        price: '40'
+        title: >-
+          Menu addition: (red) 2018 Paul Jaboulet Aîné Parallèle 45 Côtes du
+          Rhône Rouge
     title: Wine List
   - items:
       - price: '4'
