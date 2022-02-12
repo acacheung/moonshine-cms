@@ -18,6 +18,11 @@ subgroups:
           Butter 
         price: '13'
         title: Peter's Rotational Hot Cocktail
+      - description: >-
+          Chocolate Covered Cherry made with Bourbon, Cherry Jello & Drizzled
+          with Nutella-Chocolate Sauce 
+        price: '6'
+        title: Weekly Changing Jello Shots
       - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'House Manhattan '
