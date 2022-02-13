@@ -14,13 +14,8 @@ subgroups:
           Happy 7th Birthday Month Moonshine 152! Cocktail Special: Tiki Time
           Party Punch
       - description: >-
-          Hot Buttered Rum Cider: Spiced Rum, Mulled Apple Cider, Cinnamon Honey
-          Butter 
-        price: '13'
-        title: Peter's Rotational Hot Cocktail
-      - description: >-
           Chocolate Covered Cherry made with Bourbon, Cherry Jello & Drizzled
-          with Nutella-Chocolate Sauce 
+          with Nutella-Chocolate Sauce *contains nuts 
         price: '6'
         title: Weekly Changing Jello Shots
       - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
