@@ -6,12 +6,6 @@ order: 3
 subgroups:
   - description: All portions available regular or “Go Grande”
     items:
-      - description: >
-          Golden Shrimp Toasts, Crispy “Bird’s Nest” Pork & Shrimp Dumplings,
-          Fresh Shiitake-Tofu Veggie Spring Rolls & Pork Shumai Served with Napa
-          Cabbage-Mandarin Orange Slaw & Soy Sesame Dipping Sauce
-        price: '32'
-        title: 'Menu Addition: "YEAR OF THE TIGER" dIMSUM PUPU PLATTER FOR TWO'
       - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
