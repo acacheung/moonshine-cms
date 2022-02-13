@@ -80,7 +80,7 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: 'Budweiser/ Bud Light '
-      - description: '12 oz can '
+      - description: '16 oz can '
         price: '5'
         title: 'Bud Light Black Cherry Seltzer '
       - description: 12 oz Bottle
