@@ -7,12 +7,6 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
-          Our "Best of Boston" Buttermilk Fried Chicken Wings served with Chef
-          Asia's Famous Angry Buffalo Sauce, Poblano Ranch Sauce &  Blue Cheese
-          Crumbles 
-        price: '20 regular / 32 grande '
-        title: 'SuperBowl Sunday Gameday Special: Angry Buffalo Fried Chicken Wings '
-      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
