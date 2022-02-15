@@ -7,6 +7,14 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
+          Crispy “Bird’s Nest” Pork-Shrimp Dumplings, Golden Shrimp Toasts, Pork
+          Shumai & Fresh Veggie-Shiitake Spring Rolls Served with Mandarin
+          Orange-Cabbage Slaw, Sweet Chili & Sesame-Soy Dipping Sauce 
+        price: '32'
+        title: >-
+          Menu Addition: "year of the tiger" lunar new year dims pupu platter
+          for 2 
+      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
