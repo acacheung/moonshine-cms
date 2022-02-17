@@ -147,9 +147,6 @@ subgroups:
       - description: 'Veneto, ITALY'
         price: 13       (187ml mini bottle)
         title: '(sparkling rose) NV Casa Vinicola Canella Rose Brut '
-      - description: 'Columbia Valley, Washington, USA'
-        price: 12/44
-        title: (Rose) 2018 Charles & Charles Rose
       - description: 'Provence, FR'
         price: 15 / 58
         title: '(Rose) 2020 Château d’Esclan Whispering Angel Rose '
