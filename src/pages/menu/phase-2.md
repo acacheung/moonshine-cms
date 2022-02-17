@@ -82,7 +82,9 @@ subgroups:
       - description: 'Slow roasted duck, cabbage, fresh pomegranate, wonton crisps'
         price: 17 regular / 25 grande
         title: Charsiu Duck Tacos
-      - description: 'Curry goddess aioli, sesame candied walnuts, tempura crunchies'
+      - description: >-
+          Fennel roasted cauliflower, Curry goddess aioli, sesame candied
+          walnuts, tempura crunchies
         price: 15 regular / 22 grande
         title: Roasted Cauliflower Tacos
       - description: >-
