@@ -184,9 +184,9 @@ subgroups:
       - description: 'Columbia valley, WA, USA '
         price: '12 / 45 '
         title: '(red) 2017 Charles & Charles cabernet/syrah blend '
-      - description: 'Sonoma County, California USA '
-        price: 13 / 50
-        title: (Red) 2017 Storypoint Cabernet Sauvignon Select
+      - description: 'Napa, California USA '
+        price: 12 / 45
+        title: '(Red) 2020 Contour Cabernet Sauvignon '
     title: Wine List
   - items:
       - price: '4'
