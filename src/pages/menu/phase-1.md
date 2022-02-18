@@ -7,6 +7,13 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
+          Basil Marinated Grilled Calamari & Octopus served over Baby Spinach
+          Salad, Orange Supremes & Citron Butter 
+        price: 19 regular / 35 grande
+        title: >-
+          Happy 7th Birthday Moonshine 152 "OG" Special: Chef Asia's Famous
+          Grilled Calamari & Octopus
+      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
