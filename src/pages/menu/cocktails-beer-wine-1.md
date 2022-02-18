@@ -171,7 +171,7 @@ subgroups:
           Full-bodied, silky & elegant Northern style Cotes du Rhone red wine,
           with beautiful fresh Syrah character. Notes of wild berries, white
           pepper, lavender and cherries.
-        price: '40'
+        price: '38'
         title: >-
           Menu addition: (red) 2018 Paul Jaboulet Aîné Parallèle 45 Côtes du
           Rhône Rouge
