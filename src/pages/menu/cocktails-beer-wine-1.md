@@ -54,6 +54,11 @@ subgroups:
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '14'
         title: Moonshine 76
+      - description: >-
+          Mediterranean Red Wine Blend, Ginger Infused Brandy, Hibiscus,  Apple,
+          Fresh Citrus 
+        price: '12'
+        title: Sahil's Sangria
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
