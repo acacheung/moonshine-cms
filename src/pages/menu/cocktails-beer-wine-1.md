@@ -83,6 +83,9 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: 'Budweiser/ Bud Light '
+      - description: 12 oz bottle
+        price: '6'
+        title: Michelob Ultra
       - description: '16 oz can '
         price: '5'
         title: 'Bud Light Black Cherry Seltzer '
@@ -132,8 +135,8 @@ subgroups:
         price: '10'
         title: Mighty Squirrel "Cosmic Distortion" IPA
       - description: '16oz tallboy can '
-        price: '8'
-        title: Lord Hobo "Boom Sauce" DIPA
+        price: '9'
+        title: ClownShoes "Bubble Farm" IPA
       - description: '12 oz bottle '
         price: '5'
         title: 'Newcastle Brown Ale '
