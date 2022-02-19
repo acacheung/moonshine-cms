@@ -91,9 +91,9 @@ subgroups:
           Salad, Beansprouts &  Bacony Pho Bone Broth for Dipping 
         price: '28'
         title: 'Menu Addition: Chef Asia''s Famous "Pho-Rrito"'
-      - description: >
-          Grilled Marinated Skirt Steak, 2 Fried Eggs, Spiced Homefries, Tasso
-          Ham Hollandaise,  Salsa Fresca & Petite Mixed Greens 
+      - description: >-
+          Grilled Marinated Skirt Steak, 2 Fried Eggs, Cornbread Stuffing, Basil
+          Roasted Tomatoes & Black Garlic Aioli
         price: '29'
         title: 'Menu Addition: ''Shine Steak n Eggs'
       - description: 'Pan-seared shrimp, Spicy green chili cheese grits, Sherry pan sauce'
