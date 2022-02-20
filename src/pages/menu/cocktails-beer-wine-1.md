@@ -71,8 +71,8 @@ subgroups:
       - price: '5'
         title: (Draft) Miller High Life
       - description: 16oz draft
-        price: '7'
-        title: '(DRAFT) Jack''s Abby "Pride & Parquet" Hoppy Lager '
+        price: '8'
+        title: '(DRAFT) Dorchester Brewing Company "Galaxy Lights" NE IPA '
       - price: '7'
         title: '(Draft) Harpoon IPA '
       - price: '7'
