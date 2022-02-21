@@ -6,21 +6,9 @@ order: 1
 subgroups:
   - description: ''
     items:
-      - description: >-
-          Coconut-Raspberry Vodka, Pineapple-Banana Cordial, Tropical Hibiscus
-          Sweet Tea, Fresh Citrus & Boozy Bubbles 
-        price: '10'
-        title: >-
-          Happy 7th Birthday Month Moonshine 152! Cocktail Special: Tiki Time
-          Party Punch
       - description: 'Spiced Rum, Cinnamon Honey Buttered Mulled Cider '
         price: '12'
         title: 'Peter''s Rotating Hot Cocktail: Hot Buttered Rum Cider'
-      - description: >-
-          Chocolate Covered Cherry made with Bourbon, Cherry Jello & Drizzled
-          with Nutella-Chocolate Sauce *contains nuts 
-        price: '6'
-        title: Weekly Changing Jello Shots
       - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'House Manhattan '
