@@ -27,6 +27,11 @@ subgroups:
           Candied Bacon
         price: '15'
         title: Belgian Waffle Ice Cream Sundae
+      - description: >-
+          Layered vanilla birthday cake, oreo brownie bites, peanut butter
+          cream, chantilly whipped cream
+        price: '12'
+        title: Moonshine's Birthday Trifle
     title: Sweet Tooth
 ---
 
