@@ -92,8 +92,9 @@ subgroups:
         price: '28'
         title: 'Menu Addition: Chef Asia''s Famous "Pho-Rrito"'
       - description: >-
-          Grilled Marinated Skirt Steak, 2 Fried Eggs, Cornbread Stuffing, Basil
-          Roasted Tomatoes & Black Garlic Aioli
+          Grilled Skirt Steak, Crispy Shrimp Dumplings, Scrambled Eggs, Nuoc
+          Cham Dipping Sauce, Black Garlic Aioli & Sesame Ginger Mixed Greens
+          Salad 
         price: '29'
         title: 'Menu Addition: ''Shine Steak n Eggs'
       - description: 'Pan-seared shrimp, Spicy green chili cheese grits, Sherry pan sauce'
