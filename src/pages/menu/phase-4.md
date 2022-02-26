@@ -13,11 +13,6 @@ subgroups:
           cream, chantilly whipped cream
         price: '12'
         title: Moonshine's Birthday Trifle
-      - description: >
-          Honey Ricotta, Cream Cheese Topping, Chocolate Chips & Hazelnut
-          Chocolate Syrup 
-        price: '14'
-        title: 'Red Velvet Dessert Crepes '
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
