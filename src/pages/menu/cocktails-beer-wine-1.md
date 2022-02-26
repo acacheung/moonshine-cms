@@ -98,9 +98,6 @@ subgroups:
       - description: 16 oz Tallboy Can
         price: '5'
         title: Narragansett Lager
-      - description: '16oz tallboy can '
-        price: '6'
-        title: Castle Island Brewing Lager
       - description: '12 oz can '
         price: '6'
         title: 'Downeast Winter Blend Cider '
