@@ -8,11 +8,6 @@ subgroups:
       Add one scoop of butterfinger ice cream to your favorite dessert $4 
       Add a Belgian waffle to your favorite dessert $7
     items:
-      - description: >-
-          Layered vanilla birthday cake, oreo brownie bites, peanut butter
-          cream, chantilly whipped cream
-        price: '12'
-        title: Moonshine's Birthday Trifle
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
