@@ -86,9 +86,6 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: 'Corona Extra '
-      - description: 12 oz Bottle
-        price: '6'
-        title: Sapporo Premium Lager
       - description: '12 oz bottle '
         price: '5'
         title: Kona Brewing "Big Wave" Golden Ale
