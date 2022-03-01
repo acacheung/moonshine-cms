@@ -7,6 +7,16 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
+          Chipotle Bechamel, Cavatappi Pasta, Toasted Panko Breadcrumbs & Creole
+          Spice Rub 
+        price: 13 regular / 24 grande
+        title: 'Fat Tuesday Mardi Gras Special: Cajun Mac & Cheese'
+      - description: >-
+          Grits-Fried Baby Shrimp, Smoked Paprika Remoulade, Houses B&B Pickles
+          & Shredded Cabbage Slaw served with Cajun Mac & Cheese 
+        price: '27'
+        title: 'Fat Tuesday Mardi Gras Special: Crispy Shrimp Po'' Boy '
+      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
