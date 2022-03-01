@@ -209,9 +209,9 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          February 2022: “Firecracker Rangoon Burger:  Served Smothered with
-          Bruleed Scallion Cream Cheese, Crispy Wonton Ribbons & Sweet Chili
-          Glaze    (**As always, can be made with our award-winning Mushroom
+          March 2022: St. Patrick's Day Burger: Topped with Green Chive Mashed
+          Potatoes, Guinness Gravy, Rustic Grilled Tomato & Orange Cheddar
+          Cheese    (**As always, can be made with our award-winning Mushroom
           Tofu patty! ) Served with House Shoestring French Fries 
         price: '23'
         title: 'Make Your Burger a VIP Burger of the Month '
