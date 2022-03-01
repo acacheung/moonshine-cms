@@ -17,12 +17,12 @@ subgroups:
         price: '19'
         title: Grass-fed ’Shine Beef Burger**
       - description: >-
-          Served Smothered with Bruleed Scallion Cream
-          Cheese,                                    Crispy Wonton Ribbons &
-          Sweet Chili Glaze    (**As always, can be made with our award-winning
-          Mushroom Tofu patty! ) Served with House Shoestring French Fries 
+          Topped with Green Chive Mashed Potatoes, Guinness Gravy, Rustic
+          Grilled Tomato & Orange Cheddar Cheese    (**As always, can be made
+          with our award-winning Mushroom Tofu patty! ) Served with House
+          Shoestring French Fries 
         price: '23'
-        title: 'February 2022 Burger of the Month: Firecracker Rangoon Burger '
+        title: 'March 2022 Burger of the Month: "St. Patrick''s Day Burger '
       - description: >-
           Pulled Braised Beef Shortrib, Brioche, Melted 3-Cheese Blend & Served
           with a cup of Spicy Tomato Soup **available vegetarian for $21** Don't
