@@ -58,16 +58,16 @@ subgroups:
     items:
       - price: '5'
         title: (Draft) Miller High Life
-      - description: 16oz draft
-        price: '8'
-        title: '(DRAFT) Dorchester Brewing Company "Galaxy Lights" NE IPA '
-      - price: '7'
-        title: '(Draft) Harpoon IPA '
-      - price: '7'
+      - price: '5'
         title: '(Draft) Lord Hobo "Hobo Life" Session IPA '
       - description: ''
         price: '7'
         title: (DRAFT) Downeast Original Unfiltered Cider
+      - price: '7'
+        title: '(Draft) Harpoon IPA '
+      - description: 16oz draft
+        price: '8'
+        title: '(DRAFT) Dorchester Brewing Company "Galaxy Lights" NE IPA '
       - description: '12 oz bottle '
         price: '6'
         title: 'Budweiser/ Bud Light '
