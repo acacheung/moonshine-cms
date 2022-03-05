@@ -6,6 +6,9 @@ order: 1
 subgroups:
   - description: ''
     items:
+      - description: 'Spiced Rum, Cinnamon Honey Buttered Mulled Cider '
+        price: '12'
+        title: 'Peter''s Rotating Hot Cocktail: Hot Buttered Rum Cider'
       - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'House Manhattan '
@@ -99,6 +102,9 @@ subgroups:
       - description: '16oz tallboy can '
         price: '7'
         title: 'Allagash White '
+      - description: '16 oz tallboy can '
+        price: '7'
+        title: Jack's Abby "Red Tape" Amber Ale
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
