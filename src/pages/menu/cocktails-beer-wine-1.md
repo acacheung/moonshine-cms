@@ -150,14 +150,6 @@ subgroups:
       - description: 'Marlborough, New Zealand '
         price: 13 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
-      - description: >-
-          Full-bodied, silky & elegant Northern style Cotes du Rhone red wine,
-          with beautiful fresh Syrah character. Notes of wild berries, white
-          pepper, lavender and cherries.
-        price: '38'
-        title: >-
-          Menu addition: (red) 2018 Paul Jaboulet Aîné Parallèle 45 Côtes du
-          Rhône Rouge
       - description: 'Monterey County, CA, USA '
         price: '13/ 50 '
         title: '(RED) 2018 Cloudfall Monterey County Pinot Noir '
