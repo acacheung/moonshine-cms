@@ -37,9 +37,9 @@ subgroups:
         price: '27'
         title: Leslie Knope’s “Fried Chicken and Waffle”
       - description: >-
-          Smoky pulled pork, scrambled egg, tomato salsa, petite mixed greens
-          salad, teriyaki, sweet chili glaze, house-cut shoestring french
-          fries... available vegetarian 24
+          Smoky pulled pork, scrambled egg, tomato, petite mixed greens salad,
+          teriyaki, sweet chili glaze, house-cut shoestring french fries...
+          available vegetarian 24
         price: '27'
         title: >-
           Ron Swanson Brunch-Inspired Chipotle Pulled Pork Scallion Pancake
