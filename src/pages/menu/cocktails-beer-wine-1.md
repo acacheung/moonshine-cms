@@ -16,11 +16,6 @@ subgroups:
         price: '13'
         title: PATRON SAINT OF SOUTHIE
       - description: >-
-          Vanilla Bean-Pear Infused Tennessee Moonshine, Pear Nectar, Cinnamon
-          Simple, Fresh Lemon 
-        price: '13'
-        title: Who's The Bosc
-      - description: >-
           Spicy Firepuncher Vodka, Fresh Cucumber Juice, Fresh Lemon,
           Elderflower
         price: '14'
