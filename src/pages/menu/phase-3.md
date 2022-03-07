@@ -2,7 +2,7 @@
 templateKey: menu-group
 title: The Main Affair
 subtitle: (Entrees)
-order: 5
+order: 4
 subgroups:
   - description: Don’t forget to add your favorite fixin’s or sides!
     items:
