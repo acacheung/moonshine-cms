@@ -1,8 +1,8 @@
 ---
 templateKey: menu-group
-title: Moonshine 152 Welcomes You!
-subtitle: 'Thanks for joining us! '
-order: 1
+title: 'From All Of Us at Moonshine 152, Thanks For Your Support! '
+subtitle: 'Chef / Owner Asia Mei '
+order: 7
 subgroups: []
 ---
 
