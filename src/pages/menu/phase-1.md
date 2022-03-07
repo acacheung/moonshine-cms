@@ -2,7 +2,7 @@
 templateKey: menu-group
 title: 'To Get Ya Started '
 subtitle: (Appetizers)
-order: 3
+order: 2
 subgroups:
   - description: All portions available regular or “Go Grande”
     items:
