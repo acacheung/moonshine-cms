@@ -2,7 +2,7 @@
 templateKey: menu-group
 title: Sweet Tooth
 subtitle: (Dessert)
-order: 6
+order: 5
 subgroups:
   - description: |-
       Add one scoop of butterfinger ice cream to your favorite dessert $4 
