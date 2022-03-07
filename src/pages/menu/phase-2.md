@@ -2,7 +2,7 @@
 templateKey: menu-group
 title: Next Level Favorites
 subtitle: (Shareable 'Shine Classics Available in Small or Large Portions)
-order: 4
+order: 3
 subgroups:
   - description: >-
       All portions available regular or “Go Grande”. Don’t forget to add your
