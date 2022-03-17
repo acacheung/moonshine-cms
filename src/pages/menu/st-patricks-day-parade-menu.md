@@ -2,7 +2,7 @@
 templateKey: menu-group
 title: ST PATRICK'S DAY PARADE MENU
 subtitle: 'SUNDAY, MARCH 20TH 11A-5P'
-order: 6
+order: 7
 subgroups:
   - items:
       - description: 'Sweet Potato Curry, Penang Spice, Braised Pineapple, Coconut Milk '
