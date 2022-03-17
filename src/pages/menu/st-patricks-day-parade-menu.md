@@ -2,7 +2,7 @@
 templateKey: menu-group
 title: ST PATRICK'S DAY PARADE MENU
 subtitle: 'SUNDAY, MARCH 20TH 11A-5P'
-order: 7
+order: 8
 subgroups:
   - items:
       - description: 'Sweet Potato Curry, Penang Spice, Braised Pineapple, Coconut Milk '
@@ -43,6 +43,28 @@ subgroups:
           Shoestring Fries  
         price: '19'
         title: Chef Asia's Famous Parade Day Corned Beef Sammy
+      - description: >-
+          topped with Cheddar Cheese, LTO &  Housemade Aioli served with House
+          Shoestring Fries 
+        price: '19'
+        title: Chef Asia's Award-Winning Mushroom Tofu Burger
+      - description: >-
+          topped with Cheddar Cheese, LTO &  Housemade Aioli served with House
+          Shoestring Fries 
+        price: '19'
+        title: Grass-fed Beef burger
+      - description: >-
+          topped with Green Chive Mashed Potatoes, Melted Orange Cheddar,
+          Guinness Gravy & Roasted Tomato served with House Shoestring Fries
+          (available with either beef or mushroom tofu patty) 
+        price: '23'
+        title: 'March 2022 Burger of the Month: St. Patrick''s Day Burger'
+      - description: Whipped Chantilly Cream & Toasted Amaranth Crumble
+        price: '12'
+        title: 'Something Sweet? Butterscotch Pudding '
+      - description: 'Nutella Chocolate Drizzle, Powered Sugar '
+        price: '11'
+        title: 'Something Sweet? Jamie''s Favorite Oreo Fudge Layered Brownie '
     title: ST. PATRICK'S PARADE DAY MENU SUNDAY MARCH 20TH    11a-5pm
 ---
 
