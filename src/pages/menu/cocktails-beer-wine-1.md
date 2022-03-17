@@ -67,6 +67,9 @@ subgroups:
       - description: 12 oz Bottle
         price: '6'
         title: 'Stella Artois '
+      - description: 12 oz bottle
+        price: '6'
+        title: 'SAPPORO '
       - description: '12 oz bottle '
         price: '6'
         title: 'Heineken '
