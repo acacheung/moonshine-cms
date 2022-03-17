@@ -43,6 +43,6 @@ subgroups:
           Shoestring Fries  
         price: '19'
         title: Chef Asia's Famous Parade Day Corned Beef Sammy
-    title: PARADE DAY MENU 11a-5pm
+    title: ST. PATRICK'S PARADE DAY MENU SUNDAY MARCH 20TH    11a-5pm
 ---
 
