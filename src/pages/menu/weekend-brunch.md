@@ -91,12 +91,6 @@ subgroups:
           Salad, Beansprouts &  Bacony Pho Bone Broth for Dipping 
         price: '28'
         title: 'Menu Addition: Chef Asia''s Famous "Pho-Rrito"'
-      - description: >-
-          Grilled Skirt Steak, Crispy Shrimp Dumplings, Scrambled Eggs, Nuoc
-          Cham Dipping Sauce, Black Garlic Aioli & Sesame Ginger Mixed Greens
-          Salad 
-        price: '29'
-        title: 'Menu Addition: ''Shine Steak n Eggs'
       - description: 'Pan-seared shrimp, Spicy green chili cheese grits, Sherry pan sauce'
         price: '19'
         title: Shrimp & Grits**
