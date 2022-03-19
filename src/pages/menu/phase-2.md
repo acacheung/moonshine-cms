@@ -8,30 +8,6 @@ subgroups:
       All portions available regular or “Go Grande”. Don’t forget to add your
       favorite protein or fixin’s!
     items:
-      - description: >-
-          Chef Asia's ode to the Schitt's Creek "The Lover's Curry" with Sweet
-          Potato Thai Style Curry, Coconut Milk, Braised Pineapple & Penang
-          Spice 
-        price: '12 regular / 19 grande '
-        title: 'Chef''s whim Soup for the soul '
-      - description: >-
-          White Rice smothered in Chef Asia's ode to the Schitt's Creek "The
-          Lover's Curry" with Sweet Potato Thai Style Curry, Coconut Milk,
-          Braised Pineapple & Penang Spice
-        price: '17'
-        title: 'Menu Addition: Smothered Curry Rice'
-      - description: >-
-          Crispy Tater Tots smothered in Chef Asia's ode to the Schitt's Creek
-          "The Lover's Curry" with Sweet Potato Thai Style Curry, Coconut Milk,
-          Braised Pineapple & Penang Spice
-        price: '19'
-        title: 'Menu Addition: Smothered Curry ''Tots'
-      - description: >-
-          House-cut Shoestring Fries smothered in Chef Asia's ode to the
-          Schitt's Creek "The Lover's Curry" with Sweet Potato Thai Style Curry,
-          Coconut Milk, Braised Pineapple & Penang Spice
-        price: '19'
-        title: 'Menu Addition: Smothered Curry Fries'
       - description: >
           Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton crisps,
           Fresh pomegranate, Shaved pecorino cheese
