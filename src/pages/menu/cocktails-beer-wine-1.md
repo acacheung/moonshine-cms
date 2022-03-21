@@ -68,8 +68,11 @@ subgroups:
         price: '6'
         title: Michelob Ultra
       - description: '16 oz can '
-        price: '5'
+        price: '6'
         title: 'Bud Light Black Cherry Seltzer '
+      - description: '12 oz can '
+        price: '5'
+        title: 'White Claw Mango Seltzer '
       - description: 12 oz Bottle
         price: '6'
         title: 'Stella Artois '
@@ -91,6 +94,9 @@ subgroups:
       - description: 16 oz Tallboy Can
         price: '5'
         title: Narragansett Lager
+      - description: '12 oz bottle '
+        price: '5'
+        title: Magners Irish Cider
       - description: '12 oz can '
         price: '6'
         title: 'Downeast Winter Blend Cider '
@@ -109,6 +115,9 @@ subgroups:
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
+      - description: '16 oz tallboy can '
+        price: '7'
+        title: Castle Island Brewing "Keeper" IPA
       - description: '16 oz tallboy can '
         price: '11'
         title: 'Aeronaut (Into the) Citra Galaxy IPA '
