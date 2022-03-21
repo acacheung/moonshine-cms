@@ -101,7 +101,7 @@ subgroups:
         price: '6'
         title: 'Downeast Winter Blend Cider '
       - description: '16 oz tallboy can '
-        price: '6'
+        price: '7'
         title: Stormalong "Mass Appeal" Hard Cider
       - description: '12 oz bottle '
         price: '5'
@@ -140,11 +140,14 @@ subgroups:
   - description: 'please note vintages are subject to change '
     items:
       - description: 'Veneto, Italy '
-        price: 12 / 42
+        price: 11/ 42
         title: '(Sparkling) NV LaMarca Prosecco '
       - description: 'Veneto, ITALY'
         price: 13       (187ml mini bottle)
         title: '(sparkling rose) NV Casa Vinicola Canella Rose Brut '
+      - description: 'Columbia Valley, WA, USA '
+        price: 12 / 44
+        title: (rose) 2019 Charles & Charles Rose
       - description: 'Provence, FR'
         price: 15 / 58
         title: '(Rose) 2020 Château d’Esclan Whispering Angel Rose '
