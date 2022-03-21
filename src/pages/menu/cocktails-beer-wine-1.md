@@ -6,6 +6,12 @@ order: 1
 subgroups:
   - description: ''
     items:
+      - description: >
+          Jameson Orange, Rumhaven Coconut Rum, Orange-Mango Infused Vodka,
+          Botanical Irish Gin & Tangerine Citrus Green Sweet Tea topped with
+          Tropical Red Bull 
+        price: '12'
+        title: castle island iced tea
       - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'House Manhattan '
@@ -44,7 +50,7 @@ subgroups:
   - description: 'please note this menu is subject to change '
     items:
       - price: '5'
-        title: (Draft) Miller High Life
+        title: (Draft) Bud Light
       - price: '5'
         title: '(Draft) Lord Hobo "Hobo Life" Session IPA '
       - description: ''
