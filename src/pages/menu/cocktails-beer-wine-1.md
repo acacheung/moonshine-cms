@@ -12,23 +12,17 @@ subgroups:
           Tropical Red Bull 
         price: '12'
         title: castle island iced tea
-      - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
-        price: '14'
-        title: 'House Manhattan '
-      - description: 'Rye Whiskey, Dark Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
-        price: '13'
-        title: Danish Modern
       - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime '
         price: '13'
         title: PATRON SAINT OF SOUTHIE
+      - description: 'House Infused Spicy Tequilla, Ginger Liqueur, Fresh Lime, Agave '
+        price: '13'
+        title: There's Fire
       - description: >-
           Spicy Firepuncher Vodka, Fresh Cucumber Juice, Fresh Lemon,
           Elderflower
         price: '14'
         title: Farm to Glass
-      - description: 'House Infused Spicy Tequilla, Ginger Liqueur, Fresh Lime, Agave '
-        price: '13'
-        title: There's Fire
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
@@ -38,6 +32,12 @@ subgroups:
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '14'
         title: Moonshine 76
+      - description: 'Rye Whiskey, Dark Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
+        price: '13'
+        title: Danish Modern
+      - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
+        price: '14'
+        title: 'House Manhattan '
       - description: >-
           Mediterranean Red Wine Blend, Ginger Infused Brandy, Hibiscus,  Apple,
           Fresh Citrus 
