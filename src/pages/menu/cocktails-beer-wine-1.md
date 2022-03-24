@@ -85,7 +85,7 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: 'Corona Extra '
-      - description: '12 oz bottle '
+      - description: 12 oz can
         price: '5'
         title: Kona Brewing "Big Wave" Golden Ale
       - description: '16oz tallboy can '
