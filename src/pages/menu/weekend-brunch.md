@@ -86,6 +86,11 @@ subgroups:
   - description: ' (Entrees)'
     items:
       - description: >-
+          Grilled Marinated Skirt Steak, Scrambled Eggs. Chive Garlic Mashed
+          Potatoes, Guinness Gravy & a Petite Mixed Greens Salad 
+        price: '29'
+        title: 'Menu Addition: "''Shine Steak & Eggs"'
+      - description: >-
           Thick-Cut, Tender Beef Brisket wrapped in
           a                                Scallion Pancake with Pho Noodle
           Salad, Beansprouts &  Bacony Pho Bone Broth for Dipping 
