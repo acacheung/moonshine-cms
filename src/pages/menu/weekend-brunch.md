@@ -22,7 +22,7 @@ subgroups:
       - description: 'Prosecco splashed with orange juice '
         price: '11'
         title: 'Classic Mimosa '
-      - description: 'Orange Vodka, Pineapple-orange juice, Prosecco '
+      - description: 'Clementine Vodka, Pineapple-Orange Juice, Prosecco '
         price: '13'
         title: 'Leslie Knope''s Approved Executive Mimosa '
       - description: 'Bison Grass Vodka, Cinnamon, Apple, Lemon '
