@@ -51,8 +51,8 @@ subgroups:
     items:
       - price: '5'
         title: (Draft) Bud Light
-      - price: '5'
-        title: '(Draft) Lord Hobo "Hobo Life" Session IPA '
+      - price: '6'
+        title: '( Castle Island Draft '
       - description: ''
         price: '7'
         title: (DRAFT) Downeast Original Unfiltered Cider
