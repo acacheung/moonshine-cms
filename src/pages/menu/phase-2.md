@@ -26,9 +26,8 @@ subgroups:
       - description: 'Buttermilk fried chicken wings, poblano ranch dressing '
         price: 17 regular / 29 grande
         title: Moonshine’s Boston’s Best Fried Chicken
-      - description: >
-          Chef Asia’s Ode to Schitt’s Creek  "The Lover’s Curry”: Sweet Potato
-          Thai Style Curry, Coconut Milk,  Braised Pineapple & Penang Spice
+      - description: |
+          Creamy Asparagus Potato & Leek Soup 
         price: 12 regular / 19 grande
         title: Chef's Whim Soup For The Soul
     title: Next Level Favorites
