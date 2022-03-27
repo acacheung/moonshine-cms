@@ -7,11 +7,6 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
-          Thick-Cut Corned Beef, Green Chive Mashed Potatoes, Bacony Sauerkraut,
-          Confit-Roasted Tomatoes & Guinness Gravy 
-        price: '28'
-        title: 'Menu Addition: St. Patrick''s Day Corned Beef Platter'
-      - description: >-
           Thick-Cut Corned Beef, ARae’s Favorite Special Sauce, Melted Swiss
           Cheese, Balcony Sauerkraut  Piled High on a Potato Bun with Shoestring
           Fries       
