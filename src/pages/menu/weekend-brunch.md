@@ -176,9 +176,7 @@ subgroups:
     title: All the sides & Fixin's
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
-      - description: >
-          Chef Asia’s Ode to Schitt’s Creek "The Lover's Curry": Sweet Potato
-          Thai Style Curry, Coconut Milk, Braised Pineapple & Penang Spice
+      - description: 'Creamy Asparagus Potato & Leek Soup '
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >
