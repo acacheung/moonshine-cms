@@ -7,12 +7,6 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
-          Thick-Cut Corned Beef, ARae’s Favorite Special Sauce, Melted Swiss
-          Cheese, Balcony Sauerkraut  Piled High on a Potato Bun with Shoestring
-          Fries       
-        price: '19'
-        title: 'Menu Addition: ''Shine famous corned beef sandwich'
-      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
