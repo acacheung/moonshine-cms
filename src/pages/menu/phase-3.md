@@ -86,8 +86,6 @@ subgroups:
     title: Rice Bowls
   - items:
       - price: '7'
-        title: Green Chive Mashed Potatoes w/ Guinness Gravy
-      - price: '7'
         title: House-cut shoestring french fries
       - price: '5'
         title: Steamed White Rice
