@@ -18,7 +18,7 @@ subgroups:
         price: '11'
         title: Jaime’s Favorite Oreo Cookie Layered Fudge Brownie
       - description: >-
-          Butterfinger Ice Cream, Cornflake-Pecan Crunch, Maple Caramel, and
+          Butterfinger Ice Cream, Barnut-Cornflake Crunch, Maple Caramel, and
           Candied Bacon
         price: '15'
         title: Belgian Waffle Ice Cream Sundae
