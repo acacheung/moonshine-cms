@@ -10,11 +10,22 @@ subgroups:
           Jameson Orange, Rumhaven Coconut Rum, Orange-Mango Infused Vodka,
           Botanical Irish Gin & Tangerine Citrus Green Sweet Tea topped with
           Tropical Red Bull 
-        price: '12'
+        price: '10'
         title: castle island iced tea
       - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime '
-        price: '13'
+        price: '12'
         title: PATRON SAINT OF SOUTHIE
+      - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
+        price: '14'
+        title: 'House Manhattan '
+      - description: >-
+          Vanilla-Pear Infused Tennessee Moonshine, Pear Nectar, Cinnamon
+          Simple, Fresh Lemon 
+        price: '13'
+        title: Who's The Bosc
+      - description: 'Rye Whiskey, Dark Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
+        price: '13'
+        title: Danish Modern
       - description: 'House Infused Spicy Tequilla, Ginger Liqueur, Fresh Lime, Agave '
         price: '13'
         title: There's Fire
@@ -32,17 +43,6 @@ subgroups:
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '14'
         title: Moonshine 76
-      - description: 'Rye Whiskey, Dark Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
-        price: '13'
-        title: Danish Modern
-      - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
-        price: '14'
-        title: 'House Manhattan '
-      - description: >-
-          Mediterranean Red Wine Blend, Ginger Infused Brandy, Hibiscus,  Apple,
-          Fresh Citrus 
-        price: '12'
-        title: Sahil's Sangria
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
