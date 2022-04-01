@@ -212,10 +212,11 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          March 2022: St. Patrick's Day Burger: Topped with Green Chive Mashed
-          Potatoes, Guinness Gravy, Rustic Grilled Tomato & Orange Cheddar
-          Cheese    (**As always, can be made with our award-winning Mushroom
-          Tofu patty! ) Served with House Shoestring French Fries 
+          April 2022 Schitt's Creek's Moira Rose's "Creamy" Enchilada Burger
+          topped  with “folded in" Cheesy Corn Queso, “what does burning smell
+          like” Smoky Red Enchilada Sauce, Crispy Tortilla Strips & Sour
+          Cream         (**As always, can be made with our award-winning
+          Mushroom Tofu patty! ) Served with House Shoestring French Fries 
         price: '23'
         title: 'Make Your Burger a VIP Burger of the Month '
     title: All-Day / All-Night Allstars
