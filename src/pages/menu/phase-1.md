@@ -7,12 +7,6 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
-          Iceberg Lettuce, Chopped Egg,  Mediterranean Shredded Carrots, Roasted
-          Beet Crema, Candied Bacon & Freight Farms Marjoram-Goat Cheese
-          Vinaigrette
-        price: 16 regular / 26 grande
-        title: 'Menu Addition: ‘Shine Spring Wedge Salad'
-      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
