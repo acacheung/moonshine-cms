@@ -46,6 +46,11 @@ subgroups:
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
+      - description: >-
+          Mediterranean Red Wine Blend, Brandy, Ginger Liqueur, Hibiscus,
+          Apples, Fresh Citrus 
+        price: '12'
+        title: sahil's sangria
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
