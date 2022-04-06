@@ -57,7 +57,7 @@ subgroups:
       - price: '5'
         title: (Draft) Bud Light
       - price: '6'
-        title: '( Castle Island Draft '
+        title: '(Draft) Castle Island Lager '
       - description: ''
         price: '7'
         title: (DRAFT) Downeast Original Unfiltered Cider
@@ -126,9 +126,6 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '11'
         title: 'Aeronaut (Into the) Citra Galaxy IPA '
-      - description: '16oz tallboy can '
-        price: '10'
-        title: Mighty Squirrel "Cosmic Distortion" IPA
       - description: '16oz tallboy can '
         price: '9'
         title: ClownShoes "Bubble Farm" IPA
