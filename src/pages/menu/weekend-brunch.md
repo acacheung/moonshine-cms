@@ -92,8 +92,8 @@ subgroups:
   - description: ' (Entrees)'
     items:
       - description: >-
-          Grilled Marinated Skirt Steak, Scrambled Eggs. Chive Garlic Mashed
-          Potatoes, Guinness Gravy & a Petite Mixed Greens Salad 
+          Grilled Marinated Skirt Steak, 2 Fried Eggs, Tasso Ham Hollandaise
+          Sauce, Spiced Homefries & a Petite Mixed Greens Salad 
         price: '29'
         title: 'Menu Addition: "''Shine Steak & Eggs"'
       - description: >-
