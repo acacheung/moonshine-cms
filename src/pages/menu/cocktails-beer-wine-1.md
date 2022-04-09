@@ -123,9 +123,6 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '7'
         title: Castle Island Brewing "Keeper" IPA
-      - description: '16 oz tallboy can '
-        price: '11'
-        title: 'Aeronaut (Into the) Citra Galaxy IPA '
       - description: '16oz tallboy can '
         price: '9'
         title: ClownShoes "Bubble Farm" IPA
