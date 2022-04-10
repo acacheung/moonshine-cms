@@ -26,8 +26,9 @@ subgroups:
       - description: 'Buttermilk fried chicken wings, poblano ranch dressing '
         price: 17 regular / 29 grande
         title: Moonshine’s Boston’s Best Fried Chicken
-      - description: |
-          Creamy Asparagus Potato & Leek Soup 
+      - description: >-
+          Thai Coconut Hot N'Sour Soup with Lemongrass, Sliced Mushrooms,
+          Coconut Milk & Lime *Dairy Free
         price: 12 regular / 19 grande
         title: Chef's Whim Soup For The Soul
     title: Next Level Favorites
