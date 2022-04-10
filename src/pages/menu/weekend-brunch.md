@@ -176,7 +176,9 @@ subgroups:
     title: All the sides & Fixin's
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
-      - description: 'Creamy Asparagus Potato & Leek Soup '
+      - description: >-
+          Thai Coconut Hot N'Sour Soup with Lemongrass, Sliced Mushrooms,
+          Coconut Milk & Lime *Dairy Free
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >
