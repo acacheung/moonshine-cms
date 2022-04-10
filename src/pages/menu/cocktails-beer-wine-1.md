@@ -57,7 +57,7 @@ subgroups:
       - price: '5'
         title: (Draft) Bud Light
       - price: '6'
-        title: '(Draft) Castle Island Lager '
+        title: '(Draft) UFO White '
       - price: '7'
         title: '(Draft) Harpoon IPA '
       - description: 16oz draft
