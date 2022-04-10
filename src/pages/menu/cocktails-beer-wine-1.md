@@ -58,9 +58,6 @@ subgroups:
         title: (Draft) Bud Light
       - price: '6'
         title: '(Draft) Castle Island Lager '
-      - description: ''
-        price: '7'
-        title: (DRAFT) Downeast Original Unfiltered Cider
       - price: '7'
         title: '(Draft) Harpoon IPA '
       - description: 16oz draft
