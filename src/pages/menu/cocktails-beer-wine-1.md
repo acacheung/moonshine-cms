@@ -56,7 +56,7 @@ subgroups:
     items:
       - price: '5'
         title: (Draft) Bud Light
-      - price: '6'
+      - price: '7'
         title: '(Draft) UFO White '
       - price: '7'
         title: '(Draft) Harpoon IPA '
