@@ -105,8 +105,8 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '7'
         title: Stormalong "Mass Appeal" Hard Cider
-      - description: '9'
-        price: 16 oz tallboy
+      - description: 16 oz tallboy can
+        price: '9'
         title: 'Idle Hands Craft Ales "gretel" Pilsner '
       - description: '12 oz bottle '
         price: '5'
