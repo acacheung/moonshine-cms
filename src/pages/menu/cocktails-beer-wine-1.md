@@ -13,7 +13,7 @@ subgroups:
         price: '10'
         title: castle (long)  island iced tea
       - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime '
-        price: '12'
+        price: '13'
         title: PATRON SAINT OF SOUTHIE
       - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
