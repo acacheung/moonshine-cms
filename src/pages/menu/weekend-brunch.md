@@ -7,12 +7,6 @@ subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
       - description: >
-          Jameson Orange, Rumhaven Coconut Rum, Orange-Mango Infused Vodka,
-          Botanical Irish Gin & Tangerine Citrus Sweet Tea topped with Tropical
-          Red Bull 
-        price: '12'
-        title: Castle (Long) Island Iced Tea
-      - description: >
           Pair your favorite vodka or tequila with our house bloody mary mix,
           infused with homemade kimchi juice 
 
