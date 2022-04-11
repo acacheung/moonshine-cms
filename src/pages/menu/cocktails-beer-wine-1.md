@@ -125,7 +125,7 @@ subgroups:
         title: Castle Island Brewing "Keeper" IPA
       - description: '16oz tallboy can '
         price: '9'
-        title: ClownShoes "Bubble Farm" IPA
+        title: Lord Hobo "Boom Sauce" Double IPA
       - description: '16 oz tallboy can '
         price: '5'
         title: Narragansett Autocrat Coffee Milk Stout
