@@ -10,7 +10,7 @@ subgroups:
     items:
       - description: >
           Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton crisps,
-          Fresh pomegranate, Shaved pecorino cheese
+          Shaved pecorino cheese
         price: 16 regular / 26 grande
         title: Warm Kale and Quinoa Caesar Salad
       - description: >-
@@ -60,7 +60,7 @@ subgroups:
       - description: 'Boneless beef shortrib, Asian pear kimchi, candied ginger aioli'
         price: 16 regular / 24 grande
         title: Throwback Korean BBQ Tacos
-      - description: 'Slow roasted duck, cabbage, fresh pomegranate, wonton crisps'
+      - description: 'Slow roasted duck, cabbage, wonton crisps'
         price: 17 regular / 25 grande
         title: Charsiu Duck Tacos
       - description: >-
