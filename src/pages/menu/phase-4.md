@@ -18,6 +18,11 @@ subgroups:
       - description: 'Powdered sugar, nutella chocolate fudge sauce'
         price: '11'
         title: Jaime’s Favorite Oreo Cookie Layered Fudge Brownie
+      - description: >-
+          Belgian Waffle, Butterfinger Ice Cream, Candied Bacon,
+          Barnut-Cornflake Crumble, Salted Caramel Sauce
+        price: '15'
+        title: Belgian Waffle Ice Cream Sundae
     title: Sweet Tooth
 ---
 
