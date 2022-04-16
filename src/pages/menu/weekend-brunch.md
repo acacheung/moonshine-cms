@@ -90,12 +90,6 @@ subgroups:
           Sauce, Spiced Homefries & a Petite Mixed Greens Salad 
         price: '29'
         title: 'Menu Addition: "''Shine Steak & Eggs"'
-      - description: >-
-          Thick-Cut, Tender Beef Brisket wrapped in
-          a                                Scallion Pancake with Pho Noodle
-          Salad, Beansprouts &  Bacony Pho Bone Broth for Dipping 
-        price: '28'
-        title: 'Menu Addition: Chef Asia''s Famous "Pho-Rrito"'
       - description: 'Pan-seared shrimp, Spicy green chili cheese grits, Sherry pan sauce'
         price: '19'
         title: Shrimp & Grits**
