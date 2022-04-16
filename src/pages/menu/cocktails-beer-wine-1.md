@@ -49,7 +49,7 @@ subgroups:
   - description: 'please note this menu is subject to change '
     items:
       - price: '5'
-        title: (Draft) Bud Light
+        title: (Draft) Miller High Life
       - price: '7'
         title: '(Draft) UFO White '
       - price: '7'
