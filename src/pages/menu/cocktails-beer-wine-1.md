@@ -66,9 +66,6 @@ subgroups:
       - description: '16 oz can '
         price: '6'
         title: 'Bud Light Black Cherry Seltzer '
-      - description: '12 oz can '
-        price: '5'
-        title: 'White Claw Mango Seltzer '
       - description: 12 oz Bottle
         price: '6'
         title: 'Stella Artois '
