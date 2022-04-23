@@ -126,9 +126,9 @@ subgroups:
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
-      - description: '12 oz can '
-        price: '7'
-        title: Sam Adams "Just The Haze" IPA (non-alcoholic)
+      - description: '12 oz bottle '
+        price: '6'
+        title: Heineken Zero (non-alcoholic)
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
