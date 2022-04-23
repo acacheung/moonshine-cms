@@ -50,10 +50,13 @@ subgroups:
     items:
       - price: '5'
         title: (Draft) Miller High Life
+      - description: ''
+        price: '5'
+        title: (Draft) Berkshire Brewing Co. Lager
       - price: '7'
         title: '(Draft) Harpoon IPA '
       - price: '7'
-        title: (Downeast Unfiltered Cider)
+        title: (Draft) Downeast Unfiltered Cider
       - description: 16oz draft
         price: '8'
         title: '(DRAFT) Dorchester Brewing Company "Galaxy Lights" NE IPA '
@@ -102,9 +105,6 @@ subgroups:
       - description: 16 oz tallboy can
         price: '9'
         title: 'Idle Hands Craft Ales "gretel" Pilsner '
-      - description: '12 oz bottle '
-        price: '5'
-        title: Cisco brewing "grey lady" wheat ale
       - description: '16oz tallboy can '
         price: '7'
         title: 'Allagash White '
