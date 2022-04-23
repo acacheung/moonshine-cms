@@ -51,9 +51,9 @@ subgroups:
       - price: '5'
         title: (Draft) Miller High Life
       - price: '7'
-        title: '(Draft) UFO White '
-      - price: '7'
         title: '(Draft) Harpoon IPA '
+      - price: '7'
+        title: (Downeast Unfiltered Cider)
       - description: 16oz draft
         price: '8'
         title: '(DRAFT) Dorchester Brewing Company "Galaxy Lights" NE IPA '
@@ -63,9 +63,12 @@ subgroups:
       - description: 12 oz bottle
         price: '6'
         title: Michelob Ultra
-      - description: '16 oz can '
+      - description: '12 oz can '
         price: '6'
         title: 'Bud Light Black Cherry Seltzer '
+      - description: 12 oz can
+        price: '5'
+        title: Mango White Claw
       - description: 12 oz Bottle
         price: '6'
         title: 'Stella Artois '
