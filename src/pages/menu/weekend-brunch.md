@@ -29,9 +29,6 @@ subgroups:
         title: 'Fazenda Roasters Brewed Coffee (Available Iced) '
       - price: '4'
         title: 'Unsweetened Iced Tea '
-      - description: New Batch Each Weekend! Ask your server for this weekend's selection
-        price: '6'
-        title: ARae's Brunch Iced tea Special
       - price: '5'
         title: 'Arnold Palmer '
       - price: '5'
