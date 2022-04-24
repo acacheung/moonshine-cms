@@ -57,9 +57,6 @@ subgroups:
         title: '(Draft) Harpoon IPA '
       - price: '7'
         title: (Draft) Downeast Unfiltered Cider
-      - description: 16oz draft
-        price: '8'
-        title: '(DRAFT) Dorchester Brewing Company "Galaxy Lights" NE IPA '
       - description: '12 oz bottle '
         price: '6'
         title: 'Budweiser/ Bud Light '
