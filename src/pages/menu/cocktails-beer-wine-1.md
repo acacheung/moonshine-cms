@@ -53,6 +53,8 @@ subgroups:
       - description: ''
         price: '5'
         title: (Draft) Berkshire Brewing Co. Lager
+      - price: '8'
+        title: '(draft) Dorchester brewing co. "galaxy lights" IPA '
       - price: '7'
         title: '(Draft) Harpoon IPA '
       - price: '7'
