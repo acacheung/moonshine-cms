@@ -31,6 +31,9 @@ subgroups:
         title: 'Unsweetened Iced Tea '
       - price: '5'
         title: 'Arnold Palmer '
+      - description: 'Changes every weekend! Ask your server for this weekend''s selection '
+        price: '6'
+        title: ARae's Rotating Weekend Iced Tea Special
       - price: '5'
         title: Fresh Lemonade/ Limeade
       - description: 'Apple, Orange, Grapefruit, Cranberry, Pineapple '
