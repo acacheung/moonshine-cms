@@ -93,7 +93,7 @@ subgroups:
         price: '5'
         title: Narragansett Lager
       - description: '12 oz bottle '
-        price: '5'
+        price: '4'
         title: Magners Irish Cider
       - description: '12 oz can '
         price: '6'
