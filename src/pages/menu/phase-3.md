@@ -17,14 +17,11 @@ subgroups:
         price: '19'
         title: Grass-fed ’Shine Beef Burger**
       - description: >-
-          with “folded in” Cheesy Corn Queso, “what does burning smell like”
-          Smoky Red Enchilada Sauce, Crispy Tortilla Strips & Sour Cream (**As
-          always, can be made with our award-winning Mushroom Tofu patty! )
-          Served with House Shoestring French Fries 
+          topped with Creamy Feta Cheese Spread, English Peas, Cucumber & Crispy
+          Pancetta  (**As always, can be made with our award-winning Mushroom
+          Tofu patty! ) Served with House Shoestring French Fries 
         price: '23'
-        title: >-
-          April 2022 Burger of the Month: Schitt's Creek Moira Rose's "Creamy"
-          Enchilada Burger 
+        title: 'May 2022 Burger of the Month: "Spring Has Sprung" Burger '
       - description: >-
           Pulled Braised Beef Shortrib, Brioche, Melted 3-Cheese Blend & Served
           with a cup of Spicy Tomato Soup **available vegetarian for $21** Don't
