@@ -202,11 +202,10 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          April 2022 Schitt's Creek's Moira Rose's "Creamy" Enchilada Burger
-          topped  with “folded in" Cheesy Corn Queso, “what does burning smell
-          like” Smoky Red Enchilada Sauce, Crispy Tortilla Strips & Sour
-          Cream         (**As always, can be made with our award-winning
-          Mushroom Tofu patty! ) Served with House Shoestring French Fries 
+          May 2022: "Spring Has Sprung"Burger topped with Creamy Feta Cheese
+          Spread, English Peas, Cucumber & Crispy Pancetta (**As always, can be
+          made with our award-winning Mushroom Tofu patty! ) Served with House
+          Shoestring French Fries 
         price: '23'
         title: 'Make Your Burger a VIP Burger of the Month '
     title: All-Day / All-Night Allstars
