@@ -93,10 +93,10 @@ subgroups:
         price: '5'
         title: Narragansett Lager
       - description: '12 oz bottle '
-        price: '4'
-        title: Magners Irish Cider
-      - description: '12 oz can '
         price: '6'
+        title: 'Ace Pineapple Cider '
+      - description: '12 oz can '
+        price: '5'
         title: 'Downeast Winter Blend Cider '
       - description: '16 oz tallboy can '
         price: '7'
