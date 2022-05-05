@@ -99,7 +99,7 @@ subgroups:
         price: '5'
         title: 'Downeast Winter Blend Cider '
       - description: '16 oz tallboy can '
-        price: '7'
+        price: '6'
         title: Stormalong "Mass Appeal" Hard Cider
       - description: 16oz tallboy can
         price: '8'
