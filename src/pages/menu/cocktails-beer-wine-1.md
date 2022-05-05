@@ -6,6 +6,11 @@ order: 1
 subgroups:
   - description: ''
     items:
+      - description: >-
+          Fresh Pressed Watermelon Juice, Agave, Lime & Your Choice of Either
+          Blanco Tequila OR House Infused Spicy Blanco Tequila 
+        price: '13'
+        title: 'Cinco de Mayo Cocktail Special: Fresh Watermelon Margaritas'
       - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime '
         price: '13'
         title: PATRON SAINT OF SOUTHIE
