@@ -7,10 +7,10 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
-          Local Burrata Cheese, Bourbon Fresh Figs, Sliced Prosciutto on a
-          Petite Mixed Greens Salad with Rosemary Brioche Crostini    
-        price: 17 regular / 26 grande
-        title: 'Menu Addition: Creamy Burrata & Fig'
+          Chipotle Tex-Mex Beef Chili, Black Beans, Melted Queso, Red Cabbage
+          Salsa Fresca, Crispy Corn Tortilla & Sour Cream
+        price: '26'
+        title: 'Menu Addition:  Cinco de Mayo Chili Con Carne Nachos'
       - description: >-
           Iceberg Lettuce, Chopped Egg, Mediterranean Shredded Carrots, Roasted
           Beet Crema, Candied Bacon & Freight Farms Marjoram-Goat Cheese
