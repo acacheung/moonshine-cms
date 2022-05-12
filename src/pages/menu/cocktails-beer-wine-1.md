@@ -34,6 +34,11 @@ subgroups:
       - description: 'Mezcal, Aperol Aperitif, Yellow Chartreuse, Lime '
         price: '13'
         title: Naked & Famous
+      - description: >-
+          Clementine-Grapefruit Vodka, Meyer Lemon, Elderflower, Fresh Lime,
+          Lychee, Yuzu Lime Soda 
+        price: '13'
+        title: 'Channelside Spritz '
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '14'
         title: Moonshine 76
@@ -53,8 +58,8 @@ subgroups:
       - description: ''
         price: '5'
         title: (Draft) Berkshire Brewing Co. Lager
-      - price: '8'
-        title: '(draft) Dorchester brewing co. "galaxy lights" IPA '
+      - price: '7'
+        title: '(draft) UFO White '
       - price: '7'
         title: '(Draft) Harpoon IPA '
       - price: '7'
