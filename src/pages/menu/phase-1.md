@@ -7,11 +7,6 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
-          Chipotle Tex-Mex Beef Chili, Black Beans, Melted Queso, Red Cabbage
-          Salsa Fresca, Crispy Corn Tortilla & Sour Cream
-        price: '26'
-        title: 'Menu Addition:  Cinco de Mayo Chili Con Carne Nachos'
-      - description: >-
           Iceberg Lettuce, Chopped Egg, Mediterranean Shredded Carrots, Roasted
           Beet Crema, Candied Bacon & Freight Farms Marjoram-Goat Cheese
           Vinaigrette
