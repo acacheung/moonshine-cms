@@ -55,12 +55,6 @@ subgroups:
         price: 16 / 26
         title: 'Menu Addition: ‘Shine Spring Wedge Salad'
       - description: >-
-          Local Burrata Cheese, Bourbon Fresh Figs, Sliced Prosciutto on a
-          Petite Mixed Greens Salad                            with Rosemary
-          Brioche Crostini 
-        price: 17 / 26
-        title: 'Menu Addition: Creamy Burrata & Fig '
-      - description: >-
           Local honey, Fresh berries, Sunflower seed-oat crumble **add a belgian
           waffle $7**
         price: 9 / 14
