@@ -27,8 +27,8 @@ subgroups:
         price: 17 regular / 29 grande
         title: Moonshine’s Boston’s Best Fried Chicken
       - description: >-
-          Thai Coconut Hot N'Sour Soup with Lemongrass, Sliced Mushrooms,
-          Coconut Milk & Lime *Dairy Free
+          Chili con Carne: Simmered Black Bean & Ground Brisket Chili, Pickled
+          Cabbage Salsa & Sour Cream 
         price: 12 regular / 19 grande
         title: Chef's Whim Soup For The Soul
     title: Next Level Favorites
