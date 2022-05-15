@@ -171,8 +171,8 @@ subgroups:
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >-
-          Thai Coconut Hot N'Sour Soup with Lemongrass, Sliced Mushrooms,
-          Coconut Milk & Lime *Dairy Free
+          Chili con Carne: Simmered Black Bean & Ground Brisket Chili, Pickled
+          Cabbage Salsa & Sour Cream 
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >
