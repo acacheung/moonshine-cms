@@ -13,6 +13,11 @@ subgroups:
         price: 16 regular / 26 grande
         title: 'Menu Addition: ''shine Spring wedge salad '
       - description: >-
+          Ginger-Tuna Poke, Baby Shrimp Salad, Crispy Wonton Chips, Avocado,
+          Tobiko, Pineapple Salsa Fresca & Teriyaki Glaze 
+        price: '29'
+        title: 'Menu Addition: Hawaiin Poke Nachos'
+      - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
         price: 10 regular / 14 grande
