@@ -23,9 +23,9 @@ subgroups:
           truffled teriyaki sauce
         price: 17 regular / 27 grande
         title: Party Sprouts
-      - description: 'Buttermilk fried chicken wings, poblano ranch dressing '
+      - description: 'Served with Poblano ranch dressing '
         price: 17 regular / 29 grande
-        title: Moonshine’s Boston’s Best Fried Chicken
+        title: Moonshine’s Boston’s Best Fried Chicken wings
       - description: >-
           Chili con Carne: Simmered Black Bean & Ground Brisket Chili, Pickled
           Cabbage Salsa & Sour Cream 
