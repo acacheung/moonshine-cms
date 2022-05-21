@@ -12,11 +12,6 @@ subgroups:
       - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'House Manhattan '
-      - description: >-
-          Vanilla-Pear Infused Tennessee Moonshine, Pear Nectar, Cinnamon
-          Simple, Fresh Lemon 
-        price: '13'
-        title: Who's The Bosc
       - description: 'Rye Whiskey, Dark Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
         price: '13'
         title: Danish Modern
