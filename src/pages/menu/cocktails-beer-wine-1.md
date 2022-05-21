@@ -58,8 +58,8 @@ subgroups:
       - description: ''
         price: '5'
         title: (Draft) Berkshire Brewing Co. Lager
-      - price: '7'
-        title: '(draft) UFO White '
+      - price: '8'
+        title: '(draft) Dorchester Brewing Co. "Galaxy Lights" IPA '
       - price: '7'
         title: '(Draft) Harpoon IPA '
       - price: '7'
