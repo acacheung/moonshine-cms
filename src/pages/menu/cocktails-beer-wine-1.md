@@ -114,6 +114,9 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '7'
         title: Castle Island Brewing "Keeper" IPA
+      - description: '16 oz tallboy can '
+        price: '9'
+        title: Berkshire Brewing Co. "Dandy Lion Haze"IPA
       - description: '16oz tallboy can '
         price: '9'
         title: Lord Hobo "Boom Sauce" Double IPA
