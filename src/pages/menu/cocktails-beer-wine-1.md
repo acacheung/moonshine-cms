@@ -62,7 +62,10 @@ subgroups:
         title: Michelob Ultra
       - description: '12 oz can '
         price: '6'
-        title: 'Bud Light Black Cherry Seltzer '
+        title: 'Bud Light Black Cherry Hard Seltzer '
+      - description: '12 oz can '
+        price: '6 '
+        title: High Noon Pineapple Hard Seltzer
       - description: 12 oz Bottle
         price: '6'
         title: 'Stella Artois '
@@ -88,7 +91,7 @@ subgroups:
         price: '6'
         title: 'Ace Pineapple Cider '
       - description: '12 oz can '
-        price: '5'
+        price: '4'
         title: 'Downeast Winter Blend Cider '
       - description: '16 oz tallboy can '
         price: '6'
@@ -103,7 +106,7 @@ subgroups:
         price: '7'
         title: 'Allagash White '
       - description: '16 oz tallboy can '
-        price: '7'
+        price: '5'
         title: Jack's Abby "Red Tape" Amber Ale
       - description: '12 oz bottle '
         price: '7'
@@ -126,6 +129,9 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: Heineken Zero (non-alcoholic)
+      - description: '12 oz can '
+        price: '6'
+        title: Athletic Brewing Co. "Free Wave" Hazy IPA (non-alcoholic)
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
@@ -144,9 +150,9 @@ subgroups:
       - description: 'Veneto, Italy '
         price: 11 / 40
         title: (White) 2019 Zenato Pinot Grigio della Venezie
-      - description: 'Central Coast, CA, USA '
+      - description: 'Willamette Valley, ORE , USA '
         price: 11 / 40
-        title: '(White) 2019 SeaGlass Wine Co. Riesling '
+        title: '(White) 2020 Willamette Valley Vineyards Riesling '
       - description: 'Napa Valley, CA, USA '
         price: 11 / 42
         title: 2019 (White)  Grayson Cellars Chardonnay
@@ -161,7 +167,7 @@ subgroups:
         title: (red) 2020 Argento Malbec
       - description: 'Columbia valley, WA, USA '
         price: '12 / 45 '
-        title: '(red) 2017 Charles & Charles cabernet/syrah blend '
+        title: '(red) 2018 Charles & Charles cabernet/syrah blend '
       - description: 'Napa, California USA '
         price: 12 / 45
         title: '(Red) 2020 Contour Cabernet Sauvignon '
