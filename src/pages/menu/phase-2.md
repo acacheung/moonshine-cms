@@ -27,7 +27,7 @@ subgroups:
         price: 17 regular / 29 grande
         title: Moonshine’s Boston’s Best Fried Chicken wings
       - description: >-
-          Spicy Tomato Bisque, severed with olive oil roasted kale and scallion
+          Spicy Tomato Bisque, served with olive oil roasted kale and scallion
           oil
         price: 12 regular / 19 grande
         title: Chef's Whim Soup For The Soul
