@@ -17,11 +17,10 @@ subgroups:
         price: '19'
         title: Grass-fed ’Shine Beef Burger**
       - description: >-
-          topped with Creamy Feta Cheese Spread, English Peas, Cucumber & Crispy
-          Pancetta  (**As always, can be made with our award-winning Mushroom
-          Tofu patty! ) Served with House Shoestring French Fries 
+          "Green Eggs and Spam". with pesto eggs and potato salad, grilled Spam
+          and pimento cheese
         price: '23'
-        title: 'May 2022 Burger of the Month: "Spring Has Sprung" Burger '
+        title: 'June 2022 Burger of the Month: "Picnic Burger 4.0" Burger '
       - description: >-
           Pulled Braised Beef Shortrib, Brioche, Melted 3-Cheese Blend & Served
           with a cup of Spicy Tomato Soup **available vegetarian for $21** Don't
