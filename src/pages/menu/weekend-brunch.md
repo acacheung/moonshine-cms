@@ -208,10 +208,10 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          May 2022: "Spring Has Sprung"Burger topped with Creamy Feta Cheese
-          Spread, English Peas, Cucumber & Crispy Pancetta (**As always, can be
-          made with our award-winning Mushroom Tofu patty! ) Served with House
-          Shoestring French Fries 
+          June 2022: "The Picnic Burger 4.0...Green Eggs & Spam" topped with
+          Basil Pesto Potato-Egg Salad, Creamy Pimento Cheese Spread & Grilled
+          Spam (**As always, can be made with our award-winning Mushroom Tofu
+          patty! ) Served with House Shoestring French Fries 
         price: '23'
         title: 'Make Your Burger a VIP Burger of the Month '
     title: All-Day / All-Night Allstars
