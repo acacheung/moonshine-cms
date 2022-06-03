@@ -18,7 +18,9 @@ subgroups:
         title: Grass-fed ’Shine Beef Burger**
       - description: >-
           "Green Eggs & Spam" topped with Basil Pesto Potato-Egg Salad, Creamy
-          Pimento Cheese Spread & Grilled Spam
+          Pimento Cheese Spread & Grilled Spam  (**As always, can be made with
+          our award-winning Mushroom Tofu patty! ) Served with House Shoestring
+          French Fries 
         price: '23'
         title: 'June 2022 Burger of the Month: "Picnic Burger 4.0" Burger '
       - description: >-
