@@ -170,9 +170,9 @@ subgroups:
     title: All the sides & Fixin's
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
-      - description: >-
-          Chili con Carne: Simmered Black Bean & Ground Brisket Chili, Pickled
-          Cabbage Salsa & Sour Cream 
+      - description: >
+          Thai Hot n’ Sour Coconut Soup with Button Mushrooms, Lemongrass &
+          Coconut Milk
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >
