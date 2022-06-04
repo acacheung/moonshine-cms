@@ -16,10 +16,10 @@ subgroups:
         price: '11'
         title: Jaime’s Favorite Oreo Cookie Layered Fudge Brownie
       - description: >-
-          Belgian Waffle, Butterfinger Ice Cream, Candied Bacon,
-          Barnut-Cornflake Crumble, Salted Caramel Sauce
+          Warm  Belgian Waffle, Blueberry Sorbet, Whipped Cream Cheese Topping,
+          Blueberry Preserves, Toasted Almond Shortbread 
         price: '15'
-        title: Belgian Waffle Ice Cream Sundae
+        title: Blueberry Jamboree Belgian Waffle Ice Cream Sundae
     title: Sweet Tooth
 ---
 
