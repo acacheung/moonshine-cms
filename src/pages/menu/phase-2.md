@@ -26,9 +26,9 @@ subgroups:
       - description: 'Served with Poblano ranch dressing '
         price: 17 regular / 29 grande
         title: Moonshine’s Boston’s Best Fried Chicken wings
-      - description: >-
-          Spicy Tomato Bisque, served with olive oil roasted kale and scallion
-          oil
+      - description: >
+          Thai Hot n’ Sour Coconut Soup with Button Mushrooms, Lemongrass &
+          Coconut Milk
         price: 12 regular / 19 grande
         title: Chef's Whim Soup For The Soul
     title: Next Level Favorites
