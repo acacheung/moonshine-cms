@@ -7,10 +7,10 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          All The Colors of the Rainbow! Cranberry-Blueberry Vodka, Clementine
-          Vodka, Creme de Cassis (black currant liqueur), Housemade "Fruit
-          Punch" made with Honeydew Melon, Kiwi, Pears, Mandarin Orange, Mixed
-          Berries & Fresh Citrus topped with Soda 
+          Made with the colors of the Rainbow! Cranberry-Blueberry Vodka,
+          Clementine Vodka, Creme de Cassis (black currant liqueur), Housemade
+          "Fruit Punch" made with Honeydew Melon, Kiwi, Pears, Mandarin Orange,
+          Mixed Berries & Fresh Citrus topped with Soda 
 
           **from all of us at Moonshine 152, Happy Pride Month! Love is Love!**
         price: '12'
