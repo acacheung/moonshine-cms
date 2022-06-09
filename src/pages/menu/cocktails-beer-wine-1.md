@@ -6,6 +6,15 @@ order: 1
 subgroups:
   - description: ''
     items:
+      - description: >-
+          All The Colors of the Rainbow! Cranberry-Blueberry Vodka, Clementine
+          Vodka, Creme de Cassis (black currant liqueur), Housemade "Fruit
+          Punch" made with Honeydew Melon, Kiwi, Pears, Mandarin Orange, Mixed
+          Berries & Fresh Citrus topped with Soda 
+
+          **from all of us at Moonshine 152, Happy Pride Month! Love is Love!**
+        price: '12'
+        title: '*PRIDE PUNCH*'
       - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime '
         price: '13'
         title: PATRON SAINT OF SOUTHIE
@@ -15,6 +24,11 @@ subgroups:
       - description: 'Rye Whiskey, Dark Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
         price: '13'
         title: Danish Modern
+      - description: >-
+          House Infused Vanilla-Pear Tennessee Moonshine, Pear Nectar, Cinnamon
+          Simple, Fresh Lemon
+        price: '13'
+        title: Who's The Bosc
       - description: 'House Infused Spicy Tequilla, Ginger Liqueur, Fresh Lime, Agave '
         price: '13'
         title: There's Fire
@@ -40,6 +54,11 @@ subgroups:
           Apples, Fresh Citrus 
         price: '12'
         title: sahil's sangria
+      - description: >-
+          Mediterranean White Wine Blend, Peach Liqueur, Orange Brandy, Apricot
+          Puree, Fresh Citrus 
+        price: '12'
+        title: ARae's Apricot-Peach White Sangria
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
