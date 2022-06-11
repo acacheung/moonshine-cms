@@ -97,6 +97,9 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: 'Corona Extra '
+      - description: '12 oz can '
+        price: '6'
+        title: Provincetown "Golden Hook" Golden Ale
       - description: 12 oz can
         price: '5'
         title: Kona Brewing "Big Wave" Golden Ale
