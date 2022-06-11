@@ -157,6 +157,9 @@ subgroups:
       - description: 'Veneto, Italy '
         price: 11/ 42
         title: '(Sparkling) NV LaMarca Prosecco '
+      - description: 'Reims, FR'
+        price: '95 bottle '
+        title: '(sparkling) NV Veuve Clicquot Yellow Label Champagne '
       - description: 'Veneto, ITALY'
         price: 13       (187ml mini bottle)
         title: '(sparkling rose) NV Casa Vinicola Canella Rose Brut '
