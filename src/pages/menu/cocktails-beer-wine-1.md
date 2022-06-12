@@ -122,7 +122,7 @@ subgroups:
         price: '8'
         title: Mikeller Brewing "Passion Pool" Sour Gose
       - description: 16 oz tallboy can
-        price: '9'
+        price: '6'
         title: 'Idle Hands Craft Ales "gretel" Pilsner '
       - description: '16oz tallboy can '
         price: '7'
