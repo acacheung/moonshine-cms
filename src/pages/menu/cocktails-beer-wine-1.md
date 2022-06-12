@@ -140,7 +140,7 @@ subgroups:
         price: '9'
         title: Berkshire Brewing Co. "Dandy Lion Haze"IPA
       - description: '16oz tallboy can '
-        price: '9'
+        price: '7'
         title: Lord Hobo "Boom Sauce" Double IPA
       - description: '16 oz tallboy can '
         price: '5'
