@@ -121,12 +121,12 @@ subgroups:
       - description: 16oz tallboy can
         price: '8'
         title: Mikeller Brewing "Passion Pool" Sour Gose
-      - description: 16 oz tallboy can
-        price: '6'
-        title: 'Idle Hands Craft Ales "gretel" Pilsner '
       - description: '16oz tallboy can '
         price: '7'
         title: 'Allagash White '
+      - description: '16 oz tallboy can '
+        price: '7'
+        title: Bell's Brewing "Oberon" Wheat Ale
       - description: '16 oz tallboy can '
         price: '5'
         title: Jack's Abby "Red Tape" Amber Ale
@@ -137,11 +137,11 @@ subgroups:
         price: '7'
         title: Castle Island Brewing "Keeper" IPA
       - description: '16 oz tallboy can '
-        price: '9'
+        price: '8'
         title: Berkshire Brewing Co. "Dandy Lion Haze"IPA
-      - description: '16oz tallboy can '
-        price: '7'
-        title: Lord Hobo "Boom Sauce" Double IPA
+      - description: '16 oz tallboy can '
+        price: '9'
+        title: Springdale Beer Co. "Spiritual Gangster" Hazy IPA
       - description: '16 oz tallboy can '
         price: '5'
         title: Narragansett Autocrat Coffee Milk Stout
@@ -170,20 +170,20 @@ subgroups:
         price: 15 / 58
         title: '(Rose) 2020 Château d’Esclan Whispering Angel Rose '
       - description: 'Veneto, Italy '
-        price: 11 / 40
-        title: (White) 2019 Zenato Pinot Grigio della Venezie
+        price: 9 / 36
+        title: '(White) 2019 Zenato Pinot Grigio '
       - description: 'Willamette Valley, ORE , USA '
-        price: 11 / 40
+        price: 9 / 36
         title: '(White) 2020 Willamette Valley Vineyards Riesling '
       - description: 'Napa Valley, CA, USA '
-        price: 11 / 42
+        price: 11 / 40
         title: 2019 (White)  Grayson Cellars Chardonnay
       - description: 'Marlborough, New Zealand '
         price: 13 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
       - description: 'Monterey County, CA, USA '
-        price: '13/ 50 '
-        title: '(RED) 2018 Cloudfall Monterey County Pinot Noir '
+        price: 12 / 46
+        title: '(RED) 2018 Cloudfall Pinot Noir '
       - description: 'Mendoza, Argentina '
         price: 12 / 46
         title: (red) 2020 Argento Malbec
