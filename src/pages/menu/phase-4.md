@@ -16,7 +16,7 @@ subgroups:
         price: '11'
         title: Jaime’s Favorite Oreo Cookie Layered Fudge Brownie
       - description: >-
-          Warm  Belgian Waffle, Blackberry Ice Cream, Whipped Cream Cheese
+          Warm  Belgian Waffle, Black Raspberry Ice Cream, Whipped Cream Cheese
           Topping, Summer Berry Compote, Toasted Almond Shortbread 
         price: '15'
         title: Summer Berry Jamboree Belgian Waffle Ice Cream Sundae
