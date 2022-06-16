@@ -44,11 +44,6 @@ subgroups:
         price: Mkt
         title: Cajun Grilled Fish of the Day**
       - description: >-
-          Brown Butter braised Rabbit, Campanelle Pasta, Roasted Local Squash,
-          Candied Sesame Walnuts, Louisiana Cream Sauce, Aged Balsamic 
-        price: '29'
-        title: Brown Butter braised Rabbit pasta
-      - description: >-
           Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
         price: '29'
