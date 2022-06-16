@@ -16,8 +16,8 @@ subgroups:
         price: '11'
         title: Jaime’s Favorite Oreo Cookie Layered Fudge Brownie
       - description: >-
-          Warm  Belgian Waffle, Blueberry Sorbet, Whipped Cream Cheese Topping,
-          Blueberry Preserves, Toasted Almond Shortbread 
+          Warm  Belgian Waffle, Blackberry Ice Cream, Whipped Cream Cheese
+          Topping, Blueberry Preserves, Toasted Almond Shortbread 
         price: '15'
         title: Blueberry Jamboree Belgian Waffle Ice Cream Sundae
     title: Sweet Tooth
