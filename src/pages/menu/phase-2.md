@@ -9,6 +9,16 @@ subgroups:
       favorite protein or fixin’s!
     items:
       - description: >
+          Thai Hot n’ Sour Coconut Soup with Button Mushrooms, Lemongrass &
+          Coconut Milk
+        price: 12 regular / 19 grande
+        title: Chef's Whim Soup For The Soul
+      - description: >-
+          Grilled Local Sweet Corn, Marinated Tomatoes, Citrus Aioli, Crumbled
+          Cotija Cheese 
+        price: 17 regular / 29 grande
+        title: '''Shine Grilled Summer Street Corn Salad'
+      - description: >
           Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton crisps,
           Shaved pecorino cheese
         price: 16 regular / 26 grande
@@ -26,11 +36,6 @@ subgroups:
       - description: 'Served with Poblano ranch dressing '
         price: 17 regular / 29 grande
         title: Moonshine’s Boston’s Best Fried Chicken wings
-      - description: >
-          Thai Hot n’ Sour Coconut Soup with Button Mushrooms, Lemongrass &
-          Coconut Milk
-        price: 12 regular / 19 grande
-        title: Chef's Whim Soup For The Soul
     title: Next Level Favorites
   - description: Add your favorite proteins to anything!
     items:
