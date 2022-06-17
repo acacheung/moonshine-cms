@@ -48,6 +48,11 @@ subgroups:
           macerated tomatoes
         price: '29'
         title: Spanish Tapas Style Steak Frites**
+      - description: >-
+          Charsiu Glazed Pork Ribs, 'Shine Famous Grilled Street Corn Salad,
+          Citrus Aioli, Crumbled Cotija Cheese 
+        price: '29'
+        title: Chinatown BBQ Pork Ribs
     title: The Main Affair
   - description: Swap out your white rice for mixed greens for 2
     items:
