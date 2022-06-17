@@ -39,22 +39,24 @@ subgroups:
     title: Next Level Favorites
   - description: Add your favorite proteins to anything!
     items:
-      - price: '13'
-        title: Roasted Statler Chicken Breast
-      - price: '14'
-        title: House Crispy Chicken Nuggies
-      - price: '14'
-        title: Organic Grass-fed Skirt Steak**
-      - price: '14'
-        title: Spicy Lamb Meatballs
-      - price: '13'
-        title: Pulled Chinatown Style Roasted Duck
-      - description: add cheddar cheese 2
-        price: '10'
-        title: Grass-fed Beef Burger Patty**
       - description: add cheddar cheese 2
         price: '10'
         title: Chef Asia’s Famous Vegan  Mushroom Tofu Burger Patty
+      - description: add cheddar cheese 2
+        price: '10'
+        title: Grass-fed Beef Burger Patty**
+      - price: '14'
+        title: Spicy Lamb Meatballs
+      - price: '14'
+        title: House Crispy Chicken Nuggies
+      - price: '13'
+        title: Roasted Statler Chicken Breast
+      - price: '14'
+        title: Organic Grass-fed Skirt Steak**
+      - price: '13'
+        title: Pulled Chinatown Style Roasted Duck
+      - price: '15 '
+        title: Charsiu Glazed BBQ Pork Ribs
       - price: '13'
         title: Sautéed Baby Shrimp**
       - price: '15'
