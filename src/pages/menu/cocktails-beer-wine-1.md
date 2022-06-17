@@ -178,6 +178,9 @@ subgroups:
       - description: 'Napa Valley, CA, USA '
         price: 11 / 40
         title: 2019 (White)  Grayson Cellars Chardonnay
+      - description: 'California, USA'
+        price: 12  /  40
+        title: '2020 Conundrum by Caymus Vineyards  White Wine Blend '
       - description: 'Marlborough, New Zealand '
         price: 13 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
