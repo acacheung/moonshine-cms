@@ -121,8 +121,8 @@ subgroups:
       - description: 16oz tallboy can
         price: '8'
         title: Mikeller Brewing "Passion Pool" Sour Gose
-      - description: '16oz tallboy can '
-        price: '7'
+      - description: 12oz bottle
+        price: '6'
         title: 'Allagash White '
       - description: '16 oz tallboy can '
         price: '7'
