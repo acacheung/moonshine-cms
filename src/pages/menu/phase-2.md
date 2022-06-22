@@ -8,9 +8,9 @@ subgroups:
       All portions available regular or “Go Grande”. Don’t forget to add your
       favorite protein or fixin’s!
     items:
-      - description: >
-          Thai Hot n’ Sour Coconut Soup with Button Mushrooms, Lemongrass &
-          Coconut Milk
+      - description: >-
+          Summer Tomato-Lobster Bisque: Sweet corn, Roasted tomato-lobster
+          stock, Scallion oil 
         price: 12 regular / 19 grande
         title: Chef's Whim Soup For The Soul
       - description: >-
