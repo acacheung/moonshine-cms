@@ -6,15 +6,6 @@ order: 1
 subgroups:
   - description: ''
     items:
-      - description: >-
-          Made with the colors of the Rainbow! Cranberry-Blueberry Vodka,
-          Clementine Vodka, Creme de Cassis (black currant liqueur), Housemade
-          "Fruit Punch" made with Honeydew Melon, Kiwi, Pears, Mandarin Orange,
-          Mixed Berries & Fresh Citrus topped with Soda 
-
-          **from all of us at Moonshine 152, Happy Pride Month! Love is Love!**
-        price: '12'
-        title: '*PRIDE PUNCH*'
       - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime '
         price: '13'
         title: PATRON SAINT OF SOUTHIE
