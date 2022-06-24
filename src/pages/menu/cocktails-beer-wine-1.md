@@ -92,7 +92,7 @@ subgroups:
         price: '6'
         title: 'Corona Extra '
       - description: '12 oz can '
-        price: '6'
+        price: '5'
         title: Provincetown "Golden Hook" Golden Ale
       - description: 12 oz can
         price: '5'
@@ -122,7 +122,7 @@ subgroups:
         price: '7'
         title: Bell's Brewing "Oberon" Wheat Ale
       - description: '16 oz tallboy can '
-        price: '5'
+        price: '4'
         title: Jack's Abby "Red Tape" Amber Ale
       - description: '12 oz bottle '
         price: '7'
