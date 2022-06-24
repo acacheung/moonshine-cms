@@ -76,6 +76,9 @@ subgroups:
       - description: '12 oz can '
         price: '6 '
         title: High Noon Pineapple Hard Seltzer
+      - description: '12 oz can '
+        price: '7'
+        title: Black Infusions "Dirty Shirley" Cocktail in a Can
       - description: 12 oz Bottle
         price: '6'
         title: 'Stella Artois '
