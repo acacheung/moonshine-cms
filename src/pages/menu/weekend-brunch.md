@@ -171,8 +171,8 @@ subgroups:
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >
-          Thai Hot n’ Sour Coconut Soup with Button Mushrooms, Lemongrass &
-          Coconut Milk
+          Summer Tomato-Lobster Bisque: Sweet corn, Roasted tomato-"hint of"
+          lobster stock, Scallion oil 
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >
