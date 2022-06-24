@@ -163,9 +163,9 @@ subgroups:
       - description: 'Provence, FR'
         price: 15 / 58
         title: '(Rose) 2020 Château d’Esclan Whispering Angel Rose '
-      - description: 'Veneto, Italy '
+      - description: 'Friuli, Italy '
         price: 9 / 36
-        title: '(White) 2019 Zenato Pinot Grigio '
+        title: '(White) 2020 Benvolio Pinot Grigio '
       - description: 'Willamette Valley, ORE , USA '
         price: 9 / 36
         title: '(White) 2020 Willamette Valley Vineyards Riesling '
