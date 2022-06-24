@@ -104,7 +104,7 @@ subgroups:
         price: '5'
         title: Narragansett Lager
       - description: '12 oz bottle '
-        price: '6'
+        price: '5'
         title: 'Ace Pineapple Cider '
       - description: '12 oz can '
         price: '3'
