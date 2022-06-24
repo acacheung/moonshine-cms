@@ -6,17 +6,20 @@ order: 2
 subgroups:
   - description: All portions available regular or “Go Grande”
     items:
-      - description: >-
-          Soft Chinatown-style Steamed Bao Buns, Tempura Softshell Crab, Pickled
-          Ginger, Sesame Teriyaki Glaze & Cabbage Slaw 
-        price: 22 (2 buns) / 33 (3 buns)
-        title: 'Menu Addition: Softshell Crab Steamed Bao Buns'
+      - description: 'Golden Tilefish. Fresh Citrus, Salsa Fresca, Corn & Rice Paper Chips '
+        price: '18 regular  / 29 grande '
+        title: 'Menu Addition: Chef Asia''s Favorite Ceviche'
       - description: >-
           Iceberg Lettuce, Chopped Egg, Mediterranean Shredded Carrots, Roasted
           Beet Crema, Candied Bacon & Freight Farms Marjoram-Goat Cheese
           Vinaigrette
         price: 16 regular / 26 grande
         title: 'Menu Addition: ''shine Spring wedge salad '
+      - description: >-
+          Soft Chinatown-style Steamed Bao Buns, Tempura Softshell Crab, Pickled
+          Ginger, Sesame Teriyaki Glaze & Cabbage Slaw 
+        price: 22 (2 buns) / 33 (3 buns)
+        title: 'Menu Addition: Softshell Crab Steamed Bao Buns'
       - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
