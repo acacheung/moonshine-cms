@@ -9,8 +9,8 @@ subgroups:
       favorite protein or fixin’s!
     items:
       - description: >-
-          Summer Tomato-Lobster Bisque: Sweet corn, Roasted tomato-lobster
-          stock, Scallion oil 
+          Summer Tomato-Lobster Bisque: Sweet corn, Roasted tomato-"hint of"
+          lobster stock, Scallion oil 
         price: 12 regular / 19 grande
         title: Chef's Whim Soup For The Soul
       - description: >-
