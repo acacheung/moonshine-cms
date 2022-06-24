@@ -107,7 +107,7 @@ subgroups:
         price: '6'
         title: 'Ace Pineapple Cider '
       - description: '12 oz can '
-        price: '4'
+        price: '3'
         title: 'Downeast Winter Blend Cider '
       - description: '16 oz tallboy can '
         price: '6'
