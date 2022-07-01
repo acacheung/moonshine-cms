@@ -6,9 +6,6 @@ order: 2
 subgroups:
   - description: All portions available regular or “Go Grande”
     items:
-      - description: 'Golden Tilefish. Fresh Citrus, Salsa Fresca, Corn & Rice Paper Chips '
-        price: '18 regular  / 29 grande '
-        title: 'Menu Addition: Chef Asia''s Favorite Ceviche'
       - description: >-
           Iceberg Lettuce, Chopped Egg, Mediterranean Shredded Carrots, Roasted
           Beet Crema, Candied Bacon & Freight Farms Marjoram-Goat Cheese
