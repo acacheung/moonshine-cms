@@ -208,10 +208,12 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          June 2022: "The Picnic Burger 4.0...Green Eggs & Spam" topped with
-          Basil Pesto Potato-Egg Salad, Creamy Pimento Cheese Spread & Grilled
-          Spam (**As always, can be made with our award-winning Mushroom Tofu
-          patty! ) Served with House Shoestring French Fries 
+          July 2022: The Ratatouille Burger topped with Roasted Summer Veggie
+          Ratatouille, Crumbled Goat Cheese, Sunflower Seed-Pepper Romesco Sauce
+          & Citrus Aioli    (**As always, can be made with our award-winning
+          Mushroom Tofu patty! ) Served with House Shoestring French Fries 
+          (**As always, can be made with our award-winning Mushroom Tofu patty!
+          ) Served with House Shoestring French Fries 
         price: '23'
         title: 'Make Your Burger a VIP Burger of the Month '
     title: All-Day / All-Night Allstars
