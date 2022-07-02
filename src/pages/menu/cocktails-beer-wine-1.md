@@ -34,7 +34,7 @@ subgroups:
         title: Moonshine 76
       - description: 'Cherry-Raspberry Infused Moonshine, Fresh Lime, Citrus Soda '
         price: '13'
-        title: Lunar Rickey
+        title: Lunar Lime Rickey
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
