@@ -15,11 +15,6 @@ subgroups:
       - description: 'Rye Whiskey, Dark Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
         price: '13'
         title: Danish Modern
-      - description: >-
-          House Infused Vanilla-Pear Tennessee Moonshine, Pear Nectar, Cinnamon
-          Simple, Fresh Lemon
-        price: '13'
-        title: Who's The Bosc
       - description: 'House Infused Spicy Tequilla, Ginger Liqueur, Fresh Lime, Agave '
         price: '13'
         title: There's Fire
