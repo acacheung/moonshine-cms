@@ -105,8 +105,8 @@ subgroups:
         price: '5'
         title: 'Ace Pineapple Cider '
       - description: '12 oz can '
-        price: '3'
-        title: 'Downeast Winter Blend Cider '
+        price: '6'
+        title: 'ANXO Cidery " District Dry" Cider '
       - description: '16 oz tallboy can '
         price: '6'
         title: Stormalong "Mass Appeal" Hard Cider
@@ -134,9 +134,6 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '9'
         title: Springdale Beer Co. "Spiritual Gangster" Hazy IPA
-      - description: '16 oz tallboy can '
-        price: '5'
-        title: Narragansett Autocrat Coffee Milk Stout
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
