@@ -12,6 +12,9 @@ subgroups:
           Vinaigrette
         price: 16 regular / 26 grande
         title: 'Menu Addition: ''shine Spring wedge salad '
+      - description: 'Masaman Curry, Grilled Corn, Tobiko, House Rice Paper Chips '
+        price: 18 regular / 25 grande
+        title: 'Menu Addition: Warm Curry Rangoon Spinach Dip'
       - description: >-
           Soft Chinatown-style Steamed Bao Buns, Tempura Softshell Crab, Pickled
           Ginger, Sesame Teriyaki Glaze & Cabbage Slaw 
