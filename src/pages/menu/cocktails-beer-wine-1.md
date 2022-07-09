@@ -15,14 +15,17 @@ subgroups:
       - description: 'Rye Whiskey, Dark Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
         price: '13'
         title: Danish Modern
-      - description: 'House Infused Spicy Tequilla, Ginger Liqueur, Fresh Lime, Agave '
-        price: '13'
-        title: There's Fire
       - description: >-
           Spicy Firepuncher Vodka, Fresh Cucumber Juice, Fresh Lemon,
           Elderflower
         price: '14'
         title: Farm to Glass
+      - description: 'Blanco Tequila, Fresh Squeezed  Watermelon Juice, Agave, Lime '
+        price: '13'
+        title: Watermelon Margarita
+      - description: 'House Infused Spicy Tequilla, Ginger Liqueur, Fresh Lime, Agave '
+        price: '13'
+        title: There's Fire
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '12'
         title: 'La Diabla '
