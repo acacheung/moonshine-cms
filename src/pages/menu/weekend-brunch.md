@@ -171,8 +171,9 @@ subgroups:
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >
-          Summer Tomato-Lobster Bisque: Sweet corn, Roasted tomato-"hint of"
-          lobster stock, Scallion oil 
+          Chef Asia's Famous Chilled Beet Soup- Smooth Roasted Beet Gazpacho,
+          Dill Herbed Creme Fraiche, Diced Cucumber  (*can be made dairy free &
+          vegan!)*
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >
