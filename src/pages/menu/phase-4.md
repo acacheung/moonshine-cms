@@ -6,6 +6,9 @@ order: 5
 subgroups:
   - description: Add a Belgian waffle to your favorite dessert $7
     items:
+      - description: 'Cinnamon Sugar Crinkled Phyllo, Local Honey, Toasted Pistachios '
+        price: '11'
+        title: 'Menu Addition: Pistachio Baklava Crinkle'
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
