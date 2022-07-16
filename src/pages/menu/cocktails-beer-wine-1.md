@@ -6,9 +6,6 @@ order: 1
 subgroups:
   - description: ''
     items:
-      - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime '
-        price: '13'
-        title: PATRON SAINT OF SOUTHIE
       - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'House Manhattan '
