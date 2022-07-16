@@ -20,9 +20,6 @@ subgroups:
           Elderflower
         price: '14'
         title: Farm to Glass
-      - description: 'Blanco Tequila, Fresh Squeezed  Watermelon Juice, Agave, Lime '
-        price: '13'
-        title: Watermelon Margarita
       - description: 'House Infused Spicy Tequilla, Ginger Liqueur, Fresh Lime, Agave '
         price: '13'
         title: There's Fire
