@@ -9,9 +9,14 @@ subgroups:
       - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
         price: '14'
         title: 'House Manhattan '
-      - description: 'Rye Whiskey, Dark Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
-        price: '13'
-        title: Danish Modern
+      - description: >-
+          Double Espresso Vodka, Kahlua, Touch of Vanilla (add Bailey's to make
+          it creamy!( 
+        price: '14'
+        title: '''Shine Espresso Martini '
+      - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
+        price: '14'
+        title: Moonshine 76
       - description: >-
           Spicy Firepuncher Vodka, Fresh Cucumber Juice, Fresh Lemon,
           Elderflower
@@ -26,9 +31,9 @@ subgroups:
       - description: 'Mezcal, Aperol Aperitif, Yellow Chartreuse, Lime '
         price: '13'
         title: Naked & Famous
-      - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
-        price: '14'
-        title: Moonshine 76
+      - description: 'Rye Whiskey, Dark Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
+        price: '13'
+        title: Danish Modern
       - description: 'Cherry-Raspberry Infused Moonshine, Fresh Lime, Citrus Soda '
         price: '13'
         title: Lunar Lime Rickey
@@ -155,6 +160,9 @@ subgroups:
       - description: 'Provence, FR'
         price: 15 / 58
         title: '(Rose) 2020 Château d’Esclan Whispering Angel Rose '
+      - description: 'Languedoc, FR'
+        price: '42 / BTL '
+        title: (rose) 2021 Château Maris Rose de Nymphe Emue
       - description: 'Friuli, Italy '
         price: 9 / 36
         title: '(White) 2020 Benvolio Pinot Grigio '
