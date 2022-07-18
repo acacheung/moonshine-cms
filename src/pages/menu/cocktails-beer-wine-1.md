@@ -11,7 +11,7 @@ subgroups:
         title: 'House Manhattan '
       - description: >-
           Double Espresso Vodka, Kahlua, Touch of Vanilla (add Bailey's to make
-          it creamy!( 
+          it creamy!)
         price: '14'
         title: '''Shine Espresso Martini '
       - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
@@ -31,6 +31,11 @@ subgroups:
       - description: 'Mezcal, Aperol Aperitif, Yellow Chartreuse, Lime '
         price: '13'
         title: Naked & Famous
+      - description: >-
+          Basil Infused American Gin, Kleos Mastiha Liqueur, Pamplemousse, Fresh
+          Lemon, Lime-Yuzu Soda 
+        price: '13'
+        title: Summer in Mykonos
       - description: 'Rye Whiskey, Dark Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
         price: '13'
         title: Danish Modern
