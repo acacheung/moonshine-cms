@@ -168,9 +168,9 @@ subgroups:
       - description: 'Languedoc, FR'
         price: '42 / BTL '
         title: (rose) 2021 Château Maris Rose de Nymphe Emue
-      - description: 'Friuli, Italy '
+      - description: 'Veneto, Italy '
         price: 9 / 36
-        title: '(White) 2020 Benvolio Pinot Grigio '
+        title: '(White) 2020 Zenato Pinot Grigio '
       - description: 'Willamette Valley, ORE , USA '
         price: 9 / 36
         title: '(White) 2020 Willamette Valley Vineyards Riesling '
