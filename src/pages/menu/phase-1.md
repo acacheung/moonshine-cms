@@ -31,7 +31,7 @@ subgroups:
         price: 15 regular / 26 grande
         title: Jalapeno Crab Rangoons
       - description: 'Toasted sesame, crispy garlic and shallots, soy vinaigrette'
-        price: 10 regular / 15 grande
+        price: 13 regular / 22 grande
         title: Blistered Shishito Peppers
       - description: 'Organic ground lamb, habanero date jam, lingonberry (gluten free)'
         price: 16 regular / 27 grande
