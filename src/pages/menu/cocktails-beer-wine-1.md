@@ -39,9 +39,9 @@ subgroups:
       - description: 'Rye Whiskey, Dark Cherry Liqueur, Cinnamon Simple, Fresh Lemon '
         price: '13'
         title: Danish Modern
-      - description: 'Cherry-Raspberry Infused Moonshine, Fresh Lime, Citrus Soda '
+      - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime'
         price: '13'
-        title: Lunar Lime Rickey
+        title: Patron Saint of Southie
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '13'
         title: 'Shine Spritz '
