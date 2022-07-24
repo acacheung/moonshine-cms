@@ -125,11 +125,6 @@ subgroups:
           cheese
         price: '16'
         title: 'Tater Tot Poutine '
-      - description: >-
-          Crispy polenta, scrambled eggs, Spicy tomato sauce, Your choice of
-          bacon 
-        price: '17'
-        title: Tommy G's Favorite "Gypsy Eggs"**
     title: The Main Affair
   - description: ' All the sides & Fixin''s'
     items:
