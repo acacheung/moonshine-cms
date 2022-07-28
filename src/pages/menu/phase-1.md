@@ -7,6 +7,11 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
+          Heirloom Cherry Tomatoes, Freshly Torn Basil, Candied Bacon, Shaved
+          Pecorino Cheese, Aged Balsamic
+        price: 19 reg / 29 grande
+        title: 'Menu Addition: Summer Heirloom Tomato & Watermelon Salad'
+      - description: >-
           Soft Chinatown-style Steamed Bao Buns, Tempura Softshell Crab, Pickled
           Ginger, Sesame Teriyaki Glaze & Cabbage Slaw 
         price: 22 (2 buns) / 33 (3 buns)
@@ -16,6 +21,11 @@ subgroups:
           Salsa Fresca, Dipping Taco Jus de Birria  
         price: 19 (2 pcs) / 28 (5 pcs)
         title: 'Menu Addition: ''Shine Birria Tacos'
+      - description: >-
+          Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
+          Chickpea Papadums
+        price: 14 regular / 23 grande
+        title: '''Shine Famous Caramelized Onion-Roasted Beet Dip'
       - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
@@ -40,11 +50,6 @@ subgroups:
           ginger aioli 
         price: 15 regular / 23 grande
         title: '''Shine Famous Bacon Wrapped Stuffing Bites '
-      - description: >-
-          Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
-          Chickpea Papadums
-        price: 14 regular / 23 grande
-        title: '''Shine Famous Caramelized Onion-Roasted Beet Dip'
     title: To Get Ya Started
 ---
 
