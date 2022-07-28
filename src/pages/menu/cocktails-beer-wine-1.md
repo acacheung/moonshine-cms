@@ -246,18 +246,19 @@ subgroups:
           Tres Agaves Blanco...9...Tres Agaves Reposado...10...Tres Agaves
           Anejo...11...Espolon Blanco...9...Espolon Reposado...10...House
           Infused Spicy Tequila...9...Don Julio Blanco...11...Don Julio
-          Reposado...12...Don Julio Anejo...13...Xicaru Silver Mezcal...9...Del
-          Maguey Vida Mezcal...10...
+          Reposado...12...Don Julio Anejo...13.. Gran Coramino Cristalino
+          Reposado...12...Xicaru Silver Mezcal...9...Del Maguey Vida
+          Mezcal...10...
         price: xxxxx
         title: 'Tequila & Mezcal '
       - description: >-
           Privateer NE White Rum...9...Privateer Amber Rum...9...Sailor
           Jerry...8...Goslings Black Seal...9...Mad River Vanilla Bean...10
           ...RumHaven Coconut...9...Diplomatico Reserva Exclusiva...9...Ron
-          Zacapa 23...11...Leblon Cachaça...9...Laird's Apple
-          Brandy...9...Hennessey...10...Remy Martin VSOP...12...
+          Zacapa 23...11...Leblon Cachaça...9....Hennessey...10...Remy Martin
+          VSOP...12...
         price: xxxxx
-        title: 'Rum, Brandy & Cognac '
+        title: 'Rum  & Cognac '
       - description: >-
           Four Roses Bourbon...9...Mitcher's Bourbon...9...Maker's Mark
           Bourbon...10...Mad River Bourbon...10....12....Bully Boy Straight
@@ -268,7 +269,7 @@ subgroups:
           Distillery Putnam Rye...11....High West Double Rye...12...Boston
           Harbor Distillery Putnam Single Malt Whiskey...13...Old Smokey
           Tennessee White Whiskey Moonshine...9...Screwball Peanut Butter
-          Whiskey...9...Misunderstood Ginger Infused Whiskey...9...
+          Whiskey...9...
         price: xxxxx
         title: 'American Whiskey/Bourbon/Rye '
       - description: >-
@@ -280,7 +281,8 @@ subgroups:
       - description: >-
           Dewar's "White Label"...9...Johnnie Walker Black...10...Laphroaig
           10...11...Dalmore Highland Single Malt 12 Yr ...12...Glenfiddich
-          12...12...Glenfiddich 14...13... MacAllen 12 Yr...13...Oban 14...14...
+          12...12...Glenfiddich 14...13... MacAllen 12 Yr...13...Lagavulin
+          16...20...
         price: XXXXX
         title: 'Scotch '
     title: 'Spirit List '
