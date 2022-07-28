@@ -166,7 +166,7 @@ subgroups:
         price: 15 / 58
         title: '(Rose) 2020 Château d’Esclan Whispering Angel Rose '
       - description: 'Languedoc, FR'
-        price: '38 / BTL '
+        price: '42 / BTL '
         title: (rose) 2021 Château Maris Rose de Nymphe Emue
       - description: 'Veneto, Italy '
         price: 9 / 36
