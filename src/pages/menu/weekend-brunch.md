@@ -49,12 +49,6 @@ subgroups:
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
       - description: >-
-          Iceberg Lettuce, Chopped Egg, Mediterranean Shredded Carrots, Roasted
-          Beet Crema & Candied Bacon & Freight Farms Marjoram-Goat Cheese
-          Vinaigrette   
-        price: 16 / 26
-        title: 'Menu Addition: ‘Shine Spring Wedge Salad'
-      - description: >-
           Local honey, Fresh berries, Sunflower seed-oat crumble **add a belgian
           waffle $7**
         price: 9 / 14
