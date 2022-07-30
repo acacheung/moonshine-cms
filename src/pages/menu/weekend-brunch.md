@@ -96,6 +96,11 @@ subgroups:
           Sauce, Spiced Homefries & a Petite Mixed Greens Salad 
         price: '29'
         title: 'Menu Addition: "''Shine Steak & Eggs"'
+      - description: >-
+          Red-eye gravy, Chinese sausage, Green onions, Chopped melted white
+          cheese
+        price: '16'
+        title: 'Tater Tot Poutine '
       - description: 'Pan-seared shrimp, Spicy green chili cheese grits, Sherry pan sauce'
         price: '19'
         title: Shrimp & Grits**
@@ -107,6 +112,11 @@ subgroups:
       - description: 'Spiced homefries, Petite mixed greens'
         price: '17'
         title: Sauteed Mushroom & Swiss Omelet**
+      - description: >-
+          Scrambled eggs, Pan-Seared Polenta, Rustic Spicy Tomato Sauce, Fresh
+          Lemon Zest & Your Choice of Bacon 
+        price: '18'
+        title: Tommy G's Favorite Gypsy Eggs
       - description: 'Melt-in-your-mouth corned beef, Scrambled eggs, Housemade beer bread '
         price: '19'
         title: '''Shine''s Southie Corned Beef Hash**'
@@ -120,11 +130,6 @@ subgroups:
         title: >-
           Ron Swanson Brunch Inspired Chipotle Pulled Pork Scallion Pancake
           Quesadilla (AVAILABLE VEGETARIAN   24)**
-      - description: >-
-          Red-eye gravy, Chinese sausage, Green onions, Chopped melted white
-          cheese
-        price: '16'
-        title: 'Tater Tot Poutine '
     title: The Main Affair
   - description: ' All the sides & Fixin''s'
     items:
