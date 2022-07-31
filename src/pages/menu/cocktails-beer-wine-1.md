@@ -51,8 +51,8 @@ subgroups:
         price: '12'
         title: sahil's  RED sangria
       - description: >-
-          White Wine Blend, Coconut  Liqueur, Orange Brandy  Papaya Puree, Fresh
-          Citrus
+          White Wine Blend, Coconut  Liqueur, Orange Brandy,  Papaya Puree,
+          Fresh Citrus
         price: '12'
         title: ARAE'S troPICAL TWIST wHITE SANGRIA
     title: '''Shine Specialty Cocktails '
