@@ -203,12 +203,10 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          July 2022: The Ratatouille Burger topped with Roasted Summer Veggie
-          Ratatouille, Crumbled Goat Cheese, Sunflower Seed-Pepper Romesco Sauce
-          & Citrus Aioli    (**As always, can be made with our award-winning
-          Mushroom Tofu patty! ) Served with House Shoestring French Fries 
-          (**As always, can be made with our award-winning Mushroom Tofu patty!
-          ) Served with House Shoestring French Fries 
+          August 2022: "Buffalo Chicken" Burger topped with Creamy Buffalo
+          Chicken Dip, Fritos Chips, Blue Cheese Crumbles & Shaved Celery  (**As
+          always, can be made with our award-winning Mushroom Tofu patty! )
+          Served with House Shoestring French Fries 
         price: '23'
         title: 'Make Your Burger a VIP Burger of the Month '
     title: All-Day / All-Night Allstars
