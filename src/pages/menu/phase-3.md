@@ -17,12 +17,12 @@ subgroups:
         price: '19'
         title: Grass-fed ’Shine Beef Burger**
       - description: >-
-          topped with Roasted Summer Veggie Ratatouille, Crumbled Goat Cheese,
-          Sunflower Seed Pepper Romesco Sauce & Citrus Aioli (**As always, can
-          be made with our award-winning Mushroom Tofu patty! ) Served with
-          House Shoestring French Fries 
+          topped with Creamy Buffalo Chicken Dip, Fritos Chips, Blue Cheese
+          Crumbles & Shaved Celery (**As always, can be made with our
+          award-winning Mushroom Tofu patty! ) Served with House Shoestring
+          French Fries 
         price: '23'
-        title: 'July 2022 Burger  of the Month: " The Ratatouille Burger"'
+        title: 'August 2022 Burger of the Month: "Buffalo Chicken" Burger'
       - description: >-
           Moonshine’s Best of Boston fried chicken, Belgian waffle,
           sriracha-bourbon awesome sauce, cinnamon honey butter ** GO GRANDE by
