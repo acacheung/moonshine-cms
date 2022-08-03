@@ -21,7 +21,7 @@ subgroups:
           Crumbles & Shaved Celery (**As always, can be made with our
           award-winning Mushroom Tofu patty! ) Served with House Shoestring
           French Fries 
-        price: '23'
+        price: '24'
         title: 'August 2022 Burger of the Month: "Buffalo Chicken" Burger'
       - description: >-
           Moonshine’s Best of Boston fried chicken, Belgian waffle,
