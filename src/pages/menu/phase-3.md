@@ -102,7 +102,7 @@ subgroups:
       - description: >-
           Add extra sides of any of our housemade sauces: poblano ranch, candied
           ginger aioli, sherry pesto aioli, sweet chili honey , curry goddess
-          aioli
+          aioli, Szechuan Chili Oil
         price: '2'
         title: 'Sauce it up '
     title: All Fixin’s and Sides
