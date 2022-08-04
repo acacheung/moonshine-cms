@@ -7,8 +7,8 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
-          Heirloom Cherry Tomatoes, Freshly Torn Basil, Candied Bacon, Shaved
-          Pecorino Cheese, Aged Balsamic
+          Heirloom Cherry Tomatoes, Freshly Torn Basil, Shaved Pecorino Cheese,
+          Aged Balsamic
         price: 19 reg / 29 grande
         title: 'Menu Addition: Summer Heirloom Tomato & Watermelon Salad'
       - description: >-
