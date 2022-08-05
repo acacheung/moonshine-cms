@@ -104,7 +104,7 @@ subgroups:
         price: '6'
         title: 'Corona Extra '
       - description: '12 oz can '
-        price: '5'
+        price: '4'
         title: Provincetown "Golden Hook" Golden Ale
       - description: 12 oz can
         price: '5'
@@ -134,14 +134,17 @@ subgroups:
         price: '7'
         title: Bell's Brewing "Oberon" Wheat Ale
       - description: '16 oz tallboy can '
-        price: '4'
-        title: Jack's Abby "Red Tape" Amber Ale
+        price: '6'
+        title: 'Jack''s Abby "Sunny Ridge" Czech-Style Pilsner '
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
       - description: '16 oz tallboy can '
         price: '7'
         title: Castle Island Brewing "Keeper" IPA
+      - description: '16oz tallboy can '
+        price: '9'
+        title: Lawson's Finest "Lil Sip of Sunshine" IPA
       - description: '16 oz tallboy can '
         price: '8'
         title: Berkshire Brewing Co. "Dandy Lion Haze"IPA
