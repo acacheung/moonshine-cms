@@ -32,11 +32,6 @@ subgroups:
         price: '13'
         title: Naked & Famous
       - description: >-
-          Basil Infused American Gin, Kleos Mastiha Liqueur, Pamplemousse, Fresh
-          Lemon, Lime-Yuzu Soda 
-        price: '13'
-        title: Summer in Mykonos
-      - description: >-
           Bully Boy American Whiskey, Bully  Boy Amaro, Mandarin Orange Simple,
           Orange Bitters 
         price: '13'
