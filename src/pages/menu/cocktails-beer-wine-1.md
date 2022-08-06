@@ -78,7 +78,7 @@ subgroups:
         price: '6'
         title: Michelob Ultra
       - description: '12 oz can '
-        price: '6'
+        price: '4'
         title: 'Bud Light Black Cherry Hard Seltzer '
       - description: '12 oz can '
         price: '6 '
@@ -122,6 +122,9 @@ subgroups:
       - description: 16oz tallboy can
         price: '8'
         title: Mikeller Brewing "Passion Pool" Sour Gose
+      - description: '16 oz tallboy can '
+        price: '6'
+        title: 'Jack''s Abby "Sunny Ridge" Czech-style Pilsner '
       - description: 12oz bottle
         price: '6'
         title: 'Allagash White '
@@ -129,20 +132,17 @@ subgroups:
         price: '7'
         title: Bell's Brewing "Oberon" Wheat Ale
       - description: '16 oz tallboy can '
-        price: '6'
-        title: 'Jack''s Abby "Sunny Ridge" Czech-style Pilsner '
-      - description: '12 oz bottle '
-        price: '7'
-        title: 'Stone IPA '
-      - description: '16 oz tallboy can '
         price: '7'
         title: Castle Island Brewing "Keeper" IPA
       - description: '16 oz tallboy can '
-        price: '8'
-        title: Berkshire Brewing Co. "Dandy Lion Haze"IPA
-      - description: '16 oz tallboy can '
         price: '9'
         title: Lawson's Finest "Lil Sip of Sunshine" IPA
+      - description: '16 oz tallboy can '
+        price: '8'
+        title: Berkshire Brewing Co. "Dandy Lion Haze"IPA
+      - description: '12 oz bottle '
+        price: '7'
+        title: 'Stone IPA '
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
