@@ -32,6 +32,11 @@ subgroups:
         price: '13'
         title: Naked & Famous
       - description: >-
+          Basil Infused American Gin, Kleos Mastiha Liqueur, Pamplemousse, Fresh
+          Lemon, Lime-Yuzu Soda 
+        price: '13'
+        title: Summer in Mykonos
+      - description: >-
           Bully Boy American Whiskey, Bully  Boy Amaro, Mandarin Orange Simple,
           Orange Bitters 
         price: '13'
@@ -99,7 +104,7 @@ subgroups:
         price: '6'
         title: 'Corona Extra '
       - description: '12 oz can '
-        price: '4'
+        price: '5'
         title: Provincetown "Golden Hook" Golden Ale
       - description: 12 oz can
         price: '5'
@@ -129,23 +134,17 @@ subgroups:
         price: '7'
         title: Bell's Brewing "Oberon" Wheat Ale
       - description: '16 oz tallboy can '
-        price: '6'
-        title: 'Jack''s Abby "Sunny Ridge" Czech-Style Pilsner '
+        price: '4'
+        title: Jack's Abby "Red Tape" Amber Ale
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
       - description: '16 oz tallboy can '
         price: '7'
         title: Castle Island Brewing "Keeper" IPA
-      - description: '16oz tallboy can '
-        price: '9'
-        title: Lawson's Finest "Lil Sip of Sunshine" IPA
       - description: '16 oz tallboy can '
         price: '8'
         title: Berkshire Brewing Co. "Dandy Lion Haze"IPA
-      - description: '16 oz tallboy can '
-        price: '9'
-        title: Springdale Beer Co. "Spiritual Gangster" Hazy IPA
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
