@@ -17,12 +17,6 @@ subgroups:
         price: 22 (2 buns) / 33 (3 buns)
         title: 'Menu Addition: Softshell Crab Steamed Bao Buns'
       - description: >-
-          Cheesy Beef Shortrib Carnitas Stuffed Pan-Griddled Tacos, Jalapeno
-          Salsa Fresca, Sour Cream,                          Dipping Taco Jus de
-          Birria  
-        price: 19 (2 pcs)  / 29 (5 pcs)
-        title: 'Menu Addition: ''Shine Birria Tacos '
-      - description: >-
           Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
         price: 14 regular / 23 grande
