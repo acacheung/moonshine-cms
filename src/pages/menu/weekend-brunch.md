@@ -70,7 +70,7 @@ subgroups:
       - description: >-
           Brioche cinnamon French toast sticks, Fresh berries, Maple berry
           butter dipping sauce 
-        price: 12 / 17
+        price: '14 / 24 '
         title: 'Chef Asia''s Famous Cinnamon French Toast Sticks '
       - description: >-
           Crispy olive oil roasted potatoes, Sherry pesto aioli, Roasted garlic
@@ -93,7 +93,7 @@ subgroups:
       - description: >-
           Red-eye gravy, Chinese sausage, Green onions, Chopped melted white
           cheese
-        price: '16'
+        price: '18'
         title: 'Tater Tot Poutine '
       - description: 'Pan-seared shrimp, Spicy green chili cheese grits, Sherry pan sauce'
         price: '19'
@@ -149,7 +149,7 @@ subgroups:
       - description: >-
           Red-eye gravy, Chinese sausage, Green onions, Chopped melted white
           cheese 
-        price: '9'
+        price: '12'
         title: '1/2 Order Tater Tot Poutine '
       - price: '9'
         title: 'Side Order of Corned Beef Hash '
