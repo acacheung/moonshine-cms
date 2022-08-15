@@ -212,7 +212,7 @@ subgroups:
     title: All-Day / All-Night Allstars
   - description: ' (Dessert)'
     items:
-      - description: 'Strawberry-Rhubarb with Local Rhubarb Preserves & Fresh Pomegranate '
+      - description: 'Strawberry-Rhubarb with Blueberry Preserves '
         price: '11'
         title: Chef Whim's Sorbet
       - description: 'Whipped chantilly cream, Toasted oat-amaranth streusel '
