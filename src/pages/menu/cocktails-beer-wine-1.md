@@ -102,7 +102,7 @@ subgroups:
         price: '4'
         title: Golden Road "Mango Cart" Wheat Ale
       - description: '12 oz can '
-        price: '4'
+        price: '5'
         title: Provincetown "Golden Hook" Golden Ale
       - description: 12 oz can
         price: '5'
@@ -117,7 +117,7 @@ subgroups:
         price: '6'
         title: 'ANXO Cidery " District Dry" Cider '
       - description: '16 oz tallboy can '
-        price: '6'
+        price: '7'
         title: Stormalong "Mass Appeal" Hard Cider
       - description: 16oz tallboy can
         price: '8'
@@ -126,7 +126,7 @@ subgroups:
         price: '6'
         title: 'Jack''s Abby "Sunny Ridge" Czech-style Pilsner '
       - description: 12oz bottle
-        price: '6'
+        price: '7'
         title: 'Allagash White '
       - description: '16 oz tallboy can '
         price: '7'
