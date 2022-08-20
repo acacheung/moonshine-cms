@@ -60,7 +60,7 @@ subgroups:
         price: '10 / 15 '
         title: 'Blistered Shishito Peppers '
       - description: 'Jalapeno crab filling, Spicy honey '
-        price: '15 / 26 '
+        price: '16 regular  / 26 grande '
         title: 'Jalapeno Crab Rangoons '
       - description: >-
           Sourdough holiday stuffing bites, Crispy pecanwood bacon, Candied
@@ -93,29 +93,29 @@ subgroups:
       - description: >-
           Red-eye gravy, Chinese sausage, Green onions, Chopped melted white
           cheese
-        price: '18'
+        price: '14 regular  / 21 grande '
         title: 'Tater Tot Poutine '
       - description: 'Pan-seared shrimp, Spicy green chili cheese grits, Sherry pan sauce'
-        price: '19'
+        price: '22'
         title: Shrimp & Grits**
       - description: >-
           Tasso ham hollandaise sauce, Fried egg, Spinach, Housemade english
           muffin 
-        price: '17'
+        price: '19'
         title: '''Shine''s Crab Eggs Benedict**'
       - description: 'Spiced homefries, Petite mixed greens'
-        price: '17'
+        price: '19'
         title: Sauteed Mushroom & Swiss Omelet**
       - description: >-
           Scrambled eggs, Pan-Seared Polenta, Rustic Spicy Tomato Sauce, Fresh
           Lemon Zest & Your Choice of Bacon 
-        price: '18'
+        price: '19'
         title: Tommy G's Favorite Gypsy Eggs
       - description: 'Melt-in-your-mouth corned beef, Scrambled eggs, Housemade beer bread '
         price: '19'
         title: '''Shine''s Southie Corned Beef Hash**'
       - description: 'Sauteed kale, Spiced homefries, Petite mixed greens salad'
-        price: '17'
+        price: '19'
         title: Vegan Turmeric Tofu Scramble
       - description: >-
           Smoky pulled pork, Scrambled egg, Tomato salsa, Petite mixed greens
@@ -123,7 +123,7 @@ subgroups:
         price: '27'
         title: >-
           Ron Swanson Brunch Inspired Chipotle Pulled Pork Scallion Pancake
-          Quesadilla (AVAILABLE VEGETARIAN   24)**
+          Quesadilla (AVAILABLE VEGETARIAN   25)**
     title: The Main Affair
   - description: ' All the sides & Fixin''s'
     items:
@@ -146,11 +146,6 @@ subgroups:
         title: 'Homemade English Muffin '
       - price: '3'
         title: 'Homemade Beer Bread '
-      - description: >-
-          Red-eye gravy, Chinese sausage, Green onions, Chopped melted white
-          cheese 
-        price: '12'
-        title: '1/2 Order Tater Tot Poutine '
       - price: '9'
         title: 'Side Order of Corned Beef Hash '
       - price: '2'
@@ -161,6 +156,15 @@ subgroups:
         title: 'Add Melted Cheese To Any Dish '
       - price: '2'
         title: 'Add Sliced Jalapenos To Any Dish '
+      - description: >-
+          compliment your dish with one of Chef Asia's homemade sauces : Poblano
+          ranch, Sweet chili honey, Sherry pesto aioli, Curry goddess aoili,
+          Candied ginger aioli, Truffled teriyaki, "Awesome sauce", Szechuan
+          Chili Oil (contains sesame & peanuts) 
+        price: '2'
+        title: '"sAUCE IT iP"'
+      - price: '2 '
+        title: Add Maple Syrup
     title: All the sides & Fixin's
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
@@ -173,7 +177,7 @@ subgroups:
       - description: >
           Heirloom quinoa, sautéed kale, creamy Caesar dressing, wonton crisps,
           fresh pomegranate, shaved pecorino cheese
-        price: 16 regular / 26 grande
+        price: 16 regular / 27 grande
         title: 'Warm Kale and Quinoa Caesar Salad '
       - description: served with Poblano Ranch Sauce
         price: 17 / 29
@@ -186,7 +190,7 @@ subgroups:
       - description: >-
           Chinese sausage, Scrambled egg, Fresh ginger, Scallions, Chopped duck
           liver 
-        price: '18'
+        price: '19'
         title: 'Mama Mei''s Dirty Fried Rice '
       - description: >-
           "Boston's Best" Buttermilk fried chicken, Belgian waffle,
@@ -199,7 +203,7 @@ subgroups:
         title: 'Chef Asia''s Famous Mushroom  Burger '
       - description: >-
           Sharp cheddar, Housemade aioli, LTO & Shoestring fries  ...make it a
-          double patty 10 
+          double patty 11 
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
@@ -207,25 +211,28 @@ subgroups:
           Chicken Dip, Fritos Chips, Blue Cheese Crumbles & Shaved Celery  (**As
           always, can be made with our award-winning Mushroom Tofu patty! )
           Served with House Shoestring French Fries 
-        price: '23'
+        price: '24'
         title: 'Make Your Burger a VIP Burger of the Month '
     title: All-Day / All-Night Allstars
   - description: ' (Dessert)'
     items:
-      - description: 'Strawberry-Rhubarb with Blueberry Preserves '
+      - description: 'Strawberry-Rhubarb with Summer Blueberry Preserves '
         price: '11'
         title: Chef Whim's Sorbet
       - description: 'Whipped chantilly cream, Toasted oat-amaranth streusel '
         price: '12'
         title: 'Butterscotch Pudding '
       - description: 'Nutellla fudge chocolate sauce, Powdered sugar '
-        price: '11'
+        price: '12'
         title: 'Jaime''s Favorite Oreo Cookie Layered Fudge Brownie '
       - description: >-
           Warm  Belgian Waffle, Black Raspberry Ice Cream, Whipped Cream Cheese
           Topping, Blueberry Preserves, Toasted Almond Shortbread 
         price: '15'
         title: Summer Berry Jamboree Waffle Ice Cream Sundae
+      - description: 'Toasted Almond Flour, Fresh Citrus Icing, Powered Sugar '
+        price: '11'
+        title: 'Menu Addition: Bistro Style Almond Orange Cake '
     title: Sweet Tooth
 ---
 
