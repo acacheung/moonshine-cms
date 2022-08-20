@@ -9,11 +9,11 @@ subgroups:
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
-      - description: 'Strawberry-Rhubarb with Blueberry Preserves '
+      - description: 'Strawberry-Rhubarb with Summer Blueberry Preserves '
         price: '11'
         title: 'Chef''s Whim Sorbet '
       - description: 'Powdered sugar, nutella chocolate fudge sauce'
-        price: '11'
+        price: '12'
         title: Jaime’s Favorite Oreo Cookie Layered Fudge Brownie
       - description: >-
           Warm  Belgian Waffle, Black Raspberry Ice Cream, Whipped Cream Cheese
