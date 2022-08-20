@@ -13,7 +13,7 @@ subgroups:
         title: Chef Asia’s Famous Vegetarian Mushroom Tofu Burger
       - description: >-
           Sharp cheddar, Housemade  aioli, LTO, House-cut shoestring french
-          fries .... Make it a double patty 10 
+          fries .... Make it a double patty 11
         price: '19'
         title: Grass-fed ’Shine Beef Burger**
       - description: >-
@@ -32,7 +32,7 @@ subgroups:
       - description: >-
           Smoky pulled pork, scrambled egg, tomato, petite mixed greens salad,
           teriyaki, sweet chili glaze, house-cut shoestring french fries...
-          available vegetarian 24
+          available vegetarian without pulled pork  25
         price: '27'
         title: >-
           Ron Swanson Brunch-Inspired Chipotle Pulled Pork Scallion Pancake
@@ -41,7 +41,7 @@ subgroups:
           Cajun grilled fish of the day, fried pickled green tomatoes,
           srirachi-shrimp uni butter, sauteed tomatoes... add a side of white
           rice 5 
-        price: Mkt
+        price: '29'
         title: Cajun Grilled Fish of the Day**
       - description: >-
           Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
@@ -59,12 +59,12 @@ subgroups:
       - description: >-
           Stirfried Chinese sausage, scrambled egg, ginger, scallions, duck
           liver
-        price: '18'
+        price: '19'
         title: Mama Mei’s Famous Dirty Fried Rice
       - description: >-
           Asian pear kimchi, jalapenos, scrambled egg, stirfried veggies...
           available vegan, just ask! 
-        price: '18'
+        price: '19'
         title: Spicy Kimchi Thai Vegetarian Fried Rice
       - description: >-
           Sweet Maui onion salmon poke, house applewood smoked shrimp salad,
