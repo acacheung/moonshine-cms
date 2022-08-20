@@ -21,17 +21,17 @@ subgroups:
       - description: >
           Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton crisps,
           Shaved pecorino cheese
-        price: 16 regular / 26 grande
+        price: 17 regular / 26 grande
         title: Warm Kale and Quinoa Caesar Salad
       - description: >-
           Tater tots smothered with kimchi butter, sweet chili, truffled
           teriyaki sauce
-        price: 15 regular / 25 grande
+        price: 16 regular / 26 grande
         title: Party Tots
       - description: >-
           Roasted brussels sprouts smothered with kimchi butter, sweet chili,
           truffled teriyaki sauce
-        price: 17 regular / 27 grande
+        price: 17 regular / 28 grande
         title: Party Sprouts
       - description: 'Served with Poblano ranch dressing '
         price: 17 regular / 29 grande
@@ -43,7 +43,7 @@ subgroups:
         price: '10'
         title: Chef Asia’s Famous Vegan  Mushroom Tofu Burger Patty
       - description: add cheddar cheese 2
-        price: '10'
+        price: '11'
         title: Grass-fed Beef Burger Patty**
       - price: '14'
         title: Spicy Lamb Meatballs
@@ -51,7 +51,7 @@ subgroups:
         title: House Crispy Chicken Nuggies
       - price: '13'
         title: Roasted Statler Chicken Breast
-      - price: '14'
+      - price: '15'
         title: Organic Grass-fed Skirt Steak**
       - price: '13'
         title: Pulled Chinatown Style Roasted Duck
