@@ -100,9 +100,10 @@ subgroups:
         price: Mkt
         title: Sub Sides/Substitutions
       - description: >-
-          Add extra sides of any of our housemade sauces: poblano ranch, candied
-          ginger aioli, sherry pesto aioli, sweet chili honey , curry goddess
-          aioli, Szechuan Chili Oil
+          compliment your dish with one of Chef Asia's homemade sauces : Poblano
+          ranch, Sweet chili honey, Sherry pesto aioli, Curry goddess aoili,
+          Candied ginger aioli, Truffled teriyaki, "Awesome sauce", Szechuan
+          Chili Oil (contains sesame & peanuts) 
         price: '2'
         title: 'Sauce it up '
     title: All Fixin’s and Sides
