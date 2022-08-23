@@ -9,11 +9,6 @@ subgroups:
       favorite protein or fixin’s!
     items:
       - description: >-
-          Chef Asia's Famous Chilled Beet Soup- Smooth Roasted Beet Gazpacho,
-          Dill Herbed Creme Fraiche, Diced Cucumber 
-        price: 12 regular / 19 grande
-        title: Chef's Whim Soup For The Soul
-      - description: >-
           Grilled Local Sweet Corn, Marinated Tomatoes, Citrus Aioli, Crumbled
           Cotija Cheese 
         price: 17 regular / 29 grande
