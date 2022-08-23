@@ -20,11 +20,6 @@ subgroups:
           Topping, Summer Berry Compote, Toasted Almond Shortbread 
         price: '15'
         title: Summer Berry Jamboree Belgian Waffle Ice Cream Sundae
-      - description: >-
-          Toasted Almond Flour, Fresh Citrus Icing,                     Powdered
-          Sugar   (available gluten & dairy free!)       
-        price: '11'
-        title: Bistro Style Orange Almond Cake
     title: Sweet Tooth
 ---
 
