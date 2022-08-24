@@ -59,12 +59,12 @@ subgroups:
       - description: >-
           Stirfried Chinese sausage, scrambled egg, ginger, scallions, duck
           liver
-        price: '19'
+        price: '21'
         title: Mama Mei’s Famous Dirty Fried Rice
       - description: >-
           Asian pear kimchi, jalapenos, scrambled egg, stirfried veggies...
           available vegan, just ask! 
-        price: '19'
+        price: '21'
         title: Spicy Kimchi Thai Vegetarian Fried Rice
       - description: >-
           Sweet Maui onion salmon poke, house applewood smoked shrimp salad,
