@@ -12,6 +12,11 @@ subgroups:
         price: 19 reg / 29 grande
         title: 'Menu Addition: Summer Heirloom Tomato & Watermelon Salad'
       - description: >-
+          Cheesy Carnitas Stuffed Pan-Griddled Tacos, Braised Shortrib, Jalapeno
+          Salsa Fresca, Dipping Taco Jus de Birria 
+        price: 19 (2pcs) / 28 (5pcs)
+        title: 'Menu Addition: ''Shine Birria Tacos '
+      - description: >-
           Soft Chinatown-style Steamed Bao Buns, Tempura Softshell Crab, Pickled
           Ginger, Sesame Teriyaki Glaze & Cabbage Slaw 
         price: 22 (2 buns) / 33 (3 buns)
