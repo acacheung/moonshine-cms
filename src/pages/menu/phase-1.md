@@ -17,11 +17,6 @@ subgroups:
         price: 19 (2pcs) / 28 (5pcs)
         title: 'Menu Addition: ''Shine Birria Tacos '
       - description: >-
-          Soft Chinatown-style Steamed Bao Buns, Tempura Softshell Crab, Pickled
-          Ginger, Sesame Teriyaki Glaze & Cabbage Slaw 
-        price: 22 (2 buns) / 33 (3 buns)
-        title: 'Menu Addition: Softshell Crab Steamed Bao Buns'
-      - description: >-
           Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
         price: 14 regular / 23 grande
