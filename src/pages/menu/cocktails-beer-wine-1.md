@@ -94,7 +94,7 @@ subgroups:
         price: '6'
         title: 'Corona Extra '
       - description: 12 oz can
-        price: '4'
+        price: '5'
         title: Golden Road "Mango Cart" Wheat Ale
       - description: '12 oz can '
         price: '5'
