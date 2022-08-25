@@ -165,9 +165,9 @@ subgroups:
       - description: 'Provence, FR'
         price: 15 / 58
         title: '(Rose) 2020 Château d’Esclan Whispering Angel Rose '
-      - description: 'Languedoc, FR'
+      - description: 'Piedmont, Italy'
         price: '42 / BTL '
-        title: (rose) 2021 Château Maris Rose de Nymphe Emue
+        title: (white) 2021 Villa Sparina Gavi di Gavi
       - description: 'Veneto, Italy '
         price: 9 / 36
         title: '(White) 2020 Zenato Pinot Grigio '
@@ -177,9 +177,6 @@ subgroups:
       - description: 'Napa Valley, CA, USA '
         price: 11 / 40
         title: 2019 (White)  Grayson Cellars Chardonnay
-      - description: 'California, USA'
-        price: 12  /  40
-        title: '2020 Conundrum by Caymus Vineyards  White Wine Blend '
       - description: 'Marlborough, New Zealand '
         price: 13 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
