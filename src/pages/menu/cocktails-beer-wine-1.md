@@ -7,7 +7,7 @@ subgroups:
   - description: ''
     items:
       - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
-        price: '14'
+        price: '15'
         title: 'House Manhattan '
       - description: >-
           Double Espresso Vodka, Kahlua, Touch of Vanilla (add Bailey's to make
@@ -26,7 +26,7 @@ subgroups:
         price: '13'
         title: There's Fire
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
-        price: '12'
+        price: '13'
         title: 'La Diabla '
       - description: 'Mezcal, Aperol Aperitif, Yellow Chartreuse, Lime '
         price: '13'
