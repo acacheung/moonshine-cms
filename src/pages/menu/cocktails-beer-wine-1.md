@@ -180,9 +180,9 @@ subgroups:
       - description: 'Marlborough, New Zealand '
         price: 13 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
-      - description: 'Monterey County, CA, USA '
-        price: 12 / 46
-        title: '(RED) 2018 Cloudfall Pinot Noir '
+      - description: 'Napa County, CA, USA '
+        price: 15 / 58
+        title: '(RED) 2020 Joel Gott Pinot Noir '
       - description: 'Mendoza, Argentina '
         price: 12 / 46
         title: (red) 2020 Argento Malbec
