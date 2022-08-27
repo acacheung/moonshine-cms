@@ -28,9 +28,9 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '13'
         title: 'La Diabla '
-      - description: 'Mezcal, Aperol Aperitif, Yellow Chartreuse, Lime '
+      - description: 'Four Roses, Blackberry  Puree, Fresh Lime, Agave'
         price: '13'
-        title: Naked & Famous
+        title: Kentucky Cooler
       - description: >-
           Bully Boy American Whiskey, Bully  Boy Amaro, Mandarin Orange Simple,
           Orange Bitters 
