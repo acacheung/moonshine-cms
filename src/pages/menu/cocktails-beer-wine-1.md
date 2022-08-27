@@ -216,8 +216,6 @@ subgroups:
         title: Sodas
       - price: '4'
         title: Fever-Tree Premium Ginger Beer
-      - price: '4'
-        title: Fever-Tree Lime Yuzu Soda
       - description: 'Original, Sugar Free or Tropical '
         price: '4.50'
         title: Red Bull
