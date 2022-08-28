@@ -230,9 +230,6 @@ subgroups:
           Topping, Blueberry Preserves, Toasted Almond Shortbread 
         price: '15'
         title: Summer Berry Jamboree Waffle Ice Cream Sundae
-      - description: 'Toasted Almond Flour, Fresh Citrus Icing, Powered Sugar '
-        price: '11'
-        title: 'Menu Addition: Bistro Style Almond Orange Cake '
     title: Sweet Tooth
 ---
 
