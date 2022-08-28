@@ -77,7 +77,7 @@ subgroups:
         title: Viva watermelon tequila seltzer
       - description: '12 oz can '
         price: '6 '
-        title: High Noon Pineapple Hard Seltzer
+        title: High Noon Lemon Hard Seltzer
       - description: '12 oz can '
         price: '7'
         title: Black Infusions "Dirty Shirley" Cocktail in a Can
