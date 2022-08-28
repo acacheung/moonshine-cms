@@ -72,9 +72,9 @@ subgroups:
       - description: 12 oz bottle
         price: '6'
         title: Michelob Ultra
-      - description: '12 oz can '
-        price: '4'
-        title: 'Bud Light Black Cherry Hard Seltzer '
+      - description: 355ml can
+        price: '6'
+        title: Viva watermelon tequila seltzer
       - description: '12 oz can '
         price: '6 '
         title: High Noon Pineapple Hard Seltzer
