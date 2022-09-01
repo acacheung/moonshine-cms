@@ -58,7 +58,7 @@ subgroups:
       - price: '5'
         title: (Draft) Miller High Life
       - description: ''
-        price: '5'
+        price: '6'
         title: (Draft) Berkshire Brewing Co. Lager
       - price: '8'
         title: '(draft) Dorchester Brewing Co. "Galaxy Lights" IPA '
@@ -79,7 +79,7 @@ subgroups:
         price: '6 '
         title: High Noon Lemon Hard Seltzer
       - description: '12 oz can '
-        price: '7'
+        price: '8'
         title: Black Infusions "Dirty Shirley" Cocktail in a Can
       - description: 12 oz Bottle
         price: '6'
@@ -91,7 +91,7 @@ subgroups:
         price: '6'
         title: 'Heineken '
       - description: '12 oz bottle '
-        price: '6'
+        price: '7'
         title: 'Corona Extra '
       - description: 12 oz can
         price: '5'
@@ -100,13 +100,13 @@ subgroups:
         price: '5'
         title: Provincetown "Golden Hook" Golden Ale
       - description: 12 oz can
-        price: '5'
+        price: '6'
         title: Kona Brewing "Big Wave" Golden Ale
       - description: '16 oz tallboy can '
-        price: '6'
+        price: '7'
         title: Jack's Abby " Sunny Ridge" Czech-Style Pilsner
       - description: '16oz tallboy can '
-        price: '6'
+        price: '7'
         title: 'Night Shift Brewing "Nite Lite" Light Lager '
       - description: 16 oz Tallboy Can
         price: '5'
@@ -123,7 +123,7 @@ subgroups:
       - description: 16oz tallboy can
         price: '8'
         title: Mikeller Brewing "Passion Pool" Sour Gose
-      - description: 12oz bottle
+      - description: 16oz tallboy can
         price: '7'
         title: 'Allagash White '
       - description: '16 oz tallboy can '
