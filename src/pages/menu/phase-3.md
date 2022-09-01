@@ -17,12 +17,12 @@ subgroups:
         price: '19'
         title: Grass-fed ’Shine Beef Burger**
       - description: >-
-          topped with Creamy Buffalo Chicken Dip, Fritos Chips, Blue Cheese
-          Crumbles & Shaved Celery (**As always, can be made with our
-          award-winning Mushroom Tofu patty! ) Served with House Shoestring
-          French Fries 
+          Grassfed Beef Burger topped with House Pineapple Glazed Diced Hot Dog,
+          Salsa Rosa, Shredded Lettuce, Potato Chips & Boiled Quail Eggs 
         price: '24'
-        title: 'August 2022 Burger of the Month: "Buffalo Chicken" Burger'
+        title: >-
+          Amanda’s Happy Birthday Burger of the Month: “Arae’s Favorite
+          Colombian Hot Dog Burger”
       - description: >-
           Moonshine’s Best of Boston fried chicken, Belgian waffle,
           sriracha-bourbon awesome sauce, cinnamon honey butter ** GO GRANDE by
