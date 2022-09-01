@@ -12,21 +12,21 @@ subgroups:
       - description: >-
           Double Espresso Vodka, Kahlua, Touch of Vanilla (add Bailey's to make
           it creamy!)
-        price: '14'
+        price: '15'
         title: '''Shine Espresso Martini '
-      - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
-        price: '14'
-        title: Moonshine 76
       - description: >-
           Spicy Firepuncher Vodka, Fresh Cucumber Juice, Fresh Lemon,
           Elderflower
-        price: '14'
+        price: '15'
         title: Farm to Glass
+      - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
+        price: '14'
+        title: Moonshine 76
       - description: 'House Infused Spicy Tequilla, Ginger Liqueur, Fresh Lime, Agave '
-        price: '13'
+        price: '14'
         title: There's Fire
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
-        price: '13'
+        price: '14'
         title: 'La Diabla '
       - description: 'Four Roses, Blackberry  Puree, Fresh Lime, Agave'
         price: '13'
@@ -34,24 +34,27 @@ subgroups:
       - description: >-
           Bully Boy American Whiskey, Bully  Boy Amaro, Mandarin Orange Simple,
           Orange Bitters 
-        price: '13'
+        price: '15'
         title: Old Fashioned Bully
       - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime'
-        price: '13'
+        price: '14'
         title: Patron Saint of Southie
       - description: >-
           Cherry-Raspberry Infused Old Smoky Tennessee Moonshine, Fresh Lime,
           Citrus Soda 
-        price: '13'
+        price: '14'
         title: Lunar Lime Rickey
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
-        price: '13'
+        price: '14'
         title: 'Shine Spritz '
       - description: >-
           Mediterranean Red Wine Blend, Brandy, Ginger Liqueur, Hibiscus,
           Apples, Fresh Citrus 
-        price: '12'
+        price: '14'
         title: sahil's  RED sangria
+      - description: 'White Wine, Peach Liqueur, Apricot Vodka, Apricot Puree, Fresh Citrus '
+        price: '14'
+        title: ARae's Apricot-Peach White Sangria
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
