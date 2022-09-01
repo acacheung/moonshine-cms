@@ -17,8 +17,10 @@ subgroups:
         price: '19'
         title: Grass-fed ’Shine Beef Burger**
       - description: >-
-          Grassfed Beef Burger topped with House Pineapple Glazed Diced Hot Dog,
-          Salsa Rosa, Shredded Lettuce, Potato Chips & Boiled Quail Eggs 
+          House Pineapple Glazed Diced Hot Dog, Salsa Rosa, Shredded Lettuce,
+          Potato Chips & Boiled Quail Eggs ON TOP OF Burger Patty of your
+          choice  (Grass-fed Beef Burger or Award Winning Mushroom Tofu Burger)
+          Served with Shoestring French Fries 
         price: '24'
         title: >-
           Amanda’s Happy Birthday Burger of the Month: “Arae’s Favorite
