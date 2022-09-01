@@ -223,61 +223,61 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          Reyka...9...Tito's...10...Ketel One...10...Grey Goose...10...Grand Ten
-          Firepuncher...10...Grand Ten Firepuncher Black 10...Żubrówka Bison
-          Grass ...9...Van Gogh Double Espresso...9...Van Gogh
-          Vanilla...9....New Amsterdam Raspberry..9...New Amsterdam
-          Orange...9...New Amsterdam Citron...9...888 Blueberry...9...888
-          Cranberry...9...
+          Reyka...$10...Tito's Handmade...$11...Ketel One...$12...Grey
+          Goose...$12...Grand Ten Firepuncher...$10...Grand Ten Firepuncher
+          Black $10...Żubrówka Bison Grass ...$9...Van Gogh Double
+          Espresso...$10... New Amsterdam Raspberry..$9...New Amsterdam
+          Orange...$9...New Amsterdam Citron...$9...888 Blueberry...$9...888
+          Cranberry...$9...888 Vanilla $10 
         price: xxxxx
         title: 'Vodka '
       - description: >-
-          Gin Lane London Dry...8...Bombay Sapphire...9... Tanqueray...9...
-          Hendrick's...9..GrandTen Wire Works Gin...9.... Glendalough Wild
-          Botanical...10...
+          Gin Lane London Dry...$8...Bombay Sapphire...$9... Tanqueray...$9...
+          Hendrick's...9..GrandTen Wire Works Gin...$9.... Glendalough Wild
+          Botanical...$10...
         price: xxxxx
         title: Gin
       - description: >-
-          Tres Agaves Blanco...9...Tres Agaves Reposado...10...Tres Agaves
-          Anejo...11...Espolon Blanco...9...Espolon Reposado...10...House
-          Infused Spicy Tequila...9...Don Julio Blanco...11...Don Julio
-          Reposado...12...Don Julio Anejo...13.. Gran Coramino Cristalino
-          Reposado...12...Xicaru Silver Mezcal...9...Del Maguey Vida
-          Mezcal...10...
+          Tres Agaves Blanco...$9...Tres Agaves Reposado...$11...Tres Agaves
+          Anejo...11 ...Espolon Blanco...$10... Espolon Reposado...$11.. .House
+          Infused Spicy Tequila...$11...Don Julio Blanco...$12...Don Julio
+          Reposado..$13...Don Julio Anejo...$14..  Gran Coramino Cristalino
+          Reposado...$12... Xicaru Silver Mezcal...$10...Del Maguey Vida Mezcal
+          ..$12...
         price: xxxxx
         title: 'Tequila & Mezcal '
       - description: >-
-          Privateer NE White Rum...9...Privateer Amber Rum...9...Sailor
-          Jerry...8...Goslings Black Seal...9...Mad River Vanilla Bean...10
-          ...RumHaven Coconut...9...Diplomatico Reserva Exclusiva...9...Ron
-          Zacapa 23...11...Leblon Cachaça...9....Hennessey...10...Remy Martin
-          VSOP...12...
+          Privateer NE White Rum...$9...Privateer Amber Rum...$9...Sailor
+          Jerry...$9...Goslings Black Seal...$9...Mad River Vanilla Bean...$10
+          ...RumHaven Coconut...$9...Diplomatico Reserva Exclusiva...$10...Ron
+          Zacapa 23...$11...Leblon Cachaça...$9....Hennessey...$10...Remy Martin
+          VSOP...$12...
         price: xxxxx
         title: 'Rum  & Cognac '
       - description: >-
-          Four Roses Bourbon...9...Mitcher's Bourbon...9...Maker's Mark
-          Bourbon...10...Mad River Bourbon...10....12....Bully Boy Straight
-          American Whiskey...9...Uncle Nearest 1884 Small Batch
-          Whiskey...11...Uncle Nearest 1856 Whiskey...13...Jack Daniels
-          Whiskey...9...Old Overholt Rye...8...Rittenhouse Rye...9...Mitcher's
-          Single Barrel Rye...9...Mad River Revolution Rye...10...Boston Harbor
-          Distillery Putnam Rye...11....High West Double Rye...12...Boston
-          Harbor Distillery Putnam Single Malt Whiskey...13...Old Smokey
-          Tennessee White Whiskey Moonshine...9...Screwball Peanut Butter
-          Whiskey...9...
+          Four Roses Bourbon...$9...Mitcher's Bourbon...$10...Maker's Mark
+          Bourbon...$10... Mad River Bourbon ...$10.... Bully Boy Straight
+          American Whiskey...$10... Uncle Nearest 1884 Small Batch Whiskey
+          ...$11...Uncle Nearest 1856 Whiskey...$13...Jack Daniels
+          Whiskey...$10... Old Overholt Rye...$8...Rittenhouse Rye...$9...
+          Mitcher's Single Barrel Rye...$10...Mad River Revolution
+          Rye...$10...Boston Harbor Distillery Putnam Rye...$12....High West
+          Double Rye...$12...Boston Harbor Distillery Putnam Single Malt Whiskey
+          ...$13...Old Smokey Tennessee Moonshine  White Whiskey
+          ...$10...Screwball Peanut Butter Whiskey...$10...
         price: xxxxx
         title: 'American Whiskey/Bourbon/Rye '
       - description: >-
-          Jameson Irish Whiskey...9...Glendalough Double Barrel Irish
-          Whiskey...9...GrandTen Distilling South Boston Irish
-          Whiskey...9...Crown Royal Canadian Whiskey...9...
+          Jameson Irish Whiskey...$10...Glendalough Double Barrel Irish
+          Whiskey...$10...GrandTen Distilling South Boston Irish Whiskey...$10
+          ...Crown Royal Canadian Whiskey...$10...
         price: XXXXX
         title: Imported Whiskey
       - description: >-
-          Dewar's "White Label"...9...Johnnie Walker Black...10...Laphroaig
-          10...11...Dalmore Highland Single Malt 12 Yr ...12...Glenfiddich
-          12...12...Glenfiddich 14...13... MacAllen 12 Yr...13...Lagavulin
-          16...20...
+          Dewar's "White Label"...$9...Johnnie Walker Black...$11...Laphroaig
+          10yr ...$12...Dalmore Highland Single Malt 12yr ...$12...Glenfiddich
+          12yr...$12...Glenfiddich 14yr...$13... MacAllen 12yr...$13...Lagavulin
+          16yr...$20...
         price: XXXXX
         title: 'Scotch '
     title: 'Spirit List '
