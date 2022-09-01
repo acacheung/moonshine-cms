@@ -151,16 +151,16 @@ subgroups:
   - description: 'please note vintages are subject to change '
     items:
       - description: 'Veneto, Italy '
-        price: 11/ 42
+        price: 12 / 45
         title: '(Sparkling) NV LaMarca Prosecco '
       - description: 'Reims, FR'
         price: '95 bottle '
         title: '(sparkling) NV Veuve Clicquot Yellow Label Champagne '
       - description: 'Veneto, ITALY'
-        price: 13       (187ml mini bottle)
+        price: 14      (187ml mini bottle)
         title: '(sparkling rose) NV Casa Vinicola Canella Rose Brut '
       - description: 'Columbia Valley, WA, USA '
-        price: 12 / 44
+        price: 13  /  46
         title: (rose) 2019 Charles & Charles Rose
       - description: 'Provence, FR'
         price: 15 / 58
@@ -169,28 +169,28 @@ subgroups:
         price: '42 / BTL '
         title: (white) 2021 Villa Sparina Gavi di Gavi
       - description: 'Veneto, Italy '
-        price: 9 / 36
+        price: 11  /  42
         title: '(White) 2020 Zenato Pinot Grigio '
       - description: 'Willamette Valley, ORE , USA '
-        price: 9 / 36
+        price: 11 /42
         title: '(White) 2020 Willamette Valley Vineyards Riesling '
       - description: 'Napa Valley, CA, USA '
-        price: 11 / 40
+        price: 12 / 45
         title: 2019 (White)  Grayson Cellars Chardonnay
       - description: 'Marlborough, New Zealand '
-        price: 13 / 48
+        price: 14 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
       - description: 'Napa County, CA, USA '
         price: 15 / 58
         title: '(RED) 2020 Joel Gott Pinot Noir '
       - description: 'Mendoza, Argentina '
-        price: 12 / 46
+        price: 13 / 48
         title: (red) 2020 Argento Malbec
       - description: 'Columbia valley, WA, USA '
-        price: '12 / 45 '
+        price: 13 / 47
         title: '(red) 2018 Charles & Charles cabernet/syrah blend '
       - description: 'Napa, California USA '
-        price: 12 / 45
+        price: 13 / 47
         title: '(Red) 2020 Contour Cabernet Sauvignon '
     title: Wine List
   - items:
