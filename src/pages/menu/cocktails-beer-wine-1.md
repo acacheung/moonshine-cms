@@ -201,20 +201,20 @@ subgroups:
       - price: '5'
         title: Fresh-Made Limeade
       - description: >-
-          Orange, Grapefruit, Pineapple, Cranberry, Pear Nectar, White
+          Apple, Orange, Grapefruit, Pineapple, Cranberry, Pear Nectar, White
           Cranberry 
-        price: '4'
+        price: '5'
         title: Assorted Juices
       - description: >-
           Just Ask!  Sweet, Tart, Spicy, Citrusy, Sour-  Your Choice. Just Let
           Us Know What Flavors You Like & Our Bartenders Are Happy To Create A
           Unique Beverage Just For You.
-        price: '5'
+        price: '7'
         title: House Mocktails
       - description: 'Coca-Cola, Diet Coke, Sprite, Ginger Ale, Root Beer'
         price: '3'
         title: Sodas
-      - price: '4'
+      - price: '5'
         title: Fever-Tree Premium Ginger Beer
       - description: 'Original, Sugar Free or Tropical '
         price: '4.50'
