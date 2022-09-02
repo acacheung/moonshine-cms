@@ -7,26 +7,29 @@ subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
       - description: >
-          Pair your favorite vodka or tequila with our house bloody mary mix,
-          infused with homemade kimchi juice 
+          vodka or blanco tequila with our house bloody mary mix, infused with
+          homemade kimchi juice 
 
           ...add candied bacon sea salt rim $1
-        price: MKT
+        price: '13 '
         title: 'Shine Bloody Mary / Bloody Maria '
       - description: 'Prosecco splashed with orange juice '
-        price: '11'
+        price: '12'
         title: 'Classic Mimosa '
       - description: 'Clementine Vodka, Pineapple-Orange Juice, Prosecco '
         price: '13'
         title: 'Leslie Knope''s Approved Executive Mimosa '
+      - description: 'Mad River Vanilla Bean Rum, Chambord, Fresh Lime, Simple'
+        price: '12'
+        title: galentine's day
       - description: 'London Dry Gin, Aperol, Fresh Lemon, Prosecco '
         price: '12'
         title: treat yo self
       - description: 'Bison Grass Vodka, Cinnamon, Apple, Lemon '
-        price: '12'
+        price: '13'
         title: 'R.I.P. Li''l Sebastian '
       - description: 'Rye Whiskey, Boozy Cream, Iced Coffee '
-        price: '12'
+        price: '13'
         title: 'Good Morning Pawnee '
       - price: '5'
         title: 'Fazenda Roasters Brewed Coffee (Available Iced) '
@@ -43,10 +46,10 @@ subgroups:
         price: '5'
         title: 'Juices '
       - description: 'Coca-Cola, Diet Coke, Sprite, Ginger Ale, Root Beer'
-        price: '4'
+        price: '3'
         title: Soda
       - description: 'Premium Ginger Beer or Yuzu Lime '
-        price: '4'
+        price: '5'
         title: Fever Tree Soda
     title: 'Cheers To The Weekend! '
   - description: ' All portions available "Regular" or "Go Grande"'
