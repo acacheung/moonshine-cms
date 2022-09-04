@@ -105,9 +105,6 @@ subgroups:
       - description: 12 oz can
         price: '6'
         title: Kona Brewing "Big Wave" Golden Ale
-      - description: '16 oz tallboy can '
-        price: '7'
-        title: Jack's Abby " Sunny Ridge" Czech-Style Pilsner
       - description: '16oz tallboy can '
         price: '7'
         title: 'Night Shift Brewing "Nite Lite" Light Lager '
