@@ -10,11 +10,6 @@ subgroups:
         price: '15'
         title: 'House Manhattan '
       - description: >-
-          Double Espresso Vodka, Kahlua, Touch of Vanilla (add Bailey's to make
-          it creamy!)
-        price: '15'
-        title: '''Shine Espresso Martini '
-      - description: >-
           Spicy Firepuncher Vodka, Fresh Cucumber Juice, Fresh Lemon,
           Elderflower
         price: '15'
@@ -39,6 +34,11 @@ subgroups:
       - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime'
         price: '14'
         title: Patron Saint of Southie
+      - description: >-
+          Mad River Vanilla Bean Rum, Chambord Raspberry Liqueur, Fresh Lime,
+          Simple 
+        price: '13'
+        title: Pretty In Pink
       - description: >-
           Cherry-Raspberry Infused Old Smoky Tennessee Moonshine, Fresh Lime,
           Citrus Soda 
