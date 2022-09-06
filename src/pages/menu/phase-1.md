@@ -12,11 +12,6 @@ subgroups:
         price: 19 reg / 29 grande
         title: 'Menu Addition: Summer Heirloom Tomato & Watermelon Salad'
       - description: >-
-          Cheesy Carnitas Stuffed Pan-Griddled Tacos, Braised Shortrib, Jalapeno
-          Salsa Fresca, Dipping Taco Jus de Birria 
-        price: 19 (2pcs) / 28 (5pcs)
-        title: 'Menu Addition: ''Shine Birria Tacos '
-      - description: >-
           Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
         price: 14 regular / 23 grande
