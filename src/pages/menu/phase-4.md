@@ -6,11 +6,6 @@ order: 5
 subgroups:
   - description: Add a Belgian waffle to your favorite dessert $7
     items:
-      - description: >-
-          Chilled Coconut Tapioca with Mango Coulis, Lychee Boba Pearls &
-          Mandarin Orange    
-        price: '12'
-        title: 'Menu Addition: Coconut mango tapioca sado'
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
