@@ -6,17 +6,24 @@ order: 1
 subgroups:
   - description: ''
     items:
-      - description: 'Locally Made Rye Whiskey, Sweet Vermouth, Bitters'
+      - description: >-
+          Locally-Made Boston Harbor Distillery Putnam Rye Whiskey, Antica Sweet
+          Vermouth,  Angostura Bitters
         price: '15'
         title: 'House Manhattan '
       - description: >-
-          Spicy Firepuncher Vodka, Fresh Cucumber Juice, Fresh Lemon,
-          Elderflower
+          GrandTen Distillery Spicy Firepuncher Vodka, Fresh Cucumber Juice,
+          Fresh Lemon, Elderflower
         price: '15'
         title: Farm to Glass
-      - description: 'Gin, Elderflower, Fresh Lemon, Prosecco '
+      - description: 'London Dry Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '14'
         title: Moonshine 76
+      - description: >-
+          Double Espresso Vodka, Kahlua Coffee Liqueur, a Touch of Vanilla
+          (available creamy with Bailey's, just ask!)
+        price: '15'
+        title: '''Shine Espresso Martini'
       - description: 'House Infused Spicy Tequilla, Ginger Liqueur, Fresh Lime, Agave '
         price: '14'
         title: There's Fire
