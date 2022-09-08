@@ -201,28 +201,32 @@ subgroups:
         title: '(Red) 2020 Contour Cabernet Sauvignon '
     title: Wine List
   - items:
-      - price: '4'
-        title: 'Unsweetened Iced Tea '
-      - price: '5'
-        title: Fresh-Made Lemonade
-      - price: '5'
-        title: Fresh-Made Limeade
-      - description: >-
-          Apple, Orange, Grapefruit, Pineapple, Cranberry, Pear Nectar, White
-          Cranberry 
-        price: '5'
-        title: Assorted Juices
       - description: >-
           Just Ask!  Sweet, Tart, Spicy, Citrusy, Sour-  Your Choice. Just Let
           Us Know What Flavors You Like & Our Bartenders Are Happy To Create A
           Unique Beverage Just For You.
         price: '7'
         title: House Mocktails
+      - price: '4'
+        title: 'Unsweetened Iced Tea '
+      - price: '5'
+        title: Fresh-Made Lemonade
+      - price: '5'
+        title: Fresh-Made Limeade
+      - price: '4 small  / 8 large '
+        title: Saratoga Springs Bottled Sparkling Water
+      - description: >-
+          Apple, Orange, Grapefruit, Pineapple, Cranberry, Pear Nectar, White
+          Cranberry 
+        price: '5'
+        title: Assorted Juices
       - description: 'Coca-Cola, Diet Coke, Sprite, Ginger Ale, Root Beer'
         price: '3'
         title: Sodas
       - price: '5'
         title: Fever-Tree Premium Ginger Beer
+      - price: '5'
+        title: 'fever tree lime yuzu soda '
       - description: 'Original, Sugar Free or Tropical '
         price: '4.50'
         title: Red Bull
