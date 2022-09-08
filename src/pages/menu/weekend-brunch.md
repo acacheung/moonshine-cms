@@ -174,10 +174,8 @@ subgroups:
     title: All the sides & Fixin's
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
-      - description: >
-          Chef Asia's Famous Chilled Beet Soup- Smooth Roasted Beet Gazpacho,
-          Dill Herbed Creme Fraiche, Diced Cucumber  (*can be made dairy free &
-          vegan!)*
+      - description: |
+          New England Potato-Leek Clam Chowder 
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >
