@@ -43,11 +43,6 @@ subgroups:
           Simple 
         price: '13'
         title: Pretty In Pink
-      - description: >-
-          Cherry-Raspberry Infused Old Smoky Tennessee Moonshine, Fresh Lime,
-          Citrus Soda 
-        price: '14'
-        title: Lunar Lime Rickey
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '14'
         title: 'Shine Spritz '
