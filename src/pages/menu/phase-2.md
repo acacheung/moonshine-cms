@@ -46,8 +46,6 @@ subgroups:
         title: House Crispy Chicken Nuggies
       - price: '13'
         title: Roasted Statler Chicken Breast
-      - price: '15'
-        title: Organic Grass-fed Skirt Steak**
       - price: '13'
         title: Pulled Chinatown Style Roasted Duck
       - price: '15 '
