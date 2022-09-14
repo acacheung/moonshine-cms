@@ -116,7 +116,7 @@ subgroups:
           Scrambled eggs, Pan-Seared Polenta, Rustic Spicy Tomato Sauce, Fresh
           Lemon Zest & Your Choice of Bacon 
         price: '19'
-        title: Tommy G's Favorite Gypsy Eggs
+        title: 'Tommy G''s Favorite Romani Polenta & Eggs Scramble '
       - description: 'Melt-in-your-mouth corned beef, Scrambled eggs, Housemade beer bread '
         price: '19'
         title: '''Shine''s Southie Corned Beef Hash**'
