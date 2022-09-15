@@ -79,7 +79,7 @@ subgroups:
         title: Viva watermelon tequila seltzer
       - description: '12 oz can '
         price: '6 '
-        title: High Noon Lemon Hard Seltzer
+        title: 'High Noon Hard Seltzer: Pineapple or Lemon '
       - description: '12 oz can '
         price: '8'
         title: Black Infusions "Dirty Shirley" Cocktail in a Can
@@ -96,10 +96,10 @@ subgroups:
         price: '7'
         title: 'Corona Extra '
       - description: 12 oz can
-        price: '5'
+        price: '4'
         title: Golden Road "Mango Cart" Wheat Ale
       - description: '12 oz can '
-        price: '5'
+        price: '4'
         title: Provincetown "Golden Hook" Golden Ale
       - description: 12 oz can
         price: '6'
@@ -126,7 +126,7 @@ subgroups:
         price: '7'
         title: 'Allagash White '
       - description: '16 oz tallboy can '
-        price: '7'
+        price: '6'
         title: Bell's Brewing "Oberon" Wheat Ale
       - description: '16 oz tallboy can '
         price: '7'
