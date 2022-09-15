@@ -59,6 +59,12 @@ subgroups:
   - description: Swap out your white rice for mixed greens for 2
     items:
       - description: >-
+          Hoisin Slow Roasted Pulled Duck Confit,                           
+          Crystal Glass Vermicelli Noodles, Duck Fat Fried Brussels Sprouts,
+          Honey Roasted Peanuts  
+        price: '28'
+        title: 'tiki roasted duck noodle salad '
+      - description: >-
           Stirfried Chinese sausage, scrambled egg, ginger, scallions, duck
           liver
         price: '21'
@@ -78,7 +84,7 @@ subgroups:
           stir-fried veggies ....substitute sautéed baby shrimp 5  
         price: '27'
         title: Thai Crispy Chicken Basil Rice Bowl
-    title: Rice Bowls
+    title: 'Rice / Noodle Bowls '
   - items:
       - price: '7'
         title: House-cut shoestring french fries
