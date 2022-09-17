@@ -91,6 +91,9 @@ subgroups:
     title: To Get Ya Started!
   - description: ' (Entrees)'
     items:
+      - description: '   Shredded Beef Brisket wrapped in a Scallion Pancake topped with Pho Noodle Salad, Beansprouts & a Bacony Pho-Bone Broth           '
+        price: '27'
+        title: 'Menu Addition: Chef Asia''s Famous  "Pho-Rrito"'
       - description: >-
           Grilled Marinated Skirt Steak, 2 Fried Eggs, Tasso Ham Hollandaise
           Sauce, Spiced Homefries & a Petite Mixed Greens Salad 
