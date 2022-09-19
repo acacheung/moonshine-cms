@@ -38,11 +38,6 @@ subgroups:
       - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime'
         price: '14'
         title: Patron Saint of Southie
-      - description: >-
-          Mad River Vanilla Bean Rum, Chambord Raspberry Liqueur, Fresh Lime,
-          Simple 
-        price: '13'
-        title: Pretty In Pink
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '14'
         title: 'Shine Spritz '
@@ -52,7 +47,7 @@ subgroups:
         price: '14'
         title: sahil's  RED sangria
       - description: 'White Wine, Peach Liqueur, Apricot Vodka, Apricot Puree, Fresh Citrus '
-        price: '14'
+        price: '13'
         title: ARae's Apricot-Peach White Sangria
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
