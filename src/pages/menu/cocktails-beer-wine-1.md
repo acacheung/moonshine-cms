@@ -38,6 +38,16 @@ subgroups:
       - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime'
         price: '14'
         title: Patron Saint of Southie
+      - description: >-
+          Mad River Vanilla Bean Rum, Chambord Raspberry Liqueur, Fresh Lime,
+          Simple 
+        price: '13'
+        title: Pretty In Pink
+      - description: >-
+          Cherry-Raspberry Infused Old Smoky Tennessee Moonshine, Fresh Lime,
+          Citrus Soda 
+        price: '14'
+        title: Lunar Lime Rickey
       - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
         price: '14'
         title: 'Shine Spritz '
@@ -47,7 +57,7 @@ subgroups:
         price: '14'
         title: sahil's  RED sangria
       - description: 'White Wine, Peach Liqueur, Apricot Vodka, Apricot Puree, Fresh Citrus '
-        price: '13'
+        price: '14'
         title: ARae's Apricot-Peach White Sangria
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
@@ -74,7 +84,7 @@ subgroups:
         title: Viva watermelon tequila seltzer
       - description: '12 oz can '
         price: '6 '
-        title: 'High Noon Hard Seltzer: Pineapple or Lemon '
+        title: High Noon Lemon Hard Seltzer
       - description: '12 oz can '
         price: '8'
         title: Black Infusions "Dirty Shirley" Cocktail in a Can
@@ -91,10 +101,10 @@ subgroups:
         price: '7'
         title: 'Corona Extra '
       - description: 12 oz can
-        price: '4'
+        price: '5'
         title: Golden Road "Mango Cart" Wheat Ale
       - description: '12 oz can '
-        price: '4'
+        price: '5'
         title: Provincetown "Golden Hook" Golden Ale
       - description: 12 oz can
         price: '6'
@@ -121,17 +131,17 @@ subgroups:
         price: '7'
         title: 'Allagash White '
       - description: '16 oz tallboy can '
-        price: '6'
+        price: '7'
         title: Bell's Brewing "Oberon" Wheat Ale
       - description: '16 oz tallboy can '
         price: '7'
         title: Castle Island Brewing "Keeper" IPA
       - description: '16 oz tallboy can '
-        price: '8'
-        title: 'Medusa "Light Runner" NE IPA '
-      - description: '16 oz tallboy can '
         price: '9'
         title: Lawson's Finest "Lil Sip of Sunshine" IPA
+      - description: '16 oz tallboy can '
+        price: '8'
+        title: Berkshire Brewing Co. "Dandy Lion Haze"IPA
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
@@ -160,7 +170,7 @@ subgroups:
         price: 15 / 58
         title: '(Rose) 2020 Château d’Esclan Whispering Angel Rose '
       - description: 'Piedmont, Italy'
-        price: '40 / BTL '
+        price: '42 / BTL '
         title: (white) 2021 Villa Sparina Gavi di Gavi
       - description: 'Veneto, Italy '
         price: 11  /  42
@@ -183,9 +193,6 @@ subgroups:
       - description: 'Columbia valley, WA, USA '
         price: 13 / 47
         title: '(red) 2018 Charles & Charles cabernet/syrah blend '
-      - description: 'Aragón, ESP'
-        price: 13 /  48
-        title: 2020 Lechuza Garnacha
       - description: 'Napa, California USA '
         price: 13 / 47
         title: '(Red) 2020 Contour Cabernet Sauvignon '
