@@ -52,15 +52,6 @@ subgroups:
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
-      - price: '5'
-        title: (Draft) Miller High Life
-      - description: ''
-        price: '6'
-        title: (Draft) Berkshire Brewing Co. Lager
-      - price: '8'
-        title: '(draft) Dorchester Brewing Co. "Galaxy Lights" IPA '
-      - price: '7'
-        title: '(Draft) Harpoon IPA '
       - price: '7'
         title: (Draft) Downeast Unfiltered Cider
       - description: '12 oz bottle '
