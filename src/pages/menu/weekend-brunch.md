@@ -177,8 +177,9 @@ subgroups:
     title: All the sides & Fixin's
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
-      - description: |
-          New England Potato-Leek Clam Chowder 
+      - description: >-
+          New Mexican Hatch Pepper Chickpea Chili Verde with Roasted Hatch
+          Chilis, Garbanzo Chickpeas, Sour Cream & Salsa Fresca 
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >
