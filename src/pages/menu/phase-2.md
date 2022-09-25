@@ -31,6 +31,11 @@ subgroups:
       - description: 'Served with Poblano ranch dressing '
         price: 17 regular / 29 grande
         title: Moonshine’s Boston’s Best Fried Chicken wings
+      - description: >-
+          New Mexican Hatch Pepper Chickpea Chili Verde with Roasted Hatch
+          Chilis, Garbanzo Chickpeas, Sour Cream & Salsa Fresca 
+        price: 12 regular  /  19 grande
+        title: Chef's Whim Soup of the Day
     title: Next Level Favorites
   - description: Add your favorite proteins to anything!
     items:
