@@ -38,26 +38,16 @@ subgroups:
       - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime'
         price: '14'
         title: Patron Saint of Southie
-      - description: >-
-          Mad River Vanilla Bean Rum, Chambord Raspberry Liqueur, Fresh Lime,
-          Simple 
-        price: '13'
-        title: Pretty In Pink
-      - description: >-
-          Cherry-Raspberry Infused Old Smoky Tennessee Moonshine, Fresh Lime,
-          Citrus Soda 
+      - description: 'Select Apertivo, Pamplemousse Liqueur, Prosecco, Fresh Lemon '
         price: '14'
-        title: Lunar Lime Rickey
-      - description: 'Select Apertivo, Pamplemousse, Lemon, Bubbles '
-        price: '14'
-        title: 'Shine Spritz '
+        title: Shine Spritz
       - description: >-
           Mediterranean Red Wine Blend, Brandy, Ginger Liqueur, Hibiscus,
           Apples, Fresh Citrus 
         price: '14'
         title: sahil's  RED sangria
       - description: 'White Wine, Peach Liqueur, Apricot Vodka, Apricot Puree, Fresh Citrus '
-        price: '14'
+        price: '13'
         title: ARae's Apricot-Peach White Sangria
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
@@ -101,10 +91,10 @@ subgroups:
         price: '7'
         title: 'Corona Extra '
       - description: 12 oz can
-        price: '5'
+        price: '4'
         title: Golden Road "Mango Cart" Wheat Ale
       - description: '12 oz can '
-        price: '5'
+        price: '4'
         title: Provincetown "Golden Hook" Golden Ale
       - description: 12 oz can
         price: '6'
@@ -137,11 +127,11 @@ subgroups:
         price: '7'
         title: Castle Island Brewing "Keeper" IPA
       - description: '16 oz tallboy can '
+        price: '8'
+        title: 'Medusa "Light Runner" Hazy IPA '
+      - description: '16 oz tallboy can '
         price: '9'
         title: Lawson's Finest "Lil Sip of Sunshine" IPA
-      - description: '16 oz tallboy can '
-        price: '8'
-        title: Berkshire Brewing Co. "Dandy Lion Haze"IPA
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
@@ -193,6 +183,9 @@ subgroups:
       - description: 'Columbia valley, WA, USA '
         price: 13 / 47
         title: '(red) 2018 Charles & Charles cabernet/syrah blend '
+      - description: 'Aragon, ESP '
+        price: 13  /  48
+        title: '2020 Lechuza Grenacha '
       - description: 'Napa, California USA '
         price: 13 / 47
         title: '(Red) 2020 Contour Cabernet Sauvignon '
