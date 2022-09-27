@@ -83,7 +83,7 @@ subgroups:
         title: 'Corona Extra '
       - description: '16 oz tallboy can '
         price: '6'
-        title: NarragansettFest Märzen Lager
+        title: Narragansett Fest Märzen Lager
       - description: '12 oz can '
         price: '6'
         title: 'Cisco Brewing "Pumple Drunkin" Pumpkin Ale '
