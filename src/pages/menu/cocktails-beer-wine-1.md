@@ -81,12 +81,15 @@ subgroups:
       - description: '12 oz bottle '
         price: '7'
         title: 'Corona Extra '
-      - description: 12 oz can
-        price: '4'
-        title: Golden Road "Mango Cart" Wheat Ale
+      - description: '16 oz tallboy can '
+        price: '6'
+        title: NarragansettFest Märzen Lager
       - description: '12 oz can '
-        price: '4'
-        title: Provincetown "Golden Hook" Golden Ale
+        price: '6'
+        title: 'Cisco Brewing "Pumple Drunkin" Pumpkin Ale '
+      - description: '16 oz tallboy can '
+        price: '8'
+        title: 'Jack''s Abby "Copper Legend" Octoberfest '
       - description: 12 oz can
         price: '6'
         title: Kona Brewing "Big Wave" Golden Ale
@@ -108,12 +111,12 @@ subgroups:
       - description: 16oz tallboy can
         price: '8'
         title: Mikeller Brewing "Passion Pool" Sour Gose
+      - description: 12 oz can
+        price: '4'
+        title: Golden Road "Mango Cart" Wheat Ale
       - description: 16oz tallboy can
         price: '7'
         title: 'Allagash White '
-      - description: '16 oz tallboy can '
-        price: '7'
-        title: Bell's Brewing "Oberon" Wheat Ale
       - description: '16 oz tallboy can '
         price: '7'
         title: Castle Island Brewing "Keeper" IPA
