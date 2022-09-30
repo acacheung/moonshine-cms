@@ -7,6 +7,11 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
+          Squid Ink Arancini, Roasted ButternutSquash, Braised Tomato, Herbed
+          Goat Cheese
+        price: 17 regular / 28 grande
+        title: 'Menu Addition: Autumn Arancini Risotto Fritters'
+      - description: >-
           Heirloom Cherry Tomatoes, Freshly Torn Basil, Blue Cheese Crumbles,
           Aged Balsamic
         price: 19 reg / 29 grande
