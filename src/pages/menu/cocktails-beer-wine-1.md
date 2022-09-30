@@ -46,9 +46,6 @@ subgroups:
           Apples, Fresh Citrus 
         price: '14'
         title: sahil's  RED sangria
-      - description: 'White Wine, Peach Liqueur, Apricot Vodka, Apricot Puree, Fresh Citrus '
-        price: '13'
-        title: ARae's Apricot-Peach White Sangria
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
