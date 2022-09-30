@@ -173,7 +173,7 @@ subgroups:
         title: '(red) 2018 Charles & Charles cabernet/syrah blend '
       - description: 'Aragon, ESP '
         price: 13  /  48
-        title: '2020 Lechuza Grenacha '
+        title: 2020 Lechuza Garnacha
       - description: 'Napa, California USA '
         price: 13 / 47
         title: '(Red) 2020 Contour Cabernet Sauvignon '
