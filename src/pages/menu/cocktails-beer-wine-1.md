@@ -118,9 +118,6 @@ subgroups:
         price: '7'
         title: Castle Island Brewing "Keeper" IPA
       - description: '16 oz tallboy can '
-        price: '8'
-        title: 'Medusa "Light Runner" Hazy IPA '
-      - description: '16 oz tallboy can '
         price: '9'
         title: Lawson's Finest "Lil Sip of Sunshine" IPA
       - description: '12 oz bottle '
