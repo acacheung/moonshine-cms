@@ -215,11 +215,9 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          September 2022: "ARae's Favorite Colombian-Style Hot Dog" Burger:
-          House Pineapple Glazed Diced Hot Dog, Salsa Rosa, Shredded Lettuce,
-          Potato Chips & Boiled Quail Eggs ON TOP OF Burger Patty of your
-          choice  (Grass-fed Beef Burger or Award Winning Mushroom Tofu Burger)
-          Served with Shoestring French Fries  
+          October 2022: "The Pizza Burger 3.0": topped with Melted Mozzarella
+          Cheese, Marinara Sauce, Sliced Pepperoni & a Housemade Mozzarella
+          Stick   served with Shoestring French Fries  
         price: '24'
         title: 'Make Your Burger a VIP Burger of the Month '
     title: All-Day / All-Night Allstars
