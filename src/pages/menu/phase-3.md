@@ -17,14 +17,10 @@ subgroups:
         price: '19'
         title: Grass-fed ’Shine Beef Burger**
       - description: >-
-          House Pineapple Glazed Diced Hot Dog, Salsa Rosa, Shredded Lettuce,
-          Potato Chips & Boiled Quail Eggs ON TOP OF Burger Patty of your
-          choice  (Grass-fed Beef Burger or Award Winning Mushroom Tofu Burger)
-          Served with Shoestring French Fries 
+          topped with Melted Mozzarella Cheese, Marinara Sauce, Sliced Pepperoni
+          & a Housemade Mozzarella Stick   served with Shoestring French Fries 
         price: '24'
-        title: >-
-          Amanda’s Happy Birthday Burger of the Month: “Arae’s Favorite
-          Colombian Hot Dog Burger”
+        title: 'October 2022 Burger of the Month: "The Pizza Burger 3.0"'
       - description: >-
           Moonshine’s Best of Boston fried chicken, Belgian waffle,
           sriracha-bourbon awesome sauce, cinnamon honey butter ** GO GRANDE by
