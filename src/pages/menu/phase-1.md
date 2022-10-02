@@ -12,11 +12,6 @@ subgroups:
         price: 17 regular / 28 grande
         title: 'Menu Addition: Autumn Arancini Risotto Fritters'
       - description: >-
-          Heirloom Cherry Tomatoes, Freshly Torn Basil, Blue Cheese Crumbles,
-          Aged Balsamic
-        price: 19 reg / 29 grande
-        title: 'Menu Addition: Summer Heirloom Tomato & Watermelon Salad'
-      - description: >-
           Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
         price: 14 regular / 23 grande
