@@ -19,9 +19,6 @@ subgroups:
       - description: 'Clementine Vodka, Pineapple-Orange Juice, Prosecco '
         price: '13'
         title: 'Leslie Knope''s Approved Executive Mimosa '
-      - description: 'Mad River Vanilla Bean Rum, Chambord, Fresh Lime, Simple'
-        price: '12'
-        title: galentine's day
       - description: 'London Dry Gin, Aperol, Fresh Lemon, Prosecco '
         price: '12'
         title: treat yo self
