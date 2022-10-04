@@ -53,8 +53,6 @@ subgroups:
         title: Roasted Statler Chicken Breast
       - price: '13'
         title: Pulled Chinatown Style Roasted Duck
-      - price: '15 '
-        title: Charsiu Glazed BBQ Pork Ribs
       - price: '13'
         title: Sautéed Baby Shrimp**
       - price: '15'
