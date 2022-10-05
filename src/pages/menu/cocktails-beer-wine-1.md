@@ -120,7 +120,7 @@ subgroups:
       - description: 12 oz can
         price: '4'
         title: Golden Road "Mango Cart" Wheat Ale
-      - description: 16oz tallboy can
+      - description: 12oz bottle
         price: '7'
         title: 'Allagash White '
       - description: '16 oz tallboy can '
