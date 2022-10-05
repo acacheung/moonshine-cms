@@ -49,6 +49,15 @@ subgroups:
     title: '''Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
+      - description: ''
+        price: '5'
+        title: (draft) miller high life
+      - price: '6'
+        title: '(draft) Berkshire Brewing Lager '
+      - price: '7'
+        title: (draft) harpoon IPA
+      - price: '8 '
+        title: (draft) Dorchester Brewing "Galaxy Lights" Session IPA
       - price: '7'
         title: (Draft) Downeast Unfiltered Cider
       - description: '12 oz bottle '
@@ -62,7 +71,7 @@ subgroups:
         title: Viva watermelon tequila seltzer
       - description: '12 oz can '
         price: '6 '
-        title: High Noon Lemon Hard Seltzer
+        title: 'High Noon Hard Seltzer: Pineapple OR Lemon '
       - description: '12 oz can '
         price: '8'
         title: Black Infusions "Dirty Shirley" Cocktail in a Can
