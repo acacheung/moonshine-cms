@@ -7,8 +7,9 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
-          Squid Ink Arancini, Roasted ButternutSquash, Braised Tomato, Herbed
-          Goat Cheese
+          Parmesan-Pumpkin Arancini, Crispy Rice Fritters w/ Roasted Pumpkin,
+          Butternut Squash, Herbed Goat Cheese, Black Garlic Aioli & Glazed
+          Cranberries 
         price: 17 regular / 28 grande
         title: 'Menu Addition: Autumn Arancini Risotto Fritters'
       - description: >-
