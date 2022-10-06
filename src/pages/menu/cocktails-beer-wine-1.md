@@ -105,9 +105,6 @@ subgroups:
       - description: 16 oz Tallboy Can
         price: '5'
         title: Narragansett Lager
-      - description: '16 oz tallboy can '
-        price: '7'
-        title: Zero Gravity "Green State" Lager
       - description: '12 oz can '
         price: '6'
         title: 'ANXO Cidery " District Dry" Cider '
@@ -120,9 +117,12 @@ subgroups:
       - description: 12 oz can
         price: '4'
         title: Golden Road "Mango Cart" Wheat Ale
-      - description: 12oz bottle
-        price: '7'
+      - description: '12 oz bottle '
+        price: '6'
         title: 'Allagash White '
+      - description: '12 oz can '
+        price: '6'
+        title: 'ballast point "grapefruit sculpin" India pale ale '
       - description: '16 oz tallboy can '
         price: '7'
         title: Castle Island Brewing "Keeper" IPA
