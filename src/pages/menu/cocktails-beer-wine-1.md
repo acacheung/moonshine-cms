@@ -19,11 +19,6 @@ subgroups:
       - description: 'London Dry Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '14'
         title: Moonshine 76
-      - description: >-
-          Double Espresso Vodka, Kahlua Coffee Liqueur, a Touch of Vanilla
-          (available creamy with Bailey's, just ask!)
-        price: '15'
-        title: '''Shine Espresso Martini'
       - description: 'House Infused Spicy Tequilla, Ginger Liqueur, Fresh Lime, Agave '
         price: '14'
         title: There's Fire
