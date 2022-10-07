@@ -7,8 +7,13 @@ subgroups:
   - description: All portions available regular or “Go Grande”
     items:
       - description: >-
+          Crispy Iceberg Lettuce, Roasted Butternut & Beet Crema, Crumbled Blue
+          Cheese, Candied Bacon & Chopped Hard-Boiled Egg
+        price: 17 regular / 28 grande
+        title: 'Menu Addition: ''Shine Wedge Salad'
+      - description: >-
           Parmesan-Pumpkin Arancini, Crispy Rice Fritters w/ Roasted Pumpkin,
-          Butternut Squash, Herbed Goat Cheese, Black Garlic Aioli & Glazed
+          Butternut Squash, Pecorino Cheese, Black Garlic Aioli & Glazed
           Cranberries 
         price: 17 regular / 28 grande
         title: 'Menu Addition: Autumn Arancini Risotto Fritters'
