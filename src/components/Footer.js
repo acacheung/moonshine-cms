@@ -55,7 +55,23 @@ const Footer = class extends React.Component {
         <div className='contacts l-colspan' id='delivery'>
           <h2 className='contacts__heading'>Order Delivery</h2>
           <a
-            className='contact chownow-order-online'
+            className='contact'
+            href='https://www.doordash.com/store/moonshine-152-boston-24152703/16599752/'
+            target='_blank'
+            rel='noreferrer'
+          >
+            We deliver with DOORDASH
+          </a>
+          <a
+            className='contact'
+            href='https://www.trycaviar.com/store/moonshine-152-boston-24152703/16599752/'
+            target='_blank'
+            rel='noreferrer'
+          >
+            We deliver with CAVIAR
+          </a>
+          <a
+            className='contact'
             href='https://ordering.chownow.com/order/25650/locations'
             target='_blank'
             rel='noreferrer'
