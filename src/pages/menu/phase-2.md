@@ -8,11 +8,6 @@ subgroups:
       All portions available regular or “Go Grande”. Don’t forget to add your
       favorite protein or fixin’s!
     items:
-      - description: >-
-          Grilled Local Sweet Corn, Marinated Tomatoes, Citrus Aioli, Crumbled
-          Cotija Cheese 
-        price: 17 regular / 29 grande
-        title: '''Shine Grilled Summer Street Corn Salad'
       - description: >
           Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton crisps,
           Shaved pecorino cheese
