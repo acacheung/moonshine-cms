@@ -263,7 +263,7 @@ subgroups:
       - description: >-
           Jameson Irish Whiskey...$10...Glendalough Double Barrel Irish
           Whiskey...$10...GrandTen Distilling South Boston Irish Whiskey...$10
-          ...Crown Royal Canadian Whiskey...$10...
+          ...
         price: XXXXX
         title: Imported Whiskey
       - description: >-
