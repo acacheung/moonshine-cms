@@ -133,6 +133,9 @@ subgroups:
       - description: '12 oz can '
         price: '6'
         title: Athletic Brewing Co. "Free Wave" Hazy IPA (non-alcoholic)
+      - description: '12 oz can '
+        price: '6'
+        title: 'Athletic Brewing co. "all out" extra dark stout (non-alcoholic) '
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
