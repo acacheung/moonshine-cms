@@ -15,11 +15,6 @@ subgroups:
       - description: 'Powdered sugar, nutella chocolate fudge sauce'
         price: '12'
         title: Jaime’s Favorite Oreo Cookie Layered Fudge Brownie
-      - description: >-
-          Warm  Belgian Waffle, Black Raspberry Ice Cream, Whipped Cream Cheese
-          Topping, Summer Berry Compote, Toasted Almond Shortbread 
-        price: '15'
-        title: Summer Berry Jamboree Belgian Waffle Ice Cream Sundae
     title: Sweet Tooth
 ---
 
