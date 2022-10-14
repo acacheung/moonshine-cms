@@ -15,6 +15,15 @@ subgroups:
       - description: 'Powdered sugar, nutella chocolate fudge sauce'
         price: '12'
         title: Jaime’s Favorite Oreo Cookie Layered Fudge Brownie
+      - description: >-
+          Cardamon ice cream,
+
+          Cinnamon apple pie topping,    
+
+          Toasted almond cobber crumble, Salted caramel drizzle & Whipped cream
+          on a Warm Belgian waffle
+        price: '15'
+        title: Apple Cobbler Belgian Waffle Ice Cream Sundae
     title: Sweet Tooth
 ---
 
