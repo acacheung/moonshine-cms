@@ -155,7 +155,7 @@ subgroups:
         price: 15 / 58
         title: '(Rose) 2020 Château d’Esclan Whispering Angel Rose '
       - description: 'Piedmont, Italy'
-        price: '36 / BTL '
+        price: '36 / bottle '
         title: (white) 2021 Villa Sparina Gavi di Gavi
       - description: 'Veneto, Italy '
         price: 11  /  42
@@ -184,6 +184,9 @@ subgroups:
       - description: 'Napa, California USA '
         price: 13 / 47
         title: '(Red) 2020 Contour Cabernet Sauvignon '
+      - description: 'Napa Valley, CA '
+        price: 70 / bottle
+        title: '(red) 2018 louis martini cabernet sauvignon '
     title: Wine List
   - items:
       - description: >-
