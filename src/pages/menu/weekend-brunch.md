@@ -230,10 +230,14 @@ subgroups:
         price: '12'
         title: 'Jaime''s Favorite Oreo Cookie Layered Fudge Brownie '
       - description: >-
-          Warm  Belgian Waffle, Black Raspberry Ice Cream, Whipped Cream Cheese
-          Topping, Blueberry Preserves, Toasted Almond Shortbread 
+          ardamon ice cream,
+
+          Cinnamon apple pie topping,    
+
+          Toasted almond cobber crumble, Salted caramel drizzle & Whipped cream
+          on a Warm Belgian waffle
         price: '15'
-        title: Summer Berry Jamboree Waffle Ice Cream Sundae
+        title: Apple Cobbler Belgian Waffle Ice Cream Sundae
     title: Sweet Tooth
 ---
 
