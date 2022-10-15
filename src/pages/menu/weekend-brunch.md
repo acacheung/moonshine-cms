@@ -220,7 +220,7 @@ subgroups:
     title: All-Day / All-Night Allstars
   - description: ' (Dessert)'
     items:
-      - description: 'Strawberry-Rhubarb with Summer Blueberry Preserves '
+      - description: 'Strawberry-Rhubarb with Fresh Pomegranate '
         price: '11'
         title: Chef Whim's Sorbet
       - description: 'Whipped chantilly cream, Toasted oat-amaranth streusel '
@@ -230,7 +230,7 @@ subgroups:
         price: '12'
         title: 'Jaime''s Favorite Oreo Cookie Layered Fudge Brownie '
       - description: >-
-          ardamon ice cream,
+          Cardamon ice cream,
 
           Cinnamon apple pie topping,    
 
