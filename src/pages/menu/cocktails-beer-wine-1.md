@@ -151,9 +151,6 @@ subgroups:
       - description: 'Provence, FR'
         price: 15 / 58
         title: '(Rose) 2020 Château d’Esclan Whispering Angel Rose '
-      - description: 'Piedmont, Italy'
-        price: '36 / bottle '
-        title: (white) 2021 Villa Sparina Gavi di Gavi
       - description: 'Veneto, Italy '
         price: 11  /  42
         title: '(White) 2020 Zenato Pinot Grigio '
