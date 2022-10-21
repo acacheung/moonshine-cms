@@ -24,6 +24,11 @@ subgroups:
           on a Warm Belgian waffle
         price: '15'
         title: Apple Cobbler Belgian Waffle Ice Cream Sundae
+      - description: >-
+          Layered Filo Pastry, Pumpkin Cinnamon Custard, Local Honey and
+          Pomegranate
+        price: '12'
+        title: 'Warm Pistachio Pumpkin Baklava '
     title: Sweet Tooth
 ---
 
