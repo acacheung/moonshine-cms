@@ -106,5 +106,10 @@ subgroups:
         price: '2'
         title: 'Sauce it up '
     title: All Fixin’s and Sides
+  - description: >-
+      Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or Eggs
+      May Increase Your Risk for Food born Illness; Especially If You Have A
+      Medical Condition
+    title: '**'
 ---
 
