@@ -72,5 +72,10 @@ subgroups:
         price: 16 regular / 24 grande
         title: Devon’s Favorite ’Shine Fish Tacos**
     title: A-Mei Street Tacos
+  - description: >-
+      Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or Eggs
+      May Increase Your Risk for Food born Illness; Especially If You Have A
+      Medical Condition
+    title: '**'
 ---
 
