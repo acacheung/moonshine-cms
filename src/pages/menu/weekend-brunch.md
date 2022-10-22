@@ -239,5 +239,10 @@ subgroups:
         price: '15'
         title: Apple Cobbler Belgian Waffle Ice Cream Sundae
     title: Sweet Tooth
+  - description: >-
+      Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or Eggs
+      May Increase Your Risk for Food born Illness; Especially If You Have A
+      Medical Condition
+    title: '**'
 ---
 
