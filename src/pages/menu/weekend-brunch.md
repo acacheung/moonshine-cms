@@ -19,9 +19,6 @@ subgroups:
       - description: 'Clementine Vodka, Pineapple-Orange Juice, Prosecco '
         price: '13'
         title: 'Leslie Knope''s Approved Executive Mimosa '
-      - description: 'London Dry Gin, Aperol, Fresh Lemon, Prosecco '
-        price: '12'
-        title: treat yo self
       - description: 'Bison Grass Vodka, Cinnamon, Apple, Lemon '
         price: '13'
         title: 'R.I.P. Li''l Sebastian '
