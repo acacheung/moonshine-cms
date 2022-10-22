@@ -85,9 +85,6 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '6'
         title: Narragansett Fest Märzen Lager
-      - description: '12 oz can '
-        price: '6'
-        title: 'Cisco Brewing "Pumple Drunkin" Pumpkin Ale '
       - description: '16 oz tallboy can '
         price: '8'
         title: 'Jack''s Abby "Copper Legend" Octoberfest '
@@ -121,9 +118,6 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '7'
         title: Castle Island Brewing "Keeper" IPA
-      - description: '16 oz tallboy can '
-        price: '9'
-        title: Lawson's Finest "Lil Sip of Sunshine" IPA
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
