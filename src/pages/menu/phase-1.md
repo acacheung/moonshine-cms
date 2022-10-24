@@ -47,5 +47,10 @@ subgroups:
         price: 15 regular / 24 grande
         title: '''Shine Famous Bacon Wrapped Stuffing Bites '
     title: To Get Ya Started
+  - description: >-
+      Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or Eggs
+      May Increase Your Risk for Food born Illness; Especially If You Have A
+      Medical Condition
+    title: '**'
 ---
 
