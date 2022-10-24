@@ -48,7 +48,7 @@ subgroups:
         price: '5'
         title: (draft) miller high life
       - price: '6'
-        title: '(draft) ufo WHITE  ALE '
+        title: '(draft) Berkshire Brewing Lager '
       - price: '7'
         title: (draft) harpoon IPA
       - price: '8 '
