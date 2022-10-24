@@ -76,7 +76,13 @@ subgroups:
       Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or Eggs
       May Increase Your Risk for Food born Illness; Especially If You Have A
       Medical Condition
-    items: []
+    items:
+      - description: >-
+          Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or
+          Eggs May Increase Your Risk for Food born Illness; Especially If You
+          Have A Medical Condition
+        price: '0'
+        title: Consumer Advisory **
     title: Consumer Advisory **
 ---
 
