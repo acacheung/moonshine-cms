@@ -103,9 +103,6 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '7'
         title: Stormalong "Mass Appeal" Hard Cider
-      - description: 16oz tallboy can
-        price: '8'
-        title: Mikeller Brewing "Passion Pool" Sour Gose
       - description: 12 oz can
         price: '4'
         title: Golden Road "Mango Cart" Wheat Ale
