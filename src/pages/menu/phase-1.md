@@ -56,8 +56,9 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
-          New Mexican Hatch Pepper Chickpea Chili Verde with Roasted Hatch
-          Chilis, Garbanzo Chickpeas, Sour Cream & Salsa Fresca
+          Hungarian Porcini Mushroom Bisque:  Wild Mushrooms, Fresh
+          Cream,                                            Thyme, Scallion
+          Oil   (Gluten Free &  Vegetarian) 
         price: '12 regular / 19 grande '
         title: Chef's Whim Soup for the Soul
       - description: >-
