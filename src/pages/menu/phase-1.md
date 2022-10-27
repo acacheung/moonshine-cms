@@ -127,5 +127,48 @@ subgroups:
         price: '0'
         title: Consumer Advisory **
     title: Consumer Advisory **
+  - description: 'Don’t forget to add your favorite fixin’s, sides or sauces!'
+    items:
+      - description: >-
+          Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
+          fries...... Now available Vegan, just ask!
+        price: '19'
+        title: CHEF ASIA’S FAMOUS VEGETARIAN MUSHROOM TOFU BURGER
+      - description: >-
+          Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french fries
+          .... Make it a double patty 11
+        price: '19'
+        title: GRASS-FED ’SHINE BEEF BURGER**
+      - description: >-
+          topped with Melted Mozzarella Cheese, Marinara Sauce, Sliced Pepperoni
+          & a Housemade Mozzarella Stick served with Shoestring French Fries
+        price: '24'
+        title: 'OCTOBER 2022 BURGER OF THE MONTH: "THE PIZZA BURGER 3.0"'
+      - description: >-
+          Moonshine’s Best of Boston fried chicken, Belgian waffle,
+          sriracha-bourbon awesome sauce, cinnamon honey butter ** GO GRANDE by
+          adding an additional Belgian Waffle for $7**
+        price: '27'
+        title: LESLIE KNOPE’S “FRIED CHICKEN AND WAFFLE”
+      - description: >-
+          Smoky pulled pork, scrambled egg, tomato, petite mixed greens salad,
+          teriyaki, sweet chili glaze, house-cut shoestring french fries...
+          available vegetarian without pulled pork 25
+        price: '27'
+        title: >-
+          RON SWANSON BRUNCH-INSPIRED CHIPOTLE PULLED PORK SCALLION PANCAKE
+          QUESADILLA**
+      - description: >-
+          Cajun grilled fish of the day, fried pickled green tomatoes,
+          srirachi-shrimp uni butter, sauteed tomatoes... add a side of white
+          rice 5
+        price: '29'
+        title: CAJUN GRILLED FISH OF THE DAY**
+      - description: >-
+          Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
+          macerated tomatoes
+        price: '29'
+        title: SPANISH TAPAS STYLE STEAK FRITES**
+    title: THE MAIN AFFAIR
 ---
 
