@@ -115,18 +115,6 @@ subgroups:
         price: 16 regular / 24 grande
         title: DEVON’S FAVORITE ’SHINE FISH TACOS**
     title: A-MEI STREET TACOS
-  - description: >-
-      Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or Eggs
-      May Increase Your Risk for Food born Illness; Especially If You Have A
-      Medical Condition
-    items:
-      - description: >-
-          Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or
-          Eggs May Increase Your Risk for Food born Illness; Especially If You
-          Have A Medical Condition
-        price: '0'
-        title: Consumer Advisory **
-    title: Consumer Advisory **
   - description: 'Don’t forget to add your favorite fixin’s, sides or sauces!'
     items:
       - description: >-
@@ -170,5 +158,17 @@ subgroups:
         price: '29'
         title: SPANISH TAPAS STYLE STEAK FRITES**
     title: THE MAIN AFFAIR
+  - description: >-
+      Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or Eggs
+      May Increase Your Risk for Food born Illness; Especially If You Have A
+      Medical Condition
+    items:
+      - description: >-
+          Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or
+          Eggs May Increase Your Risk for Food born Illness; Especially If You
+          Have A Medical Condition
+        price: '0'
+        title: Consumer Advisory **
+    title: Consumer Advisory **
 ---
 
