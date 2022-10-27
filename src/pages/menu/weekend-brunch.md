@@ -128,52 +128,12 @@ subgroups:
           Ron Swanson Brunch Inspired Chipotle Pulled Pork Scallion Pancake
           Quesadilla (AVAILABLE VEGETARIAN   25)**
     title: The Main Affair
-  - description: ' All the sides & Fixin''s'
-    items:
-      - price: '7'
-        title: 'House-cut Shoestring Fries '
-      - price: '7'
-        title: 'Side of Pecanwood Bacon '
-      - price: '7'
-        title: 'Side of Jalapeno Bacon '
-      - price: '5'
-        title: 'Spiced Homefries '
-      - price: '5'
-        title: 'Two Eggs Any Style** '
-      - price: '6'
-        title: 'Spicy Green Chili Cheese Grits '
-      - description: 'Cinnamon Honey Butter & Sriracha-Bourbon Awesome Sauce '
-        price: '7'
-        title: House Belgian Waffle
-      - price: '3'
-        title: 'Homemade English Muffin '
-      - price: '3'
-        title: 'Homemade Beer Bread '
-      - price: '9'
-        title: 'Side Order of Corned Beef Hash '
-      - price: '2'
-        title: Add a Fried Egg To Any Dish**
-      - price: '4'
-        title: 'Add Bacon To Any Dish '
-      - price: '2'
-        title: 'Add Melted Cheese To Any Dish '
-      - price: '2'
-        title: 'Add Sliced Jalapenos To Any Dish '
-      - description: >-
-          compliment your dish with one of Chef Asia's homemade sauces : Poblano
-          ranch, Sweet chili honey, Sherry pesto aioli, Curry goddess aoili,
-          Candied ginger aioli, Truffled teriyaki, "Awesome sauce", Szechuan
-          Chili Oil (contains sesame & peanuts) 
-        price: '2'
-        title: '"sAUCE IT iP"'
-      - price: '2 '
-        title: Add Maple Syrup
-    title: All the sides & Fixin's
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >-
-          New Mexican Hatch Pepper Chickpea Chili Verde with Roasted Hatch
-          Chilis, Garbanzo Chickpeas, Sour Cream & Salsa Fresca 
+          Hungarian Porcini Mushroom Bisque:  Wild Mushrooms, Fresh
+          Cream,                                            Thyme, Scallion
+          Oil   (Gluten Free &  Vegetarian) 
         price: '12 / 19 '
         title: 'Chef''s Whim Soup for the Soul '
       - description: >
@@ -215,6 +175,47 @@ subgroups:
         price: '24'
         title: 'Make Your Burger a VIP Burger of the Month '
     title: All-Day / All-Night Allstars
+  - description: ' All the sides & Fixin''s'
+    items:
+      - price: '7'
+        title: 'House-cut Shoestring Fries '
+      - price: '7'
+        title: 'Side of Pecanwood Bacon '
+      - price: '7'
+        title: 'Side of Jalapeno Bacon '
+      - price: '5'
+        title: 'Spiced Homefries '
+      - price: '5'
+        title: 'Two Eggs Any Style** '
+      - price: '6'
+        title: 'Spicy Green Chili Cheese Grits '
+      - description: 'Cinnamon Honey Butter & Sriracha-Bourbon Awesome Sauce '
+        price: '7'
+        title: House Belgian Waffle
+      - price: '3'
+        title: 'Homemade English Muffin '
+      - price: '3'
+        title: 'Homemade Beer Bread '
+      - price: '9'
+        title: 'Side Order of Corned Beef Hash '
+      - price: '2'
+        title: Add a Fried Egg To Any Dish**
+      - price: '4'
+        title: 'Add Bacon To Any Dish '
+      - price: '2'
+        title: 'Add Melted Cheese To Any Dish '
+      - price: '2'
+        title: 'Add Sliced Jalapenos To Any Dish '
+      - description: >-
+          compliment your dish with one of Chef Asia's homemade sauces : Poblano
+          ranch, Sweet chili honey, Sherry pesto aioli, Curry goddess aoili,
+          Candied ginger aioli, Truffled teriyaki, "Awesome sauce", Szechuan
+          Chili Oil (contains sesame & peanuts) 
+        price: '2'
+        title: '"sAUCE IT iP"'
+      - price: '2 '
+        title: Add Maple Syrup
+    title: All the sides & Fixin's
   - description: ' (Dessert)'
     items:
       - description: 'Strawberry-Rhubarb with Fresh Pomegranate '
