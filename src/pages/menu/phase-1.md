@@ -1,10 +1,13 @@
 ---
 templateKey: menu-group
-title: 'To Get Ya Started '
-subtitle: (Appetizers)
+title: 'Dinner '
+subtitle: 'served Tue-Thu 5pm-930p, Fri 5pm-1030pm, Sat 4pm-1030pm, Sun 4pm-930pm'
 order: 1
 subgroups:
-  - description: All portions available regular or “Go Grande”
+  - description: >-
+      "Order Fire" Quick Starters Available in Small or Large Portions. Don't
+      forget to top it off with your favorite proteins, fixins, sides & sauces
+      to any dish.
     items:
       - description: >-
           Crispy Iceberg Lettuce, Roasted Butternut & Beet Crema, Crumbled Blue
@@ -48,8 +51,9 @@ subgroups:
         title: '''Shine Famous Bacon Wrapped Stuffing Bites '
     title: To Get Ya Started
   - description: >-
-      Shareable 'Shine Classics Available in Small or Large Portions. Don’t
-      forget to add your favorite protein or fixin’s!
+      Shareable 'Shine Classics Available in Small or Large Portions. Don't
+      forget to top it off with your favorite proteins, fixins, sides & sauces
+      to any dish.
     items:
       - description: >-
           New Mexican Hatch Pepper Chickpea Chili Verde with Roasted Hatch
@@ -115,7 +119,9 @@ subgroups:
         price: 16 regular / 24 grande
         title: DEVON’S FAVORITE ’SHINE FISH TACOS**
     title: A-MEI STREET TACOS
-  - description: 'Don’t forget to add your favorite fixin’s, sides or sauces!'
+  - description: >-
+      Don't forget to top it off with your favorite proteins, fixins, sides &
+      sauces to any dish.
     items:
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
@@ -159,8 +165,8 @@ subgroups:
         title: SPANISH TAPAS STYLE STEAK FRITES**
     title: THE MAIN AFFAIR
   - description: >-
-      Top it off with your favorite add-ons of sauces. Swap out your white rice
-      for mixed greens for 2
+      Don't forget to top it off with your favorite proteins, fixins, sides &
+      sauces to any dish. Swap out your white rice for mixed greens for 2
     items:
       - description: >-
           Hoisin Slow Roasted Pulled Duck Confit, Crystal Glass Vermicelli
