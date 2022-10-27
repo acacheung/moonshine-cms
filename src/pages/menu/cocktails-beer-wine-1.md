@@ -1,7 +1,7 @@
 ---
 templateKey: menu-group
 title: Beverages
-subtitle: 'Cocktails, Beer, Wine & Spirits'
+subtitle: 'Cocktails, Beer, Wine, Non-Alcoholic & Spirits List'
 order: 1
 subgroups:
   - description: ''
