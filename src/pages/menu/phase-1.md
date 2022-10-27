@@ -75,18 +75,6 @@ subgroups:
         price: 17 regular / 29 grande
         title: MOONSHINE’S BOSTON’S BEST buttermilk FRIED CHICKEN WINGs
     title: Next Level Favorites
-  - description: >-
-      Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or Eggs
-      May Increase Your Risk for Food born Illness; Especially If You Have A
-      Medical Condition
-    items:
-      - description: >-
-          Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or
-          Eggs May Increase Your Risk for Food born Illness; Especially If You
-          Have A Medical Condition
-        price: '0'
-        title: Consumer Advisory **
-    title: Consumer Advisory **
   - description: 'Add your favorite proteins to any dish on the menu! '
     items:
       - description: add cheddar cheese...2
@@ -108,5 +96,36 @@ subgroups:
       - price: '15'
         title: CAJUN GRILLED FISH OF THE DAY**
     title: Add Ons!
+  - description: 'Regular= 2 Tacos Go Grande = 3 Tacos '
+    items:
+      - description: 'Boneless beef shortrib, Asian pear kimchi, candied ginger aioli'
+        price: 16 regular / 24 grande
+        title: THROWBACK KOREAN BBQ TACOS
+      - description: 'Slow roasted duck, cabbage, wonton crisps'
+        price: 17 regular / 25 grande
+        title: CHARSIU PULLED DUCK TACOS
+      - description: >-
+          Fennel roasted cauliflower, Curry goddess aioli, sesame candied
+          walnuts, tempura crunchies
+        price: 15 regular / 22 grande
+        title: ROASTED CAULIFLOWER TACOS
+      - description: >-
+          Beer battered tempura cod, mango-cabbage slaw, sweet chili, ginger
+          aioli
+        price: 16 regular / 24 grande
+        title: DEVON’S FAVORITE ’SHINE FISH TACOS**
+    title: A-MEI STREET TACOS
+  - description: >-
+      Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or Eggs
+      May Increase Your Risk for Food born Illness; Especially If You Have A
+      Medical Condition
+    items:
+      - description: >-
+          Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or
+          Eggs May Increase Your Risk for Food born Illness; Especially If You
+          Have A Medical Condition
+        price: '0'
+        title: Consumer Advisory **
+    title: Consumer Advisory **
 ---
 
