@@ -48,8 +48,8 @@ subgroups:
         title: '''Shine Famous Bacon Wrapped Stuffing Bites '
     title: To Get Ya Started
   - description: >-
-      All portions available regular or “Go Grande”. Don’t forget to add your
-      favorite protein or fixin’s!
+      Shareable 'Shine Classics Available in Small or Large Portions. Don’t
+      forget to add your favorite protein or fixin’s!
     items:
       - description: >-
           New Mexican Hatch Pepper Chickpea Chili Verde with Roasted Hatch
