@@ -59,5 +59,15 @@ subgroups:
         price: '0'
         title: Consumer Advisory **
     title: Consumer Advisory **
+  - description: >-
+      All portions available regular or “Go Grande”. Don’t forget to add your
+      favorite protein or fixin’s!
+    items:
+      - description: >-
+          New Mexican Hatch Pepper Chickpea Chili Verde with Roasted Hatch
+          Chilis, Garbanzo Chickpeas, Sour Cream & Salsa Fresca
+        price: '12 regular / 19 grande '
+        title: Chef's Whim Soup for the Soul
+    title: Next Level Favorites
 ---
 
