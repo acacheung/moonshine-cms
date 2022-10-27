@@ -48,6 +48,34 @@ subgroups:
         title: '''Shine Famous Bacon Wrapped Stuffing Bites '
     title: To Get Ya Started
   - description: >-
+      All portions available regular or “Go Grande”. Don’t forget to add your
+      favorite protein or fixin’s!
+    items:
+      - description: >-
+          New Mexican Hatch Pepper Chickpea Chili Verde with Roasted Hatch
+          Chilis, Garbanzo Chickpeas, Sour Cream & Salsa Fresca
+        price: '12 regular / 19 grande '
+        title: Chef's Whim Soup for the Soul
+      - description: >-
+          Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton crisps,
+          Shaved pecorino cheese
+        price: 17 regular / 26 grande
+        title: wARM KALE AND QUINOA CAESAR SALAD
+      - description: >-
+          Tater tots smothered with kimchi butter, sweet chili, truffled
+          teriyaki sauce
+        price: 16 regular / 26 grande
+        title: Party Tots
+      - description: >-
+          Pan-roasted brussels sprouts smothered with kimchi butter, sweet
+          chili, truffled teriyaki sauce
+        price: 17 regular / 28 grande
+        title: Party Sprouts
+      - description: 'served with Poblano Ranch Sauce '
+        price: 17 regular / 29 grande
+        title: MOONSHINE’S BOSTON’S BEST buttermilk FRIED CHICKEN WINGs
+    title: Next Level Favorites
+  - description: >-
       Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or Eggs
       May Increase Your Risk for Food born Illness; Especially If You Have A
       Medical Condition
@@ -59,15 +87,26 @@ subgroups:
         price: '0'
         title: Consumer Advisory **
     title: Consumer Advisory **
-  - description: >-
-      All portions available regular or “Go Grande”. Don’t forget to add your
-      favorite protein or fixin’s!
+  - description: 'Add your favorite proteins to any dish on the menu! '
     items:
-      - description: >-
-          New Mexican Hatch Pepper Chickpea Chili Verde with Roasted Hatch
-          Chilis, Garbanzo Chickpeas, Sour Cream & Salsa Fresca
-        price: '12 regular / 19 grande '
-        title: Chef's Whim Soup for the Soul
-    title: Next Level Favorites
+      - description: add cheddar cheese...2
+        price: '10'
+        title: CHEF ASIA’S FAMOUS VEGAN MUSHROOM TOFU BURGER PATTY
+      - description: add cheddar cheese...2
+        price: '11'
+        title: GRASS-FED BEEF BURGER PATTY**
+      - price: '14'
+        title: Spicy Lamb Meatballs
+      - price: '14'
+        title: House Crispy Chicken Nuggies
+      - price: '13'
+        title: Roasted statler Chicken Breast
+      - price: '13'
+        title: PULLED CHINATOWN STYLE ROASTED DUCK
+      - price: '13'
+        title: SAUTÉED BABY SHRIMP**
+      - price: '15'
+        title: CAJUN GRILLED FISH OF THE DAY**
+    title: Add Ons!
 ---
 
