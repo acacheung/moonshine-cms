@@ -170,5 +170,35 @@ subgroups:
         price: '**'
         title: 'Consumer Advisory '
     title: Consumer Advisory **
+  - description: >-
+      Top it off with your favorite add-ons of sauces. Swap out your white rice
+      for mixed greens for 2
+    items:
+      - description: >-
+          Hoisin Slow Roasted Pulled Duck Confit, Crystal Glass Vermicelli
+          Noodles, Duck Fat Fried Brussels Sprouts, Honey Roasted Peanuts
+        price: '28'
+        title: TIKI ROASTED DUCK NOODLE SALAD
+      - description: >-
+          Stirfried Chinese sausage, Scrambled egg, Ginger, Scallions, Duck
+          liver
+        price: '21'
+        title: MAMA MEI’S FAMOUS DIRTY FRIED RICE
+      - description: >-
+          Asian pear kimchi, jalapenos, scrambled egg, stirfried veggies...
+          available vegan, just ask!
+        price: '21'
+        title: SPICY KIMCHI THAI VEGETARIAN FRIED RICE
+      - description: >-
+          Sweet Maui onion salmon poke, house applewood smoked shrimp salad,
+          mango-edamame salsa, sushi rice, crispy chickpea papadum chips
+        price: '29'
+        title: HAWAIIAN POKE RICE BOWL**
+      - description: >-
+          Spicy basil pepper glaze, crispy panko chicken, seasoned sushi rice,
+          stir-fried veggies ....substitute sautéed baby shrimp 5
+        price: '27'
+        title: THAI CRISPY CHICKEN BASIL RICE BOWL
+    title: Rice / Noodle bowls
 ---
 
