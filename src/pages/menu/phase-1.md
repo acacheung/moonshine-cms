@@ -5,9 +5,9 @@ subtitle: 'served Tue-Thu 5pm-930p, Fri 5pm-1030pm, Sat 4pm-1030pm, Sun 4pm-930p
 order: 1
 subgroups:
   - description: >-
-      "Order Fire" Quick Starters Available in Small or Large Portions. Don't
-      forget to top it off with your favorite proteins, fixins, sides & sauces
-      to any dish.
+      "Order Fire" quick starters available in small or large portions. Don't
+      forget to top it off by adding your favorite proteins, fixins, sides &
+      sauces to any dish.
     items:
       - description: >-
           Crispy Iceberg Lettuce, Roasted Butternut & Beet Crema, Crumbled Blue
@@ -51,9 +51,9 @@ subgroups:
         title: '''Shine Famous Bacon Wrapped Stuffing Bites '
     title: To Get Ya Started
   - description: >-
-      Shareable 'Shine Classics Available in Small or Large Portions. Don't
-      forget to top it off with your favorite proteins, fixins, sides & sauces
-      to any dish.
+      Shareable 'Shine classics available in small or large Portions. Don't
+      forget to top it off by adding your favorite proteins, fixins, sides &
+      sauces to any dish.
     items:
       - description: >-
           New Mexican Hatch Pepper Chickpea Chili Verde with Roasted Hatch
@@ -120,8 +120,8 @@ subgroups:
         title: DEVON’S FAVORITE ’SHINE FISH TACOS**
     title: A-MEI STREET TACOS
   - description: >-
-      Don't forget to top it off with your favorite proteins, fixins, sides &
-      sauces to any dish.
+      Don't forget to top it off by adding your favorite proteins, fixins, sides
+      & sauces to any dish.
     items:
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
@@ -163,7 +163,7 @@ subgroups:
           macerated tomatoes
         price: '29'
         title: SPANISH TAPAS STYLE STEAK FRITES**
-    title: THE MAIN AFFAIR
+    title: THE MAIN AFFAIR-Entrees
   - description: >-
       Don't forget to top it off with your favorite proteins, fixins, sides &
       sauces to any dish. Swap out your white rice for mixed greens for 2
@@ -194,19 +194,7 @@ subgroups:
         price: '27'
         title: THAI CRISPY CHICKEN BASIL RICE BOWL
     title: Rice / Noodle bowls
-  - description: >-
-      Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or Eggs
-      May Increase Your Risk for Food born Illness; Especially If You Have A
-      Medical Condition
-    items:
-      - description: >-
-          Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or
-          Eggs May Increase Your Risk for Food born Illness; Especially If You
-          Have A Medical Condition
-        price: '**'
-        title: 'Consumer Advisory '
-    title: Consumer Advisory **
-  - description: 'Add your favorite fixins, sides & sauces to any dish. '
+  - description: 'Compliment your meal by adding your favorite fixins, sides & sauces!'
     items:
       - price: '7'
         title: HOUSE-CUT SHOESTRING FRENCH FRIES
@@ -240,5 +228,17 @@ subgroups:
         price: MKT
         title: SUB SIDES/SUBSTITUTIONS
     title: Top It Off
+  - description: >-
+      Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or Eggs
+      May Increase Your Risk for Food born Illness; Especially If You Have A
+      Medical Condition
+    items:
+      - description: >-
+          Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or
+          Eggs May Increase Your Risk for Food born Illness; Especially If You
+          Have A Medical Condition
+        price: '**'
+        title: 'Consumer Advisory '
+    title: Consumer Advisory **
 ---
 
