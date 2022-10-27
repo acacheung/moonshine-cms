@@ -159,18 +159,6 @@ subgroups:
         title: SPANISH TAPAS STYLE STEAK FRITES**
     title: THE MAIN AFFAIR
   - description: >-
-      Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or Eggs
-      May Increase Your Risk for Food born Illness; Especially If You Have A
-      Medical Condition
-    items:
-      - description: >-
-          Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or
-          Eggs May Increase Your Risk for Food born Illness; Especially If You
-          Have A Medical Condition
-        price: '**'
-        title: 'Consumer Advisory '
-    title: Consumer Advisory **
-  - description: >-
       Top it off with your favorite add-ons of sauces. Swap out your white rice
       for mixed greens for 2
     items:
@@ -200,5 +188,51 @@ subgroups:
         price: '27'
         title: THAI CRISPY CHICKEN BASIL RICE BOWL
     title: Rice / Noodle bowls
+  - description: >-
+      Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or Eggs
+      May Increase Your Risk for Food born Illness; Especially If You Have A
+      Medical Condition
+    items:
+      - description: >-
+          Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or
+          Eggs May Increase Your Risk for Food born Illness; Especially If You
+          Have A Medical Condition
+        price: '**'
+        title: 'Consumer Advisory '
+    title: Consumer Advisory **
+  - description: 'Add your favorite fixins, sides & sauces to any dish. '
+    items:
+      - price: '7'
+        title: HOUSE-CUT SHOESTRING FRENCH FRIES
+      - price: '5'
+        title: STEAMED WHITE RICE
+      - price: '9'
+        title: PAN-ROASTED BRUSSEL SPROUTS
+      - price: '7'
+        title: ASIAN PEAR KIMCHI
+      - price: '2'
+        title: ADD A FRIED EGG TO ANY DISH**
+      - price: '4 '
+        title: ADD 2 PCS JALAPENO BACON TO ANY DISH
+      - price: '2'
+        title: ADD CHEDDAR CHEESE TO ANY DISH
+      - price: '2 '
+        title: ADD SLICED JALAPENOS TO ANY DISH
+      - price: '7'
+        title: SIDE OF JALAPENO BACON
+      - price: '3 '
+        title: CHEF ASIA'S INFAMOUS "ANGRY SAUCE"
+      - description: >-
+          compliment your dish with one of Chef Asia's homemade sauces : Poblano
+          ranch, Sweet chili honey, Sherry pesto aioli, Curry goddess aioli,
+          Candied ginger aioli, Truffled teriyaki, Bourbon-Sriracha "Awesome
+          sauce", Szechuan Chili Oil (contains sesame & peanuts), Carrot-Sesame
+          Ginger Vinaigrette, 
+        price: '2'
+        title: '"SAUCE IT UP"'
+      - description: inquire with your server for side substitutions
+        price: MKT
+        title: SUB SIDES/SUBSTITUTIONS
+    title: Top It Off
 ---
 
