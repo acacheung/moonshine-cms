@@ -169,9 +169,11 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          October 2022: "The Pizza Burger 3.0": topped with Melted Mozzarella
-          Cheese, Marinara Sauce, Sliced Pepperoni & a Housemade Mozzarella
-          Stick   served with Shoestring French Fries  
+          November  2022: "The Gobble-Gobble" Thanksgiving Burger: topped with
+          House Cornbread Stuffing, Turkey Meatloaf Burger Bites, Maple
+          Cranberry Mayo & Gravy served with Shoestring French Fries ~~~ Want to
+          go full-on Turkey Day?! Swap out the Beef Patty  to make it a Turkey
+          Meatloaf Carver Sandwich! Just ask your server!~~~
         price: '24'
         title: 'Make Your Burger a VIP Burger of the Month '
     title: All-Day / All-Night Allstars
