@@ -13,7 +13,7 @@ subgroups:
         title: 'House Manhattan '
       - description: >-
           Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like It Creamy? Ask
-          for Baileys!) 
+          for it with Baileys!) 
         price: '15'
         title: '''SHine espresso martini'
       - description: 'London Dry Gin, Elderflower, Fresh Lemon, Prosecco '
@@ -185,9 +185,9 @@ subgroups:
       - description: 'Napa, California USA '
         price: 13 / 47
         title: '(Red) 2020 Contour Cabernet Sauvignon '
-      - description: 'Napa Valley, CA '
+      - description: 'Monterrey CA '
         price: 70 / bottle
-        title: '(red) 2018 louis martini cabernet sauvignon '
+        title: '(red)Talbott Vineyard "Kali Hart" Pino Noir '
     title: Wine List
   - items:
       - description: >-
