@@ -12,13 +12,18 @@ subgroups:
         price: '15'
         title: 'House Manhattan '
       - description: >-
+          Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like It Creamy? Ask
+          for Baileys!) 
+        price: '15'
+        title: '''SHine espresso martini'
+      - description: 'London Dry Gin, Elderflower, Fresh Lemon, Prosecco '
+        price: '14'
+        title: Moonshine 76
+      - description: >-
           GrandTen Distillery Spicy Firepuncher Vodka, Fresh Cucumber Juice,
           Fresh Lemon, Elderflower
         price: '15'
         title: Farm to Glass
-      - description: 'London Dry Gin, Elderflower, Fresh Lemon, Prosecco '
-        price: '14'
-        title: Moonshine 76
       - description: 'House Infused Spicy Tequilla, Ginger Liqueur, Fresh Lime, Agave '
         price: '14'
         title: There's Fire
@@ -26,10 +31,15 @@ subgroups:
         price: '14'
         title: 'La Diabla '
       - description: >-
-          Bully Boy American Whiskey, Bully  Boy Amaro, Mandarin Orange Simple,
-          Orange Bitters 
-        price: '15'
-        title: Old Fashioned Bully
+          Xicaru Mezcal, Pamplemousse Grapefruit Liqueur, Bully Boy Amaro, Fresh
+          Lemon, Orange Bitters 
+        price: '14'
+        title: Matador's Bull
+      - description: >-
+          Mad River Rye Whiskey, Dark Cherry Liqueur  Cinnamon Simple. Fresh
+          Lemon 
+        price: '14'
+        title: Danish Modern
       - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime'
         price: '14'
         title: Patron Saint of Southie
