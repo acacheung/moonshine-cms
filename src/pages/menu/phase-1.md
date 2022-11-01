@@ -137,8 +137,9 @@ subgroups:
       - description: >-
           topped with House Cornbread Stuffing, Turkey Meatloaf Burger Bites,
           Maple Cranberry Mayo & Gravy served with Shoestring French Fries ~~~
-          Want to go full-on Turkey Day?! Swap out the Beef to make it a Turkey
-          Meatloaf Carver Sandwich! Just ask your server!~~~
+          ~Make It A Turkey Meatloaf Carver Sandwich!                  Go All-In
+          On Thanksgiving By Swapping Out Your Burger Patty For Turkey Meatloaf
+          Burger Bites!                    Just Ask Your Server!~~~
         price: '24'
         title: >-
           November 2022 BURGER OF THE MONTH: "THE gobble-gobble" thanksgiving
