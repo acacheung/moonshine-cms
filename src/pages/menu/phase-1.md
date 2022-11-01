@@ -141,10 +141,14 @@ subgroups:
         price: '19'
         title: GRASS-FED ’SHINE BEEF BURGER**
       - description: >-
-          topped with Melted Mozzarella Cheese, Marinara Sauce, Sliced Pepperoni
-          & a Housemade Mozzarella Stick served with Shoestring French Fries
+          topped with House Cornbread Stuffing, Turkey Meatloaf Burger Bites,
+          Maple Cranberry Mayo & Gravy served with Shoestring French Fries ~~~
+          Swap out the Beef to make it a Turkey Meatloaf Carver Sandwich! Just
+          ask your server!~~~
         price: '24'
-        title: 'OCTOBER 2022 BURGER OF THE MONTH: "THE PIZZA BURGER 3.0"'
+        title: >-
+          November 2022 BURGER OF THE MONTH: "THE gobble-gobble" thanksgiving
+          burger
       - description: >-
           Moonshine’s Best of Boston fried chicken, Belgian waffle,
           sriracha-bourbon awesome sauce, cinnamon honey butter ** GO GRANDE by
