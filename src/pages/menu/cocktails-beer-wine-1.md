@@ -228,7 +228,8 @@ subgroups:
           Black $10...Żubrówka Bison Grass ...$9...Van Gogh Double
           Espresso...$10... New Amsterdam Raspberry..$9...New Amsterdam
           Orange...$9...New Amsterdam Citron...$9...888 Blueberry...$9...888
-          Cranberry...$9...888 Vanilla $10 
+          Cranberry...$9...888 Vanilla $10 ... Black Infusions Apricot Infused
+          Vodka...$9...
         price: xxxxx
         title: 'Vodka '
       - description: >-
