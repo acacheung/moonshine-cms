@@ -93,8 +93,8 @@ subgroups:
         price: '7'
         title: 'Corona Extra '
       - description: '16 oz tallboy can '
-        price: '6'
-        title: Narragansett Fest Märzen Lager
+        price: '8'
+        title: Jack's Abbey "Shipping up to Boston"
       - description: '16 oz tallboy can '
         price: '8'
         title: 'Jack''s Abby "Copper Legend" Octoberfest '
