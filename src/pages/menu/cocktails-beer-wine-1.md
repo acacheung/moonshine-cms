@@ -126,7 +126,7 @@ subgroups:
         price: '7'
         title: Castle Island Brewing "Keeper" IPA
       - description: '16oz tallboy can '
-        price: '8'
+        price: '9'
         title: Lord Hobo "BoomSauce" Double IPA
       - description: '12 oz bottle '
         price: '7'
