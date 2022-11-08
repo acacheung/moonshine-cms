@@ -10,8 +10,8 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
-          Crispy Iceberg Lettuce, Roasted Butternut & Beet Crema, Crumbled Blue
-          Cheese, Candied Bacon & Chopped Hard-Boiled Egg
+          Crispy Iceberg Lettuce, Roasted Butternut & Beet Crema, Shaved
+          Pecorino Cheese, Candied Bacon & Chopped Hard-Boiled Egg
         price: 17 regular / 28 grande
         title: 'Menu Addition: ''Shine Wedge Salad'
       - description: >-
