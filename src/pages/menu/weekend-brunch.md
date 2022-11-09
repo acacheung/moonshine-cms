@@ -220,7 +220,7 @@ subgroups:
     title: All the sides & Fixin's
   - description: ' (Dessert)'
     items:
-      - description: 'Strawberry-Rhubarb with Fresh Pomegranate '
+      - description: 'Tropical Mango sorbet, House pineapple preserves, Toasted coconut'
         price: '11'
         title: Chef Whim's Sorbet
       - description: 'Whipped chantilly cream, Toasted oat-amaranth streusel '
