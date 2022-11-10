@@ -164,9 +164,9 @@ subgroups:
       - description: 'Veneto, Italy '
         price: 11  /  42
         title: '(White) 2020 Zenato Pinot Grigio '
-      - description: 'Willamette Valley, ORE , USA '
+      - description: 'Monterrey Coast, CA, USA '
         price: 11 /42
-        title: '(White) 2020 Willamette Valley Vineyards Riesling '
+        title: '(White) 2020 SeaGlass Riesling '
       - description: 'Napa Valley, CA, USA '
         price: 12 / 45
         title: 2019 (White)  Grayson Cellars Chardonnay
