@@ -137,15 +137,15 @@ subgroups:
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
+      - description: '12 oz bottle '
+        price: '7'
+        title: Heineken Zero (non-alcoholic)
       - description: '12 oz can '
         price: '6'
         title: Athletic Brewing Co. "Free Wave" Hazy IPA (non-alcoholic)
       - description: '12 oz can '
         price: '6'
         title: 'Athletic Brewing co. "all out" extra dark stout (non-alcoholic) '
-      - description: '12 oz bottle '
-        price: '7'
-        title: Heineken Zero (non-alcoholic)
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
