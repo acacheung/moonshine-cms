@@ -93,7 +93,7 @@ subgroups:
         price: '7'
         title: 'Corona Extra '
       - description: '16 oz tallboy can '
-        price: '8'
+        price: '6'
         title: 'Jack''s Abby "Copper Legend" Octoberfest '
       - description: 12 oz can
         price: '6'
@@ -108,7 +108,7 @@ subgroups:
         price: '8'
         title: 'Jack''s Abbey "Shipping up to Boston" Amber Lager '
       - description: '12 oz can '
-        price: '6'
+        price: '5'
         title: 'ANXO Cidery " District Dry" Cider '
       - description: '16 oz tallboy can '
         price: '7'
@@ -189,7 +189,7 @@ subgroups:
         price: 13 / 47
         title: '(Red) 2020 Contour Cabernet Sauvignon '
       - description: 'Monterrey CA '
-        price: 70 / bottle
+        price: 64 / bottle
         title: '(red)Talbott Vineyard "Kali Hart" Pino Noir '
     title: Wine List
   - items:
