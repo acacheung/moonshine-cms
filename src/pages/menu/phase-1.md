@@ -124,11 +124,6 @@ subgroups:
       Don't forget to top it off by adding your favorite proteins, fixins, sides
       & sauces to any dish.
     items:
-      - description: >
-          Shredded Beef Brisket wrapped in a Scallion Pancake topped with Pho
-          Noodle Salad, Beansprouts & a Bacony Pho-Bone Broth        
-        price: '27'
-        title: 'Menu aDDITION: Chef Asia’s Famous “Pho-Rrito”'
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
