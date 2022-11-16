@@ -1,6 +1,6 @@
 ---
 templateKey: menu-group
-title: 'Dinner '
+title: Dinner
 subtitle: 'served Tue-Thu 5pm-930p, Fri 5pm-1030pm, Sat 4pm-1030pm, Sun 4pm-930pm'
 order: 1
 subgroups:
