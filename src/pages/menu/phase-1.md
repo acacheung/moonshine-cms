@@ -121,19 +121,49 @@ subgroups:
         title: DEVON’S FAVORITE ’SHINE FISH TACOS**
     title: A-MEI STREET TACOS
   - description: >-
+      Don't forget to top it off with your favorite proteins, fixins, sides &
+      sauces to any dish. Swap out your white rice for mixed greens for 2
+    items:
+      - description: >-
+          Hoisin Slow Roasted Pulled Duck Confit, Crystal Glass Vermicelli
+          Noodles, Duck Fat Fried Brussels Sprouts, Honey Roasted Peanuts
+        price: '28'
+        title: TIKI ROASTED DUCK NOODLE SALAD
+      - description: >-
+          Stirfried Chinese sausage, Scrambled egg, Ginger, Scallions, Duck
+          liver
+        price: '21'
+        title: MAMA MEI’S FAMOUS DIRTY FRIED RICE
+      - description: >-
+          Asian pear kimchi, jalapenos, scrambled egg, stirfried veggies...
+          available vegan, just ask!
+        price: '21'
+        title: SPICY KIMCHI THAI VEGETARIAN FRIED RICE
+      - description: >-
+          Sweet Maui onion salmon poke, house applewood smoked shrimp salad,
+          mango-edamame salsa, sushi rice, crispy chickpea papadum chips
+        price: '29'
+        title: HAWAIIAN POKE RICE BOWL**
+      - description: >-
+          Spicy basil pepper glaze, crispy panko chicken, seasoned sushi rice,
+          stir-fried veggies ....substitute sautéed baby shrimp 5
+        price: '27'
+        title: THAI CRISPY CHICKEN BASIL RICE BOWL
+    title: Rice / Noodle bowls
+  - description: >-
       Don't forget to top it off by adding your favorite proteins, fixins, sides
       & sauces to any dish.
     items:
-      - description: >-
-          Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
-          fries...... Now available Vegan, just ask!
-        price: '19'
-        title: CHEF ASIA’S FAMOUS VEGETARIAN MUSHROOM TOFU BURGER
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french fries
           .... Make it a double patty 11
         price: '19'
         title: GRASS-FED ’SHINE BEEF BURGER**
+      - description: >-
+          Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
+          fries...... Now available Vegan, just ask!
+        price: '19'
+        title: CHEF ASIA’S FAMOUS VEGETARIAN MUSHROOM TOFU BURGER
       - description: >-
           topped with House Cornbread Stuffing, Turkey Meatloaf Burger Bites,
           Maple Cranberry Mayo & Gravy served with Shoestring French Fries ~~~
@@ -170,36 +200,6 @@ subgroups:
         price: '29'
         title: SPANISH TAPAS STYLE STEAK FRITES**
     title: THE MAIN AFFAIR-Entrees
-  - description: >-
-      Don't forget to top it off with your favorite proteins, fixins, sides &
-      sauces to any dish. Swap out your white rice for mixed greens for 2
-    items:
-      - description: >-
-          Hoisin Slow Roasted Pulled Duck Confit, Crystal Glass Vermicelli
-          Noodles, Duck Fat Fried Brussels Sprouts, Honey Roasted Peanuts
-        price: '28'
-        title: TIKI ROASTED DUCK NOODLE SALAD
-      - description: >-
-          Stirfried Chinese sausage, Scrambled egg, Ginger, Scallions, Duck
-          liver
-        price: '21'
-        title: MAMA MEI’S FAMOUS DIRTY FRIED RICE
-      - description: >-
-          Asian pear kimchi, jalapenos, scrambled egg, stirfried veggies...
-          available vegan, just ask!
-        price: '21'
-        title: SPICY KIMCHI THAI VEGETARIAN FRIED RICE
-      - description: >-
-          Sweet Maui onion salmon poke, house applewood smoked shrimp salad,
-          mango-edamame salsa, sushi rice, crispy chickpea papadum chips
-        price: '29'
-        title: HAWAIIAN POKE RICE BOWL**
-      - description: >-
-          Spicy basil pepper glaze, crispy panko chicken, seasoned sushi rice,
-          stir-fried veggies ....substitute sautéed baby shrimp 5
-        price: '27'
-        title: THAI CRISPY CHICKEN BASIL RICE BOWL
-    title: Rice / Noodle bowls
   - description: 'Compliment your meal by adding your favorite fixins, sides & sauces!'
     items:
       - price: '7'
