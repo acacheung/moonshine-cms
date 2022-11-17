@@ -199,8 +199,6 @@ subgroups:
           macerated tomatoes
         price: '29'
         title: SPANISH TAPAS STYLE STEAK FRITES**
-      - price: '27'
-        title: pho
     title: THE MAIN AFFAIR-Entrees
   - description: 'Compliment your meal by adding your favorite fixins, sides & sauces!'
     items:
