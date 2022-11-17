@@ -178,7 +178,7 @@ subgroups:
         title: '(RED) 2020 Joel Gott Pinot Noir '
       - description: 'Mendoza, Argentina '
         price: 13 / 48
-        title: (red) 2020 Argento Malbec
+        title: (red) 2021 Argento Malbec
       - description: 'Columbia valley, WA, USA '
         price: 13 / 47
         title: '(red) 2018 Charles & Charles cabernet/syrah blend '
