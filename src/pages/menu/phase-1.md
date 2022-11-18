@@ -18,7 +18,7 @@ subgroups:
           Turkey Sausage, Maple Cranberries, Melted Cheese Curds, Gravy & Crispy
           Fried Sage over Sweet Potato Fries 
         price: '26'
-        title: 'Menu Addition: ''Shine Thanksgiving Turkey Poutine'
+        title: 'Menu Addition: ’Shine Thanksgiving Turkey Poutine'
       - description: >-
           Parmesan-Pumpkin Arancini, Crispy Rice Fritters w/ Roasted Pumpkin,
           Butternut Squash, Pecorino Cheese, Black Garlic Aioli & Glazed
