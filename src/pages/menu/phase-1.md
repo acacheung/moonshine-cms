@@ -155,16 +155,6 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
-          Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french fries
-          .... Make it a double patty 11
-        price: '19'
-        title: GRASS-FED ’SHINE BEEF BURGER**
-      - description: >-
-          Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
-          fries...... Now available Vegan, just ask!
-        price: '19'
-        title: CHEF ASIA’S FAMOUS VEGETARIAN MUSHROOM TOFU BURGER
-      - description: >-
           topped with House Cornbread Stuffing, Turkey Meatloaf Burger Bites,
           Maple Cranberry Mayo & Gravy served with Shoestring French Fries ~~~
           ~Make It A Turkey Meatloaf Carver Sandwich!                  Go All-In
@@ -174,6 +164,16 @@ subgroups:
         title: >-
           November 2022 BURGER OF THE MONTH: "THE gobble-gobble" thanksgiving
           burger
+      - description: >-
+          Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french fries
+          .... Make it a double patty 11
+        price: '19'
+        title: GRASS-FED ’SHINE BEEF BURGER**
+      - description: >-
+          Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
+          fries...... Now available Vegan, just ask!
+        price: '19'
+        title: CHEF ASIA’S FAMOUS VEGETARIAN MUSHROOM TOFU BURGER
       - description: >-
           Moonshine’s Best of Boston fried chicken, Belgian waffle,
           sriracha-bourbon awesome sauce, cinnamon honey butter ** GO GRANDE by
