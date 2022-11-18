@@ -13,7 +13,7 @@ subgroups:
           Crispy Iceberg Lettuce, Roasted Butternut & Beet Crema, Shaved
           Pecorino Cheese, Candied Bacon & Chopped Hard-Boiled Egg
         price: 17 regular / 28 grande
-        title: 'Menu Addition: ''Shine Wedge Salad'
+        title: 'Menu Addition: ’Shine Wedge Salad'
       - description: >-
           Turkey Sausage, Maple Cranberries, Melted Cheese Curds, Gravy & Crispy
           Fried Sage over Sweet Potato Fries 
@@ -29,7 +29,7 @@ subgroups:
           Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
         price: 14 regular / 23 grande
-        title: '''Shine Famous Caramelized Onion-Roasted Beet Dip'
+        title: ’Shine Famous Caramelized Onion-Roasted Beet Dip
       - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
@@ -53,7 +53,7 @@ subgroups:
           Caramelized onion sourdough stuffing wrapped in crispy pecanwood
           bacon, Candied ginger aioli 
         price: 15 regular / 24 grande
-        title: '''Shine Famous Bacon Wrapped Stuffing Bites '
+        title: ’Shine Famous Bacon Wrapped Stuffing Bites
     title: To Get Ya Started
   - description: >-
       Shareable 'Shine classics available in small or large Portions. Don't
