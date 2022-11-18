@@ -18,10 +18,10 @@ subgroups:
         title: 'Classic Mimosa '
       - description: 'Clementine Vodka, Pineapple-Orange Juice, Prosecco '
         price: '13'
-        title: 'Leslie Knope''s Approved Executive Mimosa '
+        title: 'Leslie Knope’s Approved Executive Mimosa '
       - description: 'Bison Grass Vodka, Cinnamon, Apple, Lemon '
         price: '13'
-        title: 'R.I.P. Li''l Sebastian '
+        title: 'R.I.P. Li’l Sebastian '
       - description: 'Rye Whiskey, Boozy Cream, Iced Coffee '
         price: '13'
         title: 'Good Morning Pawnee '
@@ -31,7 +31,7 @@ subgroups:
         title: 'Unsweetened Iced Tea '
       - price: '5'
         title: 'Arnold Palmer '
-      - description: 'Changes every weekend! Ask your server for this weekend''s selection '
+      - description: 'Changes every weekend! Ask your server for this weekend’s selection '
         price: '6'
         title: ARae's Rotating Weekend Iced Tea Special
       - price: '5'
@@ -66,12 +66,12 @@ subgroups:
           Sourdough holiday stuffing bites, Crispy pecanwood bacon, Candied
           ginger aioli 
         price: 15 / 23
-        title: '''Shine''s Famous Bacon Wrapped Stuffing Bites  '
+        title: '’Shine Famous Bacon Wrapped Stuffing Bites  '
       - description: >-
           Brioche cinnamon French toast sticks, Fresh berries, Maple berry
           butter dipping sauce 
         price: '14 / 24 '
-        title: 'Chef Asia''s Famous Cinnamon French Toast Sticks '
+        title: 'Chef Asia’s Famous Cinnamon French Toast Sticks '
       - description: >-
           Crispy olive oil roasted potatoes, Sherry pesto aioli, Roasted garlic
           oil 
@@ -81,18 +81,20 @@ subgroups:
           Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
         price: 14 regular / 23 grande
-        title: '''Shine Famous Caramelized Onion-Roasted Beet Dip'
+        title: ’Shine Famous Caramelized Onion-Roasted Beet Dip
     title: To Get Ya Started!
   - description: ' (Entrees)'
     items:
-      - description: '   Shredded Beef Brisket wrapped in a Scallion Pancake topped with Pho Noodle Salad, Beansprouts & a Bacony Pho-Bone Broth           '
+      - description: >-
+          Shredded Beef Brisket wrapped in a Scallion Pancake topped with Pho
+          Noodle Salad, Beansprouts & a Bacony Pho-Bone Broth           
         price: '27'
-        title: 'Menu Addition: Chef Asia''s Famous  "Pho-Rrito"'
+        title: 'Menu Addition: Chef Asia’s Famous  "Pho-rrito"'
       - description: >-
           Grilled Marinated Skirt Steak, 2 Fried Eggs, Tasso Ham Hollandaise
           Sauce, Spiced Homefries & a Petite Mixed Greens Salad 
         price: '29'
-        title: 'Menu Addition: "''Shine Steak & Eggs"'
+        title: 'Menu Addition: "’Shine Steak & Eggs"'
       - description: >-
           Red-eye gravy, Chinese sausage, Green onions, Chopped melted white
           cheese
@@ -105,7 +107,7 @@ subgroups:
           Tasso ham hollandaise sauce, Fried egg, Spinach, Housemade english
           muffin 
         price: '19'
-        title: '''Shine''s Crab Eggs Benedict**'
+        title: ’Shine Crab Eggs Benedict**
       - description: 'Spiced homefries, Petite mixed greens'
         price: '19'
         title: Sauteed Mushroom & Swiss Omelet**
@@ -113,10 +115,10 @@ subgroups:
           Scrambled eggs, Pan-Seared Polenta, Rustic Spicy Tomato Sauce, Fresh
           Lemon Zest & Your Choice of Bacon 
         price: '19'
-        title: 'Tommy G''s Favorite Romani Polenta & Eggs Scramble '
+        title: 'Tommy G’s Favorite Romani Polenta & Eggs Scramble '
       - description: 'Melt-in-your-mouth corned beef, Scrambled eggs, Housemade beer bread '
         price: '19'
-        title: '''Shine''s Southie Corned Beef Hash**'
+        title: ’Shine Southie Corned Beef Hash**
       - description: 'Sauteed kale, Spiced homefries, Petite mixed greens salad'
         price: '19'
         title: Vegan Turmeric Tofu Scramble
@@ -135,7 +137,7 @@ subgroups:
           Cream,                                            Thyme, Scallion
           Oil   (Gluten Free &  Vegetarian) 
         price: '12 / 19 '
-        title: 'Chef''s Whim Soup for the Soul '
+        title: 'Chef’s Whim Soup for the Soul '
       - description: >
           Heirloom quinoa, sautéed kale, creamy Caesar dressing, wonton crisps,
           fresh pomegranate, shaved pecorino cheese
@@ -143,7 +145,7 @@ subgroups:
         title: 'Warm Kale and Quinoa Caesar Salad '
       - description: served with Poblano Ranch Sauce
         price: 17 / 29
-        title: '"Boston''s Best" Buttermilk Fried Chicken Wings '
+        title: '"Boston’s Best" Buttermilk Fried Chicken Wings '
       - description: >-
           Boneless beef shortrib, Asian pear kimchi, Candied ginger aioli,
           Sriracha sauce 
@@ -153,16 +155,16 @@ subgroups:
           Chinese sausage, Scrambled egg, Fresh ginger, Scallions, Chopped duck
           liver 
         price: '21'
-        title: 'Mama Mei''s Dirty Fried Rice '
+        title: 'Mama Mei’s Dirty Fried Rice '
       - description: >-
           "Boston's Best" Buttermilk fried chicken, Belgian waffle,
           Sriracha-bourbon awesome sauce, Cinnamon honey butter  ** GO GRANDE by
           adding an additional Belgian Waffle for $7**
         price: '27'
-        title: 'Leslie Knope''s Fried Chicken & Waffle '
+        title: 'Leslie Knope’s Fried Chicken & Waffle '
       - description: 'Sharp cheddar, Housemade aioli, LTO & Shoestring fries  '
         price: '19'
-        title: 'Chef Asia''s Famous Mushroom  Burger '
+        title: 'Chef Asia’s Famous Mushroom  Burger '
       - description: >-
           Sharp cheddar, Housemade aioli, LTO & Shoestring fries  ...make it a
           double patty 11 
@@ -177,7 +179,7 @@ subgroups:
         price: '24'
         title: 'Make Your Burger a VIP Burger of the Month '
     title: All-Day / All-Night Allstars
-  - description: ' All the sides & Fixin''s'
+  - description: ' All the sides & Fixin’s'
     items:
       - price: '7'
         title: 'House-cut Shoestring Fries '
@@ -217,18 +219,18 @@ subgroups:
         title: '"sAUCE IT iP"'
       - price: '2 '
         title: Add Maple Syrup
-    title: All the sides & Fixin's
+    title: All the sides & Fixin’s
   - description: ' (Dessert)'
     items:
       - description: 'Tropical Mango sorbet, House pineapple preserves, Toasted coconut'
         price: '11'
-        title: Chef Whim's Sorbet
+        title: Chef Whim’s Sorbet
       - description: 'Whipped chantilly cream, Toasted oat-amaranth streusel '
         price: '12'
         title: 'Butterscotch Pudding '
       - description: 'Nutellla fudge chocolate sauce, Powdered sugar '
         price: '12'
-        title: 'Jaime''s Favorite Oreo Cookie Layered Fudge Brownie '
+        title: 'Jaime’s Favorite Oreo Cookie Layered Fudge Brownie '
       - description: >-
           Cardamon ice cream,
 
