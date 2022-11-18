@@ -15,7 +15,7 @@ subgroups:
           Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like It Creamy? Ask
           for it with Baileys!) 
         price: '15'
-        title: '''SHine espresso martini'
+        title: ’Shine espresso martini
       - description: 'London Dry Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '14'
         title: Moonshine 76
@@ -26,7 +26,7 @@ subgroups:
         title: Farm to Glass
       - description: 'House Infused Spicy Tequilla, Ginger Liqueur, Fresh Lime, Agave '
         price: '14'
-        title: There's Fire
+        title: There’s Fire
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '14'
         title: 'La Diabla '
@@ -51,7 +51,7 @@ subgroups:
           Apples, Fresh Citrus 
         price: '14'
         title: sahil's  RED sangria
-    title: '''Shine Specialty Cocktails '
+    title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
       - description: ''
