@@ -92,9 +92,6 @@ subgroups:
       - description: '12 oz bottle '
         price: '7'
         title: 'Corona Extra '
-      - description: '16 oz tallboy can '
-        price: '6'
-        title: 'Jack''s Abby "Copper Legend" Octoberfest '
       - description: 12 oz can
         price: '6'
         title: Kona Brewing "Big Wave" Golden Ale
@@ -131,6 +128,9 @@ subgroups:
       - description: '16oz tallboy can '
         price: '9'
         title: Lord Hobo "BoomSauce" Double IPA
+      - description: '16 oz tallboy can '
+        price: '10'
+        title: true north ale company "northern haze" neipa
       - description: '16oz tallboy can '
         price: '8'
         title: 'Zero Gravity "Black Cat" Porter '
