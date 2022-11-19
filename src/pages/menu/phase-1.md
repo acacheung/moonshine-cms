@@ -130,11 +130,6 @@ subgroups:
       sauces to any dish. Swap out your white rice for mixed greens for 2
     items:
       - description: >-
-          Hoisin Slow Roasted Pulled Duck Confit, Crystal Glass Vermicelli
-          Noodles, Duck Fat Fried Brussels Sprouts, Honey Roasted Peanuts
-        price: '28'
-        title: TIKI ROASTED DUCK NOODLE SALAD
-      - description: >-
           Stirfried Chinese sausage, Scrambled egg, Ginger, Scallions, Duck
           liver
         price: '21'
