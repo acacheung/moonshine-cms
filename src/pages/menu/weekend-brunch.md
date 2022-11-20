@@ -49,7 +49,7 @@ subgroups:
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
       - description: >-
-          Local honey, Fresh berries, Sunflower seed-oat crumble **add a belgian
+          Local honey, Fresh berries, Maple-nut cornflake crunch **add a belgian
           waffle $7**
         price: 9 / 14
         title: 'Whipped Greek Yogurt Parfait '
