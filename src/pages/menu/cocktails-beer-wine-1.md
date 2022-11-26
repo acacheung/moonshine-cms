@@ -170,6 +170,11 @@ subgroups:
       - description: 'Marlborough, New Zealand '
         price: 14 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
+      - description: 'Rhône Valley, France'
+        price: '38 / bottle '
+        title: >-
+          Treat Yo Self Bottle Special (red) 2019 paul Jaboulet "Parellele 45" 
+          Côtes du Rhône 
       - description: 'Napa County, CA, USA '
         price: 15 / 58
         title: '(RED) 2020 Joel Gott Pinot Noir '
@@ -188,6 +193,9 @@ subgroups:
       - description: 'Monterrey CA '
         price: 58 / bottle
         title: '(red) Talbott Vineyards "Kali Hart" Pinot Noir '
+      - description: 'California '
+        price: '65 / bottle '
+        title: (red) Locations by Dave Phinney "CA" Release Number 9
     title: Wine List
   - items:
       - description: >-
