@@ -187,7 +187,7 @@ subgroups:
         title: '(Red) 2020 Contour Cabernet Sauvignon '
       - description: 'Monterrey CA '
         price: 64 / bottle
-        title: '(red)Talbott Vineyard "Kali Hart" Pino Noir '
+        title: '(red) Talbott Vineyards "Kali Hart" Pinot Noir '
     title: Wine List
   - items:
       - description: >-
