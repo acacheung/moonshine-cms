@@ -172,11 +172,10 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          November  2022: "The Gobble-Gobble" Thanksgiving Burger: topped with
-          House Cornbread Stuffing, Turkey Meatloaf Burger Bites, Maple
-          Cranberry Mayo & Gravy served with Shoestring French Fries ~~~ Want to
-          go full-on Turkey Day?! Swap out the Beef Patty  to make it a Turkey
-          Meatloaf Carver Sandwich! Just ask your server!~~~
+          December 2022" "The Holiday Burger Wellington" topped with Truffled
+          Mushroom Duxelle, Puff Pastry, Steakhouse Horseradish Crema,
+          Thin-sliced Proscuitto & Cherry Balsamic
+          Glaze                             
         price: '24'
         title: 'Make Your Burger a VIP Burger of the Month '
     title: All-Day / All-Night Allstars
