@@ -150,15 +150,10 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
-          topped with House Cornbread Stuffing, Turkey Meatloaf Burger Bites,
-          Maple Cranberry Mayo & Gravy served with Shoestring French Fries ~~~
-          ~Make It A Turkey Meatloaf Carver Sandwich!                  Go All-In
-          On Thanksgiving By Swapping Out Your Burger Patty For Turkey Meatloaf
-          Burger Bites!                    Just Ask Your Server!~~~
+          topped with Truffled Mushroom Duxelle, Puff Pastry, Steakhouse
+          Horseradish Crema, Thin-sliced Proscuitto, Cherry Balsamic Glaze 
         price: '24'
-        title: >-
-          November 2022 BURGER OF THE MONTH: "THE gobble-gobble" thanksgiving
-          burger
+        title: 'December 2022: "The Holiday Burger Wellington" '
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french fries
           .... Make it a double patty 11
