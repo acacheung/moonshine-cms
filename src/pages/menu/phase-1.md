@@ -15,6 +15,11 @@ subgroups:
         price: 17 regular / 28 grande
         title: 'Menu Addition: ’Shine Wedge Salad'
       - description: >-
+          House Chorizo-Cornbread Stuffing, Salsa Rosa, Fresh Pomegranate,
+          Shaved Radish 
+        price: '14'
+        title: 'Menu Addition: Holiday Stuffin'' Muffins'
+      - description: >-
           Parmesan-Pumpkin Arancini, Crispy Rice Fritters w/ Roasted Pumpkin,
           Butternut Squash, Pecorino Cheese, Black Garlic Aioli & Glazed
           Cranberries 
@@ -150,20 +155,20 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
-          topped with Truffled Mushroom Duxelle, Puff Pastry, Steakhouse
-          Horseradish Crema, Thin-sliced Proscuitto, Cherry Balsamic Glaze 
-        price: '24'
-        title: 'December 2022: "The Holiday Burger Wellington" '
+          Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
+          fries...... Now available Vegan, just ask!
+        price: '19'
+        title: CHEF ASIA’S FAMOUS VEGETARIAN MUSHROOM TOFU BURGER
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french fries
           .... Make it a double patty 11
         price: '19'
         title: GRASS-FED ’SHINE BEEF BURGER**
       - description: >-
-          Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
-          fries...... Now available Vegan, just ask!
-        price: '19'
-        title: CHEF ASIA’S FAMOUS VEGETARIAN MUSHROOM TOFU BURGER
+          topped with Truffled Mushroom Duxelle, Puff Pastry, Steakhouse
+          Horseradish Crema, Thin-sliced Proscuitto, Cherry Balsamic Glaze 
+        price: '24'
+        title: 'Burger of the Month December 2022: "The Holiday Burger Wellington" '
       - description: >-
           Moonshine’s Best of Boston fried chicken, Belgian waffle,
           sriracha-bourbon awesome sauce, cinnamon honey butter ** GO GRANDE by
