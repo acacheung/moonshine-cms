@@ -61,9 +61,8 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
-          Hungarian Porcini Mushroom Bisque:  Wild Mushrooms, Fresh
-          Cream,                                            Thyme, Scallion
-          Oil   (Gluten Free &  Vegetarian) 
+          Chef Asia's Favorite Schitt's Creek "Lover's Curry": Panang Style
+          Potato Curry, Braised Pineapple, Coconut Milk, Honeyed Sweet Potatoes 
         price: '12 regular / 19 grande '
         title: Chef's Whim Soup for the Soul
       - description: >-
