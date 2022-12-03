@@ -134,9 +134,8 @@ subgroups:
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >-
-          Hungarian Porcini Mushroom Bisque:  Wild Mushrooms, Fresh
-          Cream,                                            Thyme, Scallion
-          Oil   (Gluten Free &  Vegetarian) 
+          Chef Asia's Favorite Schitt's Creek "Lover's Curry": Panang Style
+          Potato Curry, Braised Pineapple, Coconut Milk, Honeyed Sweet Potatoes 
         price: '12 / 19 '
         title: 'Chef’s Whim Soup for the Soul '
       - description: >
