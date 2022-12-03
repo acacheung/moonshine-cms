@@ -9,7 +9,7 @@ subgroups:
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
-      - description: 'Tropical Mango sorbet, House pineapple preserves, Toasted coconut'
+      - description: 'Tropical Mango sorbet, Toasted coconut'
         price: '11'
         title: 'Chef’s Whim Sorbet '
       - description: 'Powdered sugar, nutella chocolate fudge sauce'
