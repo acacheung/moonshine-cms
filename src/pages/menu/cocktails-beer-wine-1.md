@@ -7,6 +7,11 @@ subgroups:
   - description: ''
     items:
       - description: >-
+          Mediterranean Red Blend Mulled with Peter's Secret Herbs and Spices
+          (Ginger, Clove, Nutmeg, All-Spice, Star Anise)
+        price: '13'
+        title: 'Peter''s Rotating Hot Cocktail Special: Mulled Spiced Wine'
+      - description: >-
           Locally-Made Boston Harbor Distillery Putnam Rye Whiskey, Antica Sweet
           Vermouth,  Angostura Bitters
         price: '15'
