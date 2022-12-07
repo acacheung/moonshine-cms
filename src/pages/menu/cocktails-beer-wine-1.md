@@ -56,6 +56,16 @@ subgroups:
           Apples, Fresh Citrus 
         price: '14'
         title: sahil's  RED sangria
+      - description: >-
+          White wine blend, Apricot vodka, Peach Liqueur, Apricot Purée, Fresh
+          Citrus 
+        price: '13 '
+        title: Apricot-Peach White Sangria
+      - description: >-
+          Privateer White Rum, Toasted Pineapple, Apple Cider, Chai Spice,
+          Hazelnut Liqueur 
+        price: '12'
+        title: 'Winter in the Tropics '
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
