@@ -92,8 +92,8 @@ subgroups:
         title: 'Menu Addition: Chef Asia’s Famous  "Pho-rrito"'
       - description: >-
           Grilled Marinated Skirt Steak, Two Fried Eggs,                 
-          Chorizo Cornbread Stuffin' Muffins, Cranberry
-          Aioli                                & a Petite Mixed Greens Salad 
+          Chorizo Cornbread Stuffin' Muffins, Candied Ginger Aioli & a Petite
+          Mixed Greens Salad 
         price: '29'
         title: 'Menu Addition: "’Shine Steak & Eggs"'
       - description: >-
