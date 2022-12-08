@@ -149,7 +149,7 @@ subgroups:
         title: Heineken Zero (non-alcoholic)
       - description: '12 oz can '
         price: '6'
-        title: Athletic Brewing co "Free Wave" IPA (non-alcoholic_
+        title: Athletic Brewing co "Free Wave" IPA  (non-alcoholic)
       - description: '12 oz can '
         price: '6'
         title: 'Athletic Brewing co. "all out" extra dark stout (non-alcoholic) '
