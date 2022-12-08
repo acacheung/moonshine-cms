@@ -8,7 +8,8 @@ subgroups:
     items:
       - description: >-
           Mediterranean Red Blend Mulled with Peter's Secret Herbs and Spices
-          (Ginger, Clove, Nutmeg, All-Spice, Star Anise)
+          (Ginger, Clove, Nutmeg, All-Spice, Star Anise), Honey, Fresh Citrus
+          Zests 
         price: '13'
         title: 'Peter''s Rotating Hot Cocktail Special: Mulled Spiced Wine'
       - description: >-
