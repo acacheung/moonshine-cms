@@ -201,10 +201,10 @@ subgroups:
         price: 13 / 47
         title: '(Red) 2020 Contour Cabernet Sauvignon '
       - description: 'Monterrey CA '
-        price: 58 / bottle
+        price: 50 / bottle
         title: '(red) Talbott Vineyards "Kali Hart" Pinot Noir '
       - description: 'California '
-        price: '65 / bottle '
+        price: '50 / bottle '
         title: (red) Locations by Dave Phinney "CA" Release Number 9
     title: Wine List
   - items:
