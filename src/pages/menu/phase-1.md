@@ -15,8 +15,8 @@ subgroups:
         price: 17 regular / 28 grande
         title: 'Menu Addition: ’Shine Wedge Salad'
       - description: >-
-          House Chorizo-Cornbread Stuffing, Salsa Rosa, Fresh Pomegranate,
-          Shaved Radish 
+          House Chorizo-Cornbread Stuffing, Candied Ginger Aioli, Fresh
+          Pomegranate, Shaved Radish 
         price: '14'
         title: 'Menu Addition: Holiday Stuffin'' Muffins'
       - description: >-
