@@ -114,9 +114,9 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '8'
         title: 'Jack''s Abbey "Shipping up to Boston" Amber Lager '
-      - description: '12 oz can '
-        price: '4'
-        title: 'ANXO Cidery " District Dry" Cider '
+      - description: '16 oz can '
+        price: '8'
+        title: 'Stormalong "Happy Holidays" Spiced Cider '
       - description: '16 oz tallboy can '
         price: '7'
         title: Stormalong "Mass Appeal" Hard Cider
@@ -147,6 +147,9 @@ subgroups:
       - description: '12 oz bottle '
         price: '7'
         title: Heineken Zero (non-alcoholic)
+      - description: '12 oz can '
+        price: '6'
+        title: Athletic Brewing co "Free Wave" IPA (non-alcoholic_
       - description: '12 oz can '
         price: '6'
         title: 'Athletic Brewing co. "all out" extra dark stout (non-alcoholic) '
