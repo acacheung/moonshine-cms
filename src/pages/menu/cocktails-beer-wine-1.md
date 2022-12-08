@@ -114,6 +114,9 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '8'
         title: 'Jack''s Abbey "Shipping up to Boston" Amber Lager '
+      - description: '12 oz bottle '
+        price: '7'
+        title: Boulevard Brewing "Nutcracker" Winter Warmer Ale
       - description: '16 oz can '
         price: '8'
         title: 'Stormalong "Happy Holidays" Spiced Cider '
