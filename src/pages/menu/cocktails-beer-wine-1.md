@@ -45,6 +45,11 @@ subgroups:
         price: '14'
         title: Patron Saint of Southie
       - description: >-
+          Blueberry, Raspberry & Cranberry Vodkas, Pomegranate-Cherry Syrup,
+          Concord Grape Lemonade
+        price: '13'
+        title: Darker The Berry
+      - description: >-
           Privateer White Rum, Toasted Pineapple, Apple Cider, Chai Spice,
           Hazelnut Liqueur 
         price: '12'
