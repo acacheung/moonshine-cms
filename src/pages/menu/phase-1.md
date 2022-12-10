@@ -122,6 +122,8 @@ subgroups:
         title: SAUTÉED BABY SHRIMP**
       - price: '15'
         title: CAJUN GRILLED FISH OF THE DAY**
+      - price: '13'
+        title: '''Shine Smoky Meatloaf'
     title: Add Ons!
   - description: 'Regular= 2 Tacos Go Grande = 3 Tacos '
     items:
@@ -171,6 +173,13 @@ subgroups:
       Don't forget to top it off by adding your favorite proteins, fixins, sides
       & sauces to any dish.
     items:
+      - description: >-
+          Slow Roasted BBQ Meatloaf served with                  Chorizo
+          Cornbread Stuffing Muffins, Saffron
+          Aioli                               & a petite Pomegranate Mixed
+          Greens Salad   
+        price: '28'
+        title: 'Menu Addition: ''Shine Smoky Meatloaf'
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
