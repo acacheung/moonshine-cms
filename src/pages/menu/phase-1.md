@@ -169,6 +169,11 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
+          Shredded Beef Brisket wrapped in a Scallion Pancake topped with Pho
+          Noodle Salad, Beansprouts & a Bacony Pho-Bone Broth  
+        price: '27'
+        title: 'Menu Addition: Chef aSIA''S FAMOUS "PHO-RRITO"'
+      - description: >-
           Slow Roasted BBQ Meatloaf served with                  Chorizo
           Cornbread Stuffing Muffins, Saffron
           Aioli                               & a petite Pomegranate Mixed
