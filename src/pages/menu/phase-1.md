@@ -163,7 +163,7 @@ subgroups:
           stir-fried veggies ....substitute sautéed baby shrimp 5
         price: '27'
         title: THAI CRISPY CHICKEN BASIL RICE BOWL
-    title: Rice / Noodle bowls
+    title: Rice Bowls
   - description: >-
       Don't forget to top it off by adding your favorite proteins, fixins, sides
       & sauces to any dish.
@@ -186,7 +186,9 @@ subgroups:
         title: GRASS-FED ’SHINE BEEF BURGER**
       - description: >-
           topped with Truffled Mushroom Duxelle, Puff Pastry, Steakhouse
-          Horseradish Crema, Thin-sliced Proscuitto, Cherry Balsamic Glaze 
+          Horseradish Crema, Thin-sliced Proscuitto, Cherry Balsamic Glaze
+          ~~~Not Quite Holiday Enough For You?! Top Your Burger off with Chef
+          Asia’s Holiday Braised Shredded Beef Brisket & Gravy for $5      
         price: '24'
         title: 'Burger of the Month December 2022: "The Holiday Burger Wellington" '
       - description: >-
