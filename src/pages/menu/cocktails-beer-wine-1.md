@@ -44,11 +44,6 @@ subgroups:
       - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime'
         price: '14'
         title: Patron Saint of Southie
-      - description: >-
-          Privateer White Rum, Toasted Pineapple, Apple Cider, Chai Spice,
-          Hazelnut Liqueur 
-        price: '12'
-        title: 'Winter in the Tropics '
       - description: 'Select Apertivo, Pamplemousse Liqueur, Prosecco, Fresh Lemon '
         price: '14'
         title: Shine Spritz
