@@ -86,11 +86,6 @@ subgroups:
   - description: ' (Entrees)'
     items:
       - description: >-
-          Shredded Beef Brisket wrapped in a Scallion Pancake topped with Pho
-          Noodle Salad, Beansprouts & a Bacony Pho-Bone Broth           
-        price: '27'
-        title: 'Menu Addition: Chef Asia’s Famous  "Pho-rrito"'
-      - description: >-
           Grilled Marinated Skirt Steak, Two Fried Eggs,                  Tasso
           Ham Hollandaise, Spiced Homefries                                & a
           Petite Mixed Greens Salad   
