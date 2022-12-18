@@ -171,9 +171,9 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
-          Slow Roasted BBQ Meatloaf served with                  House Potato
-          Latke Pancakes, Saffron Aioli                               & a petite
-          Pomegranate Mixed Greens Salad   
+          Slow Roasted BBQ Meatloaf served with                  House Cornbread
+          Stuffin' Muffins, Saffron Aioli                               & a
+          petite Pomegranate Mixed Greens Salad   
         price: '28'
         title: 'Menu Addition: ''Shine Smoky Meatloaf'
       - description: >-
