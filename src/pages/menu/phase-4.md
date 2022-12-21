@@ -18,9 +18,9 @@ subgroups:
         price: '12'
         title: Jaime’s Favorite Oreo Cookie Layered Fudge Brownie
       - description: >-
-          Dutch Cocoa, Homemade Graham Crackers, Marshmallows, Chocolate Chips,
-          Dulce de Leche, Whipped Cream        ........go "a la mode" $3 ...add
-          nutella chocolate sauce $2 
+          Dutch Cocoa, Homemade Graham Cracker Crumble, Marshmallows, Chocolate
+          Chips, Dulce de Leche, Whipped Cream        ........go "a la mode" $3
+          ...add nutella chocolate sauce $2 
         price: '14'
         title: 'Warm Red Velvet S''mores Bread Pudding '
       - description: 'Tropical Mango sorbet, Toasted coconut'
