@@ -63,8 +63,8 @@ subgroups:
       - description: ''
         price: '5'
         title: (draft) miller high life
-      - price: '6'
-        title: '(draft) Berkshire Brewing Lager '
+      - price: '7'
+        title: '(draft)Zero Gravity Brewing "green state" Lager '
       - price: '7'
         title: (draft) harpoon IPA
       - price: '8 '
