@@ -179,11 +179,6 @@ subgroups:
       - description: 'Marlborough, New Zealand '
         price: 14 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
-      - description: 'Rhône Valley, France'
-        price: '38 / bottle '
-        title: >-
-          Treat Yo Self Bottle Special (red) 2019 paul Jaboulet "Parellele 45" 
-          Côtes du Rhône 
       - description: 'Napa County, CA, USA '
         price: 15 / 58
         title: '(RED) 2020 Joel Gott Pinot Noir '
