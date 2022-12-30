@@ -108,7 +108,7 @@ subgroups:
         price: '5'
         title: Narragansett Lager
       - description: '16 oz tallboy can '
-        price: '8'
+        price: '6'
         title: 'Jack''s Abbey "Shipping up to Boston" Amber Lager '
       - description: '12 oz bottle '
         price: '7'
@@ -126,7 +126,7 @@ subgroups:
         price: '7'
         title: 'Stone IPA '
       - description: '12 oz can '
-        price: '5'
+        price: '4'
         title: 'ballast point "grapefruit sculpin" India pale ale '
       - description: '16 oz tallboy can '
         price: '7'
@@ -138,7 +138,7 @@ subgroups:
         price: '10'
         title: true north ale company "northern haze" neipa
       - description: '16oz tallboy can '
-        price: '8'
+        price: '7'
         title: 'Zero Gravity "Black Cat" Porter '
       - description: '16 oz nitro can '
         price: '7'
