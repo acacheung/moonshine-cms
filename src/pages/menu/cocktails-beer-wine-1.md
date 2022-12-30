@@ -175,7 +175,7 @@ subgroups:
         title: '(White) 2020 SeaGlass Riesling '
       - description: 'Napa Valley, CA, USA '
         price: 12 / 45
-        title: 2019 (White)  Grayson Cellars Chardonnay
+        title: (White) 2019 Grayson Cellars Chardonnay
       - description: 'Marlborough, New Zealand '
         price: 14 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
@@ -190,7 +190,7 @@ subgroups:
         title: '(red) 2018 Charles & Charles cabernet/syrah blend '
       - description: 'Aragon, ESP '
         price: 13  /  48
-        title: 2020 Lechuza Garnacha
+        title: ' (red) 2020 Lechuza Garnacha'
       - description: 'Napa, California USA '
         price: 13 / 47
         title: '(Red) 2020 Contour Cabernet Sauvignon '
