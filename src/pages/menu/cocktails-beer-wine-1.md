@@ -205,6 +205,9 @@ subgroups:
           (48% Santa Barbara, 43% Sonoma & 9% Monterey County)          
         price: '40 / bottle '
         title: '(red) 2020 J Vineyards Winemaker’s Selection Pinot Noir '
+      - description: Italy
+        price: 40 / bottle
+        title: (red) Locations by Dave Phinney "italy" Release Number 9
     title: Wine List
   - items:
       - description: >-
