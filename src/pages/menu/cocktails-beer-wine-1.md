@@ -13,13 +13,18 @@ subgroups:
         price: '13'
         title: 'Peter''s Rotating Hot Cocktail Special: Mulled Spiced Wine'
       - description: >-
-          Locally-Made Boston Harbor Distillery Putnam Rye Whiskey, Antica Sweet
-          Vermouth,  Angostura Bitters
-        price: '15'
-        title: 'House Manhattan '
-      - description: 'London Dry Gin, Elderflower, Fresh Lemon, Prosecco '
+          Rye Whiskey, Aperol Aperitivo, Yellow Chartreuse, Orange Bitters,
+          Burnt Orange 
+        price: '13'
+        title: new classic
+      - description: >-
+          Mad River Rye Whiskey, Dark Cherry Liqueur,  Cinnamon Simple. Fresh
+          Lemon 
         price: '14'
-        title: Moonshine 76
+        title: Danish Modern
+      - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime'
+        price: '14'
+        title: Patron Saint of Southie
       - description: >-
           GrandTen Distillery Spicy Firepuncher Vodka, Fresh Cucumber Juice,
           Fresh Lemon, Elderflower
@@ -36,14 +41,9 @@ subgroups:
           Lemon, Orange Bitters 
         price: '14'
         title: Matador's Bull
-      - description: >-
-          Mad River Rye Whiskey, Dark Cherry Liqueur  Cinnamon Simple. Fresh
-          Lemon 
+      - description: 'London Dry Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '14'
-        title: Danish Modern
-      - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime'
-        price: '14'
-        title: Patron Saint of Southie
+        title: Moonshine 76
       - description: 'Select Apertivo, Pamplemousse Liqueur, Prosecco, Fresh Lemon '
         price: '14'
         title: Shine Spritz
@@ -53,8 +53,8 @@ subgroups:
         price: '14'
         title: sahil's  RED sangria
       - description: >-
-          White wine blend, Apricot vodka, Peach Liqueur, Apricot Purée, Fresh
-          Citrus 
+          White wine blend, Black Infusions Apricot vodka, Peach Liqueur,
+          Apricot Purée, Fresh Citrus 
         price: '13 '
         title: Apricot-Peach White Sangria
     title: '’Shine Specialty Cocktails '
@@ -195,11 +195,16 @@ subgroups:
         price: 13 / 47
         title: '(Red) 2020 Contour Cabernet Sauvignon '
       - description: 'Monterrey CA '
-        price: 50 / bottle
+        price: 40 / bottle
         title: '(red) Talbott Vineyards "Kali Hart" Pinot Noir '
       - description: 'California '
-        price: '50 / bottle '
+        price: '40 / bottle '
         title: (red) Locations by Dave Phinney "CA" Release Number 9
+      - description: >-
+          California                                                                                                                            
+          (48% Santa Barbara, 43% Sonoma & 9% Monterey County)          
+        price: '40 / bottle '
+        title: '(red) 2020 J Vineyards Winemaker’s Selection Pinot Noir '
     title: Wine List
   - items:
       - description: >-
