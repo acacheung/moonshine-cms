@@ -171,11 +171,11 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
-          Slow Roasted BBQ Meatloaf served with                  House Cornbread
-          Stuffin' Muffins, Saffron Aioli                               & a
-          petite Pomegranate Mixed Greens Salad   
-        price: '28'
-        title: 'Menu Addition: ''Shine Smoky Meatloaf'
+          Slow Roasted Beef Tenderloin, Puff Pastry, Truffled Mushroom Duxelle &
+          Sliced Proscuitto served with Veal Demiglace, Aged Pomegranate 
+          Balsamic, Horseradish Crema  & a Petite Mixed Greens Salad      
+        price: '36'
+        title: 'Holiday Menu Addition: Shine Beef Wellington '
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
@@ -199,6 +199,12 @@ subgroups:
           adding an additional Belgian Waffle for $7**
         price: '27'
         title: LESLIE KNOPE’S “FRIED CHICKEN AND WAFFLE”
+      - description: >-
+          Slow Roasted BBQ Meatloaf served with                  House Cornbread
+          Stuffin' Muffins, Saffron Aioli                               & a
+          petite Pomegranate Mixed Greens Salad   
+        price: '28'
+        title: '''Shine Smoky Meatloaf'
       - description: >-
           Smoky pulled pork, scrambled egg, tomato, petite mixed greens salad,
           teriyaki, sweet chili glaze, house-cut shoestring french fries...
