@@ -6,6 +6,9 @@ order: 5
 subgroups:
   - description: Add a Belgian waffle to your favorite dessert $7
     items:
+      - description: 'Toasted Almond Crumble '
+        price: '12'
+        title: 'Holiday Menu Addition: Mascarpone Stuffed Red Wine Poached Pear'
       - description: >-
           Layered Filo Pastry, Pumpkin Cinnamon Custard, Local Honey and
           Pomegranate
@@ -23,7 +26,7 @@ subgroups:
           ...add nutella chocolate sauce $2 
         price: '14'
         title: 'Warm Red Velvet S''mores Bread Pudding '
-      - description: 'Tropical Mango sorbet, Toasted coconut'
+      - description: Tropical Mango sorbet with Toasted coconut
         price: '11'
         title: 'Chef’s Whim Sorbet '
       - description: 'Cardamon Spice '
