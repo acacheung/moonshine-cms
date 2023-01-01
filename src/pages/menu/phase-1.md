@@ -187,12 +187,13 @@ subgroups:
         price: '19'
         title: GRASS-FED ’SHINE BEEF BURGER**
       - description: >-
-          topped with Truffled Mushroom Duxelle, Puff Pastry, Steakhouse
-          Horseradish Crema, Thin-sliced Proscuitto, Cherry Balsamic Glaze
-          ~~~Not Quite Holiday Enough For You?! Top Your Burger off with Chef
-          Asia’s Holiday Braised Shredded Beef Brisket & Gravy for $5      
+          topped with Tasso Ham Hollandaise,                           Pecanwood
+          Bacon, Shirred Egg & Cheddar Cheese       served with House-cut
+          shoestring french fries 
         price: '24'
-        title: 'Burger of the Month December 2022: "The Holiday Burger Wellington" '
+        title: >-
+          2023 New year's day special burger of the day- "brunch burger
+          benedict"
       - description: >-
           Moonshine’s Best of Boston fried chicken, Belgian waffle,
           sriracha-bourbon awesome sauce, cinnamon honey butter ** GO GRANDE by
