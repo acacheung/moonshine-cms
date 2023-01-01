@@ -177,6 +177,19 @@ subgroups:
         price: '36'
         title: 'Holiday Menu Addition: Shine Beef Wellington '
       - description: >-
+          Shredded Tender Beef Brisket wrapped in a  Scallion Pancake with Pho
+          Noodle Salad, Beansprouts &  Bacony Pho Bone Broth for Dipping 
+        price: '27'
+        title: 'Menu Addition: Chef Asia''s Famous "Pho-Rrito"'
+      - description: >-
+          topped with Tasso Ham Hollandaise,                           Pecanwood
+          Bacon, Shirred Egg & Cheddar Cheese       served with House-cut
+          shoestring french fries 
+        price: '24'
+        title: >-
+          2023 New year's day special burger of the day- "brunch burger
+          benedict"
+      - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
         price: '19'
@@ -186,14 +199,6 @@ subgroups:
           .... Make it a double patty 11
         price: '19'
         title: GRASS-FED ’SHINE BEEF BURGER**
-      - description: >-
-          topped with Tasso Ham Hollandaise,                           Pecanwood
-          Bacon, Shirred Egg & Cheddar Cheese       served with House-cut
-          shoestring french fries 
-        price: '24'
-        title: >-
-          2023 New year's day special burger of the day- "brunch burger
-          benedict"
       - description: >-
           Moonshine’s Best of Boston fried chicken, Belgian waffle,
           sriracha-bourbon awesome sauce, cinnamon honey butter ** GO GRANDE by
