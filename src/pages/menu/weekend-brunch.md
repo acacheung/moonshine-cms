@@ -166,12 +166,11 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          December 2022" "The Holiday Burger Wellington" topped with Truffled
-          Mushroom Duxelle, Puff Pastry, Steakhouse Horseradish Crema,
-          Thin-sliced Proscuitto & Cherry Balsamic
-          Glaze                             
+          topped with Tasso Ham Hollandaise,                         Pecanwood
+          Bacon, Shirred Egg & Cheddar Cheese with House-cut shoestring french
+          fries                              
         price: '24'
-        title: 'Make Your Burger a VIP Burger of the Month '
+        title: 2023 New Year's Day SPECIAL burger of the day-"brunch burger benedict"
     title: All-Day / All-Night Allstars
   - description: ' All the sides & Fixin’s'
     items:
