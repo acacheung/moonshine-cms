@@ -171,17 +171,6 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
-          Slow Roasted Beef Tenderloin, Puff Pastry, Truffled Mushroom Duxelle &
-          Sliced Proscuitto served with Veal Demiglace, Aged Pomegranate 
-          Balsamic, Horseradish Crema  & a Petite Mixed Greens Salad      
-        price: '36'
-        title: 'Holiday Menu Addition: Shine Beef Wellington '
-      - description: >-
-          Shredded Tender Beef Brisket wrapped in a  Scallion Pancake with Pho
-          Noodle Salad, Beansprouts &  Bacony Pho Bone Broth for Dipping 
-        price: '27'
-        title: 'Menu Addition: Chef Asia''s Famous "Pho-Rrito"'
-      - description: >-
           topped with Tasso Ham Hollandaise,                           Pecanwood
           Bacon, Shirred Egg & Cheddar Cheese       served with House-cut
           shoestring french fries 
