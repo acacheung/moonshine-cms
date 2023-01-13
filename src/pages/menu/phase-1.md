@@ -171,13 +171,12 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
-          topped with Tasso Ham Hollandaise,                           Pecanwood
-          Bacon, Shirred Egg & Cheddar Cheese       served with House-cut
-          shoestring french fries 
+          topped with Caramelized French Onion Soup Gravy, Melted Gruyere
+          Cheese, Toasted Potato Roll, Madeira ~~Don't forget to Top It Off!
+          ...add fried egg $2 ...add jalapeno bacon...$4 ...add truffle oil $3
+          ...add shredded beef brisket & gravy $5 
         price: '24'
-        title: >-
-          2023 New year's day special burger of the day- "brunch burger
-          benedict"
+        title: 'January 2023 VIP Burger of the Month: "The French Onion Soup Burger"'
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
