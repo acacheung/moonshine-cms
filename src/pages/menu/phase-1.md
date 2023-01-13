@@ -19,7 +19,7 @@ subgroups:
           Butternut Squash, Pecorino Cheese, Black Garlic Aioli & Glazed
           Cranberries 
         price: 17 regular / 28 grande
-        title: 'Menu Addition: Autumn Arancini Risotto Fritters'
+        title: 'Menu Addition: Pumpkin Parmesan Arancini Risotto Fritters'
       - description: >-
           Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
