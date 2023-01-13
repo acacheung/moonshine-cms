@@ -172,11 +172,10 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          topped with Tasso Ham Hollandaise,                         Pecanwood
-          Bacon, Shirred Egg & Cheddar Cheese with House-cut shoestring french
-          fries                              
+          topped with Caramelized French Onion Soup Gravy, Melted Gruyere
+          Cheese, Toasted Potato Roll, Madeira                  
         price: '24'
-        title: 2023 New Year's Day SPECIAL burger of the day-"brunch burger benedict"
+        title: 'January 2023 VIP Burger of the Month "The French Onion Soup Burger" '
     title: All-Day / All-Night Allstars
   - description: ' All the sides & Fixin’s'
     items:
@@ -221,24 +220,12 @@ subgroups:
     title: All the sides & Fixin’s
   - description: ' (Dessert)'
     items:
-      - description: 'Tropical Mango sorbet, Toasted coconut'
-        price: '11'
-        title: Chef Whim’s Sorbet
       - description: 'Whipped chantilly cream, Toasted oat-amaranth streusel '
         price: '12'
         title: 'Butterscotch Pudding '
       - description: 'Nutellla fudge chocolate sauce, Powdered sugar '
         price: '12'
         title: 'Jaime’s Favorite Oreo Cookie Layered Fudge Brownie '
-      - description: >-
-          Cardamon ice cream,
-
-          Cinnamon apple pie topping,    
-
-          Toasted almond cobber crumble, Salted caramel drizzle & Whipped cream
-          on a Warm Belgian waffle
-        price: '15'
-        title: Apple Cobbler Belgian Waffle Ice Cream Sundae
     title: Sweet Tooth
   - description: >-
       Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or Eggs
