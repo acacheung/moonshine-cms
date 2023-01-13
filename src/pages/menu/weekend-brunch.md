@@ -173,7 +173,9 @@ subgroups:
         title: Grass-fed Beef Burger**
       - description: >-
           topped with Caramelized French Onion Soup Gravy, Melted Gruyere
-          Cheese, Toasted Potato Roll, Madeira                  
+          Cheese, Toasted Potato Roll, Madeira ~~Don't forget to Top It Off!
+          ...add fried egg $2 ...add jalapeno bacon...$4 ...add truffle oil $3
+          ...add shredded beef brisket & gravy $5 
         price: '24'
         title: 'January 2023 VIP Burger of the Month "The French Onion Soup Burger" '
     title: All-Day / All-Night Allstars
