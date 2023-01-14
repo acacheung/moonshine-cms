@@ -6,12 +6,6 @@ order: 6
 subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
-      - description: >-
-          New Year, New Punch: Raspberry Infused Tequilla, Lemon Vodka,
-          Raspberry-Citrus Cordial, Fresh Raspberry Puree, Cranberry, Lime Yuzu
-          Soda 
-        price: '12'
-        title: Happy New year Party Punch
       - description: >
           vodka or blanco tequila with our house bloody mary mix, infused with
           homemade kimchi juice 
