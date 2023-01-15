@@ -86,6 +86,11 @@ subgroups:
   - description: ' (Entrees)'
     items:
       - description: >-
+          Hatch Green Chili Potato-Cheese Stuffed Enchiladas, Shredded Cabbage,
+          Salsa Fresca, Sour Cream  
+        price: '23'
+        title: 'Menu Addition: Green Chili Breakfast Enchiladas '
+      - description: >-
           Grilled Marinated Skirt Steak, Two Fried Eggs,                  Tasso
           Ham Hollandaise, Spiced Homefries                                & a
           Petite Mixed Greens Salad   
