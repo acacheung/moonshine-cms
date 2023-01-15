@@ -221,12 +221,22 @@ subgroups:
     title: All the sides & Fixin’s
   - description: ' (Dessert)'
     items:
+      - description: >-
+          Layered Filo Pastry, Pumpkin Cinnamon Custard,                      
+          Local Honey, Pomegranate   
+        price: '12'
+        title: 'Menu Addition: Warm Pumpkin Pistachio Baklava Crinkle'
       - description: 'Whipped chantilly cream, Toasted oat-amaranth streusel '
         price: '12'
         title: 'Butterscotch Pudding '
       - description: 'Nutellla fudge chocolate sauce, Powdered sugar '
         price: '12'
         title: 'Jaime’s Favorite Oreo Cookie Layered Fudge Brownie '
+      - description: Cardamon Spice
+        price: '11'
+        title: Chef's whim ice cream of the day
+      - price: '14'
+        title: warm red velvet s'mores bread pudding
     title: Sweet Tooth
   - description: >-
       Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or Eggs
