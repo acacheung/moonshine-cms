@@ -232,11 +232,15 @@ subgroups:
       - description: 'Nutellla fudge chocolate sauce, Powdered sugar '
         price: '12'
         title: 'Jaime’s Favorite Oreo Cookie Layered Fudge Brownie '
+      - description: >-
+          Dutch Cocoa, Homemade Graham Cracker Crumble, Marshmallows, Chocolate
+          Chips, Dulce de Leche, Whipped Cream ........go "a la mode" $3 ...add
+          nutella chocolate sauce $2
+        price: '14'
+        title: warm red velvet s'mores bread pudding
       - description: Cardamon Spice
         price: '11'
         title: Chef's whim ice cream of the day
-      - price: '14'
-        title: warm red velvet s'mores bread pudding
     title: Sweet Tooth
   - description: >-
       Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or Eggs
