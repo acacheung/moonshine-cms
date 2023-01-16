@@ -13,6 +13,11 @@ subgroups:
         price: '13'
         title: 'Peter''s Rotating Hot Cocktail Special: Mulled Spiced Wine'
       - description: >-
+          Locally Made Boston Harbor Distillery Putnam Rye Whiskey, Carpano
+          Antica Sweet Vermouth, Angostura Bitters 
+        price: '15'
+        title: House Manhattan
+      - description: >-
           Rye Whiskey, Aperol Aperitivo, Yellow Chartreuse, Orange Bitters,
           Burnt Orange 
         price: '13'
@@ -158,7 +163,7 @@ subgroups:
           White Wine made                                                    by
           10th Generation French Winemakers                                using
           80% Chardonnay & 20% Pinot Nero Grapes 
-        price: '40 '
+        price: '40 / bottle '
         title: 'Treat ‘Yo Self Bottle of Bubbles Special    '
       - description: 'Veneto, ITALY'
         price: 14      (187ml mini bottle)
@@ -236,8 +241,6 @@ subgroups:
         title: Sodas
       - price: '5'
         title: Fever-Tree Premium Ginger Beer
-      - price: '5'
-        title: 'fever tree lime yuzu soda '
       - description: 'Original, Sugar Free or Tropical '
         price: '4.50'
         title: Red Bull
