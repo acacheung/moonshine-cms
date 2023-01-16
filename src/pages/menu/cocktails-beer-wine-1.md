@@ -37,11 +37,6 @@ subgroups:
         price: '14'
         title: 'La Diabla '
       - description: >-
-          Raspberry Infused Tequila, Citrus Vodka, Raspberry Liqueur, Fresh
-          Raspberries, Lime Yuzu Soda 
-        price: '13'
-        title: Pretty In Pink
-      - description: >-
           Xicaru Mezcal, Pamplemousse Grapefruit Liqueur, Bully Boy Amaro, Fresh
           Lemon, Orange Bitters 
         price: '14'
