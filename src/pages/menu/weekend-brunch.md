@@ -241,6 +241,9 @@ subgroups:
       - description: Cardamon Spice
         price: '11'
         title: Chef's whim ice cream of the day
+      - description: 'Mango with Fresh Pomegranate '
+        price: '11'
+        title: chef's whim sorbet of the day (vegan)
     title: Sweet Tooth
   - description: >-
       Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or Eggs
