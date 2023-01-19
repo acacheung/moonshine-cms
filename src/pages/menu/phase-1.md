@@ -56,9 +56,9 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
-          Chef Asia's Favorite Schitt's Creek "Lover's Curry": Panang Style
-          Potato Curry, Braised Pineapple, Coconut Milk, Honeyed Sweet Potatoes 
-        price: '12 regular / 19 grande '
+          "Birria Ramen Noodle Soup": Shredded Carnitas Kimchi Birria Broth,
+          Ramen Noodles, Fresh Lime, Salsa Fresca 
+        price: '14 regular / 26 grande '
         title: Chef's Whim Soup for the Soul
       - description: >-
           Steamed White Rice  Smothered in Chef Asia's Favorite Schitt's Creek
