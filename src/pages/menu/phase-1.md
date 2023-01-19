@@ -61,24 +61,6 @@ subgroups:
         price: '14 regular / 26 grande '
         title: Chef's Whim Soup for the Soul
       - description: >-
-          Steamed White Rice  Smothered in Chef Asia's Favorite Schitt's Creek
-          "Lover's Curry" made with Panang Style Potato Curry, Braised
-          Pineapple, Coconut Milk, Honeyed Sweet Potatoes
-        price: '16'
-        title: 'Menu Addition: Curry Rice'
-      - description: >-
-          House-cut Shoestring french Fries Smothered in Chef Asia's Favorite
-          Schitt's Creek "Lover's Curry" made with Panang Style Potato Curry,
-          Braised Pineapple, Coconut Milk, Honeyed Sweet Potatoes
-        price: '19'
-        title: 'Menu Addtion: Curry Fries      '
-      - description: >-
-          Crispy Tater Tots  Smothered in Chef Asia's Favorite Schitt's Creek
-          "Lover's Curry" made with Panang Style Potato Curry, Braised
-          Pineapple, Coconut Milk, Honeyed Sweet Potatoes
-        price: '19'
-        title: 'Menu Addtion: Curry Tots'
-      - description: >-
           Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton crisps,
           Shaved pecorino cheese
         price: 17 regular / 26 grande
