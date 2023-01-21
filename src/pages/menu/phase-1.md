@@ -99,8 +99,6 @@ subgroups:
         title: SAUTÉED BABY SHRIMP**
       - price: '15'
         title: CAJUN GRILLED FISH OF THE DAY**
-      - price: '13'
-        title: '''Shine Smoky Meatloaf'
       - price: '15'
         title: Marinated Skirt Steak**
     title: Add Ons!
