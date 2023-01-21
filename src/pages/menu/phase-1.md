@@ -15,12 +15,6 @@ subgroups:
         price: 17 regular / 28 grande
         title: 'Menu Addition: ’Shine Wedge Salad'
       - description: >-
-          Chef Asia's Panang-Style Curry with Honeyed Sweet Potatoes & Coconut
-          Milk....Smothered Curry Rice $16 ....Smothered Curry Fries...$19
-          ...Smothered Curry 'Tots $19 
-        price: mkt
-        title: 'Menu Addition: Chef Asia''s Panang-Style Curry '
-      - description: >-
           Parmesan-Pumpkin Arancini, Crispy Rice Fritters w/ Roasted Pumpkin,
           Butternut Squash, Pecorino Cheese, Black Garlic Aioli & Glazed
           Cranberries 
