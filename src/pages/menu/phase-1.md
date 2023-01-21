@@ -176,12 +176,6 @@ subgroups:
         price: '27'
         title: LESLIE KNOPE’S “FRIED CHICKEN AND WAFFLE”
       - description: >-
-          Slow Roasted BBQ Meatloaf served with                  House Cornbread
-          Stuffin' Muffins, Saffron Aioli                               & a
-          petite Pomegranate Mixed Greens Salad   
-        price: '28'
-        title: '''Shine Smoky Meatloaf'
-      - description: >-
           Smoky pulled pork, scrambled egg, tomato, petite mixed greens salad,
           teriyaki, sweet chili glaze, house-cut shoestring french fries...
           available vegetarian without pulled pork 25
