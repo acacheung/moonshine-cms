@@ -238,7 +238,7 @@ subgroups:
           nutella chocolate sauce $2
         price: '14'
         title: warm red velvet s'mores bread pudding
-      - description: Cardamon Spice
+      - description: 'White Coffee Mocha Flake '
         price: '11'
         title: Chef's whim ice cream of the day
       - description: 'Mango with Fresh Pomegranate '
