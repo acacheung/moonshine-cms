@@ -101,6 +101,9 @@ subgroups:
       - description: 12 oz can
         price: '6'
         title: Kona Brewing "Big Wave" Golden Ale
+      - description: '12 oz can '
+        price: '5'
+        title: Jack's abby "banner city" Light Lager
       - description: '16oz tallboy can '
         price: '7'
         title: 'Night Shift Brewing "Nite Lite" Light Lager '
@@ -125,9 +128,6 @@ subgroups:
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
-      - description: '12 oz can '
-        price: '4'
-        title: 'ballast point "grapefruit sculpin" India pale ale '
       - description: '16 oz tallboy can '
         price: '7'
         title: Castle Island Brewing "Keeper" IPA
