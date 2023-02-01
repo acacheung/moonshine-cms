@@ -171,12 +171,14 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          topped with Caramelized French Onion Soup Gravy, Melted Gruyere
-          Cheese, Toasted Potato Roll, Madeira ~~Don't forget to Top It Off!
-          ...add fried egg $2 ...add jalapeno bacon...$4 ...add truffle oil $3
-          ...add shredded beef brisket & gravy $5 
+          Smothered in Bruleed Scallion Cream Cheese, Crispy Wonton Ribbons &
+          Sweet Chili Glaze  ~~Don't forget to Top It Off! ...add fried egg $2
+          ...add melted cheddar cheese $2 ...add jalapeno slices $2 ...add
+          jalapeno bacon...$4
         price: '24'
-        title: 'January 2023 VIP Burger of the Month "The French Onion Soup Burger" '
+        title: >-
+          February 2023 VIP Burger of the Month: Happy lunar new year
+          "Firecracker Rangoon Burger" 
     title: All-Day / All-Night Allstars
   - description: ' All the sides & Fixin’s'
     items:
