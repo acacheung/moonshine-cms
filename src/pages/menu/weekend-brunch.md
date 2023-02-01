@@ -134,8 +134,8 @@ subgroups:
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >-
-          Chef Asia's Favorite Schitt's Creek "Lover's Curry": Panang Style
-          Potato Curry, Braised Pineapple, Coconut Milk, Honeyed Sweet Potatoes 
+          "Birria Ramen Noodle Soup": Shredded Carnitas Kimchi Birria Broth,
+          Ramen Noodles, Fresh Lime, Salsa Fresca 
         price: '12 / 19 '
         title: 'Chef’s Whim Soup for the Soul '
       - description: >
