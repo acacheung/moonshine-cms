@@ -98,7 +98,7 @@ subgroups:
       - description: '12 oz bottle '
         price: '7'
         title: 'Corona Extra '
-      - description: 12 oz can
+      - description: 12 oz bottle
         price: '6'
         title: Kona Brewing "Big Wave" Golden Ale
       - description: '12 oz can '
@@ -111,7 +111,7 @@ subgroups:
         price: '5'
         title: Narragansett Lager
       - description: '16 oz tallboy can '
-        price: '6'
+        price: '5'
         title: 'Jack''s Abbey "Shipping up to Boston" Amber Lager '
       - description: '12 oz bottle '
         price: '5'
@@ -138,7 +138,7 @@ subgroups:
         price: '10'
         title: true north ale company "northern haze" neipa
       - description: '16oz tallboy can '
-        price: '6'
+        price: '5'
         title: 'Zero Gravity "Black Cat" Porter '
       - description: '16 oz nitro can '
         price: '7'
@@ -149,9 +149,6 @@ subgroups:
       - description: '12 oz can '
         price: '6'
         title: Athletic Brewing co "Free Wave" IPA  (non-alcoholic)
-      - description: '12 oz can '
-        price: '6'
-        title: 'Athletic Brewing co. "all out" extra dark stout (non-alcoholic) '
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
