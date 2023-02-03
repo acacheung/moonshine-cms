@@ -15,6 +15,11 @@ subgroups:
         price: 17 regular / 28 grande
         title: 'Menu Addition: ’Shine Wedge Salad'
       - description: >-
+          served with Thai Bird Chili Nuoc Cham Dipping Sauce & Napa Cabbage
+          Slaw 
+        price: 17 regular / 28 grande
+        title: 'Menu Addition: Crispy Mac n'' Cheese spring rolls'
+      - description: >-
           Parmesan-Pumpkin Arancini, Crispy Rice Fritters w/ Roasted Pumpkin,
           Butternut Squash, Pecorino Cheese, Black Garlic Aioli & Glazed
           Cranberries 
