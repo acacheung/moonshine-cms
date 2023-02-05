@@ -86,7 +86,7 @@ subgroups:
   - description: ' (Entrees)'
     items:
       - description: >-
-          Hatch Green Chili Potato-Cheese Stuffed Enchiladas, Shredded Cabbage,
+          Hatch Green Chili Beefy-Cheesy Stuffed Enchiladas, Shredded Cabbage,
           Salsa Fresca, Sour Cream  
         price: '23'
         title: 'Menu Addition: Green Chili Breakfast Enchiladas '
@@ -164,7 +164,7 @@ subgroups:
         title: 'Leslie Knope’s Fried Chicken & Waffle '
       - description: 'Sharp cheddar, Housemade aioli, LTO & Shoestring fries  '
         price: '19'
-        title: 'Chef Asia’s Famous Mushroom  Burger '
+        title: 'Chef Asia’s Famous Mushroom Tofu Burger '
       - description: >-
           Sharp cheddar, Housemade aioli, LTO & Shoestring fries  ...make it a
           double patty 11 
