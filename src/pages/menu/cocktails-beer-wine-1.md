@@ -155,13 +155,6 @@ subgroups:
       - description: 'Veneto, Italy '
         price: 12 / 45
         title: '(Sparkling) NV LaMarca Prosecco '
-      - description: >-
-          NV Benoit Badoz Crémant du Jura    (Poligny, France)   ~~~Sparkling
-          White Wine made                                                    by
-          10th Generation French Winemakers                                using
-          80% Chardonnay & 20% Pinot Nero Grapes 
-        price: '40 / bottle '
-        title: 'Treat ‘Yo Self Bottle of Bubbles Special    '
       - description: 'Veneto, ITALY'
         price: 14      (187ml mini bottle)
         title: '(sparkling rose) NV Casa Vinicola Canella Rose Brut '
