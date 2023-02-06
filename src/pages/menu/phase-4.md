@@ -26,7 +26,7 @@ subgroups:
       - description: 'White Coffee Mocha Flake '
         price: '11'
         title: Chef's Whim Ice Cream
-      - description: 'Mango with Fresh Pomegranate '
+      - description: 'Coconut with Fresh Pomegranate '
         price: '11'
         title: 'Chef''s Whim Sorbet (vegan) '
     title: Sweet Tooth
