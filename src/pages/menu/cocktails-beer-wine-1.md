@@ -192,7 +192,7 @@ subgroups:
         price: 13 / 47
         title: '(Red) 2020 Contour Cabernet Sauvignon '
       - description: 'Monterrey CA '
-        price: 40 / bottle
+        price: 45 / bottle
         title: '(red) Talbott Vineyards "Kali Hart" Pinot Noir '
       - description: 'California '
         price: '40 / bottle '
@@ -200,7 +200,7 @@ subgroups:
       - description: >-
           California                                                                                                                            
           (48% Santa Barbara, 43% Sonoma & 9% Monterey County)          
-        price: '40 / bottle '
+        price: '45 / bottle '
         title: '(red) 2020 J Vineyards Winemaker’s Selection Pinot Noir '
       - description: Italy
         price: 40 / bottle
