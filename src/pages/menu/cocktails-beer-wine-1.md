@@ -245,16 +245,16 @@ subgroups:
       - description: >-
           Gin Lane London Dry...$8...Bombay Sapphire...$9... Tanqueray...$9...
           Hendrick's...9..GrandTen Wire Works Gin...$9.... Glendalough Wild
-          Botanical...$10...
+          Botanical...$10... Empress 1908 Indigo...$10
         price: xxxxx
         title: Gin
       - description: >-
           Tres Agaves Blanco...$9...Tres Agaves Reposado...$11...Tres Agaves
           Anejo...$11 ...Espolon Blanco...$10... Espolon Reposado...$11.. .House
           Infused Spicy Tequila...$11...Don Julio Blanco...$12...Don Julio
-          Reposado..$13...Don Julio Anejo...$14..  Gran Coramino Cristalino
-          Reposado...$12... Xicaru Silver Mezcal...$10...Del Maguey Vida Mezcal
-          ..$12...
+          Reposado..$13...Don Julio Anejo...$14..  Libélula Tequila...$12 Gran
+          Coramino Cristalino Reposado...$12... Xicaru Silver Mezcal...$10...Del
+          Maguey Vida Mezcal ..$12...Banhez Mezcal Artesanal $12
         price: xxxxx
         title: 'Tequila & Mezcal '
       - description: >-
