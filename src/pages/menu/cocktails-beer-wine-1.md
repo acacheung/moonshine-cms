@@ -286,8 +286,8 @@ subgroups:
       - description: >-
           Dewar's "White Label"...$9...Johnnie Walker Black...$11...Laphroaig
           10yr ...$12...Dalmore Highland Single Malt 12yr ...$12...Glenfiddich
-          12yr...$12...Glenfiddich 14yr...$13... MacAllen 12yr...$13...Lagavulin
-          16yr...$20...
+          12yr...$12...Glenfiddich 14yr...$13... MacAllen 12yr...$13... Oban
+          14...$14 ...Lagavulin 16yr...$20...
         price: XXXXX
         title: 'Scotch '
     title: 'Spirit List '
