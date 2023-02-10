@@ -91,9 +91,9 @@ subgroups:
         price: '23'
         title: 'Menu Addition: Green Chili Breakfast Enchiladas '
       - description: >-
-          Grilled Marinated Skirt Steak, Two Fried Eggs,                  Tasso
-          Ham Hollandaise, Spiced Homefries                                & a
-          Petite Mixed Greens Salad   
+          Grilled Marinated Skirt Steak, Two Fried Eggs, Buttermilk Biscuits &
+          Gravy w/ White Pepper Sausage Gravy & Chef Asia’s Best Ever Buttermilk
+          Biscuits
         price: '29'
         title: 'Menu Addition: "’Shine Steak & Eggs"'
       - description: >-
