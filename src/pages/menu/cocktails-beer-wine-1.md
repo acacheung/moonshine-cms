@@ -41,11 +41,6 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '14'
         title: 'La Diabla '
-      - description: >-
-          Xicaru Mezcal, Pamplemousse Grapefruit Liqueur, Bully Boy Amaro, Fresh
-          Lemon, Orange Bitters 
-        price: '14'
-        title: Matador's Bull
       - description: 'London Dry Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '14'
         title: Moonshine 76
