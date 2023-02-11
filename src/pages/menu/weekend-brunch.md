@@ -217,7 +217,7 @@ subgroups:
           Candied ginger aioli, Truffled teriyaki, "Awesome sauce", Szechuan
           Chili Oil (contains sesame & peanuts) 
         price: '2'
-        title: '"sAUCE IT iP"'
+        title: '"sAUCE IT uP"'
       - price: '2 '
         title: Add Maple Syrup
     title: All the sides & Fixin’s
