@@ -189,11 +189,6 @@ subgroups:
       - description: 'Napa, California USA '
         price: 13 / 47
         title: '(Red) 2020 Contour Cabernet Sauvignon '
-      - description: >-
-          California                                                                                                                            
-          (48% Santa Barbara, 43% Sonoma & 9% Monterey County)          
-        price: '45 / bottle '
-        title: '(red) 2020 J Vineyards Winemaker’s Selection Pinot Noir '
     title: Wine List
   - items:
       - description: >-
