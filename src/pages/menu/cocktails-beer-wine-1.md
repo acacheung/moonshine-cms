@@ -51,7 +51,12 @@ subgroups:
           Mediterranean Red Wine Blend, Brandy, Ginger Liqueur, Hibiscus,
           Apples, Fresh Citrus 
         price: '14'
-        title: sahil's  RED sangria
+        title: sahil's Ginger Hibiscus ed  sangria
+      - description: >-
+          White Wine Blend, Black Infusions Apricot Vodka, Peach Liqueur,
+          Mandarin Orange, Apricot Puree, Fresh Citrus 
+        price: '14'
+        title: ARae's Apricot Peach White Sangria
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
