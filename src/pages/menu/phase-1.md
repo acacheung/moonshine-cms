@@ -10,22 +10,16 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
+          Crispy Iceberg Lettuce, Roasted Butternut & Beet Crema, Shaved
+          Pecorino Cheese, Candied Bacon & Chopped Hard-Boiled Egg
+        price: 17 regular / 28 grande
+        title: 'Menu Addition: ’Shine Wedge Salad'
+      - description: >-
           Chinatown Inspired Crispy Pork Shumai, Steak n Cheese Spring Rolls &
           Curry Pork Rangoons served with Wasabi Aioli, Sweet Chili Sauce &
           Mandarin Orange Slaw    
         price: '29'
         title: 'Menu Addition: ''Shine Dimsum Pupu Platter '
-      - description: >-
-          Chef Asia’s Award-Winning Buttermilk Fried Chicken Wings Smothered in
-          Housemade “Angry” Buffalo Sauce & served with Buttermilk Poblano Ranch
-          Sauce  
-        price: '18'
-        title: 'Menu Addition: SuperBowl Angry Buffalo Wings'
-      - description: >-
-          Crispy Iceberg Lettuce, Roasted Butternut & Beet Crema, Shaved
-          Pecorino Cheese, Candied Bacon & Chopped Hard-Boiled Egg
-        price: 17 regular / 28 grande
-        title: 'Menu Addition: ’Shine Wedge Salad'
       - description: >-
           Parmesan-Pumpkin Arancini, Crispy Rice Fritters w/ Roasted Pumpkin,
           Butternut Squash, Pecorino Cheese, Black Garlic Aioli & Glazed
