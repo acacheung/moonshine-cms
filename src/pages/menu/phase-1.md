@@ -157,14 +157,10 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
-          Smothered in Bruleed Scallion Cream Cheese, Crispy Wonton Ribbons &
-          Sweet Chili Glaze  ~~Don't forget to Top It Off! ...add fried egg $2
-          ...add melted cheddar cheese $2 ...add jalapeno slices $2 ...add
-          jalapeno bacon...$4
-        price: '24'
-        title: >-
-          February 2023 VIP Burger of the Month: Happy Lunar New Year
-          "Firecracker rangoon Burger"
+          Red Wine Braised Rabbit, Campanelle Pasta, Crispy Sage, Toasted
+          Hazelnut-Louisiana Cream Sauce 
+        price: '28'
+        title: 'Menu addition: Louisiana Braised Rabbit Pasta'
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
@@ -175,6 +171,15 @@ subgroups:
           .... Make it a double patty 11
         price: '19'
         title: GRASS-FED ’SHINE BEEF BURGER**
+      - description: >-
+          Smothered in Bruleed Scallion Cream Cheese, Crispy Wonton Ribbons &
+          Sweet Chili Glaze  ~~Don't forget to Top It Off! ...add fried egg $2
+          ...add melted cheddar cheese $2 ...add jalapeno slices $2 ...add
+          jalapeno bacon...$4
+        price: '24'
+        title: >-
+          February 2023 VIP Burger of the Month: Happy Lunar New Year
+          "Firecracker rangoon Burger"
       - description: >-
           Moonshine’s Best of Boston fried chicken, Belgian waffle,
           sriracha-bourbon awesome sauce, cinnamon honey butter ** GO GRANDE by
