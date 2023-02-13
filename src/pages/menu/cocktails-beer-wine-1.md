@@ -176,24 +176,24 @@ subgroups:
       - description: 'Marlborough, New Zealand '
         price: 14 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
-      - description: 'Talbott Vineyards "Kali Hart" Pinot Noir (Monterrey, CA)'
-        price: 45 / bottle
-        title: '(red) Treat Yo Self Red Bottle Special '
       - description: 'Mendoza, Argentina '
         price: 13 / 48
         title: (red) 2021 Argento Malbec
-      - description: 'Columbia valley, WA, USA '
-        price: 13 / 47
-        title: '(red) 2018 Charles & Charles cabernet/syrah blend '
       - description: 'Napa County, CA, USA '
         price: 15 / 58
         title: '(RED) 2020 Joel Gott Pinot Noir '
+      - description: 'Columbia valley, WA, USA '
+        price: 13 / 47
+        title: '(red) 2018 Charles & Charles cabernet/syrah blend '
       - description: 'Aragon, ESP '
         price: 13  /  48
         title: ' (red) 2020 Lechuza Garnacha'
       - description: 'Napa, California USA '
         price: 13 / 47
         title: '(Red) 2020 Contour Cabernet Sauvignon '
+      - description: '(Monterrey, CA)'
+        price: 55 / bottle
+        title: '(red) 2021 Talbott Vineyards "Kali Hart" Pinot Noir  '
     title: Wine List
   - items:
       - description: >-
