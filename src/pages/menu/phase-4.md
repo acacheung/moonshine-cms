@@ -7,11 +7,6 @@ subgroups:
   - description: Add a Belgian waffle to your favorite dessert $7
     items:
       - description: >-
-          Chewy Sweet Glutenous Rice Flour, Dulce de Leche,                  
-          Fresh Pomegranate  (Gluten Free!)          
-        price: '11'
-        title: 'Menu Addition: Japanese Coconut Mochi Blondie Bites'
-      - description: >-
           Layered Filo Pastry, Pumpkin Cinnamon Custard, Local Honey and
           Pomegranate
         price: '12'
