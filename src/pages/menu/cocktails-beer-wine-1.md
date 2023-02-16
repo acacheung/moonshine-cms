@@ -201,12 +201,15 @@ subgroups:
         title: '(red) 2021 Talbott Vineyards "Kali Hart" Pinot Noir  '
     title: Wine List
   - items:
-      - description: >-
-          Just Ask!  Sweet, Tart, Spicy, Citrusy, Sour-  Your Choice. Just Let
-          Us Know What Flavors You Like & Our Bartenders Are Happy To Create A
-          Unique Beverage Just For You.
+      - description: 'White & Red Cranberry Juices, Fresh Lemonade '
         price: '7'
-        title: House Mocktails
+        title: Squeeze The Day (mocktail)
+      - description: 'Pineapple Juice, Fresh Lime, Fever Tree Ginger Beer '
+        price: '7'
+        title: 'Pineapple Mule (mocktail) '
+      - description: 'Coconut Puree, Mint Simple, Fresh Lime, Soda '
+        price: '7'
+        title: Rory Calhoun (mocktail)
       - price: '4'
         title: 'Unsweetened Iced Tea '
       - price: '5'
