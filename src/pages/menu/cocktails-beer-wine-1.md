@@ -41,12 +41,14 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '14'
         title: 'La Diabla '
+      - description: >-
+          Empress 1904 Indigo Gin, Crème de Violete,                Luxardo
+          Maraschino Liqueur, Fresh Lemon   
+        price: '14'
+        title: fly me to the moon
       - description: 'London Dry Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '14'
         title: Moonshine 76
-      - description: 'Select Apertivo, Pamplemousse Liqueur, Prosecco, Fresh Lemon '
-        price: '14'
-        title: Shine Spritz
       - description: >-
           Mediterranean Red Wine Blend, Brandy, Ginger Liqueur, Hibiscus,
           Apples, Fresh Citrus 
@@ -57,6 +59,9 @@ subgroups:
           Mandarin Orange, Apricot Puree, Fresh Citrus 
         price: '14'
         title: ARae's Apricot Peach White Sangria
+      - description: 'Select Apertivo, Pamplemousse Liqueur, Prosecco, Fresh Lemon '
+        price: '14'
+        title: Shine Spritz
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
