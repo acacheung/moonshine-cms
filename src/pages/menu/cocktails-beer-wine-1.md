@@ -42,7 +42,7 @@ subgroups:
         price: '14'
         title: 'La Diabla '
       - description: >-
-          Empress 1904 Indigo Gin, Crème de Violete,                Luxardo
+          Empress 1908 Indigo Gin, Crème de Violete,                Luxardo
           Maraschino Liqueur, Fresh Lemon   
         price: '14'
         title: fly me to the moon
