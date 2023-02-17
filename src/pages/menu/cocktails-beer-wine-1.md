@@ -91,6 +91,12 @@ subgroups:
       - description: '12 oz can '
         price: '8'
         title: Black Infusions "Dirty Shirley" Cocktail in a Can
+      - description: '16 oz can '
+        price: '5'
+        title: 'Stormalong "Happy Holidays" Spiced Cider '
+      - description: '12 oz bottle '
+        price: '4'
+        title: Boulevard Brewing "Nutcracker" Winter Warmer Ale
       - description: 12 oz Bottle
         price: '6'
         title: 'Stella Artois '
@@ -103,9 +109,15 @@ subgroups:
       - description: '12 oz bottle '
         price: '7'
         title: 'Corona Extra '
+      - description: '16 oz tallboy can '
+        price: '7'
+        title: Stormalong "Mass Appeal" Hard Cider
       - description: 12 oz bottle
         price: '6'
         title: Kona Brewing "Big Wave" Golden Ale
+      - description: '16 oz tallboy can '
+        price: '7'
+        title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
       - description: '12 oz can '
         price: '5'
         title: Jack's abby "banner city" Light Lager
@@ -115,18 +127,6 @@ subgroups:
       - description: 16 oz Tallboy Can
         price: '5'
         title: Narragansett Lager
-      - description: '16 oz tallboy can '
-        price: '7'
-        title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
-      - description: '12 oz bottle '
-        price: '4'
-        title: Boulevard Brewing "Nutcracker" Winter Warmer Ale
-      - description: '16 oz can '
-        price: '5'
-        title: 'Stormalong "Happy Holidays" Spiced Cider '
-      - description: '16 oz tallboy can '
-        price: '7'
-        title: Stormalong "Mass Appeal" Hard Cider
       - description: '160z tallboy can '
         price: '7'
         title: 'Allagash White '
