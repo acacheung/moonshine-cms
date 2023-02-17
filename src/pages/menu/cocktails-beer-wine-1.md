@@ -116,8 +116,8 @@ subgroups:
         price: '5'
         title: Narragansett Lager
       - description: '16 oz tallboy can '
-        price: '5'
-        title: 'Jack''s Abbey "Shipping up to Boston" Amber Lager '
+        price: '7'
+        title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
       - description: '12 oz bottle '
         price: '4'
         title: Boulevard Brewing "Nutcracker" Winter Warmer Ale
