@@ -140,7 +140,7 @@ subgroups:
         price: '9'
         title: Lord Hobo "BoomSauce" Double IPA
       - description: '16 oz tallboy can '
-        price: '10'
+        price: '8'
         title: true north ale company "northern haze" neipa
       - description: '16oz tallboy can '
         price: '5'
