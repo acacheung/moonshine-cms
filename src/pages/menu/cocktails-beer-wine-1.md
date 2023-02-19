@@ -17,6 +17,9 @@ subgroups:
           Zests 
         price: '13'
         title: 'Peter''s Rotating Hot Cocktail Special: Mulled Spiced Wine'
+      - description: 'Reyka Vodka, Cherry Jello, Chocolate Drizzle '
+        price: '6'
+        title: 'Rotating Jello Shots: "chocolate covered cherry"'
       - description: >-
           Locally Made Boston Harbor Distillery Putnam Rye Whiskey, Carpano
           Antica Sweet Vermouth, Angostura Bitters 
