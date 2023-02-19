@@ -7,8 +7,8 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          Raspberry Citrus Vodkas, Chambord Raspberry Liqueur,
-          Pomegranate-Cherry Syrup, Citrus Soda  
+          Raspberry-Citrus Vodka, Chambord Raspberry Liqueur, Pomegranate-Cherry
+          Cordial, Citrus Soda  
         price: '12'
         title: '"pretty in PInk" Party Punch  ~Happy 8th Birthday Moonshine 152!!~ '
       - description: >-
