@@ -17,7 +17,7 @@ subgroups:
           Zests 
         price: '13'
         title: 'Peter''s Rotating Hot Cocktail Special: Mulled Spiced Wine'
-      - description: 'Reyka Vodka, Cherry Jello, Chocolate Drizzle '
+      - description: 'Reyka Vodka, Cherry Jello, Nutella Chocolate Drizzle ~contains nuts~ '
         price: '6'
         title: 'Rotating Jello Shots: "chocolate covered cherry"'
       - description: >-
