@@ -10,16 +10,22 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
+          Don’t Forget To Top It Off or Make It An Entree by Adding  Your
+          Favorite Add-On Proteins!   …add fried egg $2  …add white rice
+          $5                        ..add jalapeno bacon $4…add jalapeno
+          slices      
+        price: 12 regular  / 19 grande
+        title: 'Menu Addition: Chef Asia''s Mardi Gras Gumbo Yaya '
+      - description: >-
+          Served with Chef Asia’s Pork & Chicken Gumbo
+          Yaya                       & Steamed White Rice    
+        price: '28'
+        title: 'Menu Addition: Crunchy Mustard Chicken Gumbo Yaya Platter'
+      - description: >-
           Crispy Iceberg Lettuce, Roasted Butternut & Beet Crema, Shaved
           Pecorino Cheese, Candied Bacon & Chopped Hard-Boiled Egg
         price: 17 regular / 28 grande
         title: 'Menu Addition: ’Shine Wedge Salad'
-      - description: >-
-          Chinatown Inspired Crispy Pork Shumai, Steak n Cheese Spring Rolls &
-          Curry Pork Rangoons served with Wasabi Aioli, Sweet Chili Sauce &
-          Mandarin Orange Slaw    
-        price: '29'
-        title: 'Menu Addition: ''Shine Dimsum Pupu Platter '
       - description: >-
           Parmesan-Pumpkin Arancini, Crispy Rice Fritters w/ Roasted Pumpkin,
           Butternut Squash, Pecorino Cheese, Black Garlic Aioli & Glazed
