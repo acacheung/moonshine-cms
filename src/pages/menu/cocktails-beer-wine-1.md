@@ -61,7 +61,7 @@ subgroups:
           Mediterranean Red Wine Blend, Brandy, Ginger Liqueur, Hibiscus,
           Apples, Fresh Citrus 
         price: '14'
-        title: sahil's Ginger Hibiscus ed  sangria
+        title: sahil's Ginger Hibiscus red  sangria
       - description: >-
           White Wine Blend, Black Infusions Apricot Vodka, Peach Liqueur,
           Mandarin Orange, Apricot Puree, Fresh Citrus 
