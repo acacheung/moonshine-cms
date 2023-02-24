@@ -17,11 +17,6 @@ subgroups:
         price: 12 regular  / 19 grande
         title: 'Menu Addition: Chef Asia''s Mardi Gras Gumbo Yaya '
       - description: >-
-          Served with Chef Asia’s Pork & Chicken Gumbo
-          Yaya                       & Steamed White Rice    
-        price: '28'
-        title: 'Menu Addition: Crunchy Mustard Chicken Gumbo Yaya Platter'
-      - description: >-
           Crispy Iceberg Lettuce, Roasted Butternut & Beet Crema, Shaved
           Pecorino Cheese, Candied Bacon & Chopped Hard-Boiled Egg
         price: 17 regular / 28 grande
@@ -162,6 +157,17 @@ subgroups:
       Don't forget to top it off by adding your favorite proteins, fixins, sides
       & sauces to any dish.
     items:
+      - description: >-
+          'Shine Fish & Chips**: Tempura Beer Battered Cod, Shoestring French
+          Fries, Saffron Tartar Sauce & served with a Petite Mandarin Orange
+          Mixed Greens Salad
+        price: '28'
+        title: 'Menu Addition: Fish Fridays @ moonshine 152'
+      - description: >-
+          Served with Chef Asia’s Pork & Chicken Gumbo
+          Yaya                       & Steamed White Rice    
+        price: '28'
+        title: 'Menu addition: Crunchy Mustard Chicken Gumbo Yaya'
       - description: >-
           Red Wine Braised Rabbit, Campanelle Pasta, Crispy Sage, Toasted
           Hazelnut-Louisiana Cream Sauce 
