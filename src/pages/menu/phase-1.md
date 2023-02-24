@@ -15,7 +15,7 @@ subgroups:
           $5                        ..add jalapeno bacon $4…add jalapeno
           slices      
         price: 12 regular  / 19 grande
-        title: 'Menu Addition: Chef Asia''s Mardi Gras Gumbo Yaya '
+        title: 'Menu Addition: Chef Asia''s Gumbo Yaya '
       - description: >-
           Crispy Iceberg Lettuce, Roasted Butternut & Beet Crema, Shaved
           Pecorino Cheese, Candied Bacon & Chopped Hard-Boiled Egg
