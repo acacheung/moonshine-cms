@@ -152,7 +152,7 @@ subgroups:
         title: true north ale company "northern haze" neipa
       - description: '16oz tallboy can '
         price: '5'
-        title: 'Zero Gravity "Black Cat" Porter '
+        title: Narragansett "Autocrat Coffee Milk" Stout
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
