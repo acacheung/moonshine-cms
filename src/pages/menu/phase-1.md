@@ -158,12 +158,6 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
-          'Shine Fish & Chips**: Tempura Beer Battered Cod, Shoestring French
-          Fries, Saffron Tartar Sauce & served with a Petite Mandarin Orange
-          Mixed Greens Salad
-        price: '28'
-        title: 'Menu Addition: Fish Fridays @ moonshine 152'
-      - description: >-
           Served with Chef Asia’s Pork & Chicken Gumbo
           Yaya                       & Steamed White Rice    
         price: '28'
