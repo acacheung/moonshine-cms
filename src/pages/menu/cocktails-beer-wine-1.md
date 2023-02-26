@@ -11,12 +11,6 @@ subgroups:
           Cordial, Citrus Soda  
         price: '12'
         title: '"pretty in PInk" Party Punch  ~Happy 8th Birthday Moonshine 152!!~ '
-      - description: >-
-          Mediterranean Red Blend Mulled with Peter's Secret Herbs and Spices
-          (Ginger, Clove, Nutmeg, All-Spice, Star Anise), Honey, Fresh Citrus
-          Zests 
-        price: '13'
-        title: 'Peter''s Rotating Hot Cocktail Special: Mulled Spiced Wine'
       - description: 'Reyka Vodka, Cherry Jello, Nutella Chocolate Drizzle ~contains nuts~ '
         price: '6'
         title: 'Rotating Jello Shots: "chocolate covered cherry"'
@@ -77,7 +71,7 @@ subgroups:
         price: '5'
         title: (draft) miller high life
       - price: '7'
-        title: '(draft)Zero Gravity Brewing "green state" Lager '
+        title: '(draft) Berkshire Brewing Co. House Lager '
       - price: '7'
         title: (draft) harpoon IPA
       - price: '8 '
