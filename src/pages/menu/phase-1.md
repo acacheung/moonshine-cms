@@ -179,10 +179,9 @@ subgroups:
         title: GRASS-FED ’SHINE BEEF BURGER**
       - description: >-
           topped with Irish Banger Sausages, Chive Green Mashed Potatoes, Orange
-          Cheddar Cheese,                   Gravy & Grilled Roasted Tomato 
-          topped with Irish Banger Sausages,   ~~Don't forget to Top It Off!
-          ...add fried egg $2 ...add melted cheddar cheese $2 ...add jalapeno
-          slices $2 ...add jalapeno bacon...$4
+          Cheddar Cheese, Gravy & Grilled Roasted Tomato  ~~Don't forget to Top
+          It Off! ...add fried egg $2 ...add melted cheddar cheese $2 ...add
+          jalapeno slices $2 ...add jalapeno bacon...$4
         price: '24'
         title: >-
           March 2023 VIP Burger of the Month: "St Patrick's Day Bangers & Mash"
