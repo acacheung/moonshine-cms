@@ -171,14 +171,14 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          Smothered in Bruleed Scallion Cream Cheese, Crispy Wonton Ribbons &
-          Sweet Chili Glaze  ~~Don't forget to Top It Off! ...add fried egg $2
-          ...add melted cheddar cheese $2 ...add jalapeno slices $2 ...add
-          jalapeno bacon...$4
+          topped with Irish Banger Sausages, Chive Green Mashed Potatoes, Orange
+          Cheddar Cheese, Gravy & Grilled Roasted Tomato  ~~Don't forget to Top
+          It Off! ...add fried egg $2 ...add melted cheddar cheese $2 ...add
+          jalapeno slices $2 ...add jalapeno bacon...$4
         price: '24'
         title: >-
-          February 2023 VIP Burger of the Month: Happy lunar new year
-          "Firecracker Rangoon Burger" 
+          March 2023 VIP Burger of the Month: "St' Patrick's Day Bangers & Mash"
+          Burger" 
     title: All-Day / All-Night Allstars
   - description: ' All the sides & Fixin’s'
     items:
