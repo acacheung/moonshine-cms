@@ -10,13 +10,6 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
-          Don’t Forget To Top It Off or Make It An Entree by Adding  Your
-          Favorite Add-On Proteins!   …add fried egg $2  …add white rice
-          $5                        ..add jalapeno bacon $4…add jalapeno
-          slices      
-        price: 12 regular  / 19 grande
-        title: 'Menu Addition: Chef Asia''s Gumbo Yaya '
-      - description: >-
           Crispy Iceberg Lettuce, Roasted Butternut & Beet Crema, Shaved
           Pecorino Cheese, Candied Bacon & Chopped Hard-Boiled Egg
         price: 17 regular / 28 grande
@@ -157,11 +150,6 @@ subgroups:
       Don't forget to top it off by adding your favorite proteins, fixins, sides
       & sauces to any dish.
     items:
-      - description: >-
-          Served with Chef Asia’s Pork & Chicken Gumbo
-          Yaya                       & Steamed White Rice    
-        price: '28'
-        title: 'Menu addition: Crunchy Mustard Chicken Gumbo Yaya'
       - description: >-
           Red Wine Braised Rabbit, Campanelle Pasta, Crispy Sage, Toasted
           Hazelnut-Louisiana Cream Sauce 
