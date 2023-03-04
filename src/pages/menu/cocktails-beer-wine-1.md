@@ -11,9 +11,18 @@ subgroups:
           Cordial, Citrus Soda  
         price: '12'
         title: '"pretty in PInk" Party Punch  ~Happy 8th Birthday Moonshine 152!!~ '
-      - description: 'Reyka Vodka, Cherry Jello, Nutella Chocolate Drizzle ~contains nuts~ '
+      - description: >-
+          Hot Buttered Rum Cider: Spiced Rum, Mulled Apple
+          Cider,                                          Cinnamon Honey
+          Butter   
+        price: '14'
+        title: Peter's rotating hot cocktail
+      - description: >-
+          Irish Whiskey, Fresh Citrus
+          Zests,                                         Cherry & Strawberry
+          Jellos 
         price: '6'
-        title: 'Rotating Jello Shots: "chocolate covered cherry"'
+        title: 'Rotating Jello Shots: "whiskey berry punch"'
       - description: >-
           Locally Made Boston Harbor Distillery Putnam Rye Whiskey, Carpano
           Antica Sweet Vermouth, Angostura Bitters 
