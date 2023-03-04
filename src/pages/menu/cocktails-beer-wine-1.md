@@ -142,8 +142,8 @@ subgroups:
         price: '9'
         title: Lord Hobo "BoomSauce" Double IPA
       - description: '16 oz tallboy can '
-        price: '8'
-        title: true north ale company "northern haze" neipa
+        price: '9'
+        title: Aeronaut "Hop Hop & Away" Session IPA
       - description: '16oz tallboy can '
         price: '5'
         title: Narragansett "Autocrat Coffee Milk" Stout
