@@ -151,12 +151,6 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
-          'Shine Fish & Chips: Tempura Battered Cod, Shoestring French Fries,
-          Saffron Tartar Sauce & served with a Petite Mandarin Orange Mixed
-          Greens Salad
-        price: '28'
-        title: 'Menu Addition: Fish Fridays @ Moonshine 152'
-      - description: >-
           Red Wine Braised Rabbit, Campanelle Pasta, Crispy Sage, Toasted
           Hazelnut-Louisiana Cream Sauce 
         price: '28'
