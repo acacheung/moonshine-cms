@@ -207,9 +207,6 @@ subgroups:
       - description: 'Napa, California USA '
         price: 13 / 47
         title: '(Red) 2020 Contour Cabernet Sauvignon '
-      - description: '(Monterrey, CA)'
-        price: 55 / bottle
-        title: '(red) 2021 Talbott Vineyards "Kali Hart" Pinot Noir  '
     title: Wine List
   - items:
       - description: 'White & Red Cranberry Juices, Fresh Lemonade '
