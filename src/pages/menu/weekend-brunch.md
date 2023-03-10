@@ -86,8 +86,9 @@ subgroups:
   - description: ' (Entrees)'
     items:
       - description: >-
-          Hatch Green Chili Beefy-Cheesy Stuffed Enchiladas, Shredded Cabbage,
-          Salsa Fresca, Sour Cream  
+          Beefy-Cheesy Stuffed Enchiladas, Spicy Tomato Sauce, Shredded 
+          Cabbage, Salsa Fresca, Sour Cream    ...add fried egg $2 ...add
+          jalapeno bacon $4 ...add sliced jalapenos $2 
         price: '23'
         title: 'Menu Addition: Green Chili Breakfast Enchiladas '
       - description: >-
