@@ -80,8 +80,6 @@ subgroups:
         price: '5'
         title: (draft) miller high life
       - price: '7'
-        title: '(draft) Berkshire Brewing Co. House Lager '
-      - price: '7'
         title: (draft) harpoon IPA
       - price: '8 '
         title: (draft) Dorchester Brewing "Galaxy Lights" Session IPA
