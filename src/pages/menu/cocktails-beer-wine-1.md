@@ -101,7 +101,7 @@ subgroups:
         price: '8'
         title: Black Infusions "Dirty Shirley" Cocktail in a Can
       - description: '16 oz can '
-        price: '5'
+        price: '4'
         title: 'Stormalong "Happy Holidays" Spiced Cider '
       - description: '12 oz bottle '
         price: '4'
