@@ -68,7 +68,7 @@ subgroups:
       - description: >-
           White Wine Blend, Black Infusions Apricot Vodka, Peach Liqueur,
           Mandarin Orange, Apricot Puree, Fresh Citrus 
-        price: '14'
+        price: '12'
         title: ARae's Apricot Peach White Sangria
       - description: 'Select Apertivo, Pamplemousse Liqueur, Prosecco, Fresh Lemon '
         price: '14'
