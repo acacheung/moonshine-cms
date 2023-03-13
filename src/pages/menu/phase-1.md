@@ -151,6 +151,11 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
+          Guinness Ground Beef Stew,                                           
+          Chive Garlic Mashed Potatoes, Fresh Peas   
+        price: '27'
+        title: 'Menu Addition: "Happy pi Day" Shepard''s Pie'
+      - description: >-
           Red Wine Braised Rabbit, Campanelle Pasta, Crispy Sage, Toasted
           Hazelnut-Louisiana Cream Sauce 
         price: '28'
