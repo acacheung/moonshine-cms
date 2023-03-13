@@ -81,7 +81,7 @@ subgroups:
       - price: '7'
         title: (draft) berkshire brewing co Lager
       - price: '8'
-        title: Dorchester Brewing co "galaxy Lights" session ipa
+        title: (draft) Dorchester Brewing co "galaxy Lights" session ipa
       - price: '7'
         title: (draft) harpoon IPA
       - price: '7'
