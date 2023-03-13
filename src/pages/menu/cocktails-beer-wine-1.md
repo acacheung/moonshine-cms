@@ -76,6 +76,12 @@ subgroups:
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
+      - price: '5'
+        title: (draft) miller high life
+      - price: '7'
+        title: (draft) berkshire brewing co Lager
+      - price: '8'
+        title: Dorchester Brewing co "galaxy Lights" session ipa
       - price: '7'
         title: (draft) harpoon IPA
       - price: '7'
