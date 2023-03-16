@@ -93,7 +93,7 @@ subgroups:
         price: '6'
         title: Michelob Ultra
       - description: 355ml can
-        price: '6'
+        price: '7'
         title: Viva watermelon tequila seltzer
       - description: '12 oz can '
         price: '6 '
