@@ -155,7 +155,7 @@ subgroups:
           Sauce,                         Melted Swiss Cheese & Sauerkraut on a
           Potato Roll served with House-cut  Shoestring French Fries  
         price: '21'
-        title: 'Menu Addition: St. Paddy''s Corned Beef Sandwich'
+        title: 'Menu Addition: St. Paddy''s Corned Beef Sandwich '
       - description: >-
           Guinness Ground Beef Stew,                                           
           Chive Garlic Mashed Potatoes, Fresh Peas   
