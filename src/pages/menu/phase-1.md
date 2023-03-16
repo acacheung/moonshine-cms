@@ -151,15 +151,15 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
+          Thick-cut Corned Beef, Special Sauce, Melted Swiss Cheese & Sauerkraut
+          on a Potato Roll served with House-cut Shoestring French Fries 
+        price: '21'
+        title: 'Menu Addition: St. Paddy''s Corned Beef Sandwich'
+      - description: >-
           Guinness Ground Beef Stew,                                           
           Chive Garlic Mashed Potatoes, Fresh Peas   
         price: '27'
-        title: 'Menu Addition: "Happy pi Day" Shepard''s Pie'
-      - description: >-
-          Red Wine Braised Rabbit, Campanelle Pasta, Crispy Sage, Toasted
-          Hazelnut-Louisiana Cream Sauce 
-        price: '28'
-        title: 'Menu addition: Louisiana Braised Rabbit Pasta'
+        title: 'Menu Addition:  Shepard''s Pie'
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
@@ -199,6 +199,11 @@ subgroups:
           rice 5
         price: '29'
         title: CAJUN GRILLED FISH OF THE DAY**
+      - description: >-
+          Red Wine Braised Rabbit, Campanelle Pasta, Crispy Sage, Toasted
+          Hazelnut-Louisiana Cream Sauce 
+        price: '28'
+        title: Louisiana Braised Rabbit Pasta
       - description: >-
           Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
