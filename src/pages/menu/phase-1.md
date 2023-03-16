@@ -151,15 +151,16 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
-          Thick-cut Corned Beef, Special Sauce, Melted Swiss Cheese & Sauerkraut
-          on a Potato Roll served with House-cut Shoestring French Fries 
+          Chef Asia’s Thick-cut Corned Beef, Special
+          Sauce,                         Melted Swiss Cheese & Sauerkraut on a
+          Potato Roll served with House-cut  Shoestring French Fries  
         price: '21'
         title: 'Menu Addition: St. Paddy''s Corned Beef Sandwich'
       - description: >-
           Guinness Ground Beef Stew,                                           
           Chive Garlic Mashed Potatoes, Fresh Peas   
         price: '27'
-        title: 'Menu Addition:  Shepard''s Pie'
+        title: 'Menu Addition:  Southie Shepard''s Pie'
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
