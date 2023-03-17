@@ -29,11 +29,6 @@ subgroups:
         price: '15'
         title: House Manhattan
       - description: >-
-          Double Espresso Vodka, Kahlua & a Touch of Vanilla  (Available Dark or
-          Creamy with Bailey's Irish Cream) 
-        price: '15'
-        title: '''shine espresso martini'
-      - description: >-
           Mad River Rye Whiskey, Dark Cherry Liqueur,  Cinnamon Simple. Fresh
           Lemon 
         price: '14'
