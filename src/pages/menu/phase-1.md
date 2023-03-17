@@ -145,17 +145,18 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
-          ‘Shine Fish & Chips: Tempura Beer Battered Cod, Shoestring French
-          Fries, Saffron Tartar Sauce & served with a Petite Mandarin Orange
-          Mixed Greens Salad   
-        price: '27'
-        title: 'Menu Addition: Fish Fridays @ Moonshine 152'
-      - description: >-
           Chef Asia’s Thick-cut Corned Beef, Special
           Sauce,                         Melted Swiss Cheese & Sauerkraut on a
           Potato Roll served with House-cut  Shoestring French Fries  
         price: '21'
-        title: 'Menu Addition: St. Paddy''s Corned Beef Sandwich '
+        title: 'Menu Addition: ''Shine Corned Beef Sandwich '
+      - description: >-
+          Chef Asia’s Thick-cut Corned
+          Beef,                                      Chive Green Mashed
+          Potatoes, Cabbage Sauerkraut, Rustic Grilled Tomato & Guinness
+          Gravy        
+        price: '28'
+        title: 'Menu Addition: St. Paddy''s Day Corned Beef Platter '
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
