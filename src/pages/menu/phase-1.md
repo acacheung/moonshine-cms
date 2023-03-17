@@ -15,12 +15,6 @@ subgroups:
         price: 17 regular / 28 grande
         title: 'Menu Addition: ’Shine Wedge Salad'
       - description: >-
-          Parmesan-Pumpkin Arancini, Crispy Rice Fritters w/ Roasted Pumpkin,
-          Butternut Squash, Pecorino Cheese, Black Garlic Aioli & Glazed
-          Cranberries 
-        price: 17 regular / 28 grande
-        title: 'Menu Addition: Pumpkin Parmesan Arancini Risotto Fritters'
-      - description: >-
           Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
         price: 14 regular / 23 grande
@@ -151,16 +145,17 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
+          ‘Shine Fish & Chips: Tempura Beer Battered Cod, Shoestring French
+          Fries, Saffron Tartar Sauce & served with a Petite Mandarin Orange
+          Mixed Greens Salad   
+        price: '27'
+        title: 'Menu Addition: Fish Fridays @ Moonshine 152'
+      - description: >-
           Chef Asia’s Thick-cut Corned Beef, Special
           Sauce,                         Melted Swiss Cheese & Sauerkraut on a
           Potato Roll served with House-cut  Shoestring French Fries  
         price: '21'
         title: 'Menu Addition: St. Paddy''s Corned Beef Sandwich '
-      - description: >-
-          Guinness Ground Beef Stew,                                           
-          Chive Garlic Mashed Potatoes, Fresh Peas   
-        price: '27'
-        title: 'Menu Addition:  Southie Shepard''s Pie'
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
