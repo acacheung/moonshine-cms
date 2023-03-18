@@ -73,10 +73,8 @@ subgroups:
     items:
       - price: '5'
         title: (draft) miller high life
-      - price: '7'
-        title: (draft) berkshire brewing co Lager
       - price: '8'
-        title: (draft) Dorchester Brewing co "galaxy Lights" session ipa
+        title: (draft) Dorchester Brewing co "Light Year Journey"  ipa
       - price: '7'
         title: (draft) harpoon IPA
       - price: '7'
