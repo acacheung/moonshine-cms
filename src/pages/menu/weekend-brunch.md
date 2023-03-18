@@ -86,6 +86,12 @@ subgroups:
   - description: ' (Entrees)'
     items:
       - description: >-
+          Asia’s Thick-cut Corned Beef, Special Sauce, Melted Swiss Cheese &
+          Sauerkraut on a Potato Roll served with House-cut  Shoestring French
+          Fries                            
+        price: '21'
+        title: 'Menu Addition: ''Shine Corned Beef Sammie'
+      - description: >-
           Beefy-Cheesy Stuffed Enchiladas, Spicy Tomato Sauce, Shredded 
           Cabbage, Salsa Fresca, Sour Cream    ...add fried egg $2 ...add
           jalapeno bacon $4 ...add sliced jalapenos $2 
