@@ -39,12 +39,6 @@ subgroups:
           SAUCE & SAUERKRAUT served with shoestring fries 
         price: '19'
         title: St. Paddy’s Corned Beef Sammy
-      - description: >
-          ST PATRICK’S DAY “BANGER’S & MASH” topped with IRISH BANGER SAUSAGE,
-          GUINNESS GRAVY, GREEN CHIVE MASHED POTATOES, RUSTIC TOMATO & ORANGE
-          CHEDDAR  served with shoestring fries  
-        price: '23'
-        title: March 2023 Burger of the Month
       - description: >-
           CHINESE SAUSAGE, SCRAMBLED EGG, FRESH GINGER, SCALLIONS, DUCK
           LIVER    
@@ -55,6 +49,22 @@ subgroups:
           JALAPENOS  
         price: '21'
         title: 'Spicy Thai Kimchi Vegetarian Fried Rice '
+      - description: >-
+          Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french fries
+          .... 
+        price: '19'
+        title: Chef Asia's Award Winning Vegetarain Mushroom Tofu Burger
+      - description: >-
+          Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french fries
+          .... Make it a double patty 11
+        price: '19'
+        title: Grass-fed Beef Burger
+      - description: >
+          ST PATRICK’S DAY “BANGER’S & MASH” topped with IRISH BANGER SAUSAGE,
+          GUINNESS GRAVY, GREEN CHIVE MASHED POTATOES, RUSTIC TOMATO & ORANGE
+          CHEDDAR  served with shoestring fries  
+        price: '23'
+        title: March 2023 Burger of the Month
     title: 'Parade Day Favorites '
 ---
 
