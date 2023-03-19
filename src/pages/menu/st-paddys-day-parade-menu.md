@@ -66,5 +66,45 @@ subgroups:
         price: '23'
         title: March 2023 Burger of the Month
     title: 'Parade Day Favorites '
+  - description: 'LOOKING FOR SOMETHING SWEET? '
+    items:
+      - description: ' CHANTILLY CREAM, AMARANTH CRUMBLE'
+        price: '12'
+        title: 'bUTTERSCOTCH PUDDING '
+      - description: 'NUTELLA CHOCOLATE, POWDERED SUGAR'
+        price: '12'
+        title: JAIMIES FAVORITE OREO COOKIE LAYERED BROWNIE
+    title: 'sWEET TOOTH '
+  - items:
+      - description: >
+          CASTLE ISLAND ICED TEA: 
+
+          JAMESON ORANGE, MALIBU PEACH RUM, APRICOT-MANGO VODKA, APRICOT PUREE &
+          GINGER PEACH INFUSED SWEET TEA topped with TROPICAL RED BULL 
+        price: '13'
+        title: PARADE DAY PARTY PUNCH
+      - description: 'WEST CORK BOURBON CASK, FEVERTREE GINGER, LIME '
+        price: '13'
+        title: IRISH MULE
+      - description: '888 BLUEBERRY VODKA & RED BULL '
+        price: '13'
+        title: Meet Me Down M Street
+      - description: '888 VANILLA VODKA, BAILEYS IRISH CREAM, COLD BREW ICED COFFEE'
+        price: '13'
+        title: 'Irish Good Morning '
+      - description: >-
+          GRANDTEN SOUTHIE IRISH WHISKEY, PEACH LIQUEUR,  WHITE CRANBERRY, FRESH
+          CITRUS
+        price: '13'
+        title: 'Patron Saint of Southie '
+      - description: '     PINEAPPLE-MANDARIN ORANGE INFUSED TENNESSEE MOONSHINE, PROSECCO BUBBLES '
+        price: '13'
+        title: POT 'O GOLD MIMOSA
+      - description: >-
+          GLENDALOUGH DOUBLE BARRELL IRISH WHISKEY, TART CHERRY LIQUEUR,
+          CINNAMON SIMPLE, FRESH LEMON 
+        price: '13'
+        title: DUBLIN MODERN
+    title: 'FROM THE BAR '
 ---
 
