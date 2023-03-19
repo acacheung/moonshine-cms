@@ -97,9 +97,6 @@ subgroups:
           CITRUS
         price: '13'
         title: 'Patron Saint of Southie '
-      - description: '     PINEAPPLE-MANDARIN ORANGE INFUSED TENNESSEE MOONSHINE, PROSECCO BUBBLES '
-        price: '13'
-        title: POT 'O GOLD MIMOSA
       - description: >-
           GLENDALOUGH DOUBLE BARRELL IRISH WHISKEY, TART CHERRY LIQUEUR,
           CINNAMON SIMPLE, FRESH LEMON 
