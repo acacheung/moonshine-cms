@@ -7,10 +7,11 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          Raspberry-Citrus Vodka, Chambord Raspberry Liqueur, Pomegranate-Cherry
-          Cordial, Citrus Soda  
+          Jameson Orange, Apricot-Mango Vodka, Peach Rum, Apricot Puree,
+          Ginger-Peach Infused Sweet Tea, Fresh Citrus & topped with Tropical
+          Red Bull  
         price: '12'
-        title: '"pretty in PInk" Party Punch  ~Happy 8th Birthday Moonshine 152!!~ '
+        title: 'Castle Island Iced Tea Party Punch '
       - description: >-
           Hot Buttered Rum Cider: Spiced Rum, Mulled Apple
           Cider,                                          Cinnamon Honey
