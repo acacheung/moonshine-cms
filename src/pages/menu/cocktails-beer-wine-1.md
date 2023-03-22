@@ -19,11 +19,10 @@ subgroups:
         price: '14'
         title: Peter's rotating hot cocktail
       - description: >-
-          Irish Whiskey, Fresh Citrus
-          Zests,                                         Cherry & Strawberry
-          Jellos 
+          Glendalough Irish Whiskey & Irish  Botanical
+          Gin,                                     Lime & Orange Jello          
         price: '6'
-        title: 'Rotating Jello Shots: "whiskey berry punch"'
+        title: 'Rotating Jello Shots: "paddy''s day celtic flag"'
       - description: >-
           Locally Made Boston Harbor Distillery Putnam Rye Whiskey, Carpano
           Antica Sweet Vermouth, Angostura Bitters 
@@ -91,16 +90,22 @@ subgroups:
         title: Viva watermelon tequila seltzer
       - description: '12 oz can '
         price: '6 '
-        title: 'High Noon Hard Seltzer: Pineapple '
+        title: 'High Noon Hard Seltzer: Pineapple or Black Cherry'
       - description: '12 oz can '
         price: '8'
         title: Black Infusions "Dirty Shirley" Cocktail in a Can
+      - description: '12 oz bottle '
+        price: '4'
+        title: Boulevard Brewing "Nutcracker" Winter Warmer Ale
       - description: '16 oz can '
         price: '4'
         title: 'Stormalong "Happy Holidays" Spiced Cider '
       - description: '12 oz bottle '
-        price: '4'
-        title: Boulevard Brewing "Nutcracker" Winter Warmer Ale
+        price: '5'
+        title: Magner's Hard Irish Cider
+      - description: 12 oz bottle
+        price: '5'
+        title: smithwick's irish red ale
       - description: 12 oz Bottle
         price: '6'
         title: 'Stella Artois '
@@ -158,6 +163,9 @@ subgroups:
       - description: '12 oz can '
         price: '6'
         title: Athletic Brewing co "Free Wave" IPA  (non-alcoholic)
+      - description: 12oz can
+        price: '7'
+        title: Athletic Brewing co "cerveza athletica" light copper (non-alcoholic)
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
@@ -286,7 +294,8 @@ subgroups:
       - description: >-
           Jameson Irish Whiskey...$10...Glendalough Double Barrel Irish
           Whiskey...$10...GrandTen Distilling South Boston Irish Whiskey...$10
-          ... Redbreast 12 Year...$12
+          ... West Cork Bourbon Cask...$10... Tullamore Dew...$11... Redbreast
+          12 Year...$12
         price: XXXXX
         title: Imported Whiskey
       - description: >-
