@@ -72,11 +72,13 @@ subgroups:
   - description: 'please note this menu is subject to change '
     items:
       - price: '5'
-        title: (draft) miller high life
+        title: (DRAFT) BUD LIGHT
       - price: '8'
         title: (draft) Dorchester Brewing co "Light Year Journey"  ipa
       - price: '7'
         title: (draft) harpoon IPA
+      - price: '5'
+        title: (draft) miller high life
       - price: '7'
         title: (Draft) Downeast Unfiltered Cider
       - description: '12 oz bottle '
