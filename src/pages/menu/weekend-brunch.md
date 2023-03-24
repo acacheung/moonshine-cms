@@ -86,11 +86,11 @@ subgroups:
   - description: ' (Entrees)'
     items:
       - description: >-
-          Asia’s Thick-cut Corned Beef, Special Sauce, Melted Swiss Cheese &
-          Sauerkraut on a Potato Roll served with House-cut  Shoestring French
-          Fries                            
-        price: '21'
-        title: 'Menu Addition: ''Shine Corned Beef Sammie'
+          Thick-cut Corned Beef Brisket wrapped in a  Scallion Pancake with Pho
+          Noodle Salad, Beansprouts &  Bacony Pho Bone Broth for
+          Dipping                     
+        price: '29'
+        title: 'Menu Addition: ''Shine famous "pho-rrito"'
       - description: >-
           Beefy-Cheesy Stuffed Enchiladas, Spicy Tomato Sauce, Shredded 
           Cabbage, Salsa Fresca, Sour Cream    ...add fried egg $2 ...add
