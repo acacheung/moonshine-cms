@@ -6,6 +6,18 @@ order: 6
 subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
+      - description: >-
+          "Paddy's Day Celtic Flag": Glendalough Irish Whiskey & Irish 
+          Botanical Gin,                                     Lime & Orange
+          Jello   
+        price: '6'
+        title: Rotating Jello Shots
+      - description: >-
+          Jameson Orange, Apricot-Mango Vodka, Peach Rum, Apricot Puree,
+          Ginger-Peach Infused Sweet Tea, Fresh Citrus & topped with Tropical
+          Red Bull  
+        price: '12'
+        title: 'castle island iced tea party punch '
       - description: >
           vodka or blanco tequila with our house bloody mary mix, infused with
           homemade kimchi juice 
