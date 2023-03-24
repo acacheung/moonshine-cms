@@ -11,7 +11,7 @@ subgroups:
           Botanical Gin,                                     Lime & Orange
           Jello   
         price: '6'
-        title: Rotating Jello Shots
+        title: Chef Asia's Rotating Jello Shots
       - description: >-
           Jameson Orange, Apricot-Mango Vodka, Peach Rum, Apricot Puree,
           Ginger-Peach Infused Sweet Tea, Fresh Citrus & topped with Tropical
