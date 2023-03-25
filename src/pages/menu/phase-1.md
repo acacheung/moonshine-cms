@@ -145,12 +145,6 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
-          'Shine Fish & Chips: Tempura Beer Battered Cod, Shoestring French
-          Fries, Saffron Tartar Sauce & served with a Petite Mandarin Orange
-          Mixed Greens Salad
-        price: '28'
-        title: 'Menu Addition: Fish Friday''s @ Moonshine 152'
-      - description: >-
           Chef Asia’s Thick-cut Corned Beef, Special
           Sauce,                         Melted Swiss Cheese & Sauerkraut on a
           Potato Roll served with House-cut  Shoestring French Fries  
