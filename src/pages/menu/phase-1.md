@@ -145,6 +145,13 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
+          ‘Shine “Pho-Rrito” $29                                  Thick-Cut,
+          Tender Corned Beef Brisket wrapped in a                               
+          Scallion Pancake with Pho Noodle Salad, Beansprouts &  Bacony Pho Bone
+          Broth for Dipping     
+        price: '28'
+        title: 'Menu Addition: Chef Asia''s Famous "Pho-Rrito"'
+      - description: >-
           Chef Asia’s Thick-cut Corned Beef, Special
           Sauce,                         Melted Swiss Cheese & Sauerkraut on a
           Potato Roll served with House-cut  Shoestring French Fries  
