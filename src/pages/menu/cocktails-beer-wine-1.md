@@ -60,11 +60,6 @@ subgroups:
           Apples, Fresh Citrus 
         price: '14'
         title: sahil's Ginger Hibiscus red  sangria
-      - description: >-
-          White Wine Blend, Black Infusions Apricot Vodka, Peach Liqueur,
-          Mandarin Orange, Apricot Puree, Fresh Citrus 
-        price: '12'
-        title: ARae's Apricot Peach White Sangria
       - description: 'Select Apertivo, Pamplemousse Liqueur, Prosecco, Fresh Lemon '
         price: '14'
         title: Shine Spritz
