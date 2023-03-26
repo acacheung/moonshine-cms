@@ -66,7 +66,7 @@ subgroups:
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
-      - price: '5'
+      - price: '4'
         title: (DRAFT) BUD LIGHT
       - price: '8'
         title: (draft) Dorchester Brewing co "Light Year Journey"  ipa
