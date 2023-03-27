@@ -145,26 +145,6 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
-          ‘Shine “Pho-Rrito” $29                                  Thick-Cut,
-          Tender Corned Beef Brisket wrapped in a                               
-          Scallion Pancake with Pho Noodle Salad, Beansprouts &  Bacony Pho Bone
-          Broth for Dipping     
-        price: '28'
-        title: 'Menu Addition: Chef Asia''s Famous "Pho-Rrito"'
-      - description: >-
-          Chef Asia’s Thick-cut Corned Beef, Special
-          Sauce,                         Melted Swiss Cheese & Sauerkraut on a
-          Potato Roll served with House-cut  Shoestring French Fries  
-        price: '21'
-        title: 'Menu Addition: ''Shine Corned Beef Sandwich '
-      - description: >-
-          Chef Asia’s Thick-cut Corned
-          Beef,                                      Chive Green Mashed
-          Potatoes, Cabbage Sauerkraut, Rustic Grilled Tomato & Guinness
-          Gravy        
-        price: '28'
-        title: 'Menu Addition: St. Paddy''s Day Corned Beef Platter '
-      - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
         price: '19'
