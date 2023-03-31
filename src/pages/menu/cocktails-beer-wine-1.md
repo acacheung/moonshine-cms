@@ -55,11 +55,6 @@ subgroups:
       - description: 'London Dry Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '14'
         title: Moonshine 76
-      - description: >-
-          Mediterranean Red Wine Blend, Brandy, Ginger Liqueur, Hibiscus,
-          Apples, Fresh Citrus 
-        price: '14'
-        title: sahil's Ginger Hibiscus red  sangria
       - description: 'Select Apertivo, Pamplemousse Liqueur, Prosecco, Fresh Lemon '
         price: '14'
         title: Shine Spritz
