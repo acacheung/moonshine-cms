@@ -189,15 +189,9 @@ subgroups:
           double patty 11 
         price: '19'
         title: Grass-fed Beef Burger**
-      - description: >-
-          topped with Irish Banger Sausages, Chive Green Mashed Potatoes, Orange
-          Cheddar Cheese, Gravy & Grilled Roasted Tomato  ~~Don't forget to Top
-          It Off! ...add fried egg $2 ...add melted cheddar cheese $2 ...add
-          jalapeno slices $2 ...add jalapeno bacon...$4
+      - description: '                                             topped with Thai-Style Satay                                     Sunflower Seed Butter Sauce (peanut free!),                  House Apricot Pepper Jelly &                                              Crispy Chow Menu Noodles      ~~Don''t forget to Top It Off! ...add fried egg $2 ...add melted cheddar cheese $2 ...add jalapeno slices $2 ...add jalapeno bacon...$4'
         price: '24'
-        title: >-
-          March 2023 VIP Burger of the Month: "St' Patrick's Day Bangers & Mash"
-          Burger" 
+        title: 'April 2023 VIP Burger of the Month: “April Fools (not a) PB&J” Burger '
     title: All-Day / All-Night Allstars
   - description: ' All the sides & Fixin’s'
     items:
