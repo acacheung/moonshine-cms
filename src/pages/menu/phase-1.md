@@ -161,14 +161,14 @@ subgroups:
         price: '19'
         title: GRASS-FED ’SHINE BEEF BURGER**
       - description: >-
-          topped with Irish Banger Sausages, Chive Green Mashed Potatoes, Orange
-          Cheddar Cheese, Gravy & Grilled Roasted Tomato  ~~Don't forget to Top
-          It Off! ...add fried egg $2 ...add melted cheddar cheese $2 ...add
-          jalapeno slices $2 ...add jalapeno bacon...$4
+          topped with Thai-Style Satay                                    
+          Sunflower Seed Butter Sauce (peanut free!),                  House
+          Apricot Pepper Jelly &                                             
+          Crispy Chow Menu Noodles      ~~Don't forget to Top It Off! ...add
+          fried egg $2 ...add melted cheddar cheese $2 ...add jalapeno slices $2
+          ...add jalapeno bacon...$4
         price: '24'
-        title: >-
-          March 2023 VIP Burger of the Month: "St Patrick's Day Bangers & Mash"
-          Burger 
+        title: 'April 2023 VIP Burger of the Month: "April Fools (not a) PB&J" Burger '
       - description: >-
           Moonshine’s Best of Boston fried chicken, Belgian waffle,
           sriracha-bourbon awesome sauce, cinnamon honey butter ** GO GRANDE by
