@@ -145,11 +145,10 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
-          Shine Fish & Chips: Tempura Beer Battered Cod, Shoestring French
-          Fries, Saffron Tartar Sauce & served with a Petite Mandarin Orange
-          Mixed Greens Salad
+          Tempura Beer Battered Cod, Shoestring French Fries, Saffron Tartar
+          Sauce & served with a Petite Mandarin Orange Mixed Greens Salad
         price: '28'
-        title: 'Menu Addition: Fish Friday''s @ moonshine 152'
+        title: 'Menu Addition: ''Shine Fish ''n Chips '
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
