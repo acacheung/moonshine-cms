@@ -29,13 +29,10 @@ subgroups:
         price: '15'
         title: House Manhattan
       - description: >-
-          Mad River Rye Whiskey, Dark Cherry Liqueur,  Cinnamon Simple. Fresh
-          Lemon 
-        price: '14'
-        title: Danish Modern
-      - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime'
-        price: '14'
-        title: Patron Saint of Southie
+          Double Espresso Vodka, Kahlua, just a touch of Vanilla (available
+          creamy with Bailey's Irish Cream- just ask!) 
+        price: '15'
+        title: '''SHine espresso martini '
       - description: >-
           GrandTen Distillery Spicy Firepuncher Vodka, Fresh Cucumber Juice,
           Fresh Lemon, Elderflower
@@ -47,11 +44,14 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '14'
         title: 'La Diabla '
-      - description: >-
-          Empress 1908 Indigo Gin, Crème de Violete,                Luxardo
-          Maraschino Liqueur, Fresh Lemon   
+      - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime'
         price: '14'
-        title: fly me to the moon
+        title: Patron Saint of Southie
+      - description: >-
+          Mad River Rye Whiskey, Dark Cherry Liqueur,  Cinnamon Simple. Fresh
+          Lemon 
+        price: '14'
+        title: Danish Modern
       - description: 'London Dry Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '14'
         title: Moonshine 76
