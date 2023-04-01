@@ -174,7 +174,7 @@ subgroups:
         price: 45/bottle
         title: >-
           (sparkling red) Treat 'Yo Self Bottle Special: NV Lini 910 Lambrusca
-          Rosso
+          Rosso  (Emilia Romagna, IT) 
       - description: 'Columbia Valley, WA, USA '
         price: 13  /  46
         title: (rose) 2019 Charles & Charles Rose
