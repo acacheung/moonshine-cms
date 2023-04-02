@@ -7,12 +7,6 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          Jameson Orange, Apricot-Mango Vodka, Peach Rum, Apricot Puree,
-          Ginger-Peach Infused Sweet Tea, Fresh Citrus & topped with Tropical
-          Red Bull  
-        price: '12'
-        title: 'Castle Island Iced Tea Party Punch '
-      - description: >-
           Hot Buttered Rum Cider: Spiced Rum, Mulled Apple
           Cider,                                          Cinnamon Honey
           Butter   
