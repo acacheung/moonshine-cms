@@ -12,12 +12,6 @@ subgroups:
           Jello   
         price: '6'
         title: Chef Asia's Rotating Jello Shots
-      - description: >-
-          Jameson Orange, Apricot-Mango Vodka, Peach Rum, Apricot Puree,
-          Ginger-Peach Infused Sweet Tea, Fresh Citrus & topped with Tropical
-          Red Bull  
-        price: '12'
-        title: 'castle island iced tea party punch '
       - description: >
           vodka or blanco tequila with our house bloody mary mix, infused with
           homemade kimchi juice 
