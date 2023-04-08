@@ -15,6 +15,11 @@ subgroups:
         price: 17 regular / 28 grande
         title: 'Menu Addition: ’Shine Wedge Salad'
       - description: >-
+          Chipotle Beef Chili, Crispy Corn Tortillas Chips Melted Cheese. Salsa
+          Fresca, Sour Cream 
+        price: '27'
+        title: 'Menu Addition: Chili con Carne Nachos'
+      - description: >-
           Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
         price: 14 regular / 23 grande
