@@ -150,6 +150,11 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
+          Red Wine Braised Rabbit, Campanelle Pasta, Crispy Sage, Toasted
+          Hazelnut-Louisiana Cream Sauce 
+        price: '28'
+        title: 'Menu Addition: Louisiana Braised Rabbit Pasta'
+      - description: >-
           Tempura Beer Battered Cod, Shoestring French Fries, Saffron Tartar
           Sauce & served with a Petite Mandarin Orange Mixed Greens Salad
         price: '28'
@@ -193,11 +198,6 @@ subgroups:
           rice 5
         price: '29'
         title: CAJUN GRILLED FISH OF THE DAY**
-      - description: >-
-          Red Wine Braised Rabbit, Campanelle Pasta, Crispy Sage, Toasted
-          Hazelnut-Louisiana Cream Sauce 
-        price: '28'
-        title: Louisiana Braised Rabbit Pasta
       - description: >-
           Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
