@@ -7,9 +7,8 @@ subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
       - description: >-
-          "Paddy's Day Celtic Flag": Glendalough Irish Whiskey & Irish 
-          Botanical Gin,                                     Lime & Orange
-          Jello   
+          Whiskey Berry Punch: Glendalough Irish Whiskey, Fresh Citrus Zest,
+          Strawberry-Orange Jello 
         price: '6'
         title: Chef Asia's Rotating Jello Shots
       - description: >
@@ -55,54 +54,70 @@ subgroups:
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
       - description: >-
+          Crispy Iceberg Lettuce, Roasted  Beet Crema,                        
+          Shaved Pecorino Cheese, Candied
+          Bacon                                          & Chopped Hard-Boiled
+          Egg      
+        price: 17 regular / 28 grande
+        title: 'Menu Addition: ''Shine Wedge Salad'
+      - description: 'Warm Honeyed Cream Cheese, Streusel Crumble   '
+        price: '12 regular / 19 grande '
+        title: 'Menu Addition: Freshly Baked Pineapple-Apple  Puff Pastry'
+      - description: >-
           Local honey, Fresh berries, Maple-nut cornflake crunch **add a belgian
           waffle $7**
         price: 9 / 14
         title: 'Whipped Greek Yogurt Parfait '
+      - description: >-
+          Brioche cinnamon French toast sticks, Fresh berries, Maple berry
+          butter dipping sauce 
+        price: '14 / 24 '
+        title: 'Chef Asia’s Famous Cinnamon French Toast Sticks '
       - description: 'Japanese ginger-sesame carrot vinaigrette, Roasted kale '
         price: 10 / 14
         title: 'Local Mixed Greens Salad '
       - description: 'Toasted sesame, Crispy garlic & shallots, Soy vinaigrette '
         price: '10 / 15 '
         title: 'Blistered Shishito Peppers '
-      - description: 'Jalapeno crab filling, Spicy honey '
-        price: '16 regular  / 26 grande '
-        title: 'Jalapeno Crab Rangoons '
+      - description: >-
+          Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
+          Chickpea Papadums
+        price: 14 regular / 23 grande
+        title: ’Shine Famous Caramelized Onion-Roasted Beet Dip
       - description: >-
           Sourdough holiday stuffing bites, Crispy pecanwood bacon, Candied
           ginger aioli 
         price: 15 / 23
         title: '’Shine Famous Bacon Wrapped Stuffing Bites  '
       - description: >-
-          Brioche cinnamon French toast sticks, Fresh berries, Maple berry
-          butter dipping sauce 
-        price: '14 / 24 '
-        title: 'Chef Asia’s Famous Cinnamon French Toast Sticks '
-      - description: >-
           Crispy olive oil roasted potatoes, Sherry pesto aioli, Roasted garlic
           oil 
         price: '15 / 26 '
         title: 'Tapas Style Patatas Bravas '
-      - description: >-
-          Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
-          Chickpea Papadums
-        price: 14 regular / 23 grande
-        title: ’Shine Famous Caramelized Onion-Roasted Beet Dip
+      - description: 'Jalapeno crab filling, Spicy honey '
+        price: '16 regular  / 26 grande '
+        title: 'Jalapeno Crab Rangoons '
     title: To Get Ya Started!
   - description: ' (Entrees)'
     items:
-      - description: >-
-          Thick-cut Corned Beef Brisket wrapped in a  Scallion Pancake with Pho
-          Noodle Salad, Beansprouts &  Bacony Pho Bone Broth for
-          Dipping                     
-        price: '29'
-        title: 'Menu Addition: ''Shine famous "pho-rrito"'
       - description: >-
           Beefy-Cheesy Stuffed Enchiladas, Spicy Tomato Sauce, Shredded 
           Cabbage, Salsa Fresca, Sour Cream    ...add fried egg $2 ...add
           jalapeno bacon $4 ...add sliced jalapenos $2 
         price: '23'
         title: 'Menu Addition: Green Chili Breakfast Enchiladas '
+      - description: >-
+          Red Wine Braised Rabbit, Sauteed
+          Kale,                                   Green Chili Cheese Grits,
+          Shallot-Sherry Pan Sauce    
+        price: '28'
+        title: 'Menu Addition: Braised Easter Bunny & Grits'
+      - description: >-
+          Thick-cut Corned Beef Brisket wrapped in a  Scallion Pancake with Pho
+          Noodle Salad, Beansprouts &  Bacony Pho Bone Broth for
+          Dipping                     
+        price: '29'
+        title: 'Menu Addition: ''Shine famous "pho-rrito"'
       - description: >-
           Grilled Marinated Skirt Steak, Two Fried Eggs, Buttermilk Biscuits &
           Gravy w/ White Pepper Sausage Gravy & Chef Asia’s Best Ever Buttermilk
