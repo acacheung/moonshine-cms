@@ -13,10 +13,10 @@ subgroups:
         price: '14'
         title: Peter's rotating hot cocktail
       - description: >-
-          Glendalough Irish Whiskey & Irish  Botanical
-          Gin,                                     Lime & Orange Jello          
+          Whiskey Berry Punch: Glendalough Irish Whiskey, Fresh Citrus Zest,
+          Strawberry-Orange Jello      
         price: '6'
-        title: 'Rotating Jello Shots: "paddy''s day celtic flag"'
+        title: 'Rotating Jello Shots: whiskey berry punch'
       - description: >-
           Locally Made Boston Harbor Distillery Putnam Rye Whiskey, Carpano
           Antica Sweet Vermouth, Angostura Bitters 
