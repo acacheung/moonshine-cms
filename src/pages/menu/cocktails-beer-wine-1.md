@@ -7,12 +7,6 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          Hot Buttered Rum Cider: Spiced Rum, Mulled Apple
-          Cider,                                          Cinnamon Honey
-          Butter   
-        price: '14'
-        title: Peter's rotating hot cocktail
-      - description: >-
           Whiskey Berry Punch: Glendalough Irish Whiskey, Fresh Citrus Zest,
           Strawberry-Orange Jello      
         price: '6'
@@ -91,9 +85,6 @@ subgroups:
       - description: '12 oz bottle '
         price: '4'
         title: Boulevard Brewing "Nutcracker" Winter Warmer Ale
-      - description: '16 oz can '
-        price: '4'
-        title: 'Stormalong "Happy Holidays" Spiced Cider '
       - description: '12 oz bottle '
         price: '5'
         title: Magner's Hard Irish Cider
