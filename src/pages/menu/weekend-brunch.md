@@ -60,9 +60,6 @@ subgroups:
           Egg      
         price: 17 regular / 28 grande
         title: 'Menu Addition: ''Shine Wedge Salad'
-      - description: 'Warm Honeyed Cream Cheese, Streusel Crumble   '
-        price: '12 regular / 19 grande '
-        title: 'Menu Addition: Freshly Baked Pineapple-Apple  Puff Pastry'
       - description: >-
           Local honey, Fresh berries, Maple-nut cornflake crunch **add a belgian
           waffle $7**
@@ -106,12 +103,6 @@ subgroups:
           jalapeno bacon $4 ...add sliced jalapenos $2 
         price: '23'
         title: 'Menu Addition: Green Chili Breakfast Enchiladas '
-      - description: >-
-          Red Wine Braised Rabbit, Sauteed
-          Kale,                                   Green Chili Cheese Grits,
-          Shallot-Sherry Pan Sauce    
-        price: '28'
-        title: 'Menu Addition: Braised Easter Bunny & Grits'
       - description: >-
           Thick-cut Corned Beef Brisket wrapped in a  Scallion Pancake with Pho
           Noodle Salad, Beansprouts &  Bacony Pho Bone Broth for
