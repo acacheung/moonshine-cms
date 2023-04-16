@@ -209,9 +209,6 @@ subgroups:
       - description: 'Pineapple Juice, Fresh Lime, Fever Tree Ginger Beer '
         price: '7'
         title: 'Pineapple Mule (mocktail) '
-      - description: 'Coconut Puree, Mint Simple, Fresh Lime, Soda '
-        price: '7'
-        title: Rory Calhoun (mocktail)
       - price: '4'
         title: 'Unsweetened Iced Tea '
       - price: '5'
