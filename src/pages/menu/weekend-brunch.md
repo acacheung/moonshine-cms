@@ -7,8 +7,8 @@ subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
       - description: >-
-          Whiskey Berry Punch: Glendalough Irish Whiskey, Fresh Citrus Zest,
-          Strawberry-Orange Jello 
+          Whiskey Sour: American Whiskey, Lemon Jello, Fresh Citrus
+          Zests,                   Amarena Cherry    
         price: '6'
         title: Chef Asia's Rotating Jello Shots
       - description: >
