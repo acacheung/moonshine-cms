@@ -7,10 +7,10 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          Whiskey Berry Punch: Glendalough Irish Whiskey, Fresh Citrus Zest,
-          Strawberry-Orange Jello      
+          American Whiskey, Lemon Jello, Fresh Citrus Zests,                  
+          Amarena Cherry    
         price: '6'
-        title: 'Rotating Jello Shots: whiskey berry punch'
+        title: 'Rotating Jello Shots: Whiskey Sour'
       - description: >-
           Locally Made Boston Harbor Distillery Putnam Rye Whiskey, Carpano
           Antica Sweet Vermouth, Angostura Bitters 
