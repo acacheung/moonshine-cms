@@ -15,10 +15,11 @@ subgroups:
         price: 17 regular / 28 grande
         title: 'Menu Addition: ’Shine Wedge Salad'
       - description: >-
-          Chipotle Beef Chili, Crispy Corn Tortillas Chips Melted Cheese. Salsa
-          Fresca, Sour Cream 
-        price: '27'
-        title: 'Menu Addition: Chili con Carne Nachos'
+          Bulgogi Beef Shortrib, Candied Bacon, Melted Cheese, Smoky Sriracha
+          Mayo,                         Shredded Lettuce, Tater Tots & Birria
+          Dipping Jus      
+        price: '$18 (2 tacos) / $28 (3 tacos)  '
+        title: 'Menu Addition: 4:20 Birria Gringo Tacos         '
       - description: >-
           Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
