@@ -181,7 +181,7 @@ subgroups:
         price: 11  /  42
         title: '(White) 2020 Zenato Pinot Grigio '
       - description: ' Emilia-Romagna, Italy'
-        price: 11 /42
+        price: 12 /42
         title: >-
           (White) 2021 Poderi dal Nespoli 'Nespolino' Bianco (Trebbiano -
           Chardonnay)
