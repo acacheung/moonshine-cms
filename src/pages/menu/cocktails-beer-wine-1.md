@@ -171,6 +171,9 @@ subgroups:
       - description: 'Columbia Valley, WA, USA '
         price: 13  /  46
         title: (rose) 2019 Charles & Charles Rose
+      - description: 'Carinola, Campania IT'
+        price: 15 / 58
+        title: '(rose) 2021 Fattoria Pagano Rose '
       - description: 'Provence, FR'
         price: 15 / 58
         title: '(Rose) 2020 Château d’Esclan Whispering Angel Rose '
