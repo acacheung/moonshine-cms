@@ -177,9 +177,11 @@ subgroups:
       - description: 'Veneto, Italy '
         price: 11  /  42
         title: '(White) 2020 Zenato Pinot Grigio '
-      - description: 'Monterrey Coast, CA, USA '
+      - description: ' Emilia-Romagna, Italy'
         price: 11 /42
-        title: '(White) 2020 SeaGlass Riesling '
+        title: >-
+          (White) 2021 Poderi dal Nespoli 'Nespolino' Bianco (Trebbiano -
+          Chardonnay)
       - description: 'Napa Valley, CA, USA '
         price: 12 / 45
         title: (White) 2019 Grayson Cellars Chardonnay
