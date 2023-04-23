@@ -152,9 +152,7 @@ subgroups:
     title: The Main Affair
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
-      - description: >-
-          "Birria Ramen Noodle Soup": Shredded Carnitas Kimchi Birria Broth,
-          Ramen Noodles, Fresh Lime, Salsa Fresca 
+      - description: New England Clam Chowder
         price: '12 / 19 '
         title: 'Chef’s Whim Soup for the Soul '
       - description: >
