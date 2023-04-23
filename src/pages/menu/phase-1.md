@@ -55,9 +55,7 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
-      - description: >-
-          "Birria Ramen Noodle Soup": Shredded Carnitas Kimchi Birria Broth,
-          Ramen Noodles, Fresh Lime, Salsa Fresca 
+      - description: New England Clam Chowder
         price: '14 regular / 26 grande '
         title: Chef's Whim Soup for the Soul
       - description: >-
