@@ -15,11 +15,10 @@ subgroups:
         price: 17 regular / 28 grande
         title: 'Menu Addition: ’Shine Wedge Salad'
       - description: >-
-          Bulgogi Beef Shortrib, Candied Bacon, Melted Cheese, Smoky Sriracha
-          Mayo,                         Shredded Lettuce, Tater Tots & Birria
-          Dipping Jus      
+          Bulgogi Beef Shortrib, Salsa Fresca,  Melted Cheese, Smoky Sriracha
+          Mayo, Shredded Lettuce, Tater Tots & Birria Dipping Jus  
         price: '$18 (2 tacos) / $28 (3 tacos)  '
-        title: 'Menu Addition: 4:20 Birria Gringo Tacos         '
+        title: 'Menu Addition: Birria Gringo Tacos         '
       - description: >-
           Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
