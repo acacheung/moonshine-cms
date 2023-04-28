@@ -86,10 +86,10 @@ subgroups:
         price: '4'
         title: Boulevard Brewing "Nutcracker" Winter Warmer Ale
       - description: '12 oz bottle '
-        price: '5'
+        price: '4'
         title: Magner's Hard Irish Cider
       - description: 12 oz bottle
-        price: '5'
+        price: '4'
         title: smithwick's irish red ale
       - description: 12 oz Bottle
         price: '6'
@@ -113,7 +113,7 @@ subgroups:
         price: '7'
         title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
       - description: '12 oz can '
-        price: '5'
+        price: '4'
         title: Jack's abby "banner city" Light Lager
       - description: '16oz tallboy can '
         price: '7'
@@ -128,7 +128,7 @@ subgroups:
         price: '7'
         title: 'Stone IPA '
       - description: '16 oz tallboy can '
-        price: '9'
+        price: '7'
         title: Aeronaut "Hop Hop & Away" Session IPA
       - description: '16 oz tallboy can '
         price: '7'
