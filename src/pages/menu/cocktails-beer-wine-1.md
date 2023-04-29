@@ -82,6 +82,9 @@ subgroups:
       - description: '12 oz can '
         price: '8'
         title: Black Infusions "Dirty Shirley" Cocktail in a Can
+      - description: '12 oz can '
+        price: '4'
+        title: Jack's abby "banner city" Light Lager
       - description: '12 oz bottle '
         price: '4'
         title: Boulevard Brewing "Nutcracker" Winter Warmer Ale
@@ -112,9 +115,6 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '7'
         title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
-      - description: '12 oz can '
-        price: '4'
-        title: Jack's abby "banner city" Light Lager
       - description: '16oz tallboy can '
         price: '7'
         title: 'Night Shift Brewing "Nite Lite" Light Lager '
