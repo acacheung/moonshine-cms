@@ -54,12 +54,10 @@ subgroups:
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
       - description: >-
-          Crispy Iceberg Lettuce, Roasted  Beet Crema,                        
-          Shaved Pecorino Cheese, Candied
-          Bacon                                          & Chopped Hard-Boiled
-          Egg      
-        price: 17 regular / 28 grande
-        title: 'Menu Addition: ''Shine Wedge Salad'
+          served with Shredded Napa Cabbage, Mandarin Oranges, Toasted Sesame,
+          Candied Walnuts & Crispy Wontons  
+        price: 17 regular / 2 grande
+        title: 'Menu Addition: ''Not-So-Chinese" Chicken Salad '
       - description: >-
           Local honey, Fresh berries, Maple-nut cornflake crunch **add a belgian
           waffle $7**
