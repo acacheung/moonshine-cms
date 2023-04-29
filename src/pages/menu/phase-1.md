@@ -10,10 +10,10 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
-          Crispy Iceberg Lettuce, Roasted  Beet Crema, Shaved Pecorino Cheese,
-          Candied Bacon & Chopped Hard-Boiled Egg
-        price: 17 regular / 28 grande
-        title: 'Menu Addition: ’Shine Wedge Salad'
+          served with Shredded Napa Cabbage, Mandarin Oranges, Toasted Sesame,
+          Candied Walnuts & Crispy Wontons 
+        price: 17 regular / 27 grande
+        title: 'Menu Addition: "Not-So-Chinese" Chicken Salad" '
       - description: >-
           Bulgogi Beef Shortrib, Salsa Fresca,  Melted Cheese, Smoky Sriracha
           Mayo, Shredded Lettuce, Tater Tots & Birria Dipping Jus  
