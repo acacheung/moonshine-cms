@@ -7,10 +7,10 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          American Whiskey, Lemon Jello, Fresh Citrus Zests,                  
-          Amarena Cherry    
+          Rumhaven Coconut Rum, Strawberry Jello, Fresh Lime Zest, Toasted
+          Coconut Flake    
         price: '6'
-        title: 'Rotating Jello Shots: Whiskey Sour'
+        title: 'Rotating Jello Shots: Strawberry Coconut Daiquiri '
       - description: >-
           Locally Made Boston Harbor Distillery Putnam Rye Whiskey, Carpano
           Antica Sweet Vermouth, Angostura Bitters 
