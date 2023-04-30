@@ -7,8 +7,8 @@ subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
       - description: >-
-          Whiskey Sour: American Whiskey, Lemon Jello, Fresh Citrus
-          Zests,                   Amarena Cherry    
+          Strawberry Coconut Daiquiri: Rumhaven Coconut Rum, Strawberry Jello,
+          Fresh Lime Zest, Toasted Coconut Flake     
         price: '6'
         title: Chef Asia's Rotating Jello Shots
       - description: >
