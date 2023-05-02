@@ -168,14 +168,15 @@ subgroups:
         price: '19'
         title: GRASS-FED ’SHINE BEEF BURGER**
       - description: >-
-          topped with Thai-Style Satay                                    
-          Sunflower Seed Butter Sauce (peanut free!),                  House
-          Apricot Pepper Jelly &                                             
-          Crispy Chow Menu Noodles      ~~Don't forget to Top It Off! ...add
+          topped with House Spring Veggie Giardiniera Pickle-Olive Relish,
+          Toasted Sesame Aioli, Melted Provolone Cheese, Fried Shallots &
+          Roasted Garlic Oil              ~~Don't forget to Top It Off! ...add
           fried egg $2 ...add melted cheddar cheese $2 ...add jalapeno slices $2
           ...add jalapeno bacon...$4
         price: '24'
-        title: 'April 2023 VIP Burger of the Month: "April Fools (not a) PB&J" Burger '
+        title: >-
+          May 2023 VIP burger of the month: chef asia's birthday month " New
+          Orleans Mei-ffaletta”  Burger
       - description: >-
           Moonshine’s Best of Boston fried chicken, Belgian waffle,
           sriracha-bourbon awesome sauce, cinnamon honey butter ** GO GRANDE by
