@@ -170,9 +170,7 @@ subgroups:
       - description: >-
           topped with House Spring Veggie Giardiniera Pickle-Olive Relish,
           Toasted Sesame Aioli, Melted Provolone Cheese, Fried Shallots &
-          Roasted Garlic Oil              ~~Don't forget to Top It Off! ...add
-          fried egg $2 ...add melted cheddar cheese $2 ...add jalapeno slices $2
-          ...add jalapeno bacon...$4
+          Roasted Garlic Oil 
         price: '24'
         title: >-
           May 2023 VIP burger of the month: chef asia's birthday month " New
