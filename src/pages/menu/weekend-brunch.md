@@ -185,9 +185,16 @@ subgroups:
           double patty 11 
         price: '19'
         title: Grass-fed Beef Burger**
-      - description: '                                             topped with Thai-Style Satay                                     Sunflower Seed Butter Sauce (peanut free!),                  House Apricot Pepper Jelly &                                              Crispy Chow Menu Noodles      ~~Don''t forget to Top It Off! ...add fried egg $2 ...add melted cheddar cheese $2 ...add jalapeno slices $2 ...add jalapeno bacon...$4'
+      - description: >-
+          topped with House Spring Veggie Giardiniera Pickle-Olive Relish,
+          Toasted Sesame Aioli, Melted Provolone Cheese, Fried Shallots &
+          Roasted Garlic Oil     ~~Don't forget to Top It Off! ...add fried egg
+          $2 ...add melted cheddar cheese $2 ...add jalapeno slices $2 ...add
+          jalapeno bacon...$4
         price: '24'
-        title: 'April 2023 VIP Burger of the Month: “April Fools (not a) PB&J” Burger '
+        title: >-
+          May 2023 VIP burger of the month: chef asia's birthday month " New
+          Orleans Mei-ffaletta”  Burger
     title: All-Day / All-Night Allstars
   - description: ' All the sides & Fixin’s'
     items:
