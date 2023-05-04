@@ -54,11 +54,6 @@ subgroups:
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
       - description: >-
-          served with Shredded Napa Cabbage, Mandarin Oranges, Toasted Sesame,
-          Candied Walnuts & Crispy Wontons  
-        price: 17 regular / 2 grande
-        title: 'Menu Addition: ''Not-So-Chinese" Chicken Salad '
-      - description: >-
           Local honey, Fresh berries, Maple-nut cornflake crunch **add a belgian
           waffle $7**
         price: 9 / 14
