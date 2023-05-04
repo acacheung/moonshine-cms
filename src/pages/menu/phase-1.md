@@ -10,11 +10,6 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
-          served with Shredded Napa Cabbage, Mandarin Oranges, Toasted Sesame,
-          Candied Walnuts & Crispy Wontons 
-        price: 17 regular / 27 grande
-        title: 'Menu Addition: "Not-So-Chinese" Chicken Salad'
-      - description: >-
           Bulgogi Beef Shortrib, Salsa Fresca,  Melted Cheese, Smoky Sriracha
           Mayo, Shredded Lettuce, Tater Tots & Birria Dipping Jus  
         price: '$18 (2 tacos) / $28 (3 tacos)  '
