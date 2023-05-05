@@ -69,7 +69,7 @@ subgroups:
         title: (Draft) Downeast Unfiltered Cider
       - description: '12 oz bottle '
         price: '6'
-        title: 'Budweiser/ Bud Light '
+        title: Budweiser
       - description: 12 oz bottle
         price: '6'
         title: Michelob Ultra
