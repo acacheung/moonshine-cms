@@ -195,17 +195,14 @@ subgroups:
         price: 13 / 47
         title: (red) 2020 Charles & Charles "Bolt" Cabernet Sauvignon
       - description: 'Mendoza, Argentina '
-        price: 13 / 48
-        title: (red) 2021 Argento Malbec
+        price: 14 / 50
+        title: '(red) 2020 Caligiore Malbec (Single Vineyard & Organic) '
       - description: 'Napa County, CA, USA '
         price: 15 / 58
         title: '(RED) 2020 Joel Gott Pinot Noir '
       - description: 'Aragon, ESP '
         price: 13  /  48
         title: ' (red) 2020 Lechuza Garnacha'
-      - description: 'Napa, California USA '
-        price: 13 / 47
-        title: '(Red) 2020 Contour Cabernet Sauvignon '
     title: Wine List
   - items:
       - description: 'White & Red Cranberry Juices, Fresh Lemonade '
