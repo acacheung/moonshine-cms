@@ -49,8 +49,10 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
-      - description: New England Clam Chowder
-        price: '14 regular / 26 grande '
+      - description: >-
+          Spring Baby Carrot-Ginger Bisque: Creamy Carrot & Ginger Soup with
+          Fresh Thyme & Cream 
+        price: '12 regular / 19 grande '
         title: Chef's Whim Soup for the Soul
       - description: >-
           Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton crisps,
