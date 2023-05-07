@@ -46,11 +46,6 @@ subgroups:
       - description: 'Select Apertivo, Pamplemousse Liqueur, Prosecco, Fresh Lemon '
         price: '14'
         title: Shine Spritz
-      - description: >-
-          Meditterean Red Wine Blend, Brandy, Ginger Liqueur, Hibiscus, Fresh
-          Citrus 
-        price: '14'
-        title: Sahil's Ginger Hibiscus Red Sangria
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
@@ -190,7 +185,7 @@ subgroups:
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
       - description: 'Columbia valley, WA, USA '
         price: 13 / 47
-        title: (red) 2020 Charles & Charles "Bolt" Cabernet Sauvignon
+        title: (red) 2019 Charles & Charles "Double Trouble" Cabernet/Syrah Blend
       - description: 'Mendoza, Argentina '
         price: 14 / 50
         title: '(red) 2020 Caligiore Malbec (Single Vineyard & Organic) '
@@ -200,6 +195,9 @@ subgroups:
       - description: 'Aragon, ESP '
         price: 13  /  48
         title: ' (red) 2020 Lechuza Garnacha'
+      - description: 'California '
+        price: 13 / 48
+        title: (red) 2020 contour cabernet
     title: Wine List
   - items:
       - description: 'White & Red Cranberry Juices, Fresh Lemonade '
