@@ -41,7 +41,7 @@ subgroups:
         price: '14'
         title: Danish Modern
       - description: 'London Dry Gin, Elderflower, Fresh Lemon, Prosecco '
-        price: '14'
+        price: '15'
         title: Moonshine 76
       - description: 'Select Apertivo, Pamplemousse Liqueur, Prosecco, Fresh Lemon '
         price: '14'
