@@ -172,13 +172,13 @@ subgroups:
           Rosso  (Emilia Romagna, IT) 
       - description: 'Columbia Valley, WA, USA '
         price: 13  /  46
-        title: (rose) 2019 Charles & Charles Rose
+        title: (rose) 2021 Charles & Charles Rose
       - description: 'Carinola, Campania IT'
         price: 15 / 58
         title: '(rose) 2021 Fattoria Pagano Rose '
       - description: 'Provence, FR'
         price: 15 / 58
-        title: '(Rose) 2020 Château d’Esclan Whispering Angel Rose '
+        title: '(Rose) 2022 Château d’Esclan Whispering Angel Rose '
       - description: 'Veneto, Italy '
         price: 11  /  42
         title: '(White) 2020 Zenato Pinot Grigio '
