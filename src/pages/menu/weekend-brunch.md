@@ -54,6 +54,11 @@ subgroups:
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
       - description: >-
+          Thinly Sliced Prosciutto, Creamy Burrata Cheese, Fresh Bourbon
+          Marinated Figs, Aged Balsamic, Papadums      
+        price: 17 regular / grande 29
+        title: 'Menu Addition: Spring Burrata & Prosciutto Salad '
+      - description: >-
           Local honey, Fresh berries, Maple-nut cornflake crunch **add a belgian
           waffle $7**
         price: 9 / 14
@@ -236,6 +241,11 @@ subgroups:
     title: All the sides & Fixin’s
   - description: ' (Dessert)'
     items:
+      - description: >-
+          Homemade Ladyfinger Cookies, Thai Tea Essence, Whipped Mascarpone
+          Pudding, Toasted Coconut    
+        price: '12'
+        title: 'Menu Addition: Thai Tea Tiramisu'
       - description: >-
           Layered Filo Pastry, Pumpkin Cinnamon Custard,                      
           Local Honey, Pomegranate   
