@@ -176,9 +176,6 @@ subgroups:
       - description: 'Carinola, Campania IT'
         price: 15 / 58
         title: '(rose) 2021 Fattoria Pagano Rose '
-      - description: 'Provence, FR'
-        price: 15 / 58
-        title: '(Rose) 2022 Château d’Esclan Whispering Angel Rose '
       - description: 'Veneto, Italy '
         price: 11  /  42
         title: '(White) 2020 Zenato Pinot Grigio '
