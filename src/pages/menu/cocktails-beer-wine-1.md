@@ -32,6 +32,11 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '14'
         title: 'La Diabla '
+      - description: >-
+          Empress 1908 Indigo Gin, Luxardo Maraschino, Creme de Yiolette, Fresh
+          Lemon 
+        price: '14'
+        title: fly me to the moon
       - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime'
         price: '14'
         title: Patron Saint of Southie
