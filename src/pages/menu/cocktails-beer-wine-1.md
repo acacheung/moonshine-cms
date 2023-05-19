@@ -108,9 +108,9 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '7'
         title: Stormalong "Mass Appeal" Hard Cider
-      - description: 12 oz bottle
-        price: '6'
-        title: Kona Brewing "Big Wave" Golden Ale
+      - description: '16oz tallboy can '
+        price: '7'
+        title: 'Bell''s Brewing "Oberon" Wheat Ale '
       - description: '16 oz tallboy can '
         price: '7'
         title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
