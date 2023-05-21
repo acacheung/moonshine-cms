@@ -145,15 +145,21 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
-          Red Wine Braised Rabbit, Campanelle Pasta, Crispy Sage, Toasted
-          Hazelnut-Louisiana Cream Sauce 
-        price: '28'
-        title: 'Menu Addition: Louisiana Braised Rabbit Pasta'
+          Tender Braised Beef Brisket wrapped in
+          a                                Scallion Pancake with Pho Noodle
+          Salad &                            Bacony Pho Bone Broth for Dipping  
+        price: '29'
+        title: 'Menu addition: ''shine "pho-rrito"'
       - description: >-
           Tempura Beer Battered Cod, Shoestring French Fries, Saffron Tartar
           Sauce & served with a Petite Mandarin Orange Mixed Greens Salad
         price: '28'
         title: 'Menu Addition: ''Shine Fish ''n Chips '
+      - description: >-
+          Red Wine Braised Rabbit, Campanelle Pasta, Crispy Sage, Toasted
+          Hazelnut-Louisiana Cream Sauce 
+        price: '28'
+        title: 'Menu Addition: Louisiana Braised Rabbit Pasta'
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
