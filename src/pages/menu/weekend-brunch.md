@@ -242,11 +242,6 @@ subgroups:
   - description: ' (Dessert)'
     items:
       - description: >-
-          Homemade Ladyfinger Cookies, Thai Tea Essence, Whipped Mascarpone
-          Pudding, Toasted Coconut    
-        price: '12'
-        title: 'Menu Addition: Thai Tea Tiramisu'
-      - description: >-
           Layered Filo Pastry, Pumpkin Cinnamon Custard,                      
           Local Honey, Pomegranate   
         price: '12'
