@@ -218,9 +218,6 @@ subgroups:
       - description: 'White & Red Cranberry Juices, Fresh Lemonade '
         price: '7'
         title: Squeeze The Day (mocktail)
-      - description: 'Coconut Puree, Mint Simple, Fresh Lime, Soda '
-        price: '7'
-        title: rory calhoun (mocktail)
       - description: 'Pineapple Juice, Fresh Lime, Fever Tree Ginger Beer '
         price: '7'
         title: 'Pineapple Mule (mocktail) '
