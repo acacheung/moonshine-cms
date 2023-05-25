@@ -66,8 +66,6 @@ subgroups:
     items:
       - price: '4'
         title: (DRAFT) BUD LIGHT
-      - price: '8'
-        title: (draft) Dorchester Brewing co "Galaxy Lights" Session  ipa
       - price: '7'
         title: (draft) harpoon IPA
       - price: '5'
