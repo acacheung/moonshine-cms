@@ -68,6 +68,9 @@ subgroups:
         title: (DRAFT) BUD LIGHT
       - price: '7'
         title: (draft) harpoon IPA
+      - description: ''
+        price: '8'
+        title: '(draft) Dorchester brewing co "galaxy lights" session ipa '
       - price: '5'
         title: (draft) miller high life
       - price: '7'
