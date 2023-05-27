@@ -182,8 +182,12 @@ subgroups:
       - description: 'Provence, France'
         price: 15 / 58
         title: (rose) 2022 Whispering Angel Rose
-      - price: $36
-        title: (white) treat yo self bottle special
+      - description: >-
+          Crafted in Trentino, Italy—the birthplace of Italian Pinot Grigio—this
+          elegant, crisp white wine has citrus aromas, floral notes & a palate
+          of ripe nectarine, peach & pear leading to a clean, crisp finish 
+        price: '30 / bottle '
+        title: '(white) treat yo self bottle special: 2021 Maso Canali Pinot Grigio '
       - description: 'Veneto, Italy '
         price: 11  /  42
         title: '(White) 2020 Zenato Pinot Grigio '
