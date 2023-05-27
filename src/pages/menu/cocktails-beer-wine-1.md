@@ -168,14 +168,11 @@ subgroups:
       - description: 'Veneto, ITALY'
         price: 14      (187ml mini bottle)
         title: '(sparkling rose) NV Casa Vinicola Canella Rose Brut '
-      - description: >-
-          Dry, Sparkling Red Wine from 4th Generation Northern Italian Wine
-          Makers with Bright Berry & Dark Fruit Notes,  Juicy Acidity & Clean
-          Minerality      
+      - description: '  '
         price: 45/bottle
-        title: >-
-          (sparkling red) Treat 'Yo Self Bottle Special: NV Lini 910 Lambrusca
-          Rosso  (Emilia Romagna, IT) 
+        title: '(sparkling red)  NV Lini 910 Lambrusca Rosso  (Emilia Romagna, IT) '
+      - price: '32 / bottle '
+        title: (rose) 2022 Borsao Rose
       - description: 'Columbia Valley, WA, USA '
         price: 13  /  46
         title: (rose) 2021 Charles & Charles Rose
@@ -185,6 +182,8 @@ subgroups:
       - description: 'Provence, France'
         price: 15 / 58
         title: (rose) 2022 Whispering Angel Rose
+      - price: $36
+        title: (white) treat yo self bottle special
       - description: 'Veneto, Italy '
         price: 11  /  42
         title: '(White) 2020 Zenato Pinot Grigio '
