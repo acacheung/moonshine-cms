@@ -183,19 +183,19 @@ subgroups:
         price: 15 / 58
         title: (rose) 2022 Whispering Angel Rose
       - description: >-
-          Crafted in Trentino, Italy—the birthplace of Italian Pinot Grigio—this
-          elegant, crisp white wine has citrus aromas, floral notes & a palate
-          of ripe nectarine, peach & pear leading to a clean, crisp finish 
+          Crafted in Trentino, Italy—the Birthplace of Italian Pinot Grigio—This
+          Elegant White Wine has Citrus Aromas, Floral Notes & a Palate of Ripe
+          Nectarine & Pear Leading to a Clean, Crisp Finish  
         price: '30 / bottle '
         title: '(white) treat yo self bottle special: 2021 Maso Canali Pinot Grigio '
-      - description: 'Veneto, Italy '
-        price: 11  /  42
-        title: '(White) 2020 Zenato Pinot Grigio '
       - description: ' Emilia-Romagna, Italy'
         price: 12 /42
         title: >-
           (White) 2021 Poderi dal Nespoli 'Nespolino' Bianco (Trebbiano -
           Chardonnay)
+      - description: 'Veneto, Italy '
+        price: 11  /  42
+        title: '(White) 2020 Zenato Pinot Grigio '
       - description: 'Napa Valley, CA, USA '
         price: 12 / 45
         title: (White) 2019 Grayson Cellars Chardonnay
@@ -225,6 +225,9 @@ subgroups:
       - description: 'Pineapple Juice, Fresh Lime, Fever Tree Ginger Beer '
         price: '7'
         title: 'Pineapple Mule (mocktail) '
+      - description: 'Coconut Puree, Mint Simple. Fresh Lime, Soda '
+        price: '7'
+        title: rory calhoun (mocktail)
       - price: '4'
         title: 'Unsweetened Iced Tea '
       - price: '5'
