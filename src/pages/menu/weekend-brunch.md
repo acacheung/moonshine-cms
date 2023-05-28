@@ -7,8 +7,9 @@ subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
       - description: >-
-          Strawberry Coconut Daiquiri: Rumhaven Coconut Rum, Strawberry Jello,
-          Fresh Lime Zest, Toasted Coconut Flake     
+          Summer Berry Rum Punch: Spiced Rum, Mixed Berry
+          Jello,                                       Fresh Lime Zests,
+          Macerated Berries   
         price: '6'
         title: Chef Asia's Rotating Jello Shots
       - description: >
