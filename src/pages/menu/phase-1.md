@@ -145,6 +145,12 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
+          Tender Braised Beef Brisket wrapped in
+          a                                Scallion Pancake with Pho Noodle
+          Salad & Bacony Pho Bone Broth for Dipping          
+        price: '29'
+        title: 'Menu Addition: ''Shine "Pho-Rrito" '
+      - description: >-
           Tempura Beer Battered Cod, Shoestring French Fries, Saffron Tartar
           Sauce & served with a Petite Mandarin Orange Mixed Greens Salad
         price: '28'
