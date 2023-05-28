@@ -7,10 +7,11 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          Rumhaven Coconut Rum, Strawberry Jello, Fresh Lime Zest, Toasted
-          Coconut Flake    
+          Spiced Rum, Mixed Berry
+          Jello,                                                Fresh Lime
+          Zests, Macerated Berries   
         price: '6'
-        title: 'Rotating Jello Shots: Strawberry Coconut Daiquiri '
+        title: 'Rotating Jello Shots: Summer berry rum punch '
       - description: >-
           Locally Made Boston Harbor Distillery Putnam Rye Whiskey, Carpano
           Antica Sweet Vermouth, Angostura Bitters 
