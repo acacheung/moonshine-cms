@@ -173,7 +173,7 @@ subgroups:
           ...add melted cheddar cheese $2 ...add jalapeno slices $2 ...add
           jalapeno bacon...$4
         price: '24'
-        title: May 2023 VIP burger of the month
+        title: June 2023 VIP burger of the month
       - description: >-
           Moonshine’s Best of Boston fried chicken, Belgian waffle,
           sriracha-bourbon awesome sauce, cinnamon honey butter ** GO GRANDE by
