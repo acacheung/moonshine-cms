@@ -189,15 +189,13 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          topped with House Spring Veggie Giardiniera Pickle-Olive Relish,
-          Toasted Sesame Aioli, Melted Provolone Cheese, Fried Shallots &
-          Roasted Garlic Oil     ~~Don't forget to Top It Off! ...add fried egg
-          $2 ...add melted cheddar cheese $2 ...add jalapeno slices $2 ...add
-          jalapeno bacon...$4
+          “Get Her To The Greek Goddess” Burger topped with Grilled Halloumi
+          Cheese,    Summer Green Goddess Dressing, Cucumber-Dill Cherry Tomato
+          Salsa & House Candied Kumquat  ~~Don't forget to Top It Off! ...add
+          fried egg $2 ...add melted cheddar cheese $2 ...add jalapeno slices $2
+          ...add jalapeno bacon...$4
         price: '24'
-        title: >-
-          May 2023 VIP burger of the month: chef asia's birthday month " New
-          Orleans Mei-ffaletta”  Burger
+        title: May 2023 VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: ' All the sides & Fixin’s'
     items:
