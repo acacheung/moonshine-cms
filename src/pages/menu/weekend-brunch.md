@@ -195,7 +195,7 @@ subgroups:
           fried egg $2 ...add melted cheddar cheese $2 ...add jalapeno slices $2
           ...add jalapeno bacon...$4
         price: '24'
-        title: May 2023 VIP burger of the month
+        title: June 2023 VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: ' All the sides & Fixin’s'
     items:
