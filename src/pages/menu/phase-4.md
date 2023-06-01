@@ -7,10 +7,11 @@ subgroups:
   - description: Add a Belgian waffle to your favorite dessert $7
     items:
       - description: >-
-          Layered Filo Pastry, Pumpkin Cinnamon Custard, Local Honey and
-          Pomegranate
+          Warm Layered Filo Pastry, Cinnamon Custard, Local Honey, Candied
+          Kumquat                                             &  Fresh
+          Pomegranate      
         price: '12'
-        title: 'Menu Addition: Warm Pistachio Pumpkin Baklava Crinkle'
+        title: 'Menu Addition: Warm Pistachio  Baklava Crinkle'
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
