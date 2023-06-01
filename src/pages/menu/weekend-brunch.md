@@ -243,10 +243,11 @@ subgroups:
   - description: ' (Dessert)'
     items:
       - description: >-
-          Layered Filo Pastry, Pumpkin Cinnamon Custard,                      
-          Local Honey, Pomegranate   
+          Warm Layered Filo Pastry, Cinnamon Custard,              Local Honey,
+          Candied Kumquat                                             &  Fresh
+          Pomegranate      
         price: '12'
-        title: 'Menu Addition: Warm Pumpkin Pistachio Baklava Crinkle'
+        title: 'Menu Addition: Warm  Pistachio Baklava Crinkle'
       - description: 'Whipped chantilly cream, Toasted oat-amaranth streusel '
         price: '12'
         title: 'Butterscotch Pudding '
