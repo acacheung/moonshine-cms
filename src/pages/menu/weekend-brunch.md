@@ -252,12 +252,6 @@ subgroups:
       - description: 'Nutellla fudge chocolate sauce, Powdered sugar '
         price: '12'
         title: 'Jaime’s Favorite Oreo Cookie Layered Fudge Brownie '
-      - description: >-
-          Dutch Cocoa, Homemade Graham Cracker Crumble, Marshmallows, Chocolate
-          Chips, Dulce de Leche, Whipped Cream ........go "a la mode" $3 ...add
-          nutella chocolate sauce $2
-        price: '14'
-        title: warm red velvet s'mores bread pudding
       - description: 'White Coffee Mocha Flake '
         price: '11'
         title: Chef's whim ice cream of the day
