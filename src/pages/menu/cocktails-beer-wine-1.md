@@ -184,11 +184,11 @@ subgroups:
         price: 15 / 58
         title: (rose) 2022 Whispering Angel Rose
       - description: >-
-          Crafted in Trentino, Italy—the Birthplace of Italian Pinot Grigio—This
-          Elegant White Wine has Citrus Aromas, Floral Notes & a Palate of Ripe
-          Nectarine & Pear Leading to a Clean, Crisp Finish  
+          Classically Styled Albariño with Crisp MineralityBright Acidity With
+          Notes of Apple & Grapefruit                             with Apricot
+          Aromas  
         price: '30 / bottle '
-        title: '(white) treat yo self bottle special: 2021 Maso Canali Pinot Grigio '
+        title: '(white) treat yo self bottle special: 2021 Martin Codax Albarino '
       - description: ' Emilia-Romagna, Italy'
         price: 12 /42
         title: >-
