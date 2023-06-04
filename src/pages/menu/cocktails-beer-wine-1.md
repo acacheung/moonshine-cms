@@ -22,11 +22,6 @@ subgroups:
           creamy with Bailey's Irish Cream- just ask!) 
         price: '15'
         title: '''SHine espresso martini '
-      - description: >-
-          GrandTen Distillery Spicy Firepuncher Vodka, Fresh Cucumber Juice,
-          Fresh Lemon, Elderflower
-        price: '15'
-        title: Farm to Glass
       - description: 'House Infused Spicy Tequilla, Ginger Liqueur, Fresh Lime, Agave '
         price: '14'
         title: There’s Fire
