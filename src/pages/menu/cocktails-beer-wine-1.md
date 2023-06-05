@@ -110,7 +110,7 @@ subgroups:
         price: '7'
         title: 'Corona Extra '
       - description: '16oz tallboy can '
-        price: '8'
+        price: '9'
         title: 'Smuttynose Brewing Limited Release Sour "Pineapple Coconut Orange" '
       - description: '16 oz tallboy can '
         price: '7'
