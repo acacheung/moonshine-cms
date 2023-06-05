@@ -65,8 +65,8 @@ subgroups:
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
-      - price: '4'
-        title: (DRAFT) BUD LIGHT
+      - price: '7'
+        title: (DRAFT) UFO White Ale
       - price: '7'
         title: (draft) harpoon IPA
       - description: ''
