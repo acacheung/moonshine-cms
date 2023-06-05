@@ -93,9 +93,6 @@ subgroups:
         title: Black Infusions "Dirty Shirley" Cocktail in a Can
       - description: '12 oz bottle '
         price: '4'
-        title: Boulevard Brewing "Nutcracker" Winter Warmer Ale
-      - description: '12 oz bottle '
-        price: '4'
         title: Magner's Hard Irish Cider
       - description: 12 oz bottle
         price: '4'
@@ -112,6 +109,9 @@ subgroups:
       - description: '12 oz bottle '
         price: '7'
         title: 'Corona Extra '
+      - description: '16oz tallboy can '
+        price: '8'
+        title: 'Smuttynose Brewing Limited Release Sour "Pineapple Coconut Orange" '
       - description: '16 oz tallboy can '
         price: '7'
         title: Stormalong "Mass Appeal" Hard Cider
