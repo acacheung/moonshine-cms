@@ -91,9 +91,6 @@ subgroups:
       - description: '12 oz can '
         price: '8'
         title: Black Infusions "Dirty Shirley" Cocktail in a Can
-      - description: '12 oz bottle '
-        price: '4'
-        title: Magner's Hard Irish Cider
       - description: 12 oz bottle
         price: '4'
         title: smithwick's irish red ale
@@ -112,6 +109,9 @@ subgroups:
       - description: '16oz tallboy can '
         price: '9'
         title: 'Smuttynose Brewing Limited Release Sour "Pineapple Coconut Orange" '
+      - description: 12 oz can
+        price: '6'
+        title: 'Downeast Cider Strawberry '
       - description: '16 oz tallboy can '
         price: '7'
         title: Stormalong "Mass Appeal" Hard Cider
