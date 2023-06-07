@@ -115,12 +115,15 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '7'
         title: Stormalong "Mass Appeal" Hard Cider
-      - description: '16oz tallboy can '
-        price: '7'
-        title: 'Bell''s Brewing "Oberon" Wheat Ale '
       - description: '16 oz tallboy can '
         price: '7'
         title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
+      - description: '16oz tallboy can '
+        price: '7'
+        title: 'Bell''s Brewing "Oberon" Wheat Ale '
+      - description: '160z tallboy can '
+        price: '7'
+        title: 'Allagash White '
       - description: '16oz tallboy can '
         price: '7'
         title: 'Night Shift Brewing "Nite Lite" Light Lager '
@@ -130,9 +133,6 @@ subgroups:
       - description: 16 oz Tallboy Can
         price: '5'
         title: Narragansett Lager
-      - description: '160z tallboy can '
-        price: '7'
-        title: 'Allagash White '
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
