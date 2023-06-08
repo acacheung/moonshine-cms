@@ -150,11 +150,6 @@ subgroups:
         price: '28'
         title: 'Menu Addition: ''Shine Fish ''n Chips '
       - description: >-
-          Red Wine Braised Rabbit, Campanelle Pasta, Crispy Sage, Toasted
-          Hazelnut-Louisiana Cream Sauce 
-        price: '28'
-        title: 'Menu Addition: Louisiana Braised Rabbit Pasta'
-      - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
         price: '19'
