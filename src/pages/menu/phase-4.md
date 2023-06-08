@@ -7,6 +7,12 @@ subgroups:
   - description: Add a Belgian waffle to your favorite dessert $7
     items:
       - description: >-
+          Rainbow Rice Krispie-Fruity
+          Pebbles                                                 Marshmallow
+          Treats      
+        price: '9'
+        title: 'Menu Addition: Pride Krispie Treats'
+      - description: >-
           Warm Layered Filo Pastry, Cinnamon Custard, Local Honey, Candied
           Kumquat                                             &  Fresh
           Pomegranate      
