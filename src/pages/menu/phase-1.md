@@ -10,6 +10,12 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
+          Thinly Sliced Prosciutto, Creamy Burrata Cheese, Fresh Bourbon
+          Marinated Figs, Aged Balsamic,                             House
+          Garlic-Herb Crostini
+        price: 17 / 29
+        title: 'Menu Addition: Spring Burrata & Prosciutto Salad '
+      - description: >-
           Bulgogi Beef Shortrib, Salsa Fresca,  Melted Cheese, Smoky Sriracha
           Mayo, Shredded Lettuce, Tater Tots & Birria Dipping Jus  
         price: '$18 (2 tacos) / $28 (3 tacos)  '
