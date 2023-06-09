@@ -21,6 +21,11 @@ subgroups:
         price: '$18 (2 tacos) / $28 (3 tacos)  '
         title: 'Menu Addition: Birria Gringo Tacos         '
       - description: >-
+          New England Softshell Crab Bao Buns, Pickled GInger, Shredded Cabbage
+          Slaw, Teriyaki Glaze & Wasabi Aioli 
+        price: '22 (2) / 33 (3) '
+        title: 'Menu Addition: Softshell Crab Bao Buns'
+      - description: >-
           Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
         price: 14 regular / 23 grande
