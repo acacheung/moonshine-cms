@@ -7,11 +7,10 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          Spiced Rum, Mixed Berry
-          Jello,                                                Fresh Lime
-          Zests, Macerated Berries   
+          Raspberry Red Bull Rickey: Raspberry Vodka, Red Bull & Lemon-Lime
+          Jello 
         price: '6'
-        title: 'Rotating Jello Shots: Summer berry rum punch '
+        title: Chef Asia's Rotating Jello Shots
       - description: >-
           Locally Made Boston Harbor Distillery Putnam Rye Whiskey, Carpano
           Antica Sweet Vermouth, Angostura Bitters 
