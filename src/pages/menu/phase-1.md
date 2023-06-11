@@ -157,7 +157,7 @@ subgroups:
     items:
       - description: >-
           Tempura Beer Battered Cod, Shoestring French Fries, Saffron Tartar
-          Sauce, House B&B Pickles & served with a Petite Greens Salad  
+          Sauce, House B&B Pickles
         price: '28'
         title: 'Menu Addition: ''Shine Fish ''n Chips '
       - description: >-
