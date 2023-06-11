@@ -7,9 +7,8 @@ subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
       - description: >-
-          Summer Berry Rum Punch: Spiced Rum, Mixed Berry
-          Jello,                                       Fresh Lime Zests,
-          Macerated Berries   
+          Raspberry Red Bull Rickey: Raspberry Vodka, Red Bull & Lemon-Lime
+          Jello 
         price: '6'
         title: Chef Asia's Rotating Jello Shots
       - description: >
