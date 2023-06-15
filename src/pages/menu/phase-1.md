@@ -156,11 +156,6 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
-          Tempura Beer Battered Cod, Shoestring French Fries, Saffron Tartar
-          Sauce, House B&B Pickles
-        price: '28'
-        title: 'Menu Addition: ''Shine Fish ''n Chips '
-      - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
         price: '19'
