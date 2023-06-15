@@ -41,6 +41,11 @@ subgroups:
         price: '14'
         title: Danish Modern
       - description: >-
+          Gin Lane London Dry Pink Gin, Pama Pomegranate Liqueur, Lemon Hibiscus
+          Sweet Tea, Bubbles  
+        price: '13'
+        title: Pomegranate-Hibiscus Collins
+      - description: >-
           Empress 1908 Indigo Gin, Luxardo Maraschino, Creme de Yiolette, Fresh
           Lemon 
         price: '14'
