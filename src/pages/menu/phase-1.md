@@ -23,7 +23,7 @@ subgroups:
       - description: >-
           New England Softshell Crab Bao Buns, Pickled GInger, Shredded Cabbage
           Slaw, Teriyaki Glaze & Wasabi Aioli 
-        price: '22 (2) / 33 (3) '
+        price: '26 (2) / 39 (3) '
         title: 'Menu Addition: Softshell Crab Bao Buns'
       - description: >-
           Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
