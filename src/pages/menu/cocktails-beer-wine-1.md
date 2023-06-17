@@ -90,9 +90,6 @@ subgroups:
       - description: '12 oz can '
         price: '8'
         title: Black Infusions "Dirty Shirley" Cocktail in a Can
-      - description: 12 oz bottle
-        price: '4'
-        title: smithwick's irish red ale
       - description: 12 oz Bottle
         price: '6'
         title: 'Stella Artois '
@@ -114,9 +111,15 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '7'
         title: Stormalong "Mass Appeal" Hard Cider
+      - description: '16oz tallboy can '
+        price: '5'
+        title: Narragansett Del's Shandy
       - description: '16 oz tallboy can '
         price: '7'
         title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
+      - description: 12 oz bottle
+        price: '6'
+        title: Kona Brewing "Big wave" golden ale
       - description: '16oz tallboy can '
         price: '7'
         title: 'Bell''s Brewing "Oberon" Wheat Ale '
@@ -144,9 +147,6 @@ subgroups:
       - description: '16oz tallboy can '
         price: '9'
         title: Lord Hobo "BoomSauce" Double IPA
-      - description: '16oz tallboy can '
-        price: '5'
-        title: Narragansett "Autocrat Coffee Milk" Stout
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
