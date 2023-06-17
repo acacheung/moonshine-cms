@@ -61,11 +61,6 @@ subgroups:
           Citrus 
         price: '14'
         title: Sahil's ginger hibiscus red sangria
-      - description: >-
-          Mediterranean White Wine Blend, Peach Liqueur, Brandy, Apricot Puree,
-          Fresh Citrus 
-        price: '14'
-        title: Mandy's Apricot Peach White Sangria
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
