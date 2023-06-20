@@ -155,10 +155,6 @@ subgroups:
       Don't forget to top it off by adding your favorite proteins, fixins, sides
       & sauces to any dish.
     items:
-      - description: |2
-                                              Tender Braised Beef Brisket wrapped in a                                Scallion Pancake with Pho Noodle Salad &                            Bacony Pho Bone Broth for Dipping                                                                              
-        price: '29'
-        title: 'Menu Addition: ''Shine Pho-Rrito'
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
