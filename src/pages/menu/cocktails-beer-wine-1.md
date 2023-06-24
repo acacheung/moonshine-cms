@@ -182,12 +182,6 @@ subgroups:
       - description: 'Provence, France'
         price: 15 / 58
         title: (rose) 2022 Whispering Angel Rose
-      - description: >-
-          Fresh & Crisp Fruit Forward Medium-bodied White Wine with a Fragrant
-          Nose of Jasmine, Fresh Flowers & Pineapple and Notes of White Peach &
-          Orange Blossom    
-        price: '30 / bottle '
-        title: '(white) treat yo self bottle special: J Vineyards Pinot Gris'
       - description: ' Emilia-Romagna, Italy'
         price: 12 /42
         title: >-
