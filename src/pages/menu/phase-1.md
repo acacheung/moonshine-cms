@@ -61,8 +61,8 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
-          Spring Baby Carrot-Ginger Bisque: Creamy Carrot & Ginger Soup with
-          Fresh Thyme & Cream 
+          Thai Coconut Hot n' Sour Soup: Cremini Mushrooms, Fish Sauce,
+          Lemongrass, Fresh Lime Juice       
         price: '12 regular / 19 grande '
         title: Chef's Whim Soup for the Soul
       - description: >-
