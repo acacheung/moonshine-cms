@@ -171,8 +171,14 @@ subgroups:
       - description: '  '
         price: 45/bottle
         title: '(sparkling red)  NV Lini 910 Lambrusca Rosso  (Emilia Romagna, IT) '
-      - price: '32 / bottle '
-        title: (rose) 2022 Borsao Rose
+      - description: >-
+          Made from 100% Grenache grapes,  this rose is crisp, elegant &
+          light-bodied showing hints of strawberry                       on the
+          nose and palate.   
+        price: '32 / bottle '
+        title: >-
+          (rose) treat yo self bottle special:  2022 Borsao Rose Campo De
+          Borja     
       - description: 'Columbia Valley, WA, USA '
         price: 13  /  46
         title: (rose) 2021 Charles & Charles Rose
