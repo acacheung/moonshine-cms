@@ -7,8 +7,8 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          Raspberry Red Bull Rickey: Raspberry Vodka, Red Bull & Lemon-Lime
-          Jello 
+          Chocolate Cherry: Tullamore Dew Irish Whiskey, Cherry Jello topped
+          with Mini Chocolate Chips 
         price: '6'
         title: Chef Asia's Rotating Jello Shots
       - description: >-
