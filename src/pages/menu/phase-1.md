@@ -166,15 +166,14 @@ subgroups:
         price: '19'
         title: GRASS-FED ’SHINE BEEF BURGER**
       - description: >-
-          “Get Her To The Greek Goddess”
+          “The Guac-elote” Street Corn
           Burger                                                  topped with
-          Grilled Halloumi Cheese,                        Summer Green Goddess
-          Dressing, Cucumber-Dill Cherry Tomato Salsa & House Candied
-          Kumquats       ~~Don't forget to Top It Off! ...add fried egg $2
-          ...add melted cheddar cheese $2 ...add jalapeno slices $2 ...add
-          jalapeno bacon...$4
+          Grilled Street Corn Salad, Cherry Tomatoes, Guacamole, Citrus Aioli,
+          and Crumbled
+          Cotija                                                              
+          …add fried egg $2  ..add jalapeno bacon $4
         price: '24'
-        title: June 2023 VIP burger of the month
+        title: July 2023 VIP burger of the month
       - description: >-
           Moonshine’s Best of Boston fried chicken, Belgian waffle,
           sriracha-bourbon awesome sauce, cinnamon honey butter ** GO GRANDE by
