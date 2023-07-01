@@ -187,13 +187,14 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          “Get Her To The Greek Goddess” Burger topped with Grilled Halloumi
-          Cheese,    Summer Green Goddess Dressing, Cucumber-Dill Cherry Tomato
-          Salsa & House Candied Kumquat  ~~Don't forget to Top It Off! ...add
-          fried egg $2 ...add melted cheddar cheese $2 ...add jalapeno slices $2
-          ...add jalapeno bacon...$4
+          “The Guac-elote” Street Corn
+          Burger                                                  topped with
+          Grilled Street Corn Salad, Cherry Tomatoes, Guacamole, Citrus Aioli,
+          and Crumbled
+          Cotija                                                              
+          …add fried egg $2  ..add jalapeno bacon $4
         price: '24'
-        title: June 2023 VIP burger of the month
+        title: July 2023 VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: ' All the sides & Fixin’s'
     items:
