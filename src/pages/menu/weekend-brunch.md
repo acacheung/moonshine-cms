@@ -117,9 +117,6 @@ subgroups:
           cheese
         price: '14 regular  / 21 grande '
         title: 'Tater Tot Poutine '
-      - description: 'Pan-seared shrimp, Spicy green chili cheese grits, Sherry pan sauce'
-        price: '22'
-        title: Shrimp & Grits**
       - description: >-
           Tasso ham hollandaise sauce, Fried egg, Spinach, Housemade english
           muffin 
