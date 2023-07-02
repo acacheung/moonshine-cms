@@ -143,6 +143,9 @@ subgroups:
         title: >-
           Ron Swanson Brunch Inspired Chipotle Pulled Pork Scallion Pancake
           Quesadilla (AVAILABLE VEGETARIAN   25)**
+      - description: 'Pan-seared shrimp, Spicy cheese grits, Sherry pan sauce '
+        price: $22.00
+        title: 'Cajun Shrimp & Grits '
     title: The Main Affair
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
