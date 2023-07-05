@@ -156,11 +156,6 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
-          Thick-cut Corned Beef Brisket wrapped in a  Scallion Pancake with Pho
-          Noodle Salad &  Bacony Pho Bone Broth for Dipping          
-        price: '29'
-        title: 'Menu Addition: ''Shine "Pho-Rrito"'
-      - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
         price: '19'
