@@ -1,6 +1,19 @@
 ---
 templateKey: press-page
 articles:
+  - date: June 2023
+    link: >-
+      https://www.bostonmagazine.com/best-of-boston-archive/2023/moonshine-152-4/
+    publication: Boston Magazine
+    summary: >+
+      If you live in the neighborhood, you know the menu — the crowd-pleasing
+      jalapeño crab rangoon, the legendary mushroom tofu burger, the famous
+      fried chicken and waffles. You know the staff, too, especially
+      effervescent chef-owner Asia Mei, who’s always there with a smile as she
+      checks in on diners. For weeknight dinners and weekend date nights, this
+      is the living room of Southie, and we wouldn’t have it any other way.
+
+    title: '2023 Best Neighborhood Restaurant, South Boston'
   - date: June 2019
     link: >-
       https://www.bostonmagazine.com/best-of-boston-archive/2019/moonshine-152-2/
