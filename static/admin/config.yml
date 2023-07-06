@@ -98,7 +98,7 @@ collections:
               widget: list,
               fields:
                 [
-                  { label: Image, name: image, widget: image },
+                  { label: Image, name: image, widget: image, required: false },
                   { label: Publication, name: publication, widget: string },
                   { label: title, name: title, widget: string },
                   {
