@@ -36,10 +36,10 @@ subgroups:
         price: '14'
         title: Patron Saint of Southie
       - description: >-
-          Mad River Rye Whiskey, Dark Cherry Liqueur,  Cinnamon Simple. Fresh
-          Lemon 
+          Black Infusions Apricot Vodka, Peach Liqueur, Apricot Puree, Fresh
+          Lemon, Soda *contains stonefruit 
         price: '14'
-        title: Danish Modern
+        title: 'The Summer Stones '
       - description: >-
           Gin Lane London Dry Pink Gin, Pama Pomegranate Liqueur, Lemon Hibiscus
           Sweet Tea, Bubbles  
