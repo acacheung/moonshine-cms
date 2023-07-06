@@ -6,15 +6,29 @@ const Articles = ({ articles }) => (
   <main>
     <ul className="press__list">
       {articles.map(article => (
-        <li key={v4()} className="press__item">
-          <h2 className="press__heading">
-            {article.publication}: {article.title}
-            <span className="press__date t-medium-gray"> ({article.date})</span>
-          </h2>
-          <p className="t-text">
-            {article.summary} <a className="t-link has-arrow t-gold" href={article.link}>See full article</a>
-          </p>
-        </li>
+        {
+          article.image ? (
+            <li key={v4()} className="press__item--featured">
+              <h2 className="press__heading">
+                {article.publication}: {article.title}
+                <span className="press__date t-medium-gray"> ({article.date})</span>
+              </h2>
+              <p className="t-text">
+                {article.summary} <a className="t-link has-arrow t-gold" href={article.link}>See full article</a>
+              </p>
+            </li>
+          ) : (
+            <li key={v4()} className="press__item">
+              <h2 className="press__heading">
+                {article.publication}: {article.title}
+                <span className="press__date t-medium-gray"> ({article.date})</span>
+              </h2>
+              <p className="t-text">
+                {article.summary} <a className="t-link has-arrow t-gold" href={article.link}>See full article</a>
+              </p>
+            </li>
+          )
+        }
       ))}
     </ul>
   </main>
