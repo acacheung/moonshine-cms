@@ -281,10 +281,10 @@ subgroups:
         price: xxxxx
         title: 'Tequila & Mezcal '
       - description: >-
-          Privateer NE White Rum...$9...Privateer Amber Rum...$9...Sailor
-          Jerry...$9...Goslings Black Seal...$9...Mad River Vanilla Bean...$10
-          ...RumHaven Coconut...$9...Ron Zacapa 23...$11...
-          Hennessey...$10...Remy Martin VSOP...$12...
+          Privateer NE White Rum...$9...Sailor Jerry...$9...Goslings Black
+          Seal...$9...Mad River Vanilla Bean...$10 ...RumHaven
+          Coconut...$9...Ron Zacapa 23...$11... Hennessey...$10...Remy Martin
+          VSOP...$12...
         price: xxxxx
         title: 'Rum  & Cognac '
       - description: >-
@@ -301,10 +301,9 @@ subgroups:
         price: xxxxx
         title: 'American Whiskey/Bourbon/Rye '
       - description: >-
-          Jameson Irish Whiskey...$10...Glendalough Double Barrel Irish
+          Jameson Irish Whiskey...$10 ...Glendalough Double Barrel Irish
           Whiskey...$10...GrandTen Distilling South Boston Irish Whiskey...$10
-          ... West Cork Bourbon Cask...$10... Tullamore Dew...$11... Redbreast
-          12 Year...$12
+          ... Tullamore Dew...$11... Redbreast 12 Year...$12
         price: XXXXX
         title: Imported Whiskey
       - description: >-
