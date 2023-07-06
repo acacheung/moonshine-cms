@@ -6,29 +6,29 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: 'menu'
-    label: 'Menu'
-    folder: 'src/pages/menu'
+  - name: "menu"
+    label: "Menu"
+    folder: "src/pages/menu"
     create: true
-    slug: '{{slug}}'
+    slug: "{{slug}}"
     fields:
       - {
-          label: 'Template Key',
-          name: 'templateKey',
-          widget: 'hidden',
-          default: 'menu-group',
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "menu-group",
         }
-      - { label: 'Menu Group', name: 'title', widget: 'string' }
-      - { label: 'Description', name: 'subtitle', widget: 'string' }
+      - { label: "Menu Group", name: "title", widget: "string" }
+      - { label: "Description", name: "subtitle", widget: "string" }
       - {
-          label: 'Order',
-          name: 'order',
-          widget: 'number',
+          label: "Order",
+          name: "order",
+          widget: "number",
           default: 3,
-          valueType: 'int',
+          valueType: "int",
           min: 1,
         }
-      - label: 'Menu Subgroups'
+      - label: "Menu Subgroups"
         name: subgroups
         widget: list
         fields:
@@ -39,7 +39,7 @@ collections:
             name: description
             widget: text
             required: false
-          - label: 'Menu Items'
+          - label: "Menu Items"
             name: items
             widget: list
             fields:
@@ -54,43 +54,43 @@ collections:
                 widget: text
                 required: false
 
-  - name: 'team'
-    label: 'Team'
-    folder: 'src/pages/team'
+  - name: "team"
+    label: "Team"
+    folder: "src/pages/team"
     create: true
-    slug: '{{slug}}'
+    slug: "{{slug}}"
     fields:
       - {
-          label: 'Template Key',
-          name: 'templateKey',
-          widget: 'hidden',
-          default: 'team-member',
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "team-member",
         }
-      - { label: 'First Name', name: 'title', widget: 'string' }
-      - { label: 'Last Name', name: 'lastname', widget: 'string' }
-      - { label: 'Role', name: 'role', widget: 'string' }
+      - { label: "First Name", name: "title", widget: "string" }
+      - { label: "Last Name", name: "lastname", widget: "string" }
+      - { label: "Role", name: "role", widget: "string" }
       - {
-          label: 'Order',
-          name: 'order',
-          widget: 'number',
+          label: "Order",
+          name: "order",
+          widget: "number",
           default: 3,
-          valueType: 'int',
+          valueType: "int",
           min: 1,
         }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Body", name: "body", widget: "markdown" }
 
-  - name: 'pages'
-    label: 'Pages'
+  - name: "pages"
+    label: "Pages"
     files:
-      - file: 'src/pages/press/index.md'
-        label: 'Press'
-        name: 'press'
+      - file: "src/pages/press/index.md"
+        label: "Press"
+        name: "press"
         fields:
           - {
-              label: 'Template Key',
-              name: 'templateKey',
-              widget: 'hidden',
-              default: 'press-page',
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "press-page",
             }
           - {
               label: Articles,
@@ -98,6 +98,7 @@ collections:
               widget: list,
               fields:
                 [
+                  { label: Image, name: image, widget: image },
                   { label: Publication, name: publication, widget: string },
                   { label: title, name: title, widget: string },
                   {
@@ -110,14 +111,14 @@ collections:
                   { label: Link, name: link, widget: string },
                 ],
             }
-      - file: 'src/pages/index.md'
-        label: 'Home'
-        name: 'home'
+      - file: "src/pages/index.md"
+        label: "Home"
+        name: "home"
         fields:
           - {
-              label: 'Template Key',
-              name: 'templateKey',
-              widget: 'hidden',
-              default: 'index-page',
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "index-page",
             }
-          - { label: 'Banner', name: 'banner', widget: 'string' }
+          - { label: "Banner", name: "banner", widget: "string" }
