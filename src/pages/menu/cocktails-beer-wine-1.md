@@ -83,7 +83,7 @@ subgroups:
         title: Michelob Ultra
       - description: 355ml can
         price: '7'
-        title: Viva watermelon tequila seltzer
+        title: 'Viva  tequila seltzer: Watermelon or Huckleberry'
       - description: '12 oz can '
         price: '6 '
         title: 'High Noon Hard Seltzer: Pineapple or Black Cherry'
