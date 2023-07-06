@@ -196,9 +196,9 @@ subgroups:
       - description: 'Veneto, Italy '
         price: 11  /  42
         title: '(White) 2020 Zenato Pinot Grigio '
-      - description: 'Napa Valley, CA, USA '
+      - description: 'Mendocino, CA, USA '
         price: 12 / 45
-        title: (White) 2019 Grayson Cellars Chardonnay
+        title: (White) 2021 Frey Vineyards "Sun & Rain" Chardonnay
       - description: 'Marlborough, New Zealand '
         price: 14 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
