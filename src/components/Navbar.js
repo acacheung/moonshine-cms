@@ -11,7 +11,7 @@ const Navbar = class extends React.Component {
         <a
           className='nav__link'
           href='https://www.opentable.com/r/moonshine-152-reservations-boston?restref=161260&lang=en-US&ot_source=Restaurant%20website'
-          rel='noreferrer'
+          rel='noopener noreferrer'
           target='_blank'
         >
           Reserve

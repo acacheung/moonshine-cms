@@ -730,8 +730,18 @@ b {
 }
 
 .press__item--featured {
-  border: 2px solid $dark-gold;
-  padding: 24px;
+  border: 3px solid $dark-gold;
+  margin-bottom: 48px;
+}
+
+.press__image {
+  height: 300px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.press__padding {
+  margin: 32px;
 }
 
 .press__heading {

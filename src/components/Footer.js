@@ -60,7 +60,7 @@ const Footer = class extends React.Component {
             className='contact'
             href='https://www.doordash.com/store/moonshine-152-boston-24152703/16599752/'
             target='_blank'
-            rel='noreferrer'
+            rel='noopener noreferrer'
           >
             We deliver with DOORDASH
           </a>
@@ -68,7 +68,7 @@ const Footer = class extends React.Component {
             className='contact'
             href='https://www.trycaviar.com/store/moonshine-152-boston-24152703/16599752/'
             target='_blank'
-            rel='noreferrer'
+            rel='noopener noreferrer'
           >
             We deliver with CAVIAR
           </a>
@@ -76,7 +76,7 @@ const Footer = class extends React.Component {
             className='contact'
             href='https://ordering.chownow.com/order/25650/locations'
             target='_blank'
-            rel='noreferrer'
+            rel='noopener noreferrer'
           >
             We deliver with CHOWNOW
           </a>
