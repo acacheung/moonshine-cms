@@ -6,7 +6,7 @@ const Articles = ({ articles }) => (
   <main>
     <ul className="press__list">
       {articles.map(article => (
-        article.image ? (
+        article.image !== null && article.image.childImageSharp.fluid.src ? (
           <li key={v4()} className="press__item--featured">
             <img src={article.image.childImageSharp.fluid.src} className='press__image' alt='' />
             <div className='press__padding'>
