@@ -14,7 +14,7 @@ articles:
       checks in on diners. For weeknight dinners and weekend date nights, this
       is the living room of Southie, and we wouldn’t have it any other way.
 
-    title: "2023 Best Neighborhood Restaurant, South Boston"
+    title: '2023 Best Neighborhood Restaurant, South Boston'
   - date: June 2019
     link: >-
       https://www.bostonmagazine.com/best-of-boston-archive/2019/moonshine-152-2/
@@ -26,7 +26,7 @@ articles:
       with loaded baked-potato “aioli.”
     title: 2019 Best Drunk Food
   - date: January 2019
-    link: "https://southbostononline.com/moonshine-still-shines/"
+    link: 'https://southbostononline.com/moonshine-still-shines/'
     publication: South Boston Online
     summary: >-
       From delectable vegetarian dishes to satiating naughty hangover cures,
@@ -42,10 +42,7 @@ articles:
     link: >-
       https://www.fivequestions.me/conversations/2017/8/29/five-questions-asia-mei
     publication: Five questions
-    summary: >-
-      Asia and I snagged a table at Moonshine 152 and chatted about feeling lost
-      in life choices, accepting the inevitability of death, and finding “the
-      zone.” And of course she answered Five Questions. Meet Asia.
+    summary: ''
     title: Asia Mei
   - date: July 2017
     link: >-
@@ -57,16 +54,16 @@ articles:
       rich multicultural history of food in the northeastern United States.
     title: New England chefs give recipes a flavor of Asia
   - date: August 2019
-    link: "https://www.youtube.com/watch?v=w8CHt9zRDI4"
+    link: 'https://www.youtube.com/watch?v=w8CHt9zRDI4'
     publication: Wicked Bites
     summary: >-
       Kylie McCoy is at Moonshine 152 in South Boston for some delicious and
       creative twists on some of your favorite dishes. She sits down with Chef
       Asia Mei to get the lowdown on some of her fantastic creations, like her
       Award Winning Fried Chicken!
-    title: "Moonshine 152 (Boston, MA)"
+    title: 'Moonshine 152 (Boston, MA)'
   - date: September 2016
-    link: "https://www.youtube.com/watch?v=Wo4lvqxhzWM&feature=youtu.be"
+    link: 'https://www.youtube.com/watch?v=Wo4lvqxhzWM&feature=youtu.be'
     publication: Phantom Gourmet
     summary: >-
       Chef Asia Mei from Moonshine 152 in Southie talks about her restaurant's
@@ -97,7 +94,7 @@ articles:
       under: very full moons.
     title: Boston’s Best Industry Hangout
   - date: March 2016
-    link: "https://www.zagat.com/b/boston/9-hottest-restaurants-in-south-boston#1"
+    link: 'https://www.zagat.com/b/boston/9-hottest-restaurants-in-south-boston#1'
     publication: Zagat
     summary: >-
       Chef Asia Mei brings together American East Coast cookery, Far East
@@ -130,7 +127,7 @@ articles:
       table at an unpretentious neighborhood spot.
     title: Boston’s 50 best new restaurants
   - date: November 2015
-    link: "http://www.phantomgourmet.com/restaurant/ma-south-boston-moonshine-152"
+    link: 'http://www.phantomgourmet.com/restaurant/ma-south-boston-moonshine-152'
     publication: Phantom Gourmet
     summary: >-
       As the owner of Moonshine 152 in South Boston, Asia Mei is one of the
@@ -138,3 +135,4 @@ articles:
       traditional path to get to where she is today.
     title: Moonshine 152
 ---
+
