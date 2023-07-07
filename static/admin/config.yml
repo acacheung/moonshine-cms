@@ -98,16 +98,21 @@ collections:
               widget: list,
               fields:
                 [
-                  { label: Image, name: image, widget: image, required: false },
-                  { label: Publication, name: publication, widget: string },
                   { label: title, name: title, widget: string },
+                  { label: Publication, name: publication, widget: string },
+                  { label: Image, name: image, widget: image, required: false },
                   {
                     label: Date Published,
                     name: date,
                     widget: date,
                     format: MMMM YYYY,
                   },
-                  { label: Summary, name: summary, widget: text },
+                  {
+                    label: Summary,
+                    name: summary,
+                    widget: text,
+                    required: false,
+                  },
                   { label: Link, name: link, widget: string },
                 ],
             }

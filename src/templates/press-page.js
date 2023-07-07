@@ -57,6 +57,13 @@ export const pressPageQuery = graphql`
           date
           summary
           link
+          image {
+            childImageSharp {
+              fluid(maxWidth: 600, quality: 80) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
         }
       }
     }
