@@ -107,11 +107,6 @@ subgroups:
         price: '23'
         title: 'Menu Addition: Green Chili Breakfast Enchiladas '
       - description: >-
-          Thick-cut Corned Beef Brisket wrapped in a  Scallion Pancake with Pho
-          Noodle Salad &  Bacony Pho Bone Broth for Dipping                     
-        price: '29'
-        title: 'Menu Addition: ''Shine famous "pho-rrito"'
-      - description: >-
           Grilled Marinated Skirt Steak, Two Fried Eggs, Buttermilk Biscuits &
           Gravy w/ White Pepper Sausage Gravy & Chef Asia’s Best Ever Buttermilk
           Biscuits
