@@ -10,6 +10,11 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
+          Grilled Sweet Summer Corn, Heirloom Tomatoes, Cotija Cheese, Citrus
+          Aioli & Scallions
+        price: 17 regular / 28 grande
+        title: 'Menu Addition: Summer Street Corn Salad'
+      - description: >-
           Thinly Sliced Prosciutto, Creamy Burrata Cheese, Fresh Bourbon
           Marinated Figs, Aged Balsamic,                             House
           Garlic-Herb Crostini
