@@ -37,7 +37,7 @@ subgroups:
         title: Patron Saint of Southie
       - description: >-
           Black Infusions Apricot Vodka, Peach Liqueur, Apricot Puree, Fresh
-          Lemon, Soda *contains stonefruit 
+          Lemon *contains stonefruit 
         price: '14'
         title: 'The Summer Stones '
       - description: >-
