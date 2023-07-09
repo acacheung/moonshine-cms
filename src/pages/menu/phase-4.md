@@ -21,7 +21,7 @@ subgroups:
       - description: Cookie Dough
         price: '11'
         title: Chef's Whim Ice Cream
-      - description: 'Coconut with Fresh Pomegranate '
+      - description: 'Strawberry '
         price: '11'
         title: 'Chef''s Whim Sorbet (vegan) '
     title: Sweet Tooth
