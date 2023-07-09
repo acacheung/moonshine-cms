@@ -249,7 +249,7 @@ subgroups:
       - description: Cookie Dough
         price: '11'
         title: Chef's whim ice cream of the day
-      - description: 'Coconut with Fresh Pomegranate & Toasted Coconut '
+      - description: Strawberry
         price: '11'
         title: chef's whim sorbet of the day (vegan)
     title: Sweet Tooth
