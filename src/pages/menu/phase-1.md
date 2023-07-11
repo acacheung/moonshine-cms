@@ -61,8 +61,8 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
-          Thai Coconut Hot n' Sour Soup: Cremini Mushrooms, Fish Sauce,
-          Lemongrass, Fresh Lime Juice       
+          Chef Asia’s Famous Chilled Beet Soup: Roasted Beets, Dill Creme
+          Fraiche, Cucumber Ribbons    
         price: '12 regular / 19 grande '
         title: Chef's Whim Soup for the Soul
       - description: >-
