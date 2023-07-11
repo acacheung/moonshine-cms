@@ -145,8 +145,8 @@ subgroups:
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >-
-          Thai Coconut Hot n' Sour Soup: Cremini Mushrooms, Fish Sauce,
-          Lemongrass, Fresh Lime Juice      
+          Chef Asia’s Famous Chilled Beet Soup: Roasted Beets, Dill Creme
+          Fraiche, Cucumber Ribbons   
         price: '12 / 19 '
         title: 'Chef’s Whim Soup for the Soul '
       - description: >
