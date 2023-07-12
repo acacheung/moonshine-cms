@@ -14,7 +14,7 @@ subgroups:
           Marinated Figs, Aged Balsamic,                             House
           Garlic-Herb Crostini
         price: 17 / 29
-        title: 'Menu Addition: Spring Burrata & Prosciutto Salad '
+        title: 'Menu Addition: Summer Burrata & Prosciutto Salad '
       - description: >-
           Bulgogi Beef Shortrib, Salsa Fresca,  Melted Cheese, Smoky Sriracha
           Mayo, Shredded Lettuce, Tater Tots & Birria Dipping Jus  
@@ -61,8 +61,8 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
-          Chef Asia’s Famous Chilled Beet Soup: Roasted Beets, Dill Creme
-          Fraiche, Cucumber Ribbons    
+          Thai Coconut Hot n' Sour Soup: Cremini Mushrooms, Fish Sauce,
+          Lemongrass, Fresh Lime Juice       
         price: '12 regular / 19 grande '
         title: Chef's Whim Soup for the Soul
       - description: >-
