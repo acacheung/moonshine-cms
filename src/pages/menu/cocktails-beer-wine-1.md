@@ -122,27 +122,27 @@ subgroups:
       - description: '16oz tallboy can '
         price: '5'
         title: Narragansett Del's Shandy
-      - description: '16 oz tallboy can '
-        price: '7'
-        title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
-      - description: 12 oz bottle
-        price: '6'
-        title: Kona Brewing "Big wave" golden ale
-      - description: '16oz tallboy can '
-        price: '7'
-        title: 'Bell''s Brewing "Oberon" Wheat Ale '
-      - description: '160z tallboy can '
-        price: '7'
-        title: 'Allagash White '
+      - description: 16 oz Tallboy Can
+        price: '5'
+        title: Narragansett Lager
       - description: '16oz tallboy can '
         price: '7'
         title: 'Night Shift Brewing "Nite Lite" Light Lager '
       - description: '16 oz tallboy can '
         price: '6'
         title: 'Zero Gravity "Green State" Lager '
-      - description: 16 oz Tallboy Can
-        price: '5'
-        title: Narragansett Lager
+      - description: '160z tallboy can '
+        price: '7'
+        title: 'Allagash White '
+      - description: '16oz tallboy can '
+        price: '7'
+        title: 'Bell''s Brewing "Oberon" Wheat Ale '
+      - description: 12 oz bottle
+        price: '6'
+        title: Kona Brewing "Big wave" golden ale
+      - description: '16 oz tallboy can '
+        price: '7'
+        title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
