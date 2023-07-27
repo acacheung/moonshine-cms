@@ -57,9 +57,7 @@ subgroups:
           Heirloom Cherry Tomatoes, Herbed Goat Cheese, Fresh Basil, Aged
           Balsamic    
         price: 17 regular / grande 29
-        title: >-
-          Menu Addition: Spring Burrata & Prosciutto Heirloom Tomato &
-          Watermelon Salad 
+        title: 'Menu Addition: Spring Heirloom Tomato & Watermelon Salad '
       - description: >-
           Local honey, Fresh berries, Maple-nut cornflake crunch **add a belgian
           waffle $7**
