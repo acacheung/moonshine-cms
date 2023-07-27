@@ -10,11 +10,10 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
-          Thinly Sliced Prosciutto, Creamy Burrata Cheese, Fresh Bourbon
-          Marinated Figs, Aged Balsamic,                             House
-          Garlic-Herb Crostini
+          Heirloom Cherry Tomatoes, Herbed Goat Cheese, Fresh Basil and Aged
+          Balsamic
         price: 17 / 29
-        title: 'Menu Addition: Summer Burrata & Prosciutto Salad '
+        title: 'Menu Addition: Summer Heirloom Tomato-Watermelon Salad '
       - description: >-
           Bulgogi Beef Shortrib, Salsa Fresca,  Melted Cheese, Smoky Sriracha
           Mayo, Shredded Lettuce, Tater Tots & Birria Dipping Jus  
