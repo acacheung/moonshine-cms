@@ -54,10 +54,12 @@ subgroups:
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
       - description: >-
-          Thinly Sliced Prosciutto, Creamy Burrata Cheese, Fresh Bourbon
-          Marinated Figs, Aged Balsamic, Papadums      
+          Heirloom Cherry Tomatoes, Herbed Goat Cheese, Fresh Basil, Aged
+          Balsamic    
         price: 17 regular / grande 29
-        title: 'Menu Addition: Spring Burrata & Prosciutto Salad '
+        title: >-
+          Menu Addition: Spring Burrata & Prosciutto Heirloom Tomato &
+          Watermelon Salad 
       - description: >-
           Local honey, Fresh berries, Maple-nut cornflake crunch **add a belgian
           waffle $7**
