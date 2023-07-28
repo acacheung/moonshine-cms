@@ -6,9 +6,7 @@ order: 1
 subgroups:
   - description: ''
     items:
-      - description: >-
-          Chocolate Cherry: Tullamore Dew Irish Whiskey, Cherry Jello topped
-          with Mini Chocolate Chips 
+      - description: '                                       “You Fancy, Huh?” Gin &  Juice Jello Shots: London Dry Gin, Kumquat-Orange Blossom Juice, Local Honey, Lemon/Lime Jello    '
         price: '6'
         title: Chef Asia's Rotating Jello Shots
       - description: >-
