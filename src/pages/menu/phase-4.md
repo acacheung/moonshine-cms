@@ -6,11 +6,6 @@ order: 5
 subgroups:
   - description: Add a Belgian waffle to your favorite dessert $7
     items:
-      - description: >-
-          Graham Cracker-Brown Sugar Cookie Crust, Layered Milk Chocolate, Baked
-          Marshmallow Meringue   
-        price: '12'
-        title: 'Menu Addition: S''mores Cookie Bars '
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
