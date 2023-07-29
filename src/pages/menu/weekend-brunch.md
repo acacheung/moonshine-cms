@@ -7,8 +7,9 @@ subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
       - description: >-
-          Chocolate Cherry: Tullamore Dew Irish Whiskey, Cherry Jello topped
-          with Mini Chocolate Chips 
+          “You Fancy, Huh?” Gin &  Juice Jello
+          Shots:                              London Dry Gin, Kumquat-Orange
+          Blossom Juice, Local Honey, Lemon/Lime Jello         
         price: '6'
         title: Chef Asia's Rotating Jello Shots
       - description: >
@@ -57,7 +58,7 @@ subgroups:
           Heirloom Cherry Tomatoes, Herbed Goat Cheese, Fresh Basil, Aged
           Balsamic    
         price: 17 regular / grande 29
-        title: 'Menu Addition: Spring Heirloom Tomato & Watermelon Salad '
+        title: 'Menu Addition:  Heirloom Tomato & Watermelon Salad '
       - description: >-
           Local honey, Fresh berries, Maple-nut cornflake crunch **add a belgian
           waffle $7**
@@ -96,11 +97,11 @@ subgroups:
   - description: ' (Entrees)'
     items:
       - description: >-
-          Beefy-Cheesy Stuffed Enchiladas, Spicy Tomato Sauce, Shredded 
+          Beefy-Cheesy Stuffed Enchilada Pie, Spicy Tomato Sauce, Shredded 
           Cabbage, Salsa Fresca, Sour Cream    ...add fried egg $2 ...add
           jalapeno bacon $4 ...add sliced jalapenos $2 
         price: '23'
-        title: 'Menu Addition: Green Chili Breakfast Enchiladas '
+        title: 'Menu Addition: Green Chili Breakfast Enchilada Pie'
       - description: >-
           Grilled Marinated Skirt Steak, Two Fried Eggs, Buttermilk Biscuits &
           Gravy w/ White Pepper Sausage Gravy & Chef Asia’s Best Ever Buttermilk
