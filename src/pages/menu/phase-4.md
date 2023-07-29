@@ -6,6 +6,9 @@ order: 5
 subgroups:
   - description: Add a Belgian waffle to your favorite dessert $7
     items:
+      - description: '             Layered Blueberry Pie Topping, Whipped Cream Cheese Filling, Toasted Almond Shortbread'
+        price: '12'
+        title: 'Menu Addition: Summer Blueberry Jamboree'
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
