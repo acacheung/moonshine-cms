@@ -38,9 +38,6 @@ subgroups:
       - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime'
         price: '14'
         title: Patron Saint of Southie
-      - description: 'Citrus Vodka, Black Iced Tea, Passionfruit Infused Limeade '
-        price: '14'
-        title: Passion Palmer
       - description: >-
           Black Infusions Apricot Vodka, Peach Liqueur, Apricot Puree, Fresh
           Lemon *contains stonefruit 
