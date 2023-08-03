@@ -60,6 +60,11 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
+          Grilled Sweet Summer Corn, Heirloom Tomatoes, Crumbled Cotija Cheese,
+          Citrus Aioli & Scallions  
+        price: '17 regular / 28 grande '
+        title: 'Menu Addition: Summer Street Corn Salad '
+      - description: >-
           Chef Asia’s Famous Chilled Beet Soup: Roasted Beets, Dill Creme
           Fraiche, Cucumber Ribbons   
         price: '12 regular / 19 grande '
