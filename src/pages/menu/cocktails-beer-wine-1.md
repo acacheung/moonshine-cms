@@ -151,9 +151,6 @@ subgroups:
       - description: '12 oz bottle '
         price: '7'
         title: Heineken Zero (non-alcoholic)
-      - description: '12 oz can '
-        price: '6'
-        title: Athletic Brewing co "Free Wave" IPA  (non-alcoholic)
       - description: 12oz can
         price: '7'
         title: Athletic Brewing co "ripe pursuit" lemon radler  (non-alcoholic)
