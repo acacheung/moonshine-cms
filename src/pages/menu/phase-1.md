@@ -160,6 +160,12 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
+          Chinatown-Style Pulled Roasted Duck,                           Honey
+          Roasted Peanut-Sesame Noodles,                           Duck Fat
+          Fried Brussels Sprouts, Vermicelli  Noodles
+        price: '29'
+        title: 'Menu Addition: Tiki Roasted Duck Noodle Salad'
+      - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask!
         price: '19'
