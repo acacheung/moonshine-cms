@@ -30,11 +30,6 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '14'
         title: 'La Diabla '
-      - description: >-
-          Tanteo Habanero Tequila, Carmelized Pineapple Puree, Triple Sec, Lime,
-          Agave
-        price: '14'
-        title: '3:10 to yuma'
       - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime'
         price: '14'
         title: Patron Saint of Southie
@@ -59,6 +54,11 @@ subgroups:
           Citrus 
         price: '14'
         title: Sahil's ginger hibiscus red sangria
+      - description: >-
+          Mediterranean White Wine Blend, Lime Zest Infused Vodka, Pamplemouse
+          Grapefruit Liqueur, Pineapple, Fresh Citrus Juices 
+        price: '14'
+        title: ARae's Citrus Blast White Sangria
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
@@ -187,9 +187,9 @@ subgroups:
       - description: 'Veneto, Italy '
         price: 11  /  42
         title: '(White) 2020 Zenato Pinot Grigio '
-      - description: 'Mendocino, CA, USA '
+      - description: 'CA, USA '
         price: 12 / 45
-        title: (White) 2021 Frey Vineyards "Sun & Rain" Chardonnay
+        title: (White) 2021 Grayson Cellars Chardonnay
       - description: 'Marlborough, New Zealand '
         price: 14 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
