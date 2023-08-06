@@ -263,12 +263,12 @@ subgroups:
         title: Gin
       - description: >-
           Tres Agaves Blanco...$9...Tres Agaves Reposado...$11...Tres Agaves
-          Anejo...$11 ...Teramana Blanco...$10...Teramana Reposado...$11...
-          Espolon Reposado...$11.. .House Infused Spicy Tequila...$11...Don
-          Julio Blanco...$12...Don Julio Reposado..$13...Don Julio
-          Anejo...$14..  Libélula Tequila...$12 Gran Coramino Cristalino
-          Reposado...$12... Xicaru Silver Mezcal...$10...Del Maguey Vida Mezcal
-          ..$12...Banhez Mezcal Artesanal $12
+          Anejo...$11 ...Teramana Blanco...$10...Teramana Reposado...$11....
+          Teramana Anejo...$13.....Espolon Blanco...$10... Espolon
+          Reposado...$11.. .House Infused Spicy Tequila...$11...Don Julio
+          Blanco...$12...Don Julio Reposado..$13...  Libélula Tequila...$12 Gran
+          Coramino Cristalino Reposado...$12... Xicaru Silver Mezcal...$10...Del
+          Maguey Vida Mezcal ..$12...Banhez Mezcal Artesanal $12
         price: xxxxx
         title: 'Tequila & Mezcal '
       - description: >-
