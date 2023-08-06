@@ -30,9 +30,6 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '14'
         title: 'La Diabla '
-      - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime'
-        price: '14'
-        title: Patron Saint of Southie
       - description: >-
           Black Infusions Apricot Vodka, Peach Liqueur, Apricot Puree, Fresh
           Lemon *contains stonefruit 
@@ -43,6 +40,9 @@ subgroups:
           Lemon 
         price: '14'
         title: fly me to the moon
+      - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime'
+        price: '14'
+        title: Patron Saint of Southie
       - description: 'London Dry Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '15'
         title: Moonshine 76
