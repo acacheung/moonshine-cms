@@ -121,7 +121,7 @@ subgroups:
         price: '7'
         title: 'Night Shift Brewing "Nite Lite" Light Lager '
       - description: '16 oz tallboy can '
-        price: '6'
+        price: '5'
         title: 'Zero Gravity "Green State" Lager '
       - description: '160z tallboy can '
         price: '7'
@@ -260,7 +260,7 @@ subgroups:
         price: xxxxx
         title: 'Vodka '
       - description: >-
-          Gin Lane London Dry...$8...Bombay Sapphire...$9... Tanqueray...$9...
+          Gin Lane London Dry...$9...Bombay Sapphire...$9... Tanqueray...$9...
           Hendrick's...$10..GrandTen Wire Works Gin...$10.... Glendalough Wild
           Botanical...$10... Empress 1908 Indigo...$10
         price: xxxxx
