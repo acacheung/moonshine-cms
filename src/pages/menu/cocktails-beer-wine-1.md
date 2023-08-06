@@ -257,7 +257,7 @@ subgroups:
         title: 'Vodka '
       - description: >-
           Gin Lane London Dry...$8...Bombay Sapphire...$9... Tanqueray...$9...
-          Hendrick's...9..GrandTen Wire Works Gin...$9.... Glendalough Wild
+          Hendrick's...$10..GrandTen Wire Works Gin...$10.... Glendalough Wild
           Botanical...$10... Empress 1908 Indigo...$10
         price: xxxxx
         title: Gin
