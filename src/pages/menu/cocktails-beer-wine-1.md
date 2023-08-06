@@ -64,13 +64,17 @@ subgroups:
     items:
       - price: '5'
         title: (draft) miller high life
+      - price: '8'
+        title: >-
+          (draft) Lord Hobo Brewing  "Richie's Watermelon Wheat" American Pale
+          Wheat Beer 
+      - price: '7'
+        title: (Draft) Downeast Unfiltered Cider
       - price: '7'
         title: (draft) harpoon IPA
       - description: ''
         price: '8'
         title: '(draft) Dorchester brewing co "galaxy lights" session ipa '
-      - price: '7'
-        title: (Draft) Downeast Unfiltered Cider
       - description: '12 oz bottle '
         price: '6'
         title: 'Budweiser / Bud Light '
