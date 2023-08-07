@@ -8,7 +8,7 @@ subgroups:
     items:
       - description: '                                       “You Fancy, Huh?” Gin &  Juice Jello Shots: London Dry Gin, Kumquat-Orange Blossom Juice, Local Honey, Lemon/Lime Jello    '
         price: '6'
-        title: Chef Asia's Rotating Jello Shots
+        title: Rotating Jello Shots
       - description: >-
           Locally Made Boston Harbor Distillery Putnam Rye Whiskey, Carpano
           Antica Sweet Vermouth, Angostura Bitters 
@@ -40,6 +40,11 @@ subgroups:
           Lemon 
         price: '14'
         title: fly me to the moon
+      - description: >-
+          Bison Grass Vodka, House Kumquat Liqueur, Orange Blossom Water,
+          Prosecco, Litchi Popping Boba 
+        price: '14'
+        title: Chef Asia's Poppin' Bubble-Bubble
       - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime'
         price: '14'
         title: Patron Saint of Southie
