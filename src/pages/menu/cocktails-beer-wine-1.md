@@ -134,9 +134,9 @@ subgroups:
       - description: '16oz tallboy can '
         price: '7'
         title: 'Bell''s Brewing "Oberon" Wheat Ale '
-      - description: 12 oz bottle
-        price: '6'
-        title: Kona Brewing "Big wave" golden ale
+      - description: 16 oz tallboy can
+        price: '8'
+        title: Jacks Abby  "ray catcher" golden rice  lager
       - description: '16 oz tallboy can '
         price: '7'
         title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
