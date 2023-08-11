@@ -204,6 +204,9 @@ subgroups:
       - description: 'CA, USA '
         price: 12 / 45
         title: (White) 2021 Grayson Cellars Chardonnay
+      - description: 'Elqui Valley, Coquimbo, Chile'
+        price: 12 / 45
+        title: (white) 2022 Mayu Pedro Ximenez
       - description: 'Marlborough, New Zealand '
         price: 14 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
