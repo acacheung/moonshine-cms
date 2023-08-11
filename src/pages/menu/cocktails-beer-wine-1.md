@@ -304,8 +304,9 @@ subgroups:
           Mitcher's Single Barrel Rye...$10...Mad River Revolution
           Rye...$10...Boston Harbor Distillery Putnam Rye...$12....High West
           Double Rye...$12...Boston Harbor Distillery Putnam Single Malt Whiskey
-          ...$13...Old Smokey Tennessee Moonshine  White Whiskey
-          ...$10...Screwball Peanut Butter Whiskey...$10...
+          ...$13...Whistlepig 6 yr PiggyBack Rye...$14...Old Smokey Tennessee
+          Moonshine  White Whiskey ...$10...Screwball Peanut Butter
+          Whiskey...$10...
         price: xxxxx
         title: 'American Whiskey/Bourbon/Rye '
       - description: >-
