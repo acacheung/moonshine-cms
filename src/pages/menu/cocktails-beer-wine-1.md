@@ -31,11 +31,6 @@ subgroups:
         price: '14'
         title: 'La Diabla '
       - description: >-
-          Black Infusions Apricot Vodka, Peach Liqueur, Apricot Puree, Fresh
-          Lemon *contains stonefruit 
-        price: '14'
-        title: 'The Summer Stones '
-      - description: >-
           Empress 1908 Indigo Gin, Luxardo Maraschino, Creme de Yiolette, Fresh
           Lemon 
         price: '14'
