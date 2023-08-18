@@ -99,7 +99,7 @@ subgroups:
         title: 'Corona Extra '
       - description: '16oz tallboy can '
         price: '7'
-        title: 'Smuttynose Brewing Limited Release Sour "Pineapple Coconut Orange" '
+        title: 'Smuttynose Brewing Limited Release Sour "Cherry Limeade" '
       - description: 12 oz can
         price: '6'
         title: 'Downeast Cider Strawberry '
