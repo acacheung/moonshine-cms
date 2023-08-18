@@ -6,7 +6,7 @@ order: 1
 subgroups:
   - description: ''
     items:
-      - description: '                                       “You Fancy, Huh?” Gin &  Juice Jello Shots: London Dry Gin, Kumquat-Orange Blossom Juice, Local Honey, Lemon/Lime Jello    '
+      - description: ' Tropical Creamsicle-Coconut Vodka, Orange Jello, Coconut Milk, Toasted Coconut Flakes     *dairy free  '
         price: '6'
         title: Rotating Jello Shots
       - description: >-
