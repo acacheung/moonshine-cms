@@ -98,7 +98,7 @@ subgroups:
         price: '7'
         title: 'Corona Extra '
       - description: '16oz tallboy can '
-        price: '7'
+        price: '8'
         title: 'Smuttynose Brewing Limited Release Sour "Cherry Limeade" '
       - description: 12 oz can
         price: '6'
@@ -122,7 +122,7 @@ subgroups:
         price: '7'
         title: 'Allagash White '
       - description: '16oz tallboy can '
-        price: '7'
+        price: '6'
         title: 'Bell''s Brewing "Oberon" Wheat Ale '
       - description: 16 oz tallboy can
         price: '8'
