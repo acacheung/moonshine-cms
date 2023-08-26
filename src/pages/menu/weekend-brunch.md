@@ -233,6 +233,9 @@ subgroups:
     title: All the sides & Fixin’s
   - description: ' (Dessert)'
     items:
+      - description: '  Layered Blueberry Pie Topping, Whipped Cream Cheese Filling, Toasted Almond Shortbread      '
+        price: '12'
+        title: 'Summer Blueberry Jamboree                    '
       - description: 'Whipped chantilly cream, Toasted oat-amaranth streusel '
         price: '12'
         title: 'Butterscotch Pudding '
@@ -246,6 +249,22 @@ subgroups:
         price: '11'
         title: chef's whim sorbet of the day (vegan)
     title: Sweet Tooth
+  - description: 'This, That and Other Stuff '
+    items:
+      - description: >-
+          Makes The Perfect Gift and is Always the Right Size! Available in any
+          denomination
+        price: $$
+        title: Moonshine 152 Gift Cards
+      - description: 'Sunflower Seed Butter, Whole Wheat Flour, Beef Stock, Puppy Love'
+        price: 7 regular / 12 grande
+        title: Homemade ‘Shine Doggie Treats
+      - description: >-
+          (Everything Bagel) Spice Up Your Life with a 3oz Mason Jar of Chef
+          Asia’s Homemade Everything Bagel Spice Mix 
+        price: '5'
+        title: Housemade “Everything But The Bagel” Spice Mix
+    title: Miscellaneous
   - description: >-
       Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or Eggs
       May Increase Your Risk for Food born Illness; Especially If You Have A
@@ -258,18 +277,5 @@ subgroups:
         price: o
         title: Consumer Advisory **
     title: Consumer Advisory **
-  - description: 'This, That and Other Stuff '
-    items:
-      - price: $$
-        title: Moonshine 152 Gift Cards
-      - description: 'Sunflower Seed Butter, Whole Wheat Flour, Beef Stock, Puppy Love'
-        price: 7 regular / 12 grande
-        title: Homemade ‘Shine Doggie Treats
-      - description: >-
-          (Everything Bagel) Spice Up Your Life with a 3oz Mason Jar of Chef
-          Asia’s Homemade Everything Bagel Spice Mix 
-        price: '5'
-        title: Housemade “Everything But The Bagel” Spice Mix
-    title: Miscellaneous
 ---
 
