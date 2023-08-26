@@ -90,6 +90,8 @@ subgroups:
     title: Next Level Favorites
   - description: 'Add your favorite proteins to any dish on the menu! '
     items:
+      - price: '5'
+        title: Heirloom White Quinoa
       - description: add cheddar cheese...2
         price: '10'
         title: CHEF ASIA’S FAMOUS VEGAN MUSHROOM TOFU BURGER PATTY
