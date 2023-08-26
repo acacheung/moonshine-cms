@@ -259,7 +259,7 @@ subgroups:
         title: 'Homemade ‘Shine Doggie Treats  '
       - description: >-
           (Everything Bagel) Spice Up Your Life with a 3oz Mason Jar of Chef
-          Asia’s Homede Spice Mix 
+          Asia’s Homemade Everything Bagel Spice Mix 
         price: '5'
         title: 'Housemade “Everything But The Bagel” Spice Mix '
     title: 'Miscellaneous '
