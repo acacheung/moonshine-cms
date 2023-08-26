@@ -274,6 +274,6 @@ subgroups:
           Asia’s Homede Spice Mix 
         price: '5'
         title: 'Housemade “Everything But The Bagel” Spice Mix '
-    title: Miscellaneous
+    title: 'Miscellaneous '
 ---
 
