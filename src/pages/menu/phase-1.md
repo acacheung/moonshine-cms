@@ -247,18 +247,6 @@ subgroups:
         price: MKT
         title: SUB SIDES/SUBSTITUTIONS
     title: Top It Off
-  - description: >-
-      Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or Eggs
-      May Increase Your Risk for Food born Illness; Especially If You Have A
-      Medical Condition
-    items:
-      - description: >-
-          Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or
-          Eggs May Increase Your Risk for Food born Illness; Especially If You
-          Have A Medical Condition
-        price: '**'
-        title: 'Consumer Advisory '
-    title: Consumer Advisory **
   - description: 'This, That and Other Stuff'
     items:
       - description: >-
@@ -275,5 +263,17 @@ subgroups:
         price: '5'
         title: 'Housemade “Everything But The Bagel” Spice Mix '
     title: 'Miscellaneous '
+  - description: >-
+      Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or Eggs
+      May Increase Your Risk for Food born Illness; Especially If You Have A
+      Medical Condition
+    items:
+      - description: >-
+          Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or
+          Eggs May Increase Your Risk for Food born Illness; Especially If You
+          Have A Medical Condition
+        price: '**'
+        title: 'Consumer Advisory '
+    title: Consumer Advisory **
 ---
 
