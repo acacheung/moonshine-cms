@@ -259,5 +259,21 @@ subgroups:
         price: '**'
         title: 'Consumer Advisory '
     title: Consumer Advisory **
+  - description: 'This, That and Other Stuff'
+    items:
+      - description: >-
+          Makes The Perfect Gift and is Always the Right Size! Available in any
+          denomination
+        price: $$
+        title: Moonshine 152 Gift Cards
+      - description: 'Sunflower Seed Butter, Whole Wheat Flour, Beef Stock, Puppy Love '
+        price: ' 7 regular / 12 grande  '
+        title: 'Homemade ‘Shine Doggie Treats  '
+      - description: >-
+          (Everything Bagel) Spice Up Your Life with a 3oz Mason Jar of Chef
+          Asia’s Homede Spice Mix 
+        price: '5'
+        title: 'Housemade “Everything But The Bagel” Spice Mix '
+    title: Miscellaneous
 ---
 
