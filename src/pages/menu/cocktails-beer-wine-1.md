@@ -64,7 +64,7 @@ subgroups:
     items:
       - price: '5'
         title: (draft) miller high life
-      - price: '8'
+      - price: '6'
         title: >-
           (draft) Lord Hobo Brewing  "Richie's Watermelon Wheat" American Pale
           Wheat Beer 
