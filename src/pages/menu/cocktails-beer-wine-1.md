@@ -14,6 +14,11 @@ subgroups:
           Antica Sweet Vermouth, Angostura Bitters 
         price: '15'
         title: House Manhattan
+      - description: >-
+          Double Espresso Vodka, Kahlua, Touch of Vanilla **like yours creamy?
+          ask for it with Bailey's Irish Cream**
+        price: '15'
+        title: '''Shine Espresso Martini'
       - description: 'London Dry Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '15'
         title: Moonshine 76
