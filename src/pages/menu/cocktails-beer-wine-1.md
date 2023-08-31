@@ -33,14 +33,12 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '14'
         title: 'La Diabla '
+      - description: 'Xicaru Mezcal, Bully Boy Amaro, Combier Pamplemousse, Fresh Lemon '
+        price: '14'
+        title: Matador's Bull
       - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime'
         price: '14'
         title: Patron Saint of Southie
-      - description: >-
-          Black Infusions Apricto Infused Vodka, Combier Peche, Apricot Puree,
-          Fresh Lemon 
-        price: '14'
-        title: Summer Stones
       - description: >-
           Bison Grass Vodka, Kumquat-Orange Blossom Syrup. Prosecco Bubbles,
           Lychee Popping Boba 
