@@ -180,15 +180,12 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          “The Everything Bagel
-          Burger”:                                                served on a
-          Buttery Toasted Bagel                                   with
-          Veggie-Chive Cream Cheese,                           House Everything
-          Bagel-Spice Mix & Iceberg
-          Lettuce                                                               
+          “The MAC & CHEESE” Burger topped with a Crispy Fried Mac & Cheese
+          Fritter & Warm Triple Cheese Queso
+          Sauce                                                                       
           …add fried egg $2  ..add jalapeno bacon $4
         price: '24'
-        title: August 2023 VIP burger of the month
+        title: September 2023 VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: ' All the sides & Fixin’s'
     items:
