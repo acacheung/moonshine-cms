@@ -6,7 +6,9 @@ order: 6
 subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
-      - description: ' Tropical Creamsicle-Coconut Vodka, Orange Jello, Coconut Milk, Toasted Coconut Flakes     *dairy free  '
+      - description: >-
+          Carda-Bomb: Mad River Vanilla Bean Rum, Strawberry Jello, Cardamon
+          Syrup, Fresh Lime  
         price: '6'
         title: Chef Asia's Rotating Jello Shots
       - description: >
