@@ -6,7 +6,9 @@ order: 1
 subgroups:
   - description: ''
     items:
-      - description: ' Tropical Creamsicle-Coconut Vodka, Orange Jello, Coconut Milk, Toasted Coconut Flakes     *dairy free  '
+      - description: >-
+          Carda-Bomb: Mad River Vanilla Bean Rum, Strawberry Jello, Cardamon
+          Syrup. Fresh Lime 
         price: '6'
         title: Rotating Jello Shots
       - description: >-
