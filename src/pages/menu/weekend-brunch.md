@@ -59,8 +59,8 @@ subgroups:
         price: 17 regular / grande 29
         title: 'Menu Addition:  Heirloom Tomato & Watermelon Salad '
       - description: >-
-          Local honey, Fresh berries, Maple-nut cornflake crunch **add a belgian
-          waffle $7**
+          Local honey, Fresh berries, Maple Rice Krispie Granola Crunch **add a
+          belgian waffle $7**
         price: 9 / 14
         title: 'Whipped Greek Yogurt Parfait '
       - description: >-
