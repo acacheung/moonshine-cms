@@ -47,6 +47,11 @@ subgroups:
         price: '14'
         title: Patron Saint of Southie
       - description: >-
+          Black Infusions Apricot Infused Vodka Combier Peche, Apricot Puree,
+          Fresh Lemon 
+        price: '14'
+        title: sUMMER STONES
+      - description: >-
           Bison Grass Vodka, Kumquat-Orange Blossom Syrup. Prosecco Bubbles,
           Lychee Popping Boba 
         price: '14'
