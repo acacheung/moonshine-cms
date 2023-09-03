@@ -27,7 +27,7 @@ subgroups:
       - description: 'Bison Grass Vodka, Cinnamon, Apple, Lemon '
         price: '13'
         title: 'R.I.P. Li’l Sebastian '
-      - description: 'Rye Whiskey, Boozy Cream, Iced Coffee '
+      - description: 'Whiskey, Boozy Cream, Iced Coffee '
         price: '13'
         title: 'Good Morning Pawnee '
       - price: '5'
