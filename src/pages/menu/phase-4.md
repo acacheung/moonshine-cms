@@ -9,9 +9,9 @@ subgroups:
       - description: '             Layered Blueberry Pie Topping, Whipped Cream Cheese Filling, Toasted Almond Shortbread'
         price: '12'
         title: 'Menu Addition: Summer Blueberry Jamboree'
-      - description: ' Housemade Peaches & Cream Biscuit, Saffron Ice Cream, Pistachio Crumble, Pomegranate, Dulce de Leche, Chantilly Cream '
+      - description: ' Housemade Peaches & Cream Biscuit, served with House Persian Saffron Ice Cream, Toasted Pistachios, Rose Water Caramel, Pomegranate'
         price: '15'
-        title: 'Menu Addition: Persian Peaches n’ Cream Biscuit Sundae'
+        title: 'Menu Addition: Warm Peach Cobbler Biscuit '
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
