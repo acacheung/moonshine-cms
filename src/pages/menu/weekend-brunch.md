@@ -234,7 +234,10 @@ subgroups:
     items:
       - description: '  Layered Blueberry Pie Topping, Whipped Cream Cheese Filling, Toasted Almond Shortbread      '
         price: '12'
-        title: 'Summer Blueberry Jamboree                    '
+        title: 'Menu Addition: Summer Blueberry Jamboree                    '
+      - description: ' Housemade Peaches & Cream Biscuit, served with House Persian Saffron Ice Cream, Toasted Pistachios, Rose Water Caramel, Pomegranate'
+        price: '15'
+        title: 'Menu Addition: warm Persian Peach Cobbler'
       - description: 'Whipped chantilly cream, Toasted oat-amaranth streusel '
         price: '12'
         title: 'Butterscotch Pudding '
