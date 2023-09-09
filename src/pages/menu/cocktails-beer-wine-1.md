@@ -113,10 +113,10 @@ subgroups:
         price: '7'
         title: 'Corona Extra '
       - description: '16oz tallboy can '
-        price: '8'
+        price: '6'
         title: 'Smuttynose Brewing Limited Release Sour "Cherry Limeade" '
       - description: 12 oz can
-        price: '6'
+        price: '4'
         title: 'Downeast Cider Strawberry '
       - description: '16 oz tallboy can '
         price: '7'
@@ -131,7 +131,7 @@ subgroups:
         price: '7'
         title: 'Night Shift Brewing "Nite Lite" Light Lager '
       - description: '16 oz tallboy can '
-        price: '5'
+        price: '4'
         title: 'Zero Gravity "Green State" Lager '
       - description: '160z tallboy can '
         price: '7'
@@ -140,7 +140,7 @@ subgroups:
         price: '6'
         title: 'Bell''s Brewing "Oberon" Wheat Ale '
       - description: 16 oz tallboy can
-        price: '8'
+        price: '6'
         title: Jacks Abby  "ray catcher" golden rice  lager
       - description: '16 oz tallboy can '
         price: '7'
@@ -155,7 +155,7 @@ subgroups:
         price: '9'
         title: Lord Hobo "BoomSauce" Double IPA
       - description: '16 oz tallboy can '
-        price: '9'
+        price: '7'
         title: True North Ale Co. "Northern Haze" NE  IPA
       - description: '16 oz nitro can '
         price: '7'
