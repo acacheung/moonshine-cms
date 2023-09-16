@@ -54,11 +54,6 @@ subgroups:
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
       - description: >-
-          Heirloom Cherry Tomatoes, Herbed Goat Cheese, Fresh Basil, Aged
-          Balsamic    
-        price: 17 regular / grande 29
-        title: 'Menu Addition:  Heirloom Tomato & Watermelon Salad '
-      - description: >-
           Local honey, Fresh berries, Maple Rice Krispie Granola Crunch **add a
           belgian waffle $7**
         price: 9 / 14
