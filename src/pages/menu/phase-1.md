@@ -10,11 +10,6 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
-          Heirloom Cherry Tomatoes, Herbed Goat Cheese, Fresh Basil and Aged
-          Balsamic
-        price: 17 / 29
-        title: 'Menu Addition: Summer Heirloom Tomato-Watermelon Salad '
-      - description: >-
           Bulgogi Beef Shortrib, Salsa Fresca,  Melted Cheese, Smoky Sriracha
           Mayo, Shredded Lettuce, Tater Tots & Birria Dipping Jus  
         price: '$18 (2 tacos) / $28 (3 tacos)  '
