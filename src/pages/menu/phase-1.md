@@ -55,6 +55,12 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
+          Basil Marinated Grilled Calamari & Octopus served over Baby Spinach
+          Salad with Mandarin Oranges, Citron Butter & Roasted Kale 
+                                     
+        price: '19 / 32 '
+        title: 'Menu Addition: Chef Asia''s Famous Grilled Calamari & Octopus Salad'
+      - description: >-
           Grilled Sweet Summer Corn, Heirloom Tomatoes, Crumbled Cotija Cheese,
           Citrus Aioli & Scallions  
         price: '17 regular / 28 grande '
