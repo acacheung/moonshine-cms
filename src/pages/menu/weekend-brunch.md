@@ -227,6 +227,9 @@ subgroups:
     title: All the sides & Fixin’s
   - description: ' (Dessert)'
     items:
+      - description: '                   Housemade Peaches & Cream Biscuit served with Persian Saffron Ice Cream, Toasted Pistachios, Rose Water Caramel, Pomegranate   '
+        price: '15    '
+        title: ' Menu Addition: Warm Persian Peach Cobber Biscuit  '
       - description: '  Layered Blueberry Pie Topping, Whipped Cream Cheese Filling, Toasted Almond Shortbread      '
         price: '12'
         title: 'Menu Addition: Summer Blueberry Jamboree                    '
