@@ -7,8 +7,9 @@ subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
       - description: >-
-          Carda-Bomb: Mad River Vanilla Bean Rum, Strawberry Jello, Cardamon
-          Syrup, Fresh Lime  
+          "Late Summer Negroni: “Negroni Base” (Gin, Campari & Sweet
+          Vermouth),                            Orange-Cherry Jello, Dark Cherry
+          Syrup     
         price: '6'
         title: Chef Asia's Rotating Jello Shots
       - description: >
