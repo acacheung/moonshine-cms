@@ -44,6 +44,9 @@ subgroups:
       - description: 'Xicaru Mezcal, Bully Boy Amaro, Combier Pamplemousse, Fresh Lemon '
         price: '14'
         title: Matador's Bull
+      - description: '888 Blueberry Vodka layered with House Lemonade '
+        price: '13'
+        title: Meet Me in Nantucket
       - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime'
         price: '14'
         title: Patron Saint of Southie
@@ -135,7 +138,7 @@ subgroups:
         price: '4'
         title: 'Zero Gravity "Green State" Lager '
       - description: '160z tallboy can '
-        price: '7'
+        price: '5'
         title: 'Allagash White '
       - description: '16oz tallboy can '
         price: '6'
@@ -156,7 +159,7 @@ subgroups:
         price: '9'
         title: Lord Hobo "BoomSauce" Double IPA
       - description: '16 oz tallboy can '
-        price: '7'
+        price: '6'
         title: True North Ale Co. "Northern Haze" NE  IPA
       - description: '16 oz nitro can '
         price: '7'
@@ -168,7 +171,7 @@ subgroups:
         price: '6'
         title: Athletic Brewing co "Free Wave" IPA  (non-alcoholic)
       - description: 12oz can
-        price: '7'
+        price: '5'
         title: Athletic Brewing co "ripe pursuit" lemon radler  (non-alcoholic)
       - description: 12 oz can
         price: '6'
