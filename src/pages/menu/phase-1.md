@@ -61,11 +61,6 @@ subgroups:
         price: '19 / 32 '
         title: 'Menu Addition: Chef Asia''s Famous Grilled Calamari & Octopus Salad'
       - description: >-
-          Grilled Sweet Summer Corn, Heirloom Tomatoes, Crumbled Cotija Cheese,
-          Citrus Aioli & Scallions  
-        price: '17 regular / 28 grande '
-        title: 'Menu Addition: Summer Street Corn Salad '
-      - description: >-
           Chef Asia’s Famous Chilled Beet Soup: Roasted Beets, Dill Creme
           Fraiche, Cucumber Ribbons   
         price: '12 regular / 19 grande '
