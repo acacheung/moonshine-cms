@@ -106,7 +106,7 @@ subgroups:
       - description: >-
           Beefy-Cheesy Stuffed Enchilada Pie, Spicy Tomato Sauce, Shredded 
           Cabbage, Salsa Fresca, Sour Cream    ...add fried egg $2 ...add
-          jalapeno bacon $4 ...add sliced jalapenos $2 
+          jalapeno bacon $4 ...add sliced jalapenos $2... add avocado slices $3
         price: '23'
         title: 'Menu Addition: Green Chili Breakfast Enchilada Pie'
       - description: >-
