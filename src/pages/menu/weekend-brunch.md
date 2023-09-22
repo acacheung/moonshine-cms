@@ -228,6 +228,8 @@ subgroups:
         title: 'Add Melted Cheese To Any Dish '
       - price: '2'
         title: 'Add Sliced Jalapenos To Any Dish '
+      - price: '3'
+        title: add sliced avocados to any dish
       - description: >-
           compliment your dish with one of Chef Asia's homemade sauces : Poblano
           ranch, Sweet chili honey, Sherry pesto aioli, Curry goddess aoili,
