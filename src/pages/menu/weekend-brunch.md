@@ -28,6 +28,9 @@ subgroups:
       - description: 'Bison Grass Vodka, Cinnamon, Apple, Lemon '
         price: '13'
         title: 'R.I.P. Li’l Sebastian '
+      - description: 'london dry gin, aperol, fresh lemon, prosecco '
+        price: '13'
+        title: treat to self
       - description: 'Whiskey, Boozy Cream, Iced Coffee '
         price: '13'
         title: 'Good Morning Pawnee '
