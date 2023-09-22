@@ -18,6 +18,13 @@ subgroups:
         price: '17 regular / 28 grande '
         title: 'Menu Additon: grilled Summer Street Corn Salad '
       - description: >-
+          Classic ‘Shine Iceberg Wedge Salad with all your favorite superfoods…
+          Blueberry- Chia Beet Vinaigrette, Turmeric Roasted Broccoli & Sweet
+          Potatoes, Avocado, Heirloom Quinoa, Cotija Cheese, Roasted Kale,
+          Oat-Amaranth Flax Crumble   
+        price: '17 regular / 28 grande '
+        title: 'Menu Addition: Antioxidant-Super Wedge Salad'
+      - description: >-
           Bulgogi Beef Shortrib, Salsa Fresca,  Melted Cheese, Smoky Sriracha
           Mayo, Shredded Lettuce, Tater Tots & Birria Dipping Jus  
         price: '$18 (2 tacos) / $28 (3 tacos)  '
