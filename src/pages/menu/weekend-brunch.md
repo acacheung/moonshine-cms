@@ -55,6 +55,18 @@ subgroups:
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
       - description: >-
+          Classic ‘Shine  Iceberg Wedge Salad with all your favorite superfoods…
+          Blueberry- Chia Beet Vinaigrette, Turmeric Roasted Broccoli & Sweet
+          Potatoes, Avocado, Heirloom Quinoa, Cotija Cheese, Roasted Kale,
+          Oat-Amaranth Flax Crumble    
+        price: 17 regular / 28 grande
+        title: 'Menu Addition: Antioxidant-Super Wedge Salad'
+      - description: >-
+          Grilled Sweet Summer Corn, Heirloom Tomatoes, Cotija Cheese, Citrus
+          Aioli & Scallions    
+        price: '17 regular / 28 grande '
+        title: 'Menu Addition: Grilled Summer Street Corn Salad '
+      - description: >-
           Local honey, Fresh berries, Maple Rice Krispie Granola Crunch **add a
           belgian waffle $7**
         price: 9 / 14
