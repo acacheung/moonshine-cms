@@ -234,6 +234,8 @@ subgroups:
         title: ADD CHEDDAR CHEESE TO ANY DISH
       - price: '2 '
         title: ADD SLICED JALAPENOS TO ANY DISH
+      - price: '3 '
+        title: Add sliced avocado to any dish
       - price: '7'
         title: SIDE OF JALAPENO BACON
       - price: '3 '
