@@ -9,6 +9,14 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
+      - description: 'served with House Corn Tortilla Chips '
+        price: 16 regular / 27 grande
+        title: 'Menu Addition: warm Spinach Artichoke Dip'
+      - description: >-
+          Grilled Sweet Summer Corn, Crumbled Cotija Cheese, Rustic Marinated
+          Tomatoes, Citrus Aioli, Scallions 
+        price: '17 regular / 28 grande '
+        title: 'Menu Additon: grilled Summer Street Corn Salad '
       - description: >-
           Bulgogi Beef Shortrib, Salsa Fresca,  Melted Cheese, Smoky Sriracha
           Mayo, Shredded Lettuce, Tater Tots & Birria Dipping Jus  
