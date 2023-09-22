@@ -121,8 +121,11 @@ subgroups:
         price: '14 regular  / 21 grande '
         title: 'Tater Tot Poutine '
       - description: >-
-          Tasso ham hollandaise sauce, Fried egg, Spinach, Housemade english
-          muffin 
+          Fresh Maine Crab Salad, Tasso Ham Hollandaise Sauce, Fried Eggs,
+          Sauteed Baby Spinach, Housemade English Muffin **Not a fan of crab?
+          Looking for something different? Just ask your server to swap it out
+          for either Pecanwood Bacon, Jalapeno Bacon, or our Famous Corned Beef
+          Hash for no additional charge**
         price: '19'
         title: ’Shine Crab Eggs Benedict**
       - description: 'Spiced homefries, Petite mixed greens'
