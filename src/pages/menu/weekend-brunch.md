@@ -131,20 +131,23 @@ subgroups:
           Hash for no additional charge**
         price: '19'
         title: ’Shine Crab Eggs Benedict**
+      - description: 'Melt-in-your-mouth corned beef, Scrambled eggs, Housemade beer bread '
+        price: '19'
+        title: ’Shine Southie Corned Beef Hash**
       - description: 'Spiced homefries, Petite mixed greens'
         price: '19'
         title: Sauteed Mushroom & Swiss Omelet**
+      - description: 'Sauteed kale, Spiced homefries, Petite mixed greens salad'
+        price: '19'
+        title: Vegan Turmeric Tofu Scramble
+      - description: 'Pan-seared shrimp, Spicy cheese grits, Sherry pan sauce '
+        price: '22'
+        title: 'Cajun Shrimp & Grits '
       - description: >-
           Scrambled eggs, Pan-Seared Polenta, Rustic Spicy Tomato Sauce, Fresh
           Lemon Zest & Your Choice of Bacon 
         price: '19'
         title: 'Tommy G’s Favorite Romani Polenta & Eggs Scramble '
-      - description: 'Melt-in-your-mouth corned beef, Scrambled eggs, Housemade beer bread '
-        price: '19'
-        title: ’Shine Southie Corned Beef Hash**
-      - description: 'Sauteed kale, Spiced homefries, Petite mixed greens salad'
-        price: '19'
-        title: Vegan Turmeric Tofu Scramble
       - description: >-
           Smoky pulled pork, Scrambled egg, Tomato salsa, Petite mixed greens
           salad, House-cut shoestring fries
@@ -152,9 +155,6 @@ subgroups:
         title: >-
           Ron Swanson Brunch Inspired Chipotle Pulled Pork Scallion Pancake
           Quesadilla (AVAILABLE VEGETARIAN   25)**
-      - description: 'Pan-seared shrimp, Spicy cheese grits, Sherry pan sauce '
-        price: $22.00
-        title: 'Cajun Shrimp & Grits '
     title: The Main Affair
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
