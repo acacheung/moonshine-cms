@@ -78,10 +78,8 @@ subgroups:
     items:
       - price: '5'
         title: (draft) miller high life
-      - price: '6'
-        title: >-
-          (draft) Lord Hobo Brewing  "Richie's Watermelon Wheat" American Pale
-          Wheat Beer 
+      - price: '7'
+        title: '(draft) Zero Gravity "Green State" Lager '
       - price: '7'
         title: (Draft) Downeast Unfiltered Cider
       - price: '8'
@@ -135,8 +133,8 @@ subgroups:
         price: '7'
         title: 'Night Shift Brewing "Nite Lite" Light Lager '
       - description: '16 oz tallboy can '
-        price: '4'
-        title: 'Zero Gravity "Green State" Lager '
+        price: '7'
+        title: 'Jack''s Abby "Copper Legend" Oktoberfest '
       - description: '160z tallboy can '
         price: '5'
         title: 'Allagash White '
