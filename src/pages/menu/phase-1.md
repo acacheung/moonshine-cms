@@ -96,6 +96,8 @@ subgroups:
     title: Next Level Favorites
   - description: 'Add your favorite proteins to any dish on the menu! '
     items:
+      - price: '3'
+        title: sliced avocado
       - price: '5'
         title: Heirloom White Quinoa
       - description: add cheddar cheese...2
