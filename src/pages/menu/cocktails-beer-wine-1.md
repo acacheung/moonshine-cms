@@ -132,21 +132,21 @@ subgroups:
       - description: '16oz tallboy can '
         price: '7'
         title: 'Night Shift Brewing "Nite Lite" Light Lager '
+      - description: 16 oz tallboy can
+        price: '6'
+        title: Jacks Abby  "ray catcher" golden rice  lager
       - description: '16 oz tallboy can '
         price: '7'
         title: 'Jack''s Abby "Copper Legend" Oktoberfest '
+      - description: '16 oz tallboy can '
+        price: '7'
+        title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
       - description: '160z tallboy can '
         price: '5'
         title: 'Allagash White '
       - description: '16oz tallboy can '
         price: '6'
         title: 'Bell''s Brewing "Oberon" Wheat Ale '
-      - description: 16 oz tallboy can
-        price: '6'
-        title: Jacks Abby  "ray catcher" golden rice  lager
-      - description: '16 oz tallboy can '
-        price: '7'
-        title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
