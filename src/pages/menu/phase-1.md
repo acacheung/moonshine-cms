@@ -13,11 +13,6 @@ subgroups:
         price: 16 regular / 27 grande
         title: 'Menu Addition: warm Spinach Artichoke Dip'
       - description: >-
-          Grilled Sweet Summer Corn, Crumbled Cotija Cheese, Rustic Marinated
-          Tomatoes, Citrus Aioli, Scallions 
-        price: '17 regular / 28 grande '
-        title: 'Menu Additon: grilled Summer Street Corn Salad '
-      - description: >-
           Classic ‘Shine Iceberg Wedge Salad with all your favorite superfoods…
           Blueberry- Chia Beet Vinaigrette, Turmeric Roasted Broccoli & Sweet
           Potatoes, Avocado, Heirloom Quinoa, Cotija Cheese, Roasted Kale,
