@@ -68,11 +68,6 @@ subgroups:
           Citrus 
         price: '14'
         title: Sahil's ginger hibiscus red sangria
-      - description: >-
-          Mediterranean White Wine Blend, Lime Zest Infused Vodka, Pamplemouse
-          Grapefruit Liqueur, Pineapple, Fresh Citrus Juices 
-        price: '14'
-        title: ARae's Citrus Blast White Sangria
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
