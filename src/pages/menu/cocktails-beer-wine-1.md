@@ -44,9 +44,9 @@ subgroups:
       - description: 'Xicaru Mezcal, Bully Boy Amaro, Combier Pamplemousse, Fresh Lemon '
         price: '14'
         title: Matador's Bull
-      - description: '888 Blueberry Vodka layered with House Lemonade '
+      - description: '888 Cranberry Infused Vodka layered with House Cranberry Limeade '
         price: '13'
-        title: Meet Me in Nantucket
+        title: A Cape Codder Goes To Nantucket
       - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime'
         price: '14'
         title: Patron Saint of Southie
