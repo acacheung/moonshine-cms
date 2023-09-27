@@ -154,8 +154,8 @@ subgroups:
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >-
-          Chef Asia’s Famous Chilled Beet Soup: Roasted Beets, Dill Creme
-          Fraiche, Cucumber Ribbons   
+          Spicy Tomato Bisque: Creamy Tomato Soup, Crushed Roma Tomatoes, Hint
+          of House Sriracha
         price: '12 / 19 '
         title: 'Chef’s Whim Soup for the Soul '
       - description: >
