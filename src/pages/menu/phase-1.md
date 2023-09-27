@@ -131,10 +131,11 @@ subgroups:
         price: 17 regular / 25 grande
         title: CHARSIU PULLED DUCK TACOS
       - description: >-
-          Fennel roasted cauliflower, Curry goddess aioli, sesame candied
-          walnuts, tempura crunchies
+          Tempura Veggie Burger Bites, Pickled Red Cabbage, Toasted Cumin Crema,
+          Shredded Lettuce, Tomato Salsa                             *Available
+          Vegan 
         price: 15 regular / 22 grande
-        title: ROASTED CAULIFLOWER TACOS
+        title: CRISPY MUSHROOM TOFU TACOS
       - description: >-
           Beer battered tempura cod, mango-cabbage slaw, sweet chili, ginger
           aioli
