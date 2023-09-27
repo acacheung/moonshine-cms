@@ -9,6 +9,12 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
+      - description: >-
+          Cranberry-Pecan Bread, Melted Cheddar, Sliced Honeycrisp Apples, Fried
+          Sage, Shoestring French Fries *Add a Cup of Tomato Bisque $7 *Add
+          Fried egg $2 *Add Jalapeño Bacon $4 *Available Vegetarian
+        price: '19'
+        title: 'Menu Addition: Autumn Candied Bacon Grilled Cheese'
       - description: 'served with House Corn Tortilla Chips '
         price: 16 regular / 27 grande
         title: 'Menu Addition: warm Spinach Artichoke Dip'
@@ -66,8 +72,8 @@ subgroups:
         price: '19 / 32 '
         title: 'Menu Addition: Chef Asia''s Famous Grilled Calamari & Octopus Salad'
       - description: >-
-          Chef Asia’s Famous Chilled Beet Soup: Roasted Beets, Dill Creme
-          Fraiche, Cucumber Ribbons   
+          Spicy Tomato Bisque: Creamy Tomato Soup, Crushed Roma Tomatoes, Hint
+          of House Sriracha (veg)
         price: '12 regular / 19 grande '
         title: Chef's Whim Soup for the Soul
       - description: >-
