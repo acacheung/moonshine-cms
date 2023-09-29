@@ -9,12 +9,6 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
-      - description: >-
-          Cranberry-Pecan Bread, Melted Cheddar, Sliced Honeycrisp Apples, Fried
-          Sage, Shoestring French Fries *Add a Cup of Tomato Bisque $7 *Add
-          Fried egg $2 *Add Jalapeño Bacon $4 *Available Vegetarian
-        price: '19'
-        title: 'Menu Addition: Autumn Candied Bacon Grilled Cheese'
       - description: 'served with House Corn Tortilla Chips '
         price: 16 regular / 27 grande
         title: 'Menu Addition: warm Spinach Artichoke Dip'
@@ -30,6 +24,12 @@ subgroups:
           Mayo, Shredded Lettuce, Tater Tots & Birria Dipping Jus  
         price: '$18 (2 tacos) / $28 (3 tacos)  '
         title: 'Menu Addition: Birria Gringo Tacos         '
+      - description: >-
+          Cranberry-Pecan Bread, Melted Cheddar, Sliced Honeycrisp Apples, Fried
+          Sage, Shoestring French Fries *Add a Cup of Tomato Bisque $7 *Add
+          Fried egg $2 *Add Jalapeño Bacon $4 *Available Vegetarian
+        price: '19'
+        title: 'Menu Addition: Autumn Candied Bacon Grilled Cheese'
       - description: >-
           Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
@@ -263,9 +263,6 @@ subgroups:
           denomination
         price: $$
         title: Moonshine 152 Gift Cards
-      - description: 'Sunflower Seed Butter, Whole Wheat Flour, Beef Stock, Puppy Love '
-        price: ' 7 regular / 12 grande  '
-        title: 'Homemade ‘Shine Doggie Treats  '
       - description: >-
           (Everything Bagel) Spice Up Your Life with a 3oz Mason Jar of Chef
           Asia’s Homemade Everything Bagel Spice Mix 
