@@ -269,9 +269,6 @@ subgroups:
           denomination
         price: $$
         title: Moonshine 152 Gift Cards
-      - description: 'Sunflower Seed Butter, Whole Wheat Flour, Beef Stock, Puppy Love'
-        price: 7 regular / 12 grande
-        title: Homemade ‘Shine Doggie Treats
       - description: >-
           (Everything Bagel) Spice Up Your Life with a 3oz Mason Jar of Chef
           Asia’s Homemade Everything Bagel Spice Mix 
