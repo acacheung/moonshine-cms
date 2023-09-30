@@ -47,14 +47,19 @@ subgroups:
       - description: '888 Cranberry Infused Vodka layered with House Cranberry Limeade '
         price: '13'
         title: A Cape Codder Goes To Nantucket
-      - description: 'Irish Whiskey, Peach Liqueur, White Cranberry, Fresh Lime'
+      - description: >-
+          Uncle Nearest 1884 Small Batch Whiskey, Combier Peche Liqueur, White
+          Cranberry, Fresh Lime
         price: '14'
-        title: Patron Saint of Southie
+        title: Fawn's Fancy
       - description: >-
           Black Infusions Apricot Infused Vodka Combier Peche, Apricot Puree,
           Fresh Lemon 
         price: '14'
         title: sUMMER STONES
+      - description: 'Mango-Citrus Infused Tennessee Moonshine, Rumchata, Orange Juice '
+        price: '13'
+        title: '(mango) Lassi Come Home '
       - description: >-
           Bison Grass Vodka, Kumquat-Orange Blossom Syrup. Prosecco Bubbles,
           Lychee Popping Boba 
