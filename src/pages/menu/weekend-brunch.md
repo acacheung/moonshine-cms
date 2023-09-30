@@ -106,7 +106,7 @@ subgroups:
           Cabbage, Salsa Fresca, Sour Cream    ...add fried egg $2 ...add
           jalapeno bacon $4 ...add sliced jalapenos $2... add avocado slices $3
         price: '23'
-        title: 'Menu Addition: Green Chili Breakfast Enchilada Pie'
+        title: 'Menu Addition: Beefy-Cheesy Breakfast Enchilada Pie'
       - description: >-
           Grilled Marinated Skirt Steak, Two Fried Eggs, Buttermilk Biscuits &
           Gravy w/ White Pepper Sausage Gravy & Chef Asia’s Best Ever Buttermilk
