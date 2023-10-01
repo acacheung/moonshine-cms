@@ -191,12 +191,12 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          “The MAC & CHEESE” Burger topped with a Crispy Fried Mac & Cheese
-          Fritter & Warm Triple Cheese Queso
-          Sauce                                                                       
-          …add fried egg $2  ..add jalapeno bacon $4
+          “The Spice-Spice Baby” Burger topped with a House Basic B*tch Pumpkin
+          Spiced Latke, Smoked Gouda Cheese, Cinnamon Sugar Apple Compote, Sour
+          Cream, Fried Sage   …add fried egg $2..add jalapeno bacon $4…add
+          sliced avocado $3          
         price: '24'
-        title: September 2023 VIP burger of the month
+        title: October 2023 VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: ' All the sides & Fixin’s'
     items:
