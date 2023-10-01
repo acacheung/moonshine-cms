@@ -188,18 +188,13 @@ subgroups:
         price: '19'
         title: GRASS-FED ’SHINE BEEF BURGER**
       - description: >-
-          “The MAC & CHEESE” Burger topped with a Crispy Fried Mac & Cheese
-          Fritter & Warm Triple Cheese Queso
-          Sauce                                                                   
-          …add fried egg $2  ..add jalapeno bacon $4
+          “The Spice-Spice Baby” Burger topped with a House Basic B*tch Pumpkin
+          Spiced Latke, Smoked Gouda Cheese, Cinnamon Sugar Apple Compote, Sour
+          Cream, Fried Sage   …add fried egg $2..add jalapeno bacon $4…add
+          sliced avocado
+          $3                                                              
         price: '24'
-        title: September 2023 VIP burger of the month
-      - description: >-
-          Moonshine’s Best of Boston fried chicken, Belgian waffle,
-          sriracha-bourbon awesome sauce, cinnamon honey butter ** GO GRANDE by
-          adding an additional Belgian Waffle for $7**
-        price: '27'
-        title: LESLIE KNOPE’S “FRIED CHICKEN AND WAFFLE”
+        title: October 2023 VIP burger of the month
       - description: >-
           Smoky pulled pork, scrambled egg, tomato, petite mixed greens salad,
           teriyaki, sweet chili glaze, house-cut shoestring french fries...
@@ -208,6 +203,12 @@ subgroups:
         title: >-
           RON SWANSON BRUNCH-INSPIRED CHIPOTLE PULLED PORK SCALLION PANCAKE
           QUESADILLA**
+      - description: >-
+          Moonshine’s Best of Boston fried chicken, Belgian waffle,
+          sriracha-bourbon awesome sauce, cinnamon honey butter ** GO GRANDE by
+          adding an additional Belgian Waffle for $7**
+        price: '27'
+        title: LESLIE KNOPE’S “FRIED CHICKEN AND WAFFLE”
       - description: >-
           Cajun grilled fish of the day, fried pickled green tomatoes,
           srirachi-shrimp uni butter, sauteed tomatoes... add a side of white
