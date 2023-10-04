@@ -222,7 +222,7 @@ subgroups:
         title: (red) 2019 Charles & Charles "Double Trouble" Cabernet/Syrah Blend
       - description: 'Mendoza, Argentina '
         price: 14 / 50
-        title: '(red) 2020 Caligiore Malbec (Single Vineyard & Organic) '
+        title: (red) 2021 Bodega Santa Julia Organic Malbec
       - description: 'Napa County, CA, USA '
         price: 15 / 58
         title: '(RED) 2020 Joel Gott Pinot Noir '
