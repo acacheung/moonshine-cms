@@ -120,6 +120,9 @@ subgroups:
       - description: 12 oz can
         price: '4'
         title: 'Downeast Cider Strawberry '
+      - description: 12 oz Pumpkin Cider
+        price: '6'
+        title: Downeast Pumpkin Blend
       - description: '16 oz tallboy can '
         price: '7'
         title: Stormalong "Mass Appeal" Hard Cider
@@ -156,9 +159,6 @@ subgroups:
       - description: '16oz tallboy can '
         price: '9'
         title: Lord Hobo "BoomSauce" Double IPA
-      - description: '16 oz tallboy can '
-        price: '6'
-        title: True North Ale Co. "Northern Haze" NE  IPA
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
