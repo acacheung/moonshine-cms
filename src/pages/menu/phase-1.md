@@ -210,12 +210,6 @@ subgroups:
         price: '27'
         title: LESLIE KNOPE’S “FRIED CHICKEN AND WAFFLE”
       - description: >-
-          Cajun grilled fish of the day, fried pickled green tomatoes,
-          srirachi-shrimp uni butter, sauteed tomatoes... add a side of white
-          rice 5
-        price: '29'
-        title: CAJUN GRILLED FISH OF THE DAY**
-      - description: >-
           Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
         price: '29'
