@@ -118,8 +118,6 @@ subgroups:
       - price: '13'
         title: SAUTÉED BABY SHRIMP**
       - price: '15'
-        title: CAJUN GRILLED FISH OF THE DAY**
-      - price: '15'
         title: Marinated Skirt Steak**
     title: Add Ons!
   - description: 'Regular= 2 Tacos Go Grande = 3 Tacos '
