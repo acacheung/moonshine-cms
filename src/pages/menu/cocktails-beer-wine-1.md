@@ -79,7 +79,7 @@ subgroups:
       - price: '5'
         title: (draft) miller high life
       - price: '7'
-        title: '(draft) Zero Gravity "Green State" Lager '
+        title: '(draft) Allagash White '
       - price: '7'
         title: (Draft) Downeast Unfiltered Cider
       - price: '8'
@@ -117,9 +117,6 @@ subgroups:
       - description: '16oz tallboy can '
         price: '6'
         title: 'Smuttynose Brewing Limited Release Sour "Cherry Limeade" '
-      - description: 12 oz can
-        price: '4'
-        title: 'Downeast Cider Strawberry '
       - description: 12 oz Pumpkin Cider
         price: '6'
         title: Downeast Pumpkin Blend
@@ -138,15 +135,15 @@ subgroups:
       - description: 16 oz tallboy can
         price: '6'
         title: Jacks Abby  "ray catcher" golden rice  lager
+      - description: '160z tallboy can '
+        price: '6'
+        title: 'Zero Gravity "green state" lager '
       - description: '16 oz tallboy can '
         price: '7'
         title: 'Jack''s Abby "Copper Legend" Oktoberfest '
       - description: '16 oz tallboy can '
         price: '7'
         title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
-      - description: '160z tallboy can '
-        price: '5'
-        title: 'Allagash White '
       - description: '16oz tallboy can '
         price: '6'
         title: 'Bell''s Brewing "Oberon" Wheat Ale '
@@ -156,8 +153,11 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '7'
         title: Castle Island Brewing "Keeper" IPA
+      - description: 16 oz tallboy can
+        price: '7'
+        title: 'Allagash Brewing "Hop Reach" IPA '
       - description: '16oz tallboy can '
-        price: '9'
+        price: '8'
         title: Lord Hobo "BoomSauce" Double IPA
       - description: '16 oz nitro can '
         price: '7'
