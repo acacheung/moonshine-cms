@@ -6,12 +6,14 @@ order: 5
 subgroups:
   - description: Add a Belgian waffle to your favorite dessert $7
     items:
-      - description: '             Layered Blueberry Pie Topping, Whipped Cream Cheese Filling, Toasted Almond Shortbread'
-        price: '12'
-        title: 'Menu Addition: Summer Blueberry Jamboree'
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
+      - description: >-
+          Housemade Peaches & Cream Biscuit served with Persian Saffron Ice
+          Cream, Toasted Pistachios, Rose Water Caramel, Pomegranate   
+        price: '15'
+        title: 'Menu Addition: Warm Persian Peach Cobbler Biscuit '
       - description: 'Powdered sugar, nutella chocolate fudge sauce'
         price: '12'
         title: Jaime’s Favorite Oreo Cookie Layered Fudge Brownie
