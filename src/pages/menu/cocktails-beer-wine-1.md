@@ -185,17 +185,15 @@ subgroups:
       - description: 'Veneto, ITALY'
         price: 14      (187ml mini bottle)
         title: '(sparkling rose) NV Casa Vinicola Canella Rose Brut '
-      - description: '  '
+      - description: >
+          The Lini family are a fourth-generation, family-owned and operated
+          winery dedicated to the art of making Lambrusco, sparkling red wine.
+          This mostly dry wine has notes of cherries, blueberries, sweet herbs
+          and spice with zesty acids & salty minerals on the palate. 
         price: 45/bottle
-        title: '(sparkling red)  NV Lini 910 Lambrusca Rosso  (Emilia Romagna, IT) '
-      - description: >-
-          Made from 100% Grenache grapes,  this rose is crisp, elegant &
-          light-bodied showing hints of strawberry                       on the
-          nose and palate.   
-        price: '32 / bottle '
         title: >-
-          (rose) treat yo self bottle special:  2022 Borsao Rose Campo De
-          Borja     
+          (sparkling red)  Treat Yo Self Bottle Special: NV Lini 910 Lambrusca
+          Rosso  (Emilia Romagna, IT) 
       - description: 'Columbia Valley, WA, USA '
         price: 13  /  46
         title: (rose) 2021 Charles & Charles Rose
@@ -205,6 +203,14 @@ subgroups:
       - description: 'Provence, France'
         price: 15 / 58
         title: (rose) 2022 Whispering Angel Rose
+      - description: >-
+          Made from 100% Grenache grapes,  this rose is crisp, elegant &
+          light-bodied showing hints of strawberry                       on the
+          nose and palate.   
+        price: '32 / bottle '
+        title: >-
+          (rose) treat yo self bottle special:  2022 Borsao Rose Campo De
+          Borja     
       - description: 'Veneto, Italy '
         price: 11  /  42
         title: '(White) 2020 Zenato Pinot Grigio '
@@ -217,6 +223,11 @@ subgroups:
       - description: 'Marlborough, New Zealand '
         price: 14 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
+      - description: "Chardonnay\tis\tthe\tmost\twidely\tplanted\tgrape\tin\tCalifornia &\tMannequin\twas\tcreated\t\nto\thighlight the varietals of different\tappellations\t across the\tstate for a wine represents\tsome\tof\tthe\tbest\tChardonnay\tgrowing\tareas\tin\tCA in\ta\tsingle\tblend. Notes of ripe Bosc pear, yellow peach & wet stone with a bright, acidic finish "
+        price: '45'
+        title: >-
+          (white) treat yo self bottle special:  Orin Swift "Mannequin"
+          Chardonnay  (california)
       - description: 'Columbia valley, WA, USA '
         price: 13 / 47
         title: (red) 2019 Charles & Charles "Double Trouble" Cabernet/Syrah Blend
