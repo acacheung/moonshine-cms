@@ -108,6 +108,12 @@ subgroups:
         price: '23'
         title: 'Menu Addition: Beefy-Cheesy Breakfast Enchilada Pie'
       - description: >-
+          Tender  Beef Brisket wrapped in a  Scallion Pancake
+          with                                        Pho Noodle Salad &  Bacony
+          Pho Bone Broth for Dipping   
+        price: '27'
+        title: 'Menu Addition: Chef Asia’s Famous Beef Brisket “Phoritto” '
+      - description: >-
           Grilled Marinated Skirt Steak, Two Fried Eggs, Buttermilk Biscuits &
           Gravy w/ White Pepper Sausage Gravy & Chef Asia’s Best Ever Buttermilk
           Biscuits
@@ -246,9 +252,6 @@ subgroups:
       - description: '                   Housemade Peaches & Cream Biscuit served with Persian Saffron Ice Cream, Toasted Pistachios, Rose Water Caramel, Pomegranate   '
         price: '15    '
         title: ' Menu Addition: Warm Persian Peach Cobber Biscuit  '
-      - description: '  Layered Blueberry Pie Topping, Whipped Cream Cheese Filling, Toasted Almond Shortbread      '
-        price: '12'
-        title: 'Menu Addition: Summer Blueberry Jamboree                    '
       - description: 'Whipped chantilly cream, Toasted oat-amaranth streusel '
         price: '12'
         title: 'Butterscotch Pudding '
