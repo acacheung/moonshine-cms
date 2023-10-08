@@ -249,9 +249,6 @@ subgroups:
     title: All the sides & Fixin’s
   - description: ' (Dessert)'
     items:
-      - description: '                   Housemade Peaches & Cream Biscuit served with Persian Saffron Ice Cream, Toasted Pistachios, Rose Water Caramel, Pomegranate   '
-        price: '15    '
-        title: ' Menu Addition: Warm Persian Peach Cobber Biscuit  '
       - description: 'Whipped chantilly cream, Toasted oat-amaranth streusel '
         price: '12'
         title: 'Butterscotch Pudding '
