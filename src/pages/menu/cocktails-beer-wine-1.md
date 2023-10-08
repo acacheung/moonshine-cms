@@ -220,17 +220,17 @@ subgroups:
       - description: 'Elqui Valley, Coquimbo, Chile'
         price: 12 / 45
         title: (white) 2022 Mayu Pedro Ximenez
-      - description: 'Napa County, CA, USA '
-        price: 15 / 58
-        title: '(RED) 2020 Joel Gott Pinot Noir '
       - description: 'Marlborough, New Zealand '
         price: 14 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
       - description: "Chardonnay\tis\tthe\tmost\twidely\tplanted\tgrape\tin\tCalifornia &\tMannequin\twas\tcreated\t\nto\thighlight the varietals of different\tappellations\t across the\tstate for a wine represents\tsome\tof\tthe\tbest\tChardonnay\tgrowing\tareas\tin\tCA in\ta\tsingle\tblend. Notes of ripe Bosc pear, yellow peach & wet stone with a bright, acidic finish "
-        price: '45'
+        price: '45 / bottle '
         title: >-
           (white) treat yo self bottle special:  Orin Swift "Mannequin"
           Chardonnay  (california)
+      - description: 'Napa County, CA, USA '
+        price: 15 / 58
+        title: '(RED) 2020 Joel Gott Pinot Noir '
       - description: 'Mendoza, Argentina '
         price: 14 / 50
         title: (red) 2021 Bodega Santa Julia Organic Malbec
@@ -247,7 +247,7 @@ subgroups:
           Classic & well-structured with soft and approachable notes of black
           plum, dark cherry and cassis with hints of black licorice from pioner
           winemakers in the world-famous Napa Valley , CA
-        price: '50'
+        price: '50 /  bottle '
         title: >-
           (red) treat yo self bottle special: 2020 Lous martini Napa Cabernet
           sauvignon (Napa Valley, CA)
