@@ -220,6 +220,9 @@ subgroups:
       - description: 'Elqui Valley, Coquimbo, Chile'
         price: 12 / 45
         title: (white) 2022 Mayu Pedro Ximenez
+      - description: 'Napa County, CA, USA '
+        price: 15 / 58
+        title: '(RED) 2020 Joel Gott Pinot Noir '
       - description: 'Marlborough, New Zealand '
         price: 14 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
@@ -228,18 +231,12 @@ subgroups:
         title: >-
           (white) treat yo self bottle special:  Orin Swift "Mannequin"
           Chardonnay  (california)
-      - description: 'Columbia valley, WA, USA '
-        price: 13 / 47
-        title: (red) 2019 Charles & Charles "Double Trouble" Cabernet/Syrah Blend
       - description: 'Mendoza, Argentina '
         price: 14 / 50
         title: (red) 2021 Bodega Santa Julia Organic Malbec
-      - description: 'Napa County, CA, USA '
-        price: 15 / 58
-        title: '(RED) 2020 Joel Gott Pinot Noir '
-      - description: 'Aragon, ESP '
-        price: 13  /  48
-        title: ' (red) 2020 Lechuza Garnacha'
+      - description: 'Columbia valley, WA, USA '
+        price: 13 / 47
+        title: (red) 2019 Charles & Charles "Double Trouble" Cabernet/Syrah Blend
       - description: 'California '
         price: 13 / 48
         title: (red) 2020 contour cabernet
