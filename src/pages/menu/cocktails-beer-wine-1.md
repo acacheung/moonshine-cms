@@ -234,12 +234,23 @@ subgroups:
       - description: 'Mendoza, Argentina '
         price: 14 / 50
         title: (red) 2021 Bodega Santa Julia Organic Malbec
+      - description: 'Piedmont, Italy '
+        price: '14 / 50 '
+        title: '(red) 2021 Bava Libera Barbera d''Asti '
       - description: 'Columbia valley, WA, USA '
         price: 13 / 47
         title: (red) 2019 Charles & Charles "Double Trouble" Cabernet/Syrah Blend
       - description: 'California '
         price: 13 / 48
         title: (red) 2020 contour cabernet
+      - description: >-
+          Classic & well-structured with soft and approachable notes of black
+          plum, dark cherry and cassis with hints of black licorice from pioner
+          winemakers in the world-famous Napa Valley , CA
+        price: '50'
+        title: >-
+          (red) treat yo self bottle special: 2020 Lous martini Napa Cabernet
+          sauvignon (Napa Valley, CA)
     title: Wine List
   - items:
       - description: 'White & Red Cranberry Juices, Fresh Lemonade '
