@@ -247,7 +247,7 @@ subgroups:
           Classic & well-structured with soft and approachable notes of black
           plum, dark cherry and cassis with hints of black licorice from pioner
           winemakers in the world-famous Napa Valley , CA
-        price: '50 /  bottle '
+        price: '45 /  bottle '
         title: >-
           (red) treat yo self bottle special: 2020 Lous martini Napa Cabernet
           sauvignon (Napa Valley, CA)
