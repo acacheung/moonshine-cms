@@ -223,10 +223,10 @@ subgroups:
       - description: 'Marlborough, New Zealand '
         price: 14 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
-      - description: "Chardonnay\tis\tthe\tmost\twidely\tplanted\tgrape\tin\tCalifornia &\tMannequin\twas\tcreated\t\nto\thighlight the varietals of different\tappellations\t across the\tstate for a wine represents\tsome\tof\tthe\tbest\tChardonnay\tgrowing\tareas\tin\tCA in\ta\tsingle\tblend. Notes of ripe Bosc pear, yellow peach & wet stone with a bright, acidic finish "
+      - description: "Chardonnay\tis\tthe\tmost\twidely\tplanted\tgrape\tin\tCalifornia &\tMannequin\twas\tcreated\t\nto\thighlight the varietals of different\tappellations across the\tstate for a wine that represents\tsome\tof\tthe\tbest\tChardonnay\tgrowing\tareas\tin\tCA in\ta\tsingle\tblend. Notes of ripe Bosc pear, yellow peach & wet stone with a bright, acidic finish "
         price: '45 / bottle '
         title: >-
-          (white) treat yo self bottle special:  Orin Swift "Mannequin"
+          (white) treat yo self bottle special:  2021 Orin Swift "Mannequin"
           Chardonnay  (california)
       - description: 'Napa County, CA, USA '
         price: 15 / 58
@@ -245,8 +245,8 @@ subgroups:
         title: (red) 2020 contour cabernet
       - description: >-
           Classic & well-structured with soft and approachable notes of black
-          plum, dark cherry and cassis with hints of black licorice from pioner
-          winemakers in world-famous Napa Valley , CA
+          plum, dark cherry, and cassis with hints of black licorice from
+          pioneer winemakers in world-famous Napa Valley , CA
         price: '45 /  bottle '
         title: >-
           (red) treat yo self bottle special: 2020 Lous martini Napa Cabernet
