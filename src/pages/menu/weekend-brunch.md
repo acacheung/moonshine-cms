@@ -263,6 +263,12 @@ subgroups:
       - description: Strawberry
         price: '11'
         title: chef's whim sorbet of the day (vegan)
+      - description: >-
+          Pumpkin Pie Custard, Local Honey, Toasted
+          Pistachios,                     Crinkled Cinnamon-Sugar Baked Phyllo
+          Dough    
+        price: '12'
+        title: 'Menu Addition: Pumpkin-Pistachio Baklava Crinkle'
     title: Sweet Tooth
   - description: 'This, That and Other Stuff '
     items:
