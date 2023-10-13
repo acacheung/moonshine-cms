@@ -7,11 +7,9 @@ subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
       - description: >-
-          "Cherry Chocolate-Almond
-          Cheesecake":                                                 Jack
-          Daniel’s Whiskey, Cherry-Cheesecake
-          Jello,                              Chocolate Chip-Almond Crumble 
-          *contains dairy & almond           
+          "Late Summer Negroni: “Negroni Base” (Gin, Campari & Sweet
+          Vermouth),                            Orange-Cherry Jello, Dark Cherry
+          Syrup     
         price: '6'
         title: Chef Asia's Rotating Jello Shots
       - description: >
@@ -257,18 +255,12 @@ subgroups:
       - description: 'Nutellla fudge chocolate sauce, Powdered sugar '
         price: '12'
         title: 'Jaime’s Favorite Oreo Cookie Layered Fudge Brownie '
-      - description: Cookie Dough
+      - description: Mocha Chip
         price: '11'
         title: Chef's whim ice cream of the day
       - description: Strawberry
         price: '11'
         title: chef's whim sorbet of the day (vegan)
-      - description: >-
-          Pumpkin Pie Custard, Local Honey, Toasted
-          Pistachios,                     Crinkled Cinnamon-Sugar Baked Phyllo
-          Dough    
-        price: '12'
-        title: 'Menu Addition: Pumpkin-Pistachio Baklava Crinkle'
     title: Sweet Tooth
   - description: 'This, That and Other Stuff '
     items:
