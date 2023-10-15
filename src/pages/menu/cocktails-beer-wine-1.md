@@ -54,9 +54,6 @@ subgroups:
       - description: 'Mango-Citrus Infused Tennessee Moonshine, Rumchata, Orange Juice '
         price: '13'
         title: '(mango) Lassi Come Home '
-      - description: '888 Cranberry Infused Vodka layered with House Cranberry Limeade '
-        price: '13'
-        title: A Cape Codder Goes To Nantucket
       - description: >-
           Black Infusions Apricot Infused Vodka Combier Peche, Apricot Puree,
           Fresh Lemon 
@@ -245,14 +242,6 @@ subgroups:
       - description: 'California '
         price: 13 / 48
         title: (red) 2020 contour cabernet
-      - description: >-
-          Classic & well-structured with soft and approachable notes of black
-          plum, dark cherry, and cassis with hints of black licorice from
-          pioneer winemakers in world-famous Napa Valley , CA
-        price: '45 /  bottle '
-        title: >-
-          (red) treat yo self bottle special: 2020 Lous martini Napa Cabernet
-          sauvignon (Napa Valley, CA)
     title: Wine List
   - items:
       - description: 'White & Red Cranberry Juices, Fresh Lemonade '
