@@ -43,9 +43,6 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '14'
         title: 'La Diabla '
-      - description: 'Xicaru Mezcal, Bully Boy Amaro, Combier Pamplemousse, Fresh Lemon '
-        price: '14'
-        title: Matador's Bull
       - description: >-
           Uncle Nearest 1884 Small Batch Whiskey, Combier Peche Liqueur, White
           Cranberry, Fresh Lime
