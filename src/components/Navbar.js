@@ -14,7 +14,7 @@ const Navbar = class extends React.Component {
           rel='noopener noreferrer'
           target='_blank'
         >
-          Reserve
+          Reservations
         </a>
         <Link className='nav__link' to='/menu/phase-1#delivery'>
           Delivery
@@ -25,12 +25,12 @@ const Navbar = class extends React.Component {
         >
           Shop
         </a> */}
-        <a
+        {/* <a
           className='nav__link'
           href='https://www.gofundme.com/f/keep-moonshine-1520-alive'
         >
           Donate
-        </a>
+        </a> */}
         <Link to='/team/asia/' className='nav__link'>
           Team
         </Link>
@@ -55,7 +55,7 @@ const Navbar = class extends React.Component {
           </svg>{' '}
           617.752.4191
         </a>
-        <div>
+        {/* <div>
           <a
             href='https://www.facebook.com/moonshine152southie'
             className='social'
@@ -85,7 +85,7 @@ const Navbar = class extends React.Component {
               <path d='M28.299 0c1.164 1.91 1.701 3.91 1.701 6.388 0 7.97-6.806 18.328-12.328 25.582h-12.627l-5.045-30.239 11.045-1.045 2.687 21.522c2.507-4.060 5.582-10.478 5.582-14.836 0-2.388-0.418-4-1.045-5.343l10.030-2.030z'></path>
             </svg>
           </a>
-        </div>
+        </div> */}
       </nav>
     );
   }
