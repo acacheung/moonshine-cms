@@ -20,10 +20,15 @@ const IndexPage = ({ data }) => {
     <Layout>
       <div className='header'>
         <div className='hero'>
-          <div className='hero-wrap'>
-            <img className='hero__logo' src={logo} alt='Moonshine 152 logo' />
-            <div className='is-hidden'>Moonshine 152</div>
-            <IndexPageTemplate banner={frontmatter.banner} />
+          <video className='video' playsInline autoPlay muted loop >
+            <source src="../../img/compilation.mp4" type="video/mp4" />
+          </video>
+          <div className='hero-overlay'>
+            <div className='hero-wrap'>
+              <img className='hero__logo' src={logo} alt='Moonshine 152 logo' />
+              <div className='is-hidden'>Moonshine 152</div>
+              <IndexPageTemplate banner={frontmatter.banner} />
+            </div>
           </div>
         </div>
         <Navbar />
