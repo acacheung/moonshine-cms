@@ -263,6 +263,12 @@ subgroups:
       - description: Strawberry
         price: '11'
         title: chef's whim sorbet of the day (vegan)
+      - description: >-
+          Mocha Chip Ice Cream, Warm Belgian Waffle, Whipped Cream, Nutella
+          Chocolate Sauce, Sesame Candied Walnuts, Chocolate Chips …add candied
+          bacon $2
+        price: '13'
+        title: 'Menu Addition: Belgian Waffle Ice Cream Sundae'
     title: Sweet Tooth
   - description: 'This, That and Other Stuff '
     items:
