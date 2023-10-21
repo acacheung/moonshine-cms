@@ -11,6 +11,12 @@ subgroups:
           Cinnamon-Sugar Baked Phyllo Dough  
         price: '12'
         title: 'menu Addition: Pumpkin-Pistachio Baklava Crinkle'
+      - description: >-
+          Mocha Chip Ice Cream, Warm Belgian Waffle, Whipped Cream, Nutella
+          Chocolate Sauce, Sesame Candied Walnuts, Chocolate Chips …add candied
+          bacon $2
+        price: '13'
+        title: 'Menu Addition: Belgian Waffle Ice Cream Sundae'
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
