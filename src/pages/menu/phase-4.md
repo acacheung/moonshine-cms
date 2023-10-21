@@ -23,7 +23,7 @@ subgroups:
       - description: 'Powdered sugar, nutella chocolate fudge sauce'
         price: '12'
         title: Jaime’s Favorite Oreo Cookie Layered Fudge Brownie
-      - description: 'Coffee Mocha Flake '
+      - description: Mocha Chip
         price: '11'
         title: Chef's Whim Ice Cream
       - description: 'Strawberry '
