@@ -64,7 +64,7 @@ const Footer = class extends React.Component {
           >
             We deliver with DOORDASH
           </a>
-          <a
+          {/* <a
             className='contact'
             href='https://www.trycaviar.com/store/moonshine-152-boston-24152703/16599752/'
             target='_blank'
@@ -79,7 +79,7 @@ const Footer = class extends React.Component {
             rel='noopener noreferrer'
           >
             We deliver with CHOWNOW
-          </a>
+          </a> */}
           <a
             className='contact'
             href='https://www.grubhub.com/restaurant/moonshine-152-152-dorchester-ave-boston/504704'
