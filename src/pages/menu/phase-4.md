@@ -25,7 +25,7 @@ subgroups:
       - description: Mocha chip
         price: '11'
         title: Chef's Whim Ice Cream
-      - description: 'Strawberry '
+      - description: Mango
         price: '11'
         title: 'Chef''s Whim Sorbet (vegan) '
     title: Sweet Tooth
