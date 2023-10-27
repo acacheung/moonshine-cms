@@ -14,16 +14,14 @@ subgroups:
           *contains dairy & almond        
         price: '6'
         title: Rotating Jello Shots
+      - description: 'Mango-Citrus Infused Tennessee Moonshine, Rumchata, Orange Juice '
+        price: '13'
+        title: '(mango) Lassi Come Home '
       - description: >-
           Locally Made Boston Harbor Distillery Putnam Rye Whiskey, Carpano
           Antica Sweet Vermouth, Angostura Bitters 
         price: '15'
         title: House Manhattan
-      - description: >-
-          Double Espresso Vodka, Kahlua, Touch of Vanilla **like yours creamy?
-          ask for it with Bailey's Irish Cream**
-        price: '15'
-        title: '''Shine Espresso Martini'
       - description: 'London Dry Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '15'
         title: Moonshine 76
@@ -44,26 +42,18 @@ subgroups:
         price: '14'
         title: 'La Diabla '
       - description: >-
-          Uncle Nearest 1884 Small Batch Whiskey, Combier Peche Liqueur, White
-          Cranberry, Fresh Lime
-        price: '14'
-        title: Fawn's Fancy
-      - description: 'Mango-Citrus Infused Tennessee Moonshine, Rumchata, Orange Juice '
-        price: '13'
-        title: '(mango) Lassi Come Home '
-      - description: >-
           Black Infusions Apricot Infused Vodka Combier Peche, Apricot Puree,
           Fresh Lemon 
         price: '14'
         title: sUMMER STONES
-      - description: >-
-          Bison Grass Vodka, Kumquat-Orange Blossom Syrup. Prosecco Bubbles,
-          Lychee Popping Boba 
-        price: '14'
-        title: Chef Asia's Poppin' Bubble-Bubble
       - description: 'Select Apertivo, Pamplemousse Liqueur, Prosecco, Fresh Lemon '
         price: '14'
         title: Shine Spritz
+      - description: >-
+          Uncle Nearest 1884 Small Batch Whiskey, Combier Peche Liqueur, White
+          Cranberry, Fresh Lime
+        price: '14'
+        title: Fawn's Fancy
       - description: >-
           Mediterranean Red Blend, Ginger Liqueur, Brandy, Hibiscus Syrup, Fresh
           Citrus 
