@@ -7,16 +7,10 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          "Cherry Chocolate-Almond
-          Cheesecake":                                                 Jack
-          Daniel’s Whiskey, Cherry-Cheesecake
-          Jello,                              Chocolate Chip-Almond Crumble 
-          *contains dairy & almond        
+          "Jolly Rancher": Blanco Tequila, Watermelon Liqueur, Lime Jello, Fresh
+          Lime Zest & Juice         
         price: '6'
         title: Rotating Jello Shots
-      - description: 'Mango-Citrus Infused Tennessee Moonshine, Rumchata, Orange Juice '
-        price: '13'
-        title: '(mango) Lassi Come Home '
       - description: >-
           Locally Made Boston Harbor Distillery Putnam Rye Whiskey, Carpano
           Antica Sweet Vermouth, Angostura Bitters 
@@ -38,6 +32,9 @@ subgroups:
       - description: 'House Infused Spicy Tequilla, Ginger Liqueur, Fresh Lime, Agave '
         price: '14'
         title: There’s Fire
+      - description: 'Mango-Citrus Infused Tennessee Moonshine, Rumchata, Orange Juice '
+        price: '13'
+        title: '(mango) Lassi Come Home '
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '14'
         title: 'La Diabla '
