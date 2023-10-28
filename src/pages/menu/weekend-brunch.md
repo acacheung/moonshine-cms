@@ -58,9 +58,9 @@ subgroups:
     items:
       - description: >-
           Classic ‘Shine  Iceberg Wedge Salad with all your favorite superfoods…
-          Blueberry- Chia Beet Vinaigrette, Turmeric Roasted Broccoli & Sweet
-          Potatoes, Avocado, Heirloom Quinoa, Shaved Pecorino Cheese, Roasted
-          Kale, Oat-Amaranth Flax Crumble    
+          Turmeric Roasted Broccoli & Sweet Potatoes, Avocado, Heirloom Quinoa,
+          Shaved Pecorino Cheese, Roasted Kale, Oat-Amaranth Flax Crumble, Red
+          Wine Vinaigrette     
         price: 17 regular / 28 grande
         title: 'Menu Addition: Antioxidant-Super Wedge Salad'
       - description: >-
