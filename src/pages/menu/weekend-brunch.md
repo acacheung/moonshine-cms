@@ -7,11 +7,8 @@ subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
       - description: >-
-          "Cherry Chocolate-Almond
-          Cheesecake":                                                              
-          Jack Daniel’s Whiskey, Cherry-Cheesecake
-          Jello,                              Chocolate Chip-Almond Crumble 
-          *contains dairy & almond      
+          "Jolly Rancher": Blanco Tequila, Watermelon Liqueur, Lime Jello, Fresh
+          Lime Zest & Juice    
         price: '6'
         title: Chef Asia's Rotating Jello Shots
       - description: >
