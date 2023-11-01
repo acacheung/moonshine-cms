@@ -196,12 +196,13 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          “The Spice-Spice Baby” Burger topped with a House Basic B*tch Pumpkin
-          Spiced Latke, Smoked Gouda Cheese, Cinnamon Sugar Apple Compote, Sour
-          Cream, Fried Sage   …add fried egg $2..add jalapeno bacon $4…add
-          sliced avocado $3          
+          “The Friendsgiving Burger" (Inspired by all your favorite Thanksgiving
+          holiday fixings): Piled High & Served Open-Faced with Savory Sage
+          Stuffing, Roasted Turkey Sausage, Loaded Sweet Potato Casserole,
+          Guinness Gravy Maple Pickled Cranberries    …add fried egg $2..add
+          jalapeno bacon $4…add sliced avocado $3 ...add potato bun $2   
         price: '24'
-        title: October 2023 VIP burger of the month
+        title: November 2023 VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: ' All the sides & Fixin’s'
     items:
