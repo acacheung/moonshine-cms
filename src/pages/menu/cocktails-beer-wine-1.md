@@ -62,7 +62,7 @@ subgroups:
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
-      - price: '6'
+      - price: '5'
         title: (draft) miller high life
       - price: '7'
         title: '(draft) Allagash White '
