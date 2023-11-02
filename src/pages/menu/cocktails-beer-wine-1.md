@@ -62,7 +62,7 @@ subgroups:
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
-      - price: '5'
+      - price: '6'
         title: (draft) miller high life
       - price: '7'
         title: '(draft) Allagash White '
@@ -86,7 +86,7 @@ subgroups:
         price: '6 '
         title: 'High Noon Hard Seltzer: Pineapple or Black Cherry'
       - description: '12 oz can '
-        price: '8'
+        price: '6'
         title: Black Infusions "Dirty Shirley" Cocktail in a Can
       - description: 12 oz Bottle
         price: '6'
@@ -113,7 +113,7 @@ subgroups:
         price: '5'
         title: Narragansett Del's Shandy
       - description: 16 oz Tallboy Can
-        price: '5'
+        price: '6'
         title: Narragansett Lager
       - description: '16oz tallboy can '
         price: '7'
@@ -181,7 +181,7 @@ subgroups:
           (sparkling red)  Treat Yo Self Bottle Special: NV Lini 910 Lambrusca
           Rosso  (Emilia Romagna, IT) 
       - description: 'Columbia Valley, WA, USA '
-        price: 13  /  46
+        price: 14  /  46
         title: (rose) 2021 Charles & Charles Rose
       - description: 'Carinola, Campania IT'
         price: 15 / 58
@@ -198,10 +198,10 @@ subgroups:
           (rose) treat yo self bottle special:  2022 Borsao Rose Campo De
           Borja     
       - description: 'Veneto, Italy '
-        price: 11  /  42
+        price: 12  /  42
         title: '(White) 2020 Zenato Pinot Grigio '
       - description: 'CA, USA '
-        price: 12 / 45
+        price: 13 / 45
         title: (White) 2021 Grayson Cellars Chardonnay
       - description: 'Elqui Valley, Coquimbo, Chile'
         price: 12 / 45
@@ -224,10 +224,10 @@ subgroups:
         price: '14 / 50 '
         title: '(red) 2021 Bava Libera Barbera d''Asti '
       - description: 'Columbia valley, WA, USA '
-        price: 13 / 47
+        price: 14 / 47
         title: (red) 2019 Charles & Charles "Double Trouble" Cabernet/Syrah Blend
       - description: 'California '
-        price: 13 / 48
+        price: 14 / 48
         title: (red) 2020 contour cabernet
     title: Wine List
   - items:
@@ -267,60 +267,61 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          Reyka...$10...Tito's Handmade...$11...Ketel One...$12...Grey
-          Goose...$12...Grand Ten Firepuncher...$10...Grand Ten Firepuncher
-          Black $10...Żubrówka Bison Grass ...$9...Van Gogh Double
-          Espresso...$10... New Amsterdam Raspberry..$9...New Amsterdam
-          Orange...$9...New Amsterdam Citron...$9...888 Blueberry...$9...888
-          Cranberry...$9...888 Vanilla $10 ... Black Infusions Apricot Infused
-          Vodka...$9...
+          Reyka...$11...Tito's Handmade...$11...Ketel One...$12...Grey
+          Goose...$12...Grand Ten Firepuncher...$11...Grand Ten Firepuncher
+          Black $10...Żubrówka Bison Grass ...$11...Van Gogh Double
+          Espresso...$11... New Amsterdam Raspberry..$10...New Amsterdam
+          Orange...$10...New Amsterdam Citron...$10...888 Blueberry...$11...888
+          Cranberry...$11...888 Vanilla $11 ... Black Infusions Apricot Infused
+          Vodka...$10...
         price: xxxxx
         title: 'Vodka '
       - description: >-
-          Gin Lane London Dry...$9...Bombay Sapphire...$9... Tanqueray...$9...
-          Hendrick's...$10..GrandTen Wire Works Gin...$10.... Glendalough Wild
-          Botanical...$11... Empress 1908 Indigo Butterfly Pea Blossom Gin...$11
+          Gin Lane London Dry...$10...Bombay Sapphire...$11...
+          Tanqueray...$11... Hendrick's...$12..GrandTen Wire Works Gin...$11....
+          Glendalough Wild Botanical...$11... Empress 1908 Indigo Butterfly Pea
+          Blossom Gin...$12
         price: xxxxx
         title: Gin
       - description: >-
-          Tres Agaves Blanco...$9...Tres Agaves Reposado...$11...Tres Agaves
-          Anejo...$11 ...Teramana Blanco...$10...Teramana Reposado...$11....
-          Teramana Anejo...$13.....Espolon Blanco...$10... Espolon
-          Reposado...$11.. .House Infused Spicy Tequila...$11...Don Julio
+          Tres Agaves Blanco...$10...Tres Agaves Reposado...$11...Tres Agaves
+          Anejo...$12 ...Teramana Blanco...$10...Teramana Reposado...$11....
+          Teramana Anejo...$13.....Espolon Blanco...$11... Espolon
+          Reposado...$12.. .House Infused Spicy Tequila...$12...Don Julio
           Blanco...$12...Don Julio Reposado..$13...  Libélula Tequila...$12 Gran
-          Coramino Cristalino Reposado...$12... Xicaru Silver Mezcal...$10...Del
+          Coramino Cristalino Reposado...$12... Xicaru Silver Mezcal...$11...Del
           Maguey Vida Mezcal ..$12...Banhez Mezcal Artesanal $12
         price: xxxxx
         title: 'Tequila & Mezcal '
       - description: >-
-          Privateer NE White Rum...$9...Sailor Jerry...$9...Goslings Black
-          Seal...$9...Mad River Vanilla Bean...$10 ...RumHaven
-          Coconut...$9...Ron Zacapa 23...$11... Hennessey...$10...Remy Martin
+          Privateer NE White Rum...$10...Sailor Jerry...$10...Goslings Black
+          Seal...$10...Mad River Vanilla Bean...$10 ...RumHaven
+          Coconut...$10...Ron Zacapa 23...$12... Hennessey...$12...Remy Martin
           VSOP...$12...
         price: xxxxx
         title: 'Rum  & Cognac '
       - description: >-
-          Four Roses Bourbon...$9...Mitcher's Bourbon...$10...Maker's Mark
-          Bourbon...$10... Mad River Bourbon ...$10.... Bully Boy Straight
-          American Whiskey...$10... Uncle Nearest 1884 Small Batch Whiskey
-          ...$11...Uncle Nearest 1856 Whiskey...$13...Jack Daniels
-          Whiskey...$10... Old Overholt Rye...$8...Rittenhouse Rye...$9...
-          Mitcher's Single Barrel Rye...$10...Mad River Revolution
-          Rye...$10...Boston Harbor Distillery Putnam Rye...$12....High West
-          Double Rye...$12...Boston Harbor Distillery Putnam Single Malt Whiskey
+          Four Roses Bourbon...$10...Mitcher's Bourbon...$11...Maker's Mark
+          Bourbon...$11... Mad River Bourbon ...$11.... Bully Boy Straight
+          American Whiskey...$11... Uncle Nearest 1884 Small Batch Whiskey
+          ...$12...Uncle Nearest 1856 Whiskey...$13...Jack Daniels
+          Whiskey...$11... Old Overholt Rye...$10...Rittenhouse Rye...$10...
+          Mitcher's Single Barrel Rye...$11...Mad River Revolution
+          Rye...$11...Boston Harbor Distillery Putnam Rye...$12....High West
+          Double Rye...$13...Boston Harbor Distillery Putnam Single Malt Whiskey
           ...$13...Whistlepig 6 yr PiggyBack Rye...$14...Old Smokey Tennessee
           Moonshine  White Whiskey ...$10...Screwball Peanut Butter
           Whiskey...$10...
         price: xxxxx
         title: 'American Whiskey/Bourbon/Rye '
       - description: >-
-          Jameson Irish Whiskey...$10 ...Glendalough Double Barrel Irish
+          Jameson Irish Whiskey...$11 ...Glendalough Double Barrel Irish
           Whiskey...$10...GrandTen Distilling South Boston Irish Whiskey...$10
           ... Tullamore Dew...$11... Redbreast 12 Year...$12
         price: XXXXX
         title: Imported Whiskey
       - description: >-
-          Dewar's "White Label"...$9...Johnnie Walker Black...$11...Laphroaig
+          Dewar's "White Label"...$10...Johnnie Walker Black...$11...Laphroaig
           10yr ...$12...Dalmore Highland Single Malt 12yr ...$12...Glenfiddich
           12yr...$12...Glenfiddich 14yr...$13... MacAllen 12yr...$13... Oban
           14...$14 ...Lagavulin 16yr...$20...
