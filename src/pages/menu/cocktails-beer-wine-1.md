@@ -11,6 +11,9 @@ subgroups:
           Lime Zest & Juice         
         price: '6'
         title: Rotating Jello Shots
+      - description: 'Spiced Rum, Fresh Apple Cider, Fall Spiced Cinnamon Honey Butter'
+        price: '15'
+        title: 'Rotating Hot Cocktail: Hot Buttered Rum Cider'
       - description: >-
           Locally Made Boston Harbor Distillery Putnam Rye Whiskey, Carpano
           Antica Sweet Vermouth, Angostura Bitters 
@@ -33,7 +36,7 @@ subgroups:
         price: '14'
         title: There’s Fire
       - description: 'Mango-Citrus Infused Tennessee Moonshine, Rumchata, Orange Juice '
-        price: '13'
+        price: '14'
         title: '(mango) Lassi Come Home '
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '14'
