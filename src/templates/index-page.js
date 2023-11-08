@@ -21,6 +21,7 @@ const IndexPage = ({ data }) => {
       <div className='header'>
         <div className='hero'>
           <video className='video' playsInline autoPlay muted loop >
+            <source src="../../img/compilation.webm" type="video/webm" />
             <source src="../../img/compilation.mp4" type="video/mp4" />
           </video>
           <div className='hero-overlay'>
