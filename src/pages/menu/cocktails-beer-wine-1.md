@@ -68,8 +68,8 @@ subgroups:
         title: '(draft) Allagash White '
       - price: '7'
         title: (Draft) Downeast Unfiltered Cider
-      - price: '7'
-        title: '(draft) Harpoon IPA '
+      - price: '8'
+        title: (draft) Bissel Brothers Substance IPA
       - description: ''
         price: '8'
         title: '(draft) Dorchester brewing co "galaxy lights" session ipa '
