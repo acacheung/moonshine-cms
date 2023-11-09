@@ -126,9 +126,6 @@ subgroups:
       - description: 16 oz tallboy can
         price: '6'
         title: Jacks Abby  "ray catcher" golden rice  lager
-      - description: '160z tallboy can '
-        price: '6'
-        title: 'Zero Gravity "green state" lager '
       - description: '16 oz tallboy can '
         price: '7'
         title: 'Jack''s Abby "Copper Legend" Oktoberfest '
