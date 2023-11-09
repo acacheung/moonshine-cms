@@ -115,7 +115,7 @@ subgroups:
         price: '7'
         title: Stormalong "Mass Appeal" Hard Cider
       - description: '16oz tallboy can '
-        price: '5'
+        price: '3'
         title: Narragansett Del's Shandy
       - description: 16 oz Tallboy Can
         price: '6'
