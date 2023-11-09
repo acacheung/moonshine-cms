@@ -19,6 +19,11 @@ subgroups:
           Antica Sweet Vermouth, Angostura Bitters 
         price: '15'
         title: House Manhattan
+      - description: >-
+          Doube Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy? Just
+          ask for Baileys Irish Cream!) 
+        price: '15'
+        title: '''Shine Espresso Martini'
       - description: 'London Dry Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '15'
         title: Moonshine 76
@@ -38,6 +43,11 @@ subgroups:
       - description: 'Mango-Citrus Infused Tennessee Moonshine, Rumchata, Orange Juice '
         price: '14'
         title: '(mango) Lassi Come Home '
+      - description: >-
+          Uncle Nearest 1884 Small Batch Whiskey, Combier Peche Liqueur, White
+          Cranberry, Fresh Lime
+        price: '14'
+        title: Fawn's Fancy
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '14'
         title: 'La Diabla '
@@ -49,11 +59,6 @@ subgroups:
       - description: 'Select Apertivo, Pamplemousse Liqueur, Prosecco, Fresh Lemon '
         price: '14'
         title: Shine Spritz
-      - description: >-
-          Uncle Nearest 1884 Small Batch Whiskey, Combier Peche Liqueur, White
-          Cranberry, Fresh Lime
-        price: '14'
-        title: Fawn's Fancy
       - description: >-
           Mediterranean Red Blend, Ginger Liqueur, Brandy, Hibiscus Syrup, Fresh
           Citrus 
@@ -133,12 +138,15 @@ subgroups:
       - description: '16oz tallboy can '
         price: '6'
         title: 'Bell''s Brewing "Oberon" Wheat Ale '
-      - description: '12 oz bottle '
+      - description: '16 oz tallboy can '
         price: '7'
-        title: 'Stone IPA '
+        title: Aeronaut Brewing "Hop Hop Away" IPA
       - description: '16 oz tallboy can '
         price: '7'
         title: Castle Island Brewing "Keeper" IPA
+      - description: '12 oz bottle '
+        price: '7'
+        title: 'Stone IPA '
       - description: 16 oz tallboy can
         price: '7'
         title: 'Allagash Brewing "Hop Reach" IPA '
