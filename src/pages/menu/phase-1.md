@@ -59,6 +59,13 @@ subgroups:
           bacon, Candied ginger aioli 
         price: 15 regular / 24 grande
         title: ’Shine Famous Bacon Wrapped Stuffing Bites
+      - description: >-
+          Made-To-Order Rice Paper Pockets Stuffed
+          with                                                     Warm Sushi
+          Rice, Confit Tuna, Passion Fruit-Ginger Compote, Sliced Avocado &
+          Curried Teriyaki Glaze   
+        price: '19 regular / 32 grande                                '
+        title: 'Menu Addition: Crispy Pan-Fried Tuna Dumplings '
     title: To Get Ya Started
   - description: >-
       Shareable 'Shine classics available in small or large Portions. Don't
