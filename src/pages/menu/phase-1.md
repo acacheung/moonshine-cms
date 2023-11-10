@@ -13,12 +13,12 @@ subgroups:
         price: 16 regular / 27 grande
         title: 'Menu Addition: warm Spinach Artichoke Dip'
       - description: >-
-          Classic ‘Shine Iceberg Wedge Salad with all your favorite superfoods…
-          Red Wine Vinaigrette, Turmeric Roasted Broccoli & Sweet Potatoes,
-          Avocado, Heirloom Quinoa, Shaved Pecorino Cheese, Roasted Kale,
-          Oat-Amaranth Flax Crumble   
-        price: '17 regular / 28 grande '
-        title: 'Menu Addition: Antioxidant-Super Wedge Salad'
+          Made-To-Order Rice Paper Pockets Stuffed
+          with                                                     Warm Sushi
+          Rice, Confit Tuna, Passion Fruit-Ginger Compote, Sliced Avocado &
+          Curried Teriyaki Glaze   
+        price: '19 regular / 32 grande                                '
+        title: 'Menu Addition: Crispy Pan-Fried Tuna Dumplings '
       - description: >-
           Bulgogi Beef Shortrib, Salsa Fresca,  Melted Cheese, Smoky Sriracha
           Mayo, Shredded Lettuce, Tater Tots & Birria Dipping Jus  
@@ -40,6 +40,13 @@ subgroups:
           kale
         price: 10 regular / 14 grande
         title: Local Mixed Greens Salad
+      - description: >-
+          Classic ‘Shine Iceberg Wedge Salad with all your favorite superfoods…
+          Red Wine Vinaigrette, Turmeric Roasted Broccoli & Sweet Potatoes,
+          Avocado, Heirloom Quinoa, Shaved Pecorino Cheese, Roasted Kale,
+          Oat-Amaranth Flax Crumble   
+        price: '17 regular / 28 grande '
+        title: ' Antioxidant-Super Wedge Salad'
       - description: 'Sweet and spicy honey-sambal, real jalapeno crab filling'
         price: 16 regular / 26 grande
         title: Jalapeno Crab Rangoons
@@ -59,13 +66,6 @@ subgroups:
           bacon, Candied ginger aioli 
         price: 15 regular / 24 grande
         title: ’Shine Famous Bacon Wrapped Stuffing Bites
-      - description: >-
-          Made-To-Order Rice Paper Pockets Stuffed
-          with                                                     Warm Sushi
-          Rice, Confit Tuna, Passion Fruit-Ginger Compote, Sliced Avocado &
-          Curried Teriyaki Glaze   
-        price: '19 regular / 32 grande                                '
-        title: 'Menu Addition: Crispy Pan-Fried Tuna Dumplings '
     title: To Get Ya Started
   - description: >-
       Shareable 'Shine classics available in small or large Portions. Don't
