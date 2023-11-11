@@ -124,7 +124,7 @@ subgroups:
         price: '7'
         title: 'Night Shift Brewing "Nite Lite" Light Lager '
       - description: 16 oz tallboy can
-        price: '6'
+        price: '4'
         title: Jacks Abby  "ray catcher" golden rice  lager
       - description: '16 oz tallboy can '
         price: '7'
