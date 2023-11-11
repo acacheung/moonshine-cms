@@ -48,14 +48,14 @@ subgroups:
           Cranberry, Fresh Lime
         price: '14'
         title: Fawn's Fancy
+      - description: >-
+          Mad River Distillery Rye Whiskey, Dark Cherry Liqueur, Cinnamon
+          Simple, Fresh Lemon 
+        price: '14'
+        title: danish modern
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '14'
         title: 'La Diabla '
-      - description: >-
-          Black Infusions Apricot Infused Vodka Combier Peche, Apricot Puree,
-          Fresh Lemon 
-        price: '14'
-        title: sUMMER STONES
       - description: 'Select Apertivo, Pamplemousse Liqueur, Prosecco, Fresh Lemon '
         price: '14'
         title: Shine Spritz
