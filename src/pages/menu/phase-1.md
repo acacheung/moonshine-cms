@@ -13,13 +13,6 @@ subgroups:
         price: 16 regular / 27 grande
         title: 'Menu Addition: warm Spinach Artichoke Dip'
       - description: >-
-          Made-To-Order Rice Paper Pockets Stuffed
-          with                                                     Warm Sushi
-          Rice, Confit Tuna, Passion Fruit-Ginger Compote, Sliced Avocado &
-          Curried Teriyaki Glaze   
-        price: '19 regular / 32 grande                                '
-        title: 'Menu Addition: Crispy Pan-Fried Tuna Dumplings '
-      - description: >-
           Bulgogi Beef Shortrib, Salsa Fresca,  Melted Cheese, Smoky Sriracha
           Mayo, Shredded Lettuce, Tater Tots & Birria Dipping Jus  
         price: '$18 (2 tacos) / $28 (3 tacos)  '
