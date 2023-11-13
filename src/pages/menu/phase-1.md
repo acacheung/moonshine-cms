@@ -13,6 +13,13 @@ subgroups:
         price: 16 regular / 27 grande
         title: 'Menu Addition: warm Spinach Artichoke Dip'
       - description: >-
+          Classic ‘Shine Iceberg Wedge Salad with all your favorite superfoods…
+          Red Wine Vinaigrette, Turmeric Roasted Broccoli & Sweet Potatoes,
+          Avocado, Heirloom Quinoa, Shaved Pecorino Cheese, Roasted Kale,
+          Oat-Amaranth Flax Crumble   
+        price: '17 regular / 28 grande '
+        title: 'Menu Addition: Antioxidant-Super Wedge Salad'
+      - description: >-
           Bulgogi Beef Shortrib, Salsa Fresca,  Melted Cheese, Smoky Sriracha
           Mayo, Shredded Lettuce, Tater Tots & Birria Dipping Jus  
         price: '$18 (2 tacos) / $28 (3 tacos)  '
@@ -33,13 +40,6 @@ subgroups:
           kale
         price: 10 regular / 14 grande
         title: Local Mixed Greens Salad
-      - description: >-
-          Classic ‘Shine Iceberg Wedge Salad with all your favorite superfoods…
-          Red Wine Vinaigrette, Turmeric Roasted Broccoli & Sweet Potatoes,
-          Avocado, Heirloom Quinoa, Shaved Pecorino Cheese, Roasted Kale,
-          Oat-Amaranth Flax Crumble   
-        price: '17 regular / 28 grande '
-        title: ' Antioxidant-Super Wedge Salad'
       - description: 'Sweet and spicy honey-sambal, real jalapeno crab filling'
         price: 16 regular / 26 grande
         title: Jalapeno Crab Rangoons
