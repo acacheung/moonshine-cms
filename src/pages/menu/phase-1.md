@@ -118,12 +118,11 @@ subgroups:
     title: Add Ons!
   - description: 'Regular= 2 Tacos Go Grande = 3 Tacos '
     items:
-      - description: 'Boneless beef shortrib, Asian pear kimchi, candied ginger aioli'
-        price: 16 regular / 24 grande
-        title: THROWBACK KOREAN BBQ TACOS
-      - description: 'Slow roasted duck, cabbage, wonton crisps'
-        price: 17 regular / 25 grande
-        title: CHARSIU PULLED DUCK TACOS
+      - description: >-
+          Bulgogi Beef Shortrib, Salsa Fresca,  Melted Cheese, Smoky Sriracha
+          Mayo, Shredded Lettuce, Tater Tots & Birria Dipping Jus    
+        price: ' 18 regular / 28 grande'
+        title: 'Menu Addition: Birria Gringo Tacos  '
       - description: >-
           Tempura Veggie Burger Bites, Pickled Red Cabbage, Toasted Cumin Crema,
           Shredded Lettuce, Tomato Salsa                             *Available
@@ -135,6 +134,12 @@ subgroups:
           aioli
         price: 16 regular / 24 grande
         title: DEVON’S FAVORITE ’SHINE FISH TACOS**
+      - description: 'Slow roasted duck, cabbage, wonton crisps'
+        price: 17 regular / 25 grande
+        title: CHARSIU PULLED DUCK TACOS
+      - description: 'Boneless beef shortrib, Asian pear kimchi, candied ginger aioli'
+        price: 16 regular / 24 grande
+        title: THROWBACK KOREAN BBQ TACOS
     title: A-MEI STREET TACOS
   - description: >-
       Don't forget to top it off with your favorite proteins, fixins, sides &
