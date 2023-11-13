@@ -24,7 +24,7 @@ subgroups:
           ask for Baileys Irish Cream!) 
         price: '15'
         title: '''Shine Espresso Martini'
-      - description: 'London Dry Gin, Elderflower, Fresh Lemon, Prosecco '
+      - description: 'Gin Lane London Dry Gin, Elderflower, Fresh Lemon, Prosecco '
         price: '15'
         title: Moonshine 76
       - description: >-
@@ -37,12 +37,19 @@ subgroups:
           Elderflower Liqueur, Fresh Lemon 
         price: '15'
         title: farm to glass
-      - description: 'House Infused Spicy Tequilla, Ginger Liqueur, Fresh Lime, Agave '
+      - description: >-
+          House Infused Spicy Organic Tequilla, Ginger Liqueur, Fresh Lime,
+          Agave 
         price: '14'
         title: There’s Fire
       - description: 'Mango-Citrus Infused Tennessee Moonshine, Rumchata, Orange Juice '
         price: '14'
         title: '(mango) Lassi Come Home '
+      - description: >-
+          Mad River Distillery Rye Whiskey, Dark Cherry Liqueur, Cinnamon
+          Simple, Fresh Lemon 
+        price: '14'
+        title: danish modern
       - description: >-
           Uncle Nearest 1884 Small Batch Whiskey, Combier Peche Liqueur, White
           Cranberry, Fresh Lime
@@ -51,7 +58,9 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '14'
         title: 'La Diabla '
-      - description: 'Select Apertivo, Pamplemousse Liqueur, Prosecco, Fresh Lemon '
+      - description: >-
+          Select Apertivo, Pamplemousse Grapefruit Liqueur, Prosecco, Fresh
+          Lemon 
         price: '14'
         title: Shine Spritz
       - description: >-
