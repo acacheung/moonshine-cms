@@ -171,6 +171,11 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
+          Smoky 'Shine BBQ Meatloaf Smothered in French Onion Soup Sauce, Melted
+          Swiss Cheese, Texas Toast & a Petite Mixed Greens Salad
+        price: '28'
+        title: 'Menu Addition: French Onion Soup Meatloaf '
+      - description: >-
           Chinatown-Style Pulled Roasted Duck,                           Honey
           Roasted Peanut-Sesame Noodles,                           Duck Fat
           Fried Brussels Sprouts, Vermicelli  Noodles
