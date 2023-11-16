@@ -110,9 +110,11 @@ subgroups:
       - price: '13'
         title: PULLED CHINATOWN STYLE ROASTED DUCK
       - price: '13'
-        title: SAUTÉED BABY SHRIMP**
+        title: '''Shine Smoky BBQ Meatloaf'
       - price: '15'
         title: Marinated Skirt Steak**
+      - price: '13'
+        title: SAUTÉED BABY SHRIMP**
       - price: '15.00'
         title: Cajun Grilled Fish
     title: Add Ons!
