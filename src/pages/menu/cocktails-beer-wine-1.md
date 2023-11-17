@@ -7,8 +7,8 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          "Jolly Rancher": Blanco Tequila, Watermelon Liqueur, Lime Jello, Fresh
-          Lime Zest & Juice         
+          Lemon Passionfruit: Tito’s Vodka, Passionfruit Jam, Lemon Jello, Fresh
+          Lemon          
         price: '6'
         title: Rotating Jello Shots
       - description: 'Spiced Rum, Fresh Apple Cider, Fall Spiced Cinnamon Honey Butter'
