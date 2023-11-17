@@ -26,7 +26,7 @@ subgroups:
         title: 'Menu Addition: Birria Gringo Tacos         '
       - description: >-
           Cranberry-Pecan Bread, Melted Cheddar, Sliced Honeycrisp Apples, Fried
-          Sage, Shoestring French Fries *Add a Cup of Tomato Bisque $7 *Add
+          Sage, Shoestring French Fries *Add a Cup of Mushroom Bisque $7 *Add
           Fried egg $2 *Add Jalapeño Bacon $4 *Available Vegetarian
         price: '19'
         title: 'Menu Addition: Autumn Candied Bacon Grilled Cheese'
