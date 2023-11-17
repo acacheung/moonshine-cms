@@ -7,8 +7,8 @@ subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
       - description: >-
-          "Jolly Rancher": Blanco Tequila, Watermelon Liqueur, Lime Jello, Fresh
-          Lime Zest & Juice    
+          Lemon Passionfruit: Tito’s Vodka, Passionfruit Jam, Lemon Jello, Fresh
+          Lemon          
         price: '6'
         title: Chef Asia's Rotating Jello Shots
       - description: >
