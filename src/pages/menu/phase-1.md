@@ -66,8 +66,8 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
-          Spicy Tomato Bisque: Creamy Tomato Soup, Crushed Roma Tomatoes, Hint
-          of House Sriracha (veg)
+          Hungarian Wild Mushroom Bisque: Creamy Mushroom Soup, Fresh Thyme,
+          Smoked Paprika 
         price: '12 regular / 19 grande '
         title: Chef's Whim Soup for the Soul
       - description: >-
