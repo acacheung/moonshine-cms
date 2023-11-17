@@ -159,8 +159,8 @@ subgroups:
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >-
-          Spicy Tomato Bisque: Creamy Tomato Soup, Crushed Roma Tomatoes, Hint
-          of House Sriracha
+          Hungarian Wild Mushroom Bisque: Creamy Mushroom Soup, Fresh Thyme,
+          Smoked Paprika 
         price: '12 / 19 '
         title: 'Chef’s Whim Soup for the Soul '
       - description: >
