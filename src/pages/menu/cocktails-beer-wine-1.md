@@ -112,9 +112,6 @@ subgroups:
       - description: '16oz tallboy can '
         price: '6'
         title: 'Smuttynose Brewing Limited Release Sour "Cherry Limeade" '
-      - description: 12 oz Pumpkin Cider
-        price: '6'
-        title: Downeast Pumpkin Blend
       - description: '16 oz tallboy can '
         price: '7'
         title: Stormalong "Mass Appeal" Hard Cider
