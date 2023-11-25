@@ -42,7 +42,9 @@ subgroups:
           Agave 
         price: '14'
         title: There’s Fire
-      - description: 'Mango-Citrus Infused Tennessee Moonshine, Rumchata, Orange Juice '
+      - description: >-
+          Mango-Citrus Infused Tennessee Moonshine, Disaronno Velvet Cream
+          Liqueur, Orange Juice, Cinnamon Simple, Shaved Nutmeg 
         price: '14'
         title: '(mango) Lassi Come Home '
       - description: >-
