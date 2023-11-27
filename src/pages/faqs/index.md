@@ -63,9 +63,9 @@ questions:
       is happy to discuss delivery, event party trays, and special menu catered
       items for many of your celebrations.  Thank you very much for considering
       involving us in your celebrations, feel free to call the restaurant and/or
-      email her at <mailto:asia@moonshine152.com> with information regarding
-      what you're looking for, and we will be sure to get back to you to discuss
-      the best fit/availability.
+      email her at asia@moonshine152.com with information regarding what you're
+      looking for, and we will be sure to get back to you to discuss the best
+      fit/availability.
     question: Do you do catering?
   - answer: >-
       Did you know that our Chef/Owner Asia Mei does almost all the art
@@ -73,8 +73,7 @@ questions:
       any pieces or requesting similarly inspired custom commissions. 
       Availability, pricing, and brainstorming requests can be submitted by
       calling the restaurant, Direct Messaging Chef Asia through Instagram
-      [@ChefAsiaMei](https://www.instagram.com/chefasiamei/), or emailing
-      [Asia@moonshine152.com](mailto:asia@moonshine152.com).
+      @ChefAsiaMei, or emailing Asia@moonshine152.com.
     question: How can I buy your artwork?
 ---
 
