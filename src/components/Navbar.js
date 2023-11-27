@@ -16,8 +16,8 @@ const Navbar = class extends React.Component {
         >
           Reservations
         </a>
-        <Link className='nav__link' to='/menu/phase-1#delivery'>
-          Delivery
+        <Link className='nav__link' to='/faqs'>
+          FAQs
         </Link>
         {/* <a
           className='nav__link'

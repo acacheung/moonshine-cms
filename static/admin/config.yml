@@ -116,6 +116,26 @@ collections:
                   { label: Link, name: link, widget: string },
                 ],
             }
+      - file: "src/pages/faqs/index.md"
+        label: "FAQs"
+        name: "faqs"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "faqs-page",
+            }
+          - {
+              label: Questions,
+              name: questions,
+              widget: list,
+              fields:
+                [
+                  { label: Question, name: question, widget: string },
+                  { label: Answer, name: answer, widget: text },
+                ],
+            }
       - file: "src/pages/index.md"
         label: "Home"
         name: "home"
