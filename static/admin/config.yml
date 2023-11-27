@@ -133,7 +133,7 @@ collections:
               fields:
                 [
                   { label: Question, name: question, widget: string },
-                  { label: Answer, name: answer, widget: text },
+                  { label: Answer, name: answer, widget: markdown },
                 ],
             }
       - file: "src/pages/index.md"
