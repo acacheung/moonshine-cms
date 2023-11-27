@@ -34,6 +34,8 @@ questions:
       by Moonshine 152. For all reservations that are canceled with more than 24
       hours notice, no cancellation fee will be charged.
 
+
+
       Groups over 20 would fall along the lines of a Private Dining Event.  If
       interested in hosting a private event for a group larger than 20, please
       contact our Reservation Coordinator, Amanda Rae, for more information at
