@@ -191,14 +191,12 @@ subgroups:
         price: '19'
         title: GRASS-FED ’SHINE BEEF BURGER**
       - description: >-
-          “The Friendsgiving Burger" (Inspired by all your favorite Thanksgiving
-          holiday fixings): Piled High & Served Open-Faced with Savory Sage
-          Stuffing, Roasted Turkey Sausage, Loaded Sweet Potato Casserole,
-          Guinness Gravy Maple Pickled Cranberries    …add fried egg $2..add
-          jalapeno bacon $4…add sliced avocado $3 ...add potato bun
-          $2                                                             
+          The Holiday Figgy-Piggy Burger: Camembert Cheese, Diced Honey Baked
+          Ham, House Fig Preserves, Baby Arugula, Spiced Nuts     …add fried egg
+          $2..add jalapeno bacon $4…add sliced avocado
+          $3                                                            
         price: '24'
-        title: November  2023 VIP burger of the month
+        title: December 2023 VIP burger of the month
       - description: >-
           Smoky pulled pork, scrambled egg, tomato, petite mixed greens salad,
           teriyaki, sweet chili glaze, house-cut shoestring french fries...
