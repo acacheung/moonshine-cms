@@ -62,9 +62,9 @@ subgroups:
     title: 'Cheers To The Weekend! '
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
-      - description: 'Crispy Garlic Potato Fritters, Curry Goddess Aioli, Sweet Chili'
+      - description: 'Crispy Sweet Potato Fritters, Curry Goddess Aioli, Sweet Chili'
         price: '15 regular / 24 grande '
-        title: 'menu addition: Japanese Cheesy Potato Mochi Pancakes '
+        title: 'menu addition: Japanese Cheesy Sweet Potato Mochi Pancakes '
       - description: >-
           Classic ‘Shine  Iceberg Wedge Salad with all your favorite superfoods…
           Turmeric Roasted Broccoli & Sweet Potatoes, Avocado, Heirloom Quinoa,
@@ -199,13 +199,11 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          “The Friendsgiving Burger" (Inspired by all your favorite Thanksgiving
-          holiday fixings): Piled High & Served Open-Faced with Savory Sage
-          Stuffing, Roasted Turkey Sausage, Loaded Sweet Potato Casserole,
-          Guinness Gravy Maple Pickled Cranberries    …add fried egg $2..add
-          jalapeno bacon $4…add sliced avocado $3 ...add potato bun $2   
+          “The Holiday Figgy-Piggy  Burger": Camembert Cheese, Diced Honey Baked
+          Ham, House Fig Preserves, Baby Arugula, Spiced Nuts       …add fried
+          egg $2..add jalapeno bacon $4…add sliced avocado $3 
         price: '24'
-        title: November 2023 VIP burger of the month
+        title: December 2023 VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: ' All the sides & Fixin’s'
     items:
