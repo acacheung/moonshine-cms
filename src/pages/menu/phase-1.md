@@ -19,9 +19,9 @@ subgroups:
           Oat-Amaranth Flax Crumble   
         price: '17 regular / 28 grande '
         title: 'Menu Addition: Antioxidant-Super Wedge Salad'
-      - description: 'Crispy Garlic Potato Fritters, Curry Goddess Aioli, Sweet Chili '
-        price: 15 regular / 24 grande
-        title: 'menu addition: Japanese Cheesy Potato Mochi Pancakes '
+      - description: '                                Crispy Garlic Sweet  Potato Fritters, Sweet Chili. Curry Goddess Aioli'
+        price: '15 regular / 24 grande '
+        title: 'Menu Addition: Japanese Cheesy Sweet Potato  Mochi Pancakes '
       - description: >-
           Bulgogi Beef Shortrib, Salsa Fresca,  Melted Cheese, Smoky Sriracha
           Mayo, Shredded Lettuce, Tater Tots & Birria Dipping Jus  
