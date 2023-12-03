@@ -7,16 +7,10 @@ subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
       - description: >-
-          Lemon Passionfruit: Tito’s Vodka, Passionfruit Jam, Lemon Jello, Fresh
-          Lemon          
+          Tequila Sunrise: Blanco Tequila, Orange Jello, Fresh OJ, Amarena
+          Cherry Drizzle    
         price: '6'
         title: Chef Asia's Rotating Jello Shots
-      - description: >-
-          Orange-Raspberry Vodka, Elderflower
-          Liqueur,                                       Pomegranate-Cranberry
-          Sweet Tea, Grape Lemon X Limeade  
-        price: '13'
-        title: 'Cocktail Special: Winter Berry Punch'
       - description: >
           vodka or blanco tequila with our house bloody mary mix, infused with
           homemade kimchi juice 
