@@ -7,8 +7,8 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          Lemon Passionfruit: Tito’s Vodka, Passionfruit Jam, Lemon Jello, Fresh
-          Lemon          
+          Tequila Sunrise: Blanco Tequila, Orange Jello, Fresh OJ, Amarena
+          Cherry Drizzle  
         price: '6'
         title: Rotating Jello Shots
       - description: 'Spiced Rum, Fresh Apple Cider, Fall Spiced Cinnamon Honey Butter'
