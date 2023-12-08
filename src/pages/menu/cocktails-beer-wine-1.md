@@ -222,9 +222,9 @@ subgroups:
         title: >-
           (rose) treat yo self bottle special:  2022 Borsao Rose Campo De
           Borja     
-      - description: 'Veneto, Italy '
+      - description: 'Tulum Valley, San Juan, Argentina '
         price: 12  /  42
-        title: '(White) 2020 Zenato Pinot Grigio '
+        title: '(White) 2021 Bodegas Callia Pinot Grigio '
       - description: 'CA, USA '
         price: 13 / 45
         title: (White) 2021 Grayson Cellars Chardonnay
@@ -241,7 +241,7 @@ subgroups:
           Chardonnay  (california)
       - description: 'Napa County, CA, USA '
         price: 15 / 58
-        title: '(RED) 2020 Joel Gott Pinot Noir '
+        title: '(RED) 2021 Joel Gott Pinot Noir '
       - description: 'Mendoza, Argentina '
         price: 14 / 50
         title: (red) 2021 Bodega Santa Julia Organic Malbec
