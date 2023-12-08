@@ -43,15 +43,13 @@ subgroups:
         price: '14'
         title: There’s Fire
       - description: >-
-          Mango-Citrus Infused Tennessee Moonshine, Disaronno Velvet Cream
-          Liqueur, Orange Juice, Cinnamon Simple, Shaved Nutmeg 
-        price: '14'
-        title: '(mango) Lassi Come Home '
-      - description: >-
           Mad River Distillery Rye Whiskey, Dark Cherry Liqueur, Cinnamon
           Simple, Fresh Lemon 
         price: '14'
         title: danish modern
+      - description: 'Maple Infused Mad River Distillery Bourbon, Cranberry, Fresh Lemon '
+        price: '14'
+        title: 'Cranberry Maple Whiskey Sour   '
       - description: >-
           Uncle Nearest 1884 Small Batch Whiskey, Combier Peche Liqueur, White
           Cranberry, Fresh Lime
@@ -61,10 +59,26 @@ subgroups:
         price: '14'
         title: 'La Diabla '
       - description: >-
+          Mango-Citrus Infused Tennessee Moonshine, Disaronno Velvet Cream
+          Liqueur, Orange Juice, Cinnamon Simple, Shaved Nutmeg 
+        price: '14'
+        title: '(mango) Lassi Come Home '
+      - description: >-
+          Orange-Raspberry Vodka, Elderflower
+          Liqueur,                                       Pomegranate-Cranberry
+          Sweet Tea, Cherry Lemon-Limeade    
+        price: '13'
+        title: winter berry punch
+      - description: >-
           Select Apertivo, Pamplemousse Grapefruit Liqueur, Prosecco, Fresh
           Lemon 
         price: '14'
         title: Shine Spritz
+      - description: >-
+          White Wine Blend, Pear Infused Brandy, Spiced Pear Nectar, Cinnamon
+          Simple, Fresh Citrus   
+        price: '14'
+        title: ARae's Winter Spiced Pear White Sangria
       - description: >-
           Mediterranean Red Blend, Ginger Liqueur, Brandy, Hibiscus Syrup, Fresh
           Citrus 
