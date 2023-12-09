@@ -32,7 +32,7 @@ subgroups:
           Sage, Shoestring French Fries *Add a Cup of Mushroom Bisque $7 *Add
           Fried egg $2 *Add Jalapeño Bacon $4 *Available Vegetarian
         price: '19'
-        title: 'Menu Addition: Autumn Candied Bacon Grilled Cheese'
+        title: 'Menu Addition: Winter Candied Bacon Grilled Cheese'
       - description: >-
           Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
