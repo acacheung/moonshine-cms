@@ -11,7 +11,7 @@ subgroups:
           Cherry Drizzle  
         price: '6'
         title: Rotating Jello Shots
-      - description: 'Spiced Rum, Fresh Apple Cider, Fall Spiced Cinnamon Honey Butter'
+      - description: 'Spiced Rum, Fresh Apple Cider, Winter Spiced Cinnamon Honey Butter'
         price: '15'
         title: 'Rotating Hot Cocktail: Hot Buttered Rum Cider'
       - description: >-
