@@ -184,9 +184,7 @@ subgroups:
         title: Athletic Brewing co "ripe pursuit" lemon radler  (non-alcoholic)
       - description: 12 oz can
         price: '6'
-        title: >-
-          Athletic Brewing co "cerveza athletica" light copper lager
-          (non-alcoholic)
+        title: Athletic Brewing co " All-out" dark beer(non-alcoholic)
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
