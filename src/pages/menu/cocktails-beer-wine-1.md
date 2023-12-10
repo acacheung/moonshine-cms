@@ -173,6 +173,9 @@ subgroups:
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
+      - description: 12oz bottle
+        price: '8'
+        title: 'Boulevard Brewing Smokestack Series"Dark Truth" Imperial Stout '
       - description: '12 oz bottle '
         price: '7'
         title: Heineken Zero (non-alcoholic)
