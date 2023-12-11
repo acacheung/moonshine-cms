@@ -56,9 +56,9 @@ subgroups:
     title: 'Cheers To The Weekend! '
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
-      - description: 'Crispy Sweet Potato Fritters, Curry Goddess Aioli, Sweet Chili'
+      - description: '  Cheesy Potato Fritters, Corn, Chewy Mochi Flour,  Curry-Chili Glaze       '
         price: '15 regular / 24 grande '
-        title: 'menu addition: Japanese Cheesy Sweet Potato Mochi Pancakes '
+        title: 'menu addition: Japanese sweet corn-Potato Mochi Pancakes '
       - description: >-
           Classic ‘Shine  Iceberg Wedge Salad with all your favorite superfoods…
           Turmeric Roasted Broccoli & Sweet Potatoes, Avocado, Heirloom Quinoa,
