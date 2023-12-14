@@ -20,8 +20,8 @@ subgroups:
         price: '15'
         title: House Manhattan
       - description: >-
-          Doube Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy? Just
-          ask for Baileys Irish Cream!) 
+          Titos Vodka, Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like
+          it Creamy? Just ask for Baileys Irish Cream!) 
         price: '15'
         title: '''Shine Espresso Martini'
       - description: 'Gin Lane London Dry Gin, Elderflower, Fresh Lemon, Prosecco '
