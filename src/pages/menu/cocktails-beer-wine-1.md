@@ -62,12 +62,6 @@ subgroups:
         price: '14'
         title: '(mango) Lassi Come Home '
       - description: >-
-          Orange-Raspberry Vodka, Elderflower
-          Liqueur,                                       Pomegranate-Cranberry
-          Sweet Tea, Cherry Lemon-Limeade    
-        price: '13'
-        title: winter berry punch
-      - description: >-
           Select Apertivo, Pamplemousse Grapefruit Liqueur, Prosecco, Fresh
           Lemon 
         price: '14'
