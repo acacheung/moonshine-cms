@@ -90,7 +90,7 @@ subgroups:
       - description: >-
           Sourdough holiday stuffing bites, Crispy pecanwood bacon, Candied
           ginger aioli 
-        price: 15 / 23
+        price: 15 / 24
         title: '’Shine Famous Bacon Wrapped Stuffing Bites  '
       - description: >-
           Crispy olive oil roasted potatoes, Sherry pesto aioli, Roasted garlic
@@ -163,7 +163,7 @@ subgroups:
       - description: >
           Heirloom quinoa, sautéed kale, creamy Caesar dressing, wonton crisps,
           fresh pomegranate, shaved pecorino cheese
-        price: 16 regular / 27 grande
+        price: 17 regular / 27 grande
         title: 'Warm Kale and Quinoa Caesar Salad '
       - description: served with Poblano Ranch Sauce
         price: 17 / 29
