@@ -47,9 +47,6 @@ subgroups:
           Simple, Fresh Lemon 
         price: '14'
         title: danish modern
-      - description: 'Maple Infused Mad River Distillery Bourbon, Cranberry, Fresh Lemon '
-        price: '14'
-        title: 'Cranberry Maple Whiskey Sour   '
       - description: >-
           Uncle Nearest 1884 Small Batch Whiskey, Combier Peche Liqueur, White
           Cranberry, Fresh Lime
