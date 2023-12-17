@@ -64,11 +64,6 @@ subgroups:
         price: '14'
         title: Shine Spritz
       - description: >-
-          White Wine Blend, Pear Infused Brandy, Spiced Pear Nectar, Cinnamon
-          Simple, Fresh Citrus, Ginger Beer
-        price: '14'
-        title: ARae's Winter Spiced Pear White Sangria
-      - description: >-
           Mediterranean Red Blend, Ginger Liqueur, Brandy, Hibiscus Syrup, Fresh
           Citrus 
         price: '14'
