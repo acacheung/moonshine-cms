@@ -19,7 +19,7 @@ subgroups:
           Oat-Amaranth Flax Crumble   
         price: '17 regular / 28 grande '
         title: 'Menu Addition: Antioxidant-Super Wedge Salad'
-      - description: '  Cheesy Potato Fritters, Corn, Chewy Mochi Flour,  Curry-Chili Glaze       '
+      - description: '  Cheesy Potato Fritters, Corn, Chewy Mochi Flour,  Ginger-Chili Glaze       '
         price: '15 regular / 24 grande '
         title: 'Menu Addition: Japanese Sweet Corn-Potato  Mochi Pancakes '
       - description: >-
