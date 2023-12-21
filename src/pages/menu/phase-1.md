@@ -243,7 +243,7 @@ subgroups:
         title: CHEF ASIA'S INFAMOUS "ANGRY SAUCE"
       - description: >-
           compliment your dish with one of Chef Asia's homemade sauces : Poblano
-          ranch, Sweet chili honey, Sherry pesto aioli, Curry goddess aioli,
+          ranch, Sweet chili honey, Sherry pesto aioli, Smoky sriracha aioli,
           Candied ginger aioli, Truffled teriyaki, Bourbon-Sriracha "Awesome
           sauce", Szechuan Chili Oil (contains sesame & peanuts), Carrot-Sesame
           Ginger Vinaigrette, 
