@@ -239,13 +239,6 @@ subgroups:
       - description: 'California '
         price: 14 / 48
         title: (red) 2020 contour cabernet
-      - description: >-
-          Medium-bodied Pinot Noir with Dried Strawberry, Orange Peel and Baked
-          Cherry Notes with Round Tannins and a Juicy finish.
-        price: 45 / bottle
-        title: >-
-          (red) treat yo self bottle special : 2021 Talbott Vineyards "Kali
-          Hart" (Monterrey, CA) 
     title: Wine List
   - items:
       - description: 'White & Red Cranberry Juices, Fresh Lemonade '
