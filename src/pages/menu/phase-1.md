@@ -19,9 +19,6 @@ subgroups:
           Oat-Amaranth Flax Crumble   
         price: '17 regular / 28 grande '
         title: 'Menu Addition: Antioxidant-Super Wedge Salad'
-      - description: '  Cheesy Potato Fritters, Corn, Chewy Mochi Flour,  Ginger-Chili Glaze       '
-        price: '15 regular / 24 grande '
-        title: 'Menu Addition: Japanese Sweet Corn-Potato  Mochi Pancakes '
       - description: >-
           Bulgogi Beef Shortrib, Salsa Fresca,  Melted Cheese, Smoky Sriracha
           Mayo, Shredded Lettuce, Tater Tots & Birria Dipping Jus  
