@@ -63,11 +63,6 @@ subgroups:
           Lemon 
         price: '14'
         title: Shine Spritz
-      - description: >-
-          Mediterranean Red Blend, Ginger Liqueur, Brandy, Hibiscus Syrup, Fresh
-          Citrus 
-        price: '14'
-        title: Sahil's ginger hibiscus red sangria
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
