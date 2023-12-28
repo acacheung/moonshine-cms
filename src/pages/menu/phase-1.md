@@ -25,8 +25,8 @@ subgroups:
         price: '$18 (2 tacos) / $28 (3 tacos)  '
         title: 'Menu Addition: Birria Gringo Tacos         '
       - description: >-
-          Cranberry-Pecan Bread, Melted Cheddar, Sliced Honeycrisp Apples, Fried
-          Sage, Shoestring French Fries *Add a Cup of Mushroom Bisque $7 *Add
+          Melted Cheddar, Sliced Honeycrisp Apples, Fried Sage, Whole Wheat
+          Bread, Shoestring French Fries *Add a Cup of Mushroom Bisque $7 *Add
           Fried egg $2 *Add Jalapeño Bacon $4 *Available Vegetarian
         price: '19'
         title: 'Menu Addition: Winter Candied Bacon Grilled Cheese'
