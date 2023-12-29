@@ -63,6 +63,11 @@ subgroups:
           Lemon 
         price: '14'
         title: Shine Spritz
+      - description: >-
+          White Wine Blend, Pamplemousse Grapefruit Liqueur, Elderflower, Lychee
+          Puree, Lime Yuzu Soda  
+        price: '13'
+        title: 'Cocktail Special: Lychee Citrus White Sangria'
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
