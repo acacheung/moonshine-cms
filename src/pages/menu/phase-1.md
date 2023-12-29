@@ -9,6 +9,9 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
+      - description: ' Traditional Steak Tartare, Warm Baked Wellington Streudel, Truffled Peppercorn Aioli, Petite Mixed Greens Salad, Aged Balsamic    '
+        price: '22 regular / 35 grande '
+        title: 'Menu Addition: Steak Tartare “Wellington” '
       - description: 'served with House Corn Tortilla Chips '
         price: 16 regular / 27 grande
         title: 'Menu Addition: warm Spinach Artichoke Dip'
