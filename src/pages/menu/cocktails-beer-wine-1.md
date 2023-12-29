@@ -215,16 +215,16 @@ subgroups:
         price: 14 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
       - description: "Chardonnay\tis\tthe\tmost\twidely\tplanted\tgrape\tin\tCalifornia &\tMannequin\twas\tcreated\t\nto\thighlight the varietals of different\tappellations across the\tstate for a wine that represents\tsome\tof\tthe\tbest\tChardonnay\tgrowing\tareas\tin\tCA in\ta\tsingle\tblend. Notes of ripe Bosc pear, yellow peach & wet stone with a bright, acidic finish "
-        price: '45 / bottle '
+        price: '35 / bottle '
         title: >-
           (white) treat yo self bottle special:  2021 Orin Swift "Mannequin"
           Chardonnay  (california)
       - description: 'Napa County, CA, USA '
         price: 15 / 58
         title: '(RED) 2021 Joel Gott Pinot Noir '
-      - description: 'Mendoza, Argentina '
+      - description: 'Mendoza, Argentine'
         price: 14 / 50
-        title: (red) 2021 Bodega Santa Julia Organic Malbec
+        title: 2021 Argento Organic Malbec
       - description: 'Piedmont, Italy '
         price: '14 / 50 '
         title: '(red) 2021 Bava Libera Barbera d''Asti '
@@ -234,6 +234,11 @@ subgroups:
       - description: 'California '
         price: 14 / 48
         title: (red) 2020 contour cabernet
+      - description: 'Mendoza, Argentina '
+        price: 35/bottle
+        title: >-
+          (red) treat yo self bottle special: 2022 Bodega Santa Julia Organic
+          Malbec
     title: Wine List
   - items:
       - description: 'White & Red Cranberry Juices, Fresh Lemonade '
