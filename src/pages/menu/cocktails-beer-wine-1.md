@@ -7,8 +7,8 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          Tequila Sunrise: Blanco Tequila, Orange Jello, Fresh OJ, Amarena
-          Cherry Drizzle  
+          Holiday Jubilee : a Red Bull Vodka Jello Shot paired with a Whiskey
+          Cherry Jello Shot, Confetti Sprinkles     
         price: '6'
         title: Rotating Jello Shots
       - description: >-
