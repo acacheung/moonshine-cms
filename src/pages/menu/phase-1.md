@@ -69,8 +69,8 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
-          Hungarian Wild Mushroom Bisque: Creamy Mushroom Soup, Fresh Thyme,
-          Smoked Paprika 
+          Southie Irish Curry: House Yellow  Curry Blend, Braised Potatoes, 
+          Golden Raisins 
         price: '12 regular / 19 grande '
         title: Chef's Whim Soup for the Soul
       - description: >-
