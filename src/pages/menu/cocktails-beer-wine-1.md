@@ -127,9 +127,6 @@ subgroups:
       - description: '16oz tallboy can '
         price: '7'
         title: 'Night Shift Brewing "Nite Lite" Light Lager '
-      - description: '16 oz tallboy can '
-        price: '5'
-        title: 'Jack''s Abby "Copper Legend" Oktoberfest '
       - description: '12 oz bottle '
         price: '6'
         title: Kona Brewing "Big Wave" Golden Ale
@@ -152,7 +149,7 @@ subgroups:
         price: '7'
         title: 'Stone IPA '
       - description: '16oz tallboy can '
-        price: '8'
+        price: '6'
         title: Lord Hobo "BoomSauce" Double IPA
       - description: '16 oz nitro can '
         price: '7'
