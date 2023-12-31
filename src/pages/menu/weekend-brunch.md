@@ -153,8 +153,8 @@ subgroups:
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >-
-          Hungarian Wild Mushroom Bisque: Creamy Mushroom Soup, Fresh Thyme,
-          Smoked Paprika 
+          Southie Irish Curry: House Yellow  Curry Blend, Braised Potatoes, 
+          Golden Raisins 
         price: '12 / 19 '
         title: 'Chef’s Whim Soup for the Soul '
       - description: >
