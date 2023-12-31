@@ -16,9 +16,6 @@ subgroups:
           Puree, Lime Yuzu Soda  
         price: '13'
         title: 'Cocktail Special: Lychee Citrus White Sangria'
-      - description: 'Spiced Rum, Fresh Apple Cider, Winter Spiced Cinnamon Honey Butter'
-        price: '15'
-        title: 'Rotating Hot Cocktail: Hot Buttered Rum Cider'
       - description: >-
           Locally Made Boston Harbor Distillery Putnam Rye Whiskey, Carpano
           Antica Sweet Vermouth, Angostura Bitters 
