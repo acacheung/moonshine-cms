@@ -9,9 +9,6 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
-      - description: ' Traditional Steak Tartare, Warm Baked Wellington Streudel, Truffled Peppercorn Aioli, Petite Mixed Greens Salad, Aged Balsamic    '
-        price: '22 regular / 35 grande '
-        title: 'Menu Addition: Steak Tartare “Wellington” '
       - description: 'served with House Corn Tortilla Chips '
         price: 16 regular / 27 grande
         title: 'Menu Addition: warm Spinach Artichoke Dip'
@@ -29,7 +26,7 @@ subgroups:
         title: 'Menu Addition: Birria Gringo Tacos         '
       - description: >-
           Melted Cheddar, Sliced Honeycrisp Apples, Fried Sage, Whole Wheat
-          Bread, Shoestring French Fries *Add a Cup of Mushroom Bisque $7 *Add
+          Bread, Shoestring French Fries *Add a Cup of Irish Curry Soup $7 *Add
           Fried egg $2 *Add Jalapeño Bacon $4 *Available Vegetarian
         price: '19'
         title: 'Menu Addition: Winter Candied Bacon Grilled Cheese'
@@ -69,8 +66,14 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
-          Southie Irish Curry: House Yellow  Curry Blend, Braised Potatoes, 
-          Golden Raisins 
+          Southie Irish Curry: Potato-Veggie Curry, House Spiced Yellow Curry
+          Blend, Braised Carrots, Coconut
+          Milk                                                     Looking For
+          Something Different?!  Create Your Own
+          Entree!                                                  Smothered
+          Curry Fries $17      Smothered Curry Tots
+          $17                                                              
+          Smothered Curry Rice $17    
         price: '12 regular / 19 grande '
         title: Chef's Whim Soup for the Soul
       - description: >-
