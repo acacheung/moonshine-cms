@@ -153,8 +153,14 @@ subgroups:
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >-
-          Southie Irish Curry: House Yellow  Curry Blend, Braised Potatoes, 
-          Golden Raisins 
+          Southie Irish Curry: Potato-Veggie Curry, House Spiced Yellow Curry
+          Blend, Braised Carrots, Coconut
+          Milk                                                     Looking For
+          Something Different?!  Create Your Own
+          Entree!                                                  Smothered
+          Curry Fries $17      Smothered Curry Tots
+          $17                                                              
+          Smothered Curry Rice $17    
         price: '12 / 19 '
         title: 'Chef’s Whim Soup for the Soul '
       - description: >
