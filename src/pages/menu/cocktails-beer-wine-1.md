@@ -71,7 +71,7 @@ subgroups:
       - price: '5'
         title: (draft) miller high life
       - price: '7'
-        title: '(draft) Allagash White '
+        title: '(draft) Zero Gravity "Green State" Lager '
       - price: '7'
         title: (Draft) Downeast Unfiltered Cider
       - price: '8'
@@ -130,6 +130,9 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '7'
         title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
+      - description: 16oz tallboy can
+        price: '6'
+        title: Allagash White
       - description: '16oz tallboy can '
         price: '6'
         title: 'Bell''s Brewing "Oberon" Wheat Ale '
