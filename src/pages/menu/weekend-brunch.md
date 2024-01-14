@@ -57,6 +57,12 @@ subgroups:
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
       - description: >-
+          Cheesy Stuffed Anaheim Peppers with Braised
+          Lentils,                               Red Cabbage Salsa Fresca & Sour
+          Cream
+        price: '25'
+        title: 'Men Addition: Chili Rellenos'
+      - description: >-
           Classic ‘Shine  Iceberg Wedge Salad with all your favorite superfoods…
           Turmeric Roasted Broccoli & Sweet Potatoes, Avocado, Heirloom Quinoa,
           Shaved Pecorino Cheese, Roasted Kale, Oat-Amaranth Flax Crumble, Red
@@ -252,6 +258,11 @@ subgroups:
     title: All the sides & Fixin’s
   - description: ' (Dessert)'
     items:
+      - description: >-
+          Sweet Milk Custard, Served with Crunchy Panko Breading, Apple Butter,
+          Salted Caramel & Passionfruit Glaze
+        price: '11'
+        title: 'Menu Addition: Chinese “Fried Milk”'
       - description: >-
           Mocha Chip Ice Cream, Warm Belgian Waffle, Whipped Cream, Nutella
           Chocolate Sauce, Sesame Candied Walnuts, Chocolate Chips …add candied
