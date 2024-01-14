@@ -26,6 +26,11 @@ subgroups:
       - description: Mango
         price: '11'
         title: 'Chef''s Whim Sorbet (vegan) '
+      - description: >-
+          Sweet Milk Custard, Served with Crunchy Panko Breading, Apple Butter,
+          Salted Caramel & Passionfruit Glaze
+        price: '11'
+        title: 'Menu Addition: "Chinese Fried Milk"'
     title: Sweet Tooth
 ---
 
