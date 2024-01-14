@@ -9,11 +9,6 @@ subgroups:
       - description: 'Served with with Sea Salted Caramel & Whipped Cream '
         price: '12'
         title: 'Menu Addition: Sticky Toffee Bread Pudding'
-      - description: >-
-          Pumpkin Pie Custard, Local Honey, Toasted Pistachios, Crinkled
-          Cinnamon-Sugar Baked Phyllo Dough  
-        price: '12'
-        title: 'menu Addition: Pumpkin-Pistachio Baklava Crinkle'
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
