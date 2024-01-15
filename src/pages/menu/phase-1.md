@@ -13,23 +13,15 @@ subgroups:
         price: 16 regular / 27 grande
         title: 'Menu Addition: warm Spinach Artichoke Dip'
       - description: >-
-          Classic ‘Shine Iceberg Wedge Salad with all your favorite superfoods…
-          Red Wine Vinaigrette, Turmeric Roasted Broccoli & Sweet Potatoes,
-          Avocado, Heirloom Quinoa, Shaved Pecorino Cheese, Roasted Kale,
-          Oat-Amaranth Flax Crumble   
-        price: '17 regular / 28 grande '
-        title: 'Menu Addition: Antioxidant-Super Wedge Salad'
-      - description: >-
           Bulgogi Beef Shortrib, Salsa Fresca,  Melted Cheese, Smoky Sriracha
           Mayo, Shredded Lettuce, Tater Tots & Birria Dipping Jus  
         price: '$18 (2 tacos) / $28 (3 tacos)  '
         title: 'Menu Addition: Birria Gringo Tacos         '
       - description: >-
-          Melted Cheddar, Sliced Honeycrisp Apples, Fried Sage, Whole Wheat
-          Bread, Shoestring French Fries *Add a Cup of Irish Curry Soup $7 *Add
-          Fried egg $2 *Add Jalapeño Bacon $4 *Available Vegetarian
-        price: '19'
-        title: 'Menu Addition: Winter Candied Bacon Grilled Cheese'
+          Cheesy Stuffed Anaheim Peppers with Braised Lentils, Red Cabbage Salsa
+          Fresca & Sour Cream   
+        price: '25'
+        title: 'Menu Addition: Chili Rellenos '
       - description: >-
           Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
