@@ -250,6 +250,11 @@ subgroups:
     title: All the sides & Fixin’s
   - description: ' (Dessert)'
     items:
+      - description: |2-
+           Served Warm with Sea Salted Caramel & Whipped Cream  
+                                                
+        price: '12'
+        title: 'Menu Addition: Sticky Toffee Bread Pudding  '
       - description: >-
           Sweet Milk Custard, Served with Crunchy Panko Breading, Apple Butter,
           Salted Caramel & Passionfruit Glaze
