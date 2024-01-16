@@ -63,13 +63,6 @@ subgroups:
         price: '25'
         title: 'Men Addition: Chili Rellenos'
       - description: >-
-          Classic ‘Shine  Iceberg Wedge Salad with all your favorite superfoods…
-          Turmeric Roasted Broccoli & Sweet Potatoes, Avocado, Heirloom Quinoa,
-          Shaved Pecorino Cheese, Roasted Kale, Oat-Amaranth Flax Crumble, Red
-          Wine Vinaigrette     
-        price: 17 regular / 28 grande
-        title: 'Menu Addition: Antioxidant-Super Wedge Salad'
-      - description: >-
           Local honey, Fresh berries, Maple Rice Krispie Granola Crunch **add a
           belgian waffle $7**
         price: 9 / 14
@@ -165,8 +158,7 @@ subgroups:
           Something Different?!  Create Your Own
           Entree!                                                  Smothered
           Curry Fries $17      Smothered Curry Tots
-          $17                                                              
-          Smothered Curry Rice $17    
+          $17                                                               
         price: '12 / 19 '
         title: 'Chef’s Whim Soup for the Soul '
       - description: >
