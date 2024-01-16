@@ -171,6 +171,11 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
+          Red Wine Braised Rabbit, Toasted Hazelnuts,                         
+          Louisiana-Tomato Cream Sauce, Campanelle Pasta 
+        price: '28'
+        title: 'Menu Addition: Louisiana Braised Rabbit Pasta '
+      - description: >-
           Smoky 'Shine BBQ Meatloaf Smothered in French Onion Soup Sauce, Melted
           Swiss Cheese, Texas Toast & a Petite Mixed Greens Salad
         price: '28'
@@ -214,6 +219,11 @@ subgroups:
           macerated tomatoes
         price: '29'
         title: SPANISH TAPAS STYLE STEAK FRITES**
+      - description: >-
+          Cajun-rubbed fish of the day, Fried picked green tomatoes,
+          Sriracha-shrimp uni butter sauce, Sautéed tomatoes
+        price: '29'
+        title: cajun grilled fish of the day
     title: THE MAIN AFFAIR-Entrees
   - description: 'Compliment your meal by adding your favorite fixins, sides & sauces!'
     items:
