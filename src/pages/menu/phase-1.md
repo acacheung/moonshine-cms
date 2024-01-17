@@ -9,9 +9,14 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
-      - description: 'served with House Corn Tortilla Chips '
-        price: 16 regular / 27 grande
-        title: 'Menu Addition: warm Spinach Artichoke Dip'
+      - description: 'House Fig Preserves, Assorted Crostini & Toasts, Fontina & Brie Fondue'
+        price: 18 regular / 29 grande
+        title: 'Menu Addition: Baked Cheese Fondue Skillet'
+      - description: >-
+          Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy Pesto
+          Dressing, Aged Balsamic
+        price: 18 regular / 29 grande
+        title: 'Menu Addition: Warm Crispy Artichoke Salad'
       - description: >-
           Bulgogi Beef Shortrib, Salsa Fresca,  Melted Cheese, Smoky Sriracha
           Mayo, Shredded Lettuce, Tater Tots & Birria Dipping Jus  
