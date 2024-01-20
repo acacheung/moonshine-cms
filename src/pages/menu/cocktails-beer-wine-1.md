@@ -152,8 +152,8 @@ subgroups:
         price: '7'
         title: 'Stone IPA '
       - description: '16oz tallboy can '
-        price: '6'
-        title: Lord Hobo "BoomSauce" Double IPA
+        price: '8'
+        title: Sloop Brewing Co "Juice Bomb" New England IPA
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
@@ -236,14 +236,9 @@ subgroups:
       - description: 'Columbia valley, WA, USA '
         price: 14 / 47
         title: (red) 2019 Charles & Charles "Double Trouble" Cabernet/Syrah Blend
-      - description: 'California '
+      - description: 'North Coast, CA (Napa, Sonoma & Mendocino counties)'
         price: 14 / 48
-        title: (red) 2020 contour cabernet
-      - description: 'Mendoza, Argentina '
-        price: 35/bottle
-        title: >-
-          (red) treat yo self bottle special: 2022 Bodega Santa Julia Organic
-          Malbec
+        title: '(red) 2021 Silver Palm Cabernet Sauvignon '
     title: Wine List
   - items:
       - description: 'White & Red Cranberry Juices, Fresh Lemonade '
