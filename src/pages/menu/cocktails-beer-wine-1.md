@@ -15,11 +15,6 @@ subgroups:
         price: '6'
         title: Rotating Jello Shots
       - description: >-
-          White Wine Blend, Pamplemousse Grapefruit Liqueur, Elderflower, Lychee
-          Puree, Lime Yuzu Soda  
-        price: '13'
-        title: 'Cocktail Special: Lychee Citrus White Sangria'
-      - description: >-
           Locally Made Boston Harbor Distillery Putnam Rye Whiskey, Carpano
           Antica Sweet Vermouth, Angostura Bitters 
         price: '15'
@@ -73,8 +68,8 @@ subgroups:
     items:
       - price: '5'
         title: (draft) miller high life
-      - price: '7'
-        title: '(draft) Zero Gravity "Green State" Lager '
+      - price: '6'
+        title: '(draft) UFO White '
       - price: '7'
         title: (Draft) Downeast Unfiltered Cider
       - price: '8'
