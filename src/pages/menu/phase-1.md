@@ -9,7 +9,7 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
-      - description: 'House Fig Preserves, Assorted Crostini & Toasts, Fontina & Brie Fondue'
+      - description: 'Fontina & Brie Fondue, Assorted Crostini & Toasts'
         price: 18 regular / 29 grande
         title: 'Menu Addition: Baked Cheese Fondue Skillet'
       - description: >-
@@ -22,11 +22,6 @@ subgroups:
           Mayo, Shredded Lettuce, Tater Tots & Birria Dipping Jus  
         price: '$18 (2 tacos) / $28 (3 tacos)  '
         title: 'Menu Addition: Birria Gringo Tacos         '
-      - description: >-
-          Cheesy Stuffed Anaheim Peppers with Braised Lentils, Red Cabbage Salsa
-          Fresca & Sour Cream   
-        price: '25'
-        title: 'Menu Addition: Chili Rellenos '
       - description: >-
           Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
