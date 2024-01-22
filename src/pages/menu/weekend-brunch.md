@@ -57,11 +57,12 @@ subgroups:
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
       - description: >-
-          Cheesy Stuffed Anaheim Peppers with Braised
-          Lentils,                               Red Cabbage Salsa Fresca & Sour
-          Cream
-        price: '25'
-        title: 'Men Addition: Chili Rellenos'
+          Warm Crisp Artichoke Hearts, Grilled
+          Radicchio,                              Chickpeas, Avocado, Heirloom
+          Quinoa, Parmesan,                              Creamy Pesto Dressing,
+          Aged Balsamic       
+        price: 18 regular / 29 grande
+        title: 'Menu Addition: crispy artichoke salad '
       - description: >-
           Local honey, Fresh berries, Maple Rice Krispie Granola Crunch **add a
           belgian waffle $7**
@@ -256,10 +257,10 @@ subgroups:
         price: '12'
         title: 'Menu Addition: Sticky Toffee Bread Pudding  '
       - description: >-
-          Sweet Milk Custard, Served with Crunchy Panko Breading, Apple Butter,
-          Salted Caramel & Passionfruit Glaze
-        price: '11'
-        title: 'Menu Addition: Chinese “Fried Milk”'
+          Cream Cheese Ribboned Carrot Cake, Toasted Walnuts & Almonds,
+          Chantilly Cream, Crispy Carrot Chips
+        price: '12'
+        title: 'Menu Addition: Tati''s Favorite Carrot Cake '
       - description: >-
           Mocha Chip Ice Cream, Warm Belgian Waffle, Whipped Cream, Nutella
           Chocolate Sauce, Sesame Candied Walnuts, Chocolate Chips …add candied
