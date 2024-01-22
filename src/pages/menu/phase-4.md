@@ -6,6 +6,11 @@ order: 5
 subgroups:
   - description: Add a Belgian waffle to your favorite dessert $7
     items:
+      - description: >-
+          Cream Cheese Ribboned Carrot Cake, Toasted Walnuts & Almonds,
+          Chantilly Cream, Crispy Carrot Chips
+        price: '12'
+        title: 'Menu Addition: Tati''s Favorite carrot CAKE '
       - description: 'Served with with Sea Salted Caramel & Whipped Cream '
         price: '12'
         title: 'Menu Addition: Sticky Toffee Bread Pudding'
@@ -26,11 +31,6 @@ subgroups:
       - description: Mango
         price: '11'
         title: 'Chef''s Whim Sorbet (vegan) '
-      - description: >-
-          Sweet Milk Custard, Served with Crunchy Panko Breading, Apple Butter,
-          Salted Caramel & Passionfruit Glaze
-        price: '11'
-        title: 'Menu Addition: "Chinese Fried Milk"'
     title: Sweet Tooth
 ---
 
