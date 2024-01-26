@@ -224,7 +224,7 @@ subgroups:
           Chardonnay  (california)
       - description: 'Napa County, CA, USA '
         price: 15 / 58
-        title: '(RED) 2021 Joel Gott Pinot Noir '
+        title: '(RED) 2022 Joel Gott Pinot Noir '
       - description: 'Mendoza, Argentine'
         price: 14 / 50
         title: 2021 Argento Organic Malbec
