@@ -184,7 +184,8 @@ subgroups:
         title: 'Menu Addition: French Onion Soup Meatloaf '
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
-          fries...... Now available Vegan, just ask!
+          fries...... Now available Vegan, just ask! Also ask About our House
+          Vegan Aioli!
         price: '19'
         title: CHEF ASIA’S FAMOUS VEGETARIAN MUSHROOM TOFU BURGER
       - description: >-
@@ -256,7 +257,7 @@ subgroups:
           ranch, Sweet chili honey, Sherry pesto aioli, Smoky sriracha aioli,
           Candied ginger aioli, Garlic Caesar, Truffled teriyaki,
           Bourbon-Sriracha "Awesome sauce", Szechuan Chili Oil (contains sesame
-          & peanuts), Carrot-Sesame Ginger Vinaigrette
+          & peanuts), Carrot-Sesame Ginger Vinaigrette !!New House Vegan Aioli!!
         price: '2'
         title: '"SAUCE IT UP"'
       - description: inquire with your server for side substitutions
