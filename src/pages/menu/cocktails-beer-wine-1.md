@@ -58,9 +58,6 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '14'
         title: 'La Diabla '
-      - description: 'Mango-Citrus Infused Tennessee Moonshine, Rumchata, Orange Juice '
-        price: '14'
-        title: '(mango) Lassi Come Home '
       - description: >-
           Select Apertivo, Pamplemousse Grapefruit Liqueur, Prosecco, Fresh
           Lemon 
