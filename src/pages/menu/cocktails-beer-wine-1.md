@@ -207,7 +207,7 @@ subgroups:
         title: '(White) 2021 Bodegas Callia Pinot Grigio '
       - description: 'CA, USA '
         price: 13 / 45
-        title: (White) 2021 Grayson Cellars Chardonnay
+        title: '(White) 2022 Decoy California Chardonnay '
       - description: 'Elqui Valley, Coquimbo, Chile'
         price: 12 / 45
         title: (white) 2022 Mayu Pedro Ximenez
