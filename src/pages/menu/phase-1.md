@@ -194,15 +194,12 @@ subgroups:
         price: '19'
         title: GRASS-FED ’SHINE BEEF BURGER**
       - description: >-
-          “The New England Surf n’ Turf
-          Burger”                                                                                                                                              
-          Old Bay-Sweet Corn Hush Puppy, Lobster Bisque
-          Drizzle,                                    Classic Lemony Tartar
-          Sauce     ...add cheddar cheese $2 …add fried egg $2..add jalapeno
-          bacon $4…add sliced avocado
+          “The Firecracker Burger" : topped with Bruleed Scallion Cream Cheese,
+          Sweet Chili Glaze, Crispy Wonton Strips    ...add cheddar cheese $2
+          …add fried egg $2..add jalapeno bacon $4…add sliced avocado
           $3                                                            
         price: '24'
-        title: January 2024 VIP burger of the month
+        title: February 2024 VIP burger of the month
       - description: >-
           Smoky pulled pork, scrambled egg, tomato, petite mixed greens salad,
           teriyaki, sweet chili glaze, house-cut shoestring french fries...
