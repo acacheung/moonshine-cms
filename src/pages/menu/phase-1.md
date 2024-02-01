@@ -9,9 +9,9 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
-      - description: 'Fontina & Brie Fondue, Assorted Crostini & Toasts'
-        price: 18 regular / 29 grande
-        title: 'Menu Addition: Baked Cheese Fondue Skillet'
+      - description: 'New England Lobster Bisque Sauce, Beurre Blanc  '
+        price: 17 regular / 28 grande
+        title: 'Menu Addition: Old Bay Sweet Corn Hush Puppies'
       - description: >-
           Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy Pesto
           Dressing, Aged Balsamic
