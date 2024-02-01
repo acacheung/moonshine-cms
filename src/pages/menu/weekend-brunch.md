@@ -195,16 +195,14 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          “The New England Surf n’ Turf
-          Burger”:                                                                                                                                              
-          Old Bay-Sweet Corn Hush Puppy, Lobster Bisque
-          Drizzle,                                    Classic Lemony Tartar
-          Sauce                                                                              
+          “The Firecracker Burger" topped with Bruleed Scallion Cream Cheese,
+          Sweet Chili Glaze, Crispy Wonton
+          Strips                                                                                          
           ….add cheddar cheese $2 …add fried egg
           $2                                              ..add jalapeno bacon
           $4…add avocado $3     
         price: '24'
-        title: January 2024 VIP burger of the month
+        title: February 2024 VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: ' All the sides & Fixin’s'
     items:
