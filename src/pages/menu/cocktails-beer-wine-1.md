@@ -9,6 +9,9 @@ subgroups:
       - description: Cinnamon Clove Spiced Wine with Honey and Citrus
         price: '14'
         title: 'Rotating Hot Cocktail: Peter''s Mulled Wine'
+      - description: ' Mango-Apricot Citrus Vodka, Elderflower Liqueur,                  Lychee Puree, Mandarin Orange Simple, Fresh Citrus Juices '
+        price: '13 '
+        title: 'Cocktail Special: Lunar Lychee Party Punch'
       - description: >-
           Holiday Jubilee : a Red Bull Vodka Jello Shot paired with a Whiskey
           Cherry Jello Shot, Confetti Sprinkles     
