@@ -7,8 +7,8 @@ subgroups:
   - description: Add a Belgian waffle to your favorite dessert $7
     items:
       - description: >-
-          Cream Cheese Ribboned Carrot Cake, Toasted Walnuts & Almonds,
-          Chantilly Cream, Crispy Carrot Chips
+          Cream Cheese Ribboned Carrot Cake, Toasted Walnuts, Chantilly Cream,
+          Crispy Carrot Chips
         price: '12'
         title: 'Menu Addition: Tati''s Favorite carrot CAKE '
       - description: 'Served with with Sea Salted Caramel & Whipped Cream '
