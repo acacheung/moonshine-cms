@@ -13,8 +13,8 @@ subgroups:
         price: '13 '
         title: 'Cocktail Special: Lunar Lychee Party Punch'
       - description: >-
-          Holiday Jubilee : a Red Bull Vodka Jello Shot paired with a Whiskey
-          Cherry Jello Shot, Confetti Sprinkles     
+          "Double Trouble"- a Red Bull Vodka Jello Shot paired with a Whiskey
+          Cherry Jello Shot
         price: '6'
         title: Rotating Jello Shots
       - description: >-
