@@ -153,13 +153,12 @@ subgroups:
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >-
-          Southie Irish Curry: Potato-Veggie Curry, House Spiced Yellow Curry
-          Blend, Braised Carrots, Coconut
-          Milk                                                     Looking For
-          Something Different?!  Create Your Own
+          Southie Irish Curry: Potato-Veggie Curry, Braised Carrots, Coconut
+          Milk, Sweet Raisins                                             
+          Looking To Switch It Up?!  Create Your Own
           Entree!                                                  Smothered
-          Curry Fries $17      Smothered Curry Tots
-          $17                                                               
+          Curry Fries or Tater Tot Plates $17 Don't forget to add your favorite
+          protein!                                                         
         price: '12 / 19 '
         title: 'Chef’s Whim Soup for the Soul '
       - description: >
@@ -195,8 +194,8 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          “The Firecracker Burger" topped with Bruleed Scallion Cream Cheese,
-          Sweet Chili Glaze, Crispy Wonton
+          “The Anniversary Firecracker Rangoon Burger" topped with Bruleed
+          Scallion Cream Cheese, Sweet Chili Glaze, Crispy Wonton
           Strips                                                                                          
           ….add cheddar cheese $2 …add fried egg
           $2                                              ..add jalapeno bacon
