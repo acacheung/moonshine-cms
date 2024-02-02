@@ -227,7 +227,7 @@ subgroups:
         title: '(RED) 2022 Joel Gott Pinot Noir '
       - description: 'Mendoza, Argentine'
         price: 14 / 50
-        title: 2021 Argento Organic Malbec
+        title: (red)2021 Argento Organic Malbec
       - description: 'Piedmont, Italy '
         price: '14 / 50 '
         title: '(red) 2021 Bava Libera Barbera d''Asti '
