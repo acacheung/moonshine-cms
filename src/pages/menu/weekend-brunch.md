@@ -260,8 +260,7 @@ subgroups:
         title: 'Menu Addition: Tati''s Favorite Carrot Cake '
       - description: >-
           Mocha Chip Ice Cream, Warm Belgian Waffle, Whipped Cream, Nutella
-          Chocolate Sauce, Sesame Candied Walnuts, Chocolate Chips …add candied
-          bacon $2
+          Chocolate Sauce, Chocolate Chips …add candied bacon $2
         price: '13'
         title: 'Menu Addition: Belgian Waffle Ice Cream Sundae'
       - description: 'Whipped chantilly cream, Toasted oat-amaranth streusel '
