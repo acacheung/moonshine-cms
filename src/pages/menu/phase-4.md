@@ -19,7 +19,7 @@ subgroups:
         title: Moonshine’s Butterscotch Pudding
       - description: >-
           Mocha Chip Ice Cream, Warm Belgian Waffle, Whipped Cream, Nutella
-          Chocolate Sauce, Sesame Candied Walnuts, Chocolate Chips
+          Chocolate Sauce, Chocolate Chips
         price: '13'
         title: ' Warm Belgian Waffle Ice Cream Sundae'
       - description: 'Powdered sugar, nutella chocolate fudge sauce'
