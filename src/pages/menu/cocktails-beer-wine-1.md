@@ -72,7 +72,7 @@ subgroups:
       - price: '5'
         title: (draft) miller high life
       - price: '6'
-        title: '(draft) UFO White '
+        title: '(draft) Allagash White '
       - price: '7'
         title: (Draft) Downeast Unfiltered Cider
       - price: '7'
