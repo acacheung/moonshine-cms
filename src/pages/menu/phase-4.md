@@ -9,7 +9,7 @@ subgroups:
       - description: >-
           Cream Cheese Ribboned Carrot Cake, Toasted Walnuts, Chantilly Cream,
           Crispy Carrot Chips
-        price: '12'
+        price: '13'
         title: 'Menu Addition: Tati''s Favorite carrot CAKE '
       - description: 'Served with with Sea Salted Caramel & Whipped Cream '
         price: '12'
