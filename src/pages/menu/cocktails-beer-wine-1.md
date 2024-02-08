@@ -27,9 +27,6 @@ subgroups:
           Just ask for Baileys Irish Cream!) 
         price: '15'
         title: '''Shine Espresso Martini'
-      - description: 'Gin Lane London Dry Gin, Elderflower, Fresh Lemon, Prosecco '
-        price: '15'
-        title: Moonshine 76
       - description: >-
           Empress 1908 Indigo Gin, Luxardo Maraschino, Creme de Yiolette, Fresh
           Lemon 
