@@ -64,7 +64,7 @@ subgroups:
         price: 18 regular / 29 grande
         title: 'Menu Addition: crispy artichoke salad '
       - description: >-
-          Local honey, Fresh berries, Maple Rice Krispie Granola Crunch **add a
+          Local honey, Fresh berries, Oat-Flax-Chia Seed Granola Crunch **add a
           belgian waffle $7**
         price: 9 / 14
         title: 'Whipped Greek Yogurt Parfait '
