@@ -9,9 +9,6 @@ subgroups:
       - description: Cinnamon Clove Spiced Wine with Honey and Citrus
         price: '14'
         title: 'Rotating Hot Cocktail: Peter''s Mulled Wine'
-      - description: ' Mango-Apricot Citrus Vodka, Elderflower Liqueur,                  Lychee Puree, Mandarin Orange Simple, Fresh Citrus Juices '
-        price: '13 '
-        title: 'Cocktail Special: Lunar Lychee Party Punch'
       - description: >-
           "Double Trouble"- a Red Bull Vodka Jello Shot paired with a Whiskey
           Cherry Jello Shot
@@ -128,9 +125,6 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '7'
         title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
-      - description: 16oz tallboy can
-        price: '6'
-        title: Allagash White
       - description: '16oz tallboy can '
         price: '6'
         title: 'Bell''s Brewing "Oberon" Wheat Ale '
