@@ -29,6 +29,9 @@ subgroups:
           Lemon 
         price: '14'
         title: fly me to the moon
+      - description: 'Gin Lane London Dry Gin, Elderflower Liqueur, Fresh Lemon, Prosecco '
+        price: '15'
+        title: Moonshine '76
       - description: >-
           GrandTen Spicy Firepuncher Vodka, Fresh Squeezed Cucumber Juice,
           Elderflower Liqueur, Fresh Lemon 
@@ -55,6 +58,11 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '14'
         title: 'La Diabla '
+      - description: >-
+          Mediterranean Red Wine Blend, Housemade Ginger Liqueur, Brandy,
+          Hibiscus, Fresh Citrus Juices 
+        price: '14'
+        title: Sahil's Ginger Hibiscus Red Sangria
       - description: >-
           Select Apertivo, Pamplemousse Grapefruit Liqueur, Prosecco, Fresh
           Lemon 
