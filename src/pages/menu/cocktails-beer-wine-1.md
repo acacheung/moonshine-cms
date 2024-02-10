@@ -6,14 +6,20 @@ order: 1
 subgroups:
   - description: ''
     items:
-      - description: Cinnamon Clove Spiced Wine with Honey and Citrus
-        price: '14'
-        title: 'Rotating Hot Cocktail: Peter''s Mulled Wine'
       - description: >-
           "Double Trouble"- a Red Bull Vodka Jello Shot paired with a Whiskey
           Cherry Jello Shot
         price: '6'
         title: Rotating Jello Shots
+      - description: Cinnamon Clove Spiced Wine with Honey and Citrus
+        price: '14'
+        title: 'Hot Cocktail Special: Peter''s Mulled Wine'
+      - description: >-
+          Black Infusions Apricot Vodka, Elderflower Liqueur, Lychee Puree,
+          House Apricot Simple Syrup, Fresh Citrus Juices topped with Lime Yuzu
+          Soda 
+        price: '14'
+        title: 'Cocktail Special: Lunar Apricot-Lychee Party Punch'
       - description: >-
           Locally Made Boston Harbor Distillery Putnam Rye Whiskey, Carpano
           Antica Sweet Vermouth, Angostura Bitters 
@@ -63,6 +69,11 @@ subgroups:
           Hibiscus, Fresh Citrus Juices 
         price: '14'
         title: Sahil's Ginger Hibiscus Red Sangria
+      - description: >-
+          Meditterean White Wine Blend, Cherry-Raspberry Vodka, Chambord
+          Raspberry Liqueur, Amarena Cherry Puree, Fresh Citrus  
+        price: '13'
+        title: ARae's "Pretty In Pink" White Sangria
       - description: >-
           Select Apertivo, Pamplemousse Grapefruit Liqueur, Prosecco, Fresh
           Lemon 
