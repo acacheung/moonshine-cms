@@ -9,6 +9,15 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
+      - description: >-
+          Starting at 4 pm Superbowl
+          Sunday,                                           enjoy 25% off ALL
+          Fried Chicken, Street Tacos,                                   Tater
+          Tots & Burgers for the rest of the evening!                      
+        price: >-
+          **Offer applies exclusively to in-house dining and direct call pickup
+          takeout orders**  
+        title: "\U0001F389Super Bowl Sunday Dinner Sale\U0001F389 "
       - description: 'New England Lobster Bisque Sauce, Beurre Blanc  '
         price: 17 regular / 28 grande
         title: 'Menu Addition: Old Bay Sweet Corn Hush Puppies'
@@ -57,6 +66,15 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
+      - description: >-
+          Starting at 4 pm Superbowl
+          Sunday,                                           enjoy 25% off ALL
+          Fried Chicken, Street Tacos,                                   Tater
+          Tots & Burgers for the rest of the evening!    
+        price: >-
+          **Offer applies exclusively to in-house dining and direct call pickup
+          takeout orders**  
+        title: "\U0001F389Super Bowl Sunday Dinner Sale\U0001F389 "
       - description: >-
           Southie Irish Curry: Potato-Veggie Curry, House Spiced Yellow Curry
           Blend, Braised Carrots, Coconut
@@ -121,6 +139,15 @@ subgroups:
   - description: 'Regular= 2 Tacos Go Grande = 3 Tacos '
     items:
       - description: >-
+          Starting at 4 pm Superbowl
+          Sunday,                                           enjoy 25% off ALL
+          Fried Chicken, Street Tacos,                                   Tater
+          Tots & Burgers for the rest of the evening!        
+        price: >-
+          **Offer applies exclusively to in-house dining and direct call pickup
+          takeout orders**  
+        title: "\U0001F389Super Bowl Sunday Dinner Sale\U0001F389 "
+      - description: >-
           Bulgogi Beef Shortrib, Salsa Fresca,  Melted Cheese, Smoky Sriracha
           Mayo, Shredded Lettuce, Tater Tots & Birria Dipping Jus    
         price: ' 18 regular / 28 grande'
@@ -172,6 +199,15 @@ subgroups:
       Don't forget to top it off by adding your favorite proteins, fixins, sides
       & sauces to any dish.
     items:
+      - description: >-
+          Starting at 4 pm Superbowl
+          Sunday,                                           enjoy 25% off ALL
+          Fried Chicken, Street Tacos,                                   Tater
+          Tots & Burgers for the rest of the evening!        
+        price: >-
+          **Offer applies exclusively to in-house dining and direct call pickup
+          takeout orders**  
+        title: "\U0001F389Super Bowl Sunday Dinner Sale\U0001F389 "
       - description: >-
           Red Wine Braised Rabbit, Toasted Hazelnuts,                         
           Louisiana-Tomato Cream Sauce, Campanelle Pasta 
