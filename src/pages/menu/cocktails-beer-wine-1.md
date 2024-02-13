@@ -86,7 +86,7 @@ subgroups:
       - price: '7'
         title: (Draft) Downeast Unfiltered Cider
       - price: '7'
-        title: (draft) Harpoon IPA
+        title: (draft) Bissell Brothers Substance IPA
       - description: ''
         price: '8'
         title: '(draft) Dorchester brewing co "galaxy lights" session ipa '
