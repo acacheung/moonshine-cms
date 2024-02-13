@@ -64,6 +64,17 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
+          Braised Carrots,                Coconut Milk, Sweet
+          Raisins.....                                                   
+          Looking to Switch it Up! Create Your Own
+          Plate                                                  Smothered Curry
+          Fries, Tater Tots or Curry Rice Plate $17                        Don’t
+          forget to top it off with a fried egg $2 …jalapeno bacon
+          $4                           avocado slices $3… your favorite protein
+          $mkt          
+        price: '12 regular / 19 grande '
+        title: 'chef''s whim soup of the day: Potato-Veggie Curry'
+      - description: >-
           Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton crisps,
           Shaved pecorino cheese
         price: 17 regular / 26 grande
