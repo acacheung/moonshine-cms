@@ -15,7 +15,7 @@ subgroups:
           Cabbage Slaw                      
         price: 17 regular (2) / 29 grande (4)
         title: 'Menu Addition: Lucky Po’Boy Bao Buns '
-      - description: 'New England Lobster Bisque Sauce, Beurre Blanc  '
+      - description: 'New England Tartar Sauce, Beurre Blanc  '
         price: 17 regular / 28 grande
         title: 'Menu Addition: Old Bay Sweet Corn Hush Puppies'
       - description: >-
