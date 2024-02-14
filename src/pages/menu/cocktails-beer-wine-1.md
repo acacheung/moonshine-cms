@@ -67,10 +67,10 @@ subgroups:
         price: '14'
         title: Sahil's Ginger Hibiscus Red Sangria
       - description: >-
-          Meditterean White Wine Blend, Cherry-Raspberry Vodka, Chambord
-          Raspberry Liqueur, Amarena Cherry Puree, Fresh Citrus  
+          White Wine Blend, Cherry-Raspberry Vodka, Chambord Raspberry Liqueur,
+          Amarena Cherry Puree, Fresh Citrus  
         price: '13'
-        title: ARae's "Pretty In Pink" White Sangria
+        title: '"Pretty In Pink" White Sangria'
       - description: >-
           Select Apertivo, Pamplemousse Grapefruit Liqueur, Prosecco, Fresh
           Lemon 
