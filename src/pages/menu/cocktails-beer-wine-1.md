@@ -87,9 +87,6 @@ subgroups:
         title: (Draft) Downeast Unfiltered Cider
       - price: '7'
         title: (draft) Bissell Brothers Substance IPA
-      - description: ''
-        price: '8'
-        title: '(draft) Dorchester brewing co "galaxy lights" session ipa '
       - description: '12 oz bottle '
         price: '6'
         title: 'Budweiser / Bud Light '
