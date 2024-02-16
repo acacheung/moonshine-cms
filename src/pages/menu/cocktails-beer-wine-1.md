@@ -79,14 +79,6 @@ subgroups:
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
-      - price: '5'
-        title: (draft) miller high life
-      - price: '6'
-        title: '(draft) Allagash White '
-      - price: '7'
-        title: (Draft) Downeast Unfiltered Cider
-      - price: '7'
-        title: (draft) Bissell Brothers Substance IPA
       - description: '12 oz bottle '
         price: '6'
         title: 'Budweiser / Bud Light '
