@@ -134,16 +134,16 @@ subgroups:
         price: '6'
         title: 'Bell''s Brewing "Oberon" Wheat Ale '
       - description: 16 oz tallboy can
-        price: '7'
+        price: '8'
         title: 'Allagash Brewing "Hop Reach" IPA '
       - description: '16 oz tallboy can '
-        price: '7'
+        price: '8'
         title: Castle Island Brewing "Keeper" IPA
       - description: '16 oz tallboy can '
-        price: '7'
+        price: '8'
         title: Aeronaut Brewing "Hop Hop Away" IPA
       - description: '12 oz bottle '
-        price: '7'
+        price: '8'
         title: 'Stone IPA '
       - description: '16oz tallboy can '
         price: '8'
