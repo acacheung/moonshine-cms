@@ -9,12 +9,6 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
-      - description: >-
-          Grilled Shrimp, Tiger Tartar
-          Sauce,                                           Pickled Ginger,
-          Cabbage Slaw                      
-        price: 17 regular (2) / 29 grande (4)
-        title: 'Menu Addition: Lucky Po’Boy Bao Buns '
       - description: 'New England Tartar Sauce, Beurre Blanc  '
         price: 17 regular / 28 grande
         title: 'Menu Addition: Old Bay Sweet Corn Hush Puppies'
