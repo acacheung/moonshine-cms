@@ -11,9 +11,6 @@ subgroups:
           Cherry Jello Shot
         price: '6'
         title: Rotating Jello Shots
-      - description: Cinnamon Clove Spiced Wine with Honey and Citrus
-        price: '14'
-        title: 'Hot Cocktail Special: Peter''s Mulled Wine'
       - description: >-
           Black Infusions Apricot Vodka, Elderflower Liqueur, Lychee Puree,
           House Apricot Simple Syrup, Fresh Citrus Juices topped with Lime Yuzu
@@ -111,7 +108,7 @@ subgroups:
         title: 'Smuttynose Brewing Limited Release Sour "Cherry Limeade" '
       - description: '12 oz can '
         price: '6'
-        title: Downeast Cranberry Cider
+        title: Downeast Pomegranate Cider
       - description: '16 oz tallboy can '
         price: '7'
         title: Stormalong "Mass Appeal" Hard Cider
