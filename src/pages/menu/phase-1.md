@@ -9,7 +9,7 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
-      - description: 'New England Tartar Sauce, Beurre Blanc  '
+      - description: 'Tiger Tartar Sauce, Beurre Blanc  '
         price: 17 regular / 28 grande
         title: 'Menu Addition: Old Bay Sweet Corn Hush Puppies'
       - description: >-
