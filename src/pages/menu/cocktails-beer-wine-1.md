@@ -7,8 +7,8 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          "Double Trouble"- a Red Bull Vodka Jello Shot paired with a Whiskey
-          Cherry Jello Shot
+          Lemon Mango Cheesecake: Vodka, Lemon Jello, Mango Cream Sorbet,
+          Toasted Almond Shortbread **contains almonds & dairy** 
         price: '6'
         title: Rotating Jello Shots
       - description: >-
