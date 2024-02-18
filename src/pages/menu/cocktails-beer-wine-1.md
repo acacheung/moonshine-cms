@@ -76,6 +76,21 @@ subgroups:
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
+      - description: 16 oz draft
+        price: '6'
+        title: Miller High Life
+      - description: '16 oz draft '
+        price: '7 '
+        title: Harpoon IPA
+      - description: 16 oz draft
+        price: '8'
+        title: Dorchester Brewing Co. Galaxy Session IPA
+      - description: '16 oz draft '
+        price: '7'
+        title: Allagash White
+      - description: '16 oz draft '
+        price: '7'
+        title: Downeast Original Unfiltered Cider
       - description: '12 oz bottle '
         price: '6'
         title: 'Budweiser / Bud Light '
@@ -142,9 +157,6 @@ subgroups:
       - description: '12 oz bottle '
         price: '8'
         title: 'Stone IPA '
-      - description: '16oz tallboy can '
-        price: '8'
-        title: Sloop Brewing Co "Juice Bomb" New England IPA
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
