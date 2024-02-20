@@ -15,12 +15,6 @@ subgroups:
         price: '14'
         title: 'warm cocktail special: Peter''s Mulled Spiced Wine'
       - description: >-
-          Black Infusions Apricot Vodka, Elderflower Liqueur, Lychee Puree,
-          House Apricot Simple Syrup, Fresh Citrus Juices topped with Lime Yuzu
-          Soda 
-        price: '14'
-        title: 'Cocktail Special: Lunar Apricot-Lychee Party Punch'
-      - description: >-
           Locally Made Boston Harbor Distillery Putnam Rye Whiskey, Carpano
           Antica Sweet Vermouth, Angostura Bitters 
         price: '15'
