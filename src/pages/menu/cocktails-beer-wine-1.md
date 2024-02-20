@@ -75,8 +75,8 @@ subgroups:
           (in honor of Martin Luther King Jr. Day) and continuing through June
           19, 2024, ( in honor of Juneteenth), Uncle
 
-          Nearest will donate $1 for every Uncle Nearest Old Fashioned sold to
-          raise up to $1.4 Million for Historically Black Colleges and
+          Nearest will donate $1 for every Uncle Nearest Old Fashioned cocktail
+          sold to raise up to $1.4 Million for Historically Black Colleges and
           Universities (HBCUs) to provide one full in-state tuition scholarship
           to
 
