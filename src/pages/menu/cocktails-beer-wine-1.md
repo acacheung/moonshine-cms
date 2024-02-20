@@ -227,9 +227,9 @@ subgroups:
         title: >-
           (rose) treat yo self bottle special:  2022 Borsao Rose Campo De
           Borja     
-      - description: 'Tulum Valley, San Juan, Argentina '
+      - description: 'Trentino, Italy '
         price: 12  /  42
-        title: '(White) 2021 Bodegas Callia Pinot Grigio '
+        title: '(White) 2021 Torre di Luna Pinot Grigio '
       - description: 'CA, USA '
         price: 13 / 45
         title: '(White) 2022 Decoy California Chardonnay '
