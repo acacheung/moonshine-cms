@@ -101,7 +101,7 @@ subgroups:
         title: Miller High Life
       - description: '16 oz draft '
         price: '7 '
-        title: Harpoon IPA
+        title: Bissel Brothers "Substance" IPA
       - description: 16 oz draft
         price: '8'
         title: Dorchester Brewing Co. Galaxy Session IPA
