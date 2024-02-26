@@ -153,12 +153,8 @@ subgroups:
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >-
-          Southie Irish Curry: Potato-Veggie Curry, Braised Carrots, Coconut
-          Milk, Sweet Raisins                                             
-          Looking To Switch It Up?!  Create Your Own
-          Entree!                                                  Smothered
-          Curry Fries or Tater Tot Plates $17 Don't forget to add your favorite
-          protein!                                                         
+          Classic French Onion Soup served with Toasted Brioche & Melted Gruyere
+          Cheese                                                       
         price: '12 / 19 '
         title: 'Chef’s Whim Soup for the Soul '
       - description: >
