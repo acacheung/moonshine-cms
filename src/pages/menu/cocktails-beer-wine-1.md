@@ -153,6 +153,9 @@ subgroups:
       - description: 16 oz Tallboy Can
         price: '6'
         title: Narragansett Lager
+      - description: 16oz tallboy can
+        price: '7'
+        title: 'Jacks Abby House Lager '
       - description: '16oz tallboy can '
         price: '7'
         title: 'Night Shift Brewing "Nite Lite" Light Lager '
