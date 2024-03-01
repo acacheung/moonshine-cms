@@ -9,14 +9,17 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
-      - description: 'Tiger Tartar Sauce, Beurre Blanc  '
-        price: 17 regular / 28 grande
-        title: 'Menu Addition: Old Bay Sweet Corn Hush Puppies'
       - description: >-
           Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy Pesto
           Dressing, Aged Balsamic
         price: 18 regular / 29 grande
         title: 'Menu Addition: Warm Crispy Artichoke Salad'
+      - description: >-
+          House Buttermilk Biscuits, Korean Gochujang-Buffalo Sauce, House Asian
+          B&B Pickles, Mayo & Hot Honey  ...*Make It an Entree…add Housecut
+          Shoestring Fries OR Petite Mixed Greens Salad for $5*    
+        price: '27 '
+        title: 'Menu Addition:“Hot Mess” Hot Honey Biscuit Fried Chicken Sliders (x3) '
       - description: >-
           Bulgogi Beef Shortrib, Salsa Fresca,  Melted Cheese, Smoky Sriracha
           Mayo, Shredded Lettuce, Tater Tots & Birria Dipping Jus  
@@ -186,12 +189,16 @@ subgroups:
         price: '19'
         title: GRASS-FED ’SHINE BEEF BURGER**
       - description: >-
-          “The Firecracker Burger" : topped with Bruleed Scallion Cream Cheese,
-          Sweet Chili Glaze, Crispy Wonton Strips    ...add cheddar cheese $2
-          …add fried egg $2..add jalapeno bacon $4…add sliced avocado
-          $3                                                            
+          ☘️“St. Patrick’s Day Shepherd's Pie Burger” topped with Guinness
+          Ground Lamb Shepherd's Pie, Green Garlic Mashed Potatoes, Melted
+          Orange
+          Cheddar                                                                      
+          ….add extra  cheddar cheese $2 …add fried egg $2…add sliced  jalapenos
+          $2                                                                 
+          …add sliced avocado $3..add jalapeno bacon
+          $4                                                      
         price: '24'
-        title: February 2024 VIP burger of the month
+        title: march 2024 VIP burger of the month
       - description: >-
           Smoky pulled pork, scrambled egg, tomato, petite mixed greens salad,
           teriyaki, sweet chili glaze, house-cut shoestring french fries...
