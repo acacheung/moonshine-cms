@@ -153,7 +153,8 @@ subgroups:
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >-
-          Classic French Onion Soup served with Toasted Brioche & Melted Gruyere
+          Classic French Onion Soup served with Toasted Brioche Croutons &
+          Melted Gruyere
           Cheese                                                       
         price: '12 / 19 '
         title: 'Chef’s Whim Soup for the Soul '
@@ -190,14 +191,16 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          “The Anniversary Firecracker Rangoon Burger" topped with Bruleed
-          Scallion Cream Cheese, Sweet Chili Glaze, Crispy Wonton
-          Strips                                                                                          
-          ….add cheddar cheese $2 …add fried egg
-          $2                                              ..add jalapeno bacon
-          $4…add avocado $3     
+          ☘️“St. Patrick’s Day Shepherd's Pie Burger” topped with Guinness
+          Ground Lamb Shepherd's Pie, Green Garlic Mashed Potatoes, Melted
+          Orange
+          Cheddar                                                                      
+          ….add extra  cheddar cheese $2 …add fried egg $2…add sliced  jalapenos
+          $2                                                                 
+          …add sliced avocado $3..add jalapeno bacon
+          $4                           
         price: '24'
-        title: February 2024 VIP burger of the month
+        title: March 2024 VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: ' All the sides & Fixin’s'
     items:
