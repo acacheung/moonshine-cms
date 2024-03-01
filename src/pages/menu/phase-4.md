@@ -14,14 +14,17 @@ subgroups:
       - description: 'Served with with Sea Salted Caramel & Whipped Cream '
         price: '12'
         title: 'Menu Addition: Sticky Toffee Bread Pudding'
-      - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
-        price: '12'
-        title: Moonshine’s Butterscotch Pudding
+      - description: ' Cinnamon Sugar Baked Apples, Toasted Oat Streusel, French Vanilla Ice Cream  '
+        price: '13'
+        title: 'Menu Addition: Warm Apple Crisp A la Mode'
       - description: >-
           Mocha Chip Ice Cream, Warm Belgian Waffle, Whipped Cream, Nutella
           Chocolate Sauce, Chocolate Chips
         price: '13'
-        title: ' Warm Belgian Waffle Ice Cream Sundae'
+        title: ' Menu Addition: Warm Belgian Waffle Ice Cream Sundae'
+      - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
+        price: '12'
+        title: Moonshine’s Butterscotch Pudding
       - description: 'Powdered sugar, nutella chocolate fudge sauce'
         price: '12'
         title: Jaime’s Favorite Oreo Cookie Layered Fudge Brownie
