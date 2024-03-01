@@ -259,6 +259,9 @@ subgroups:
           Chocolate Sauce, Chocolate Chips …add candied bacon $2
         price: '13'
         title: 'Menu Addition: Belgian Waffle Ice Cream Sundae'
+      - description: ' Cinnamon Sugar Baked Apples, Toasted Oat Streusel, French Vanilla Ice Cream  '
+        price: '13'
+        title: 'Menu Addition: warm Baked apple crisp a la mode '
       - description: 'Whipped chantilly cream, Toasted oat-amaranth streusel '
         price: '12'
         title: 'Butterscotch Pudding '
