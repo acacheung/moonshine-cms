@@ -11,9 +11,6 @@ subgroups:
           Toasted Almond Shortbread **contains almonds & dairy** 
         price: '6'
         title: Rotating Jello Shots
-      - description: 'Mulled Red Wine with Honey & Spices '
-        price: '14'
-        title: 'warm cocktail special: Peter''s Mulled Spiced Wine'
       - description: >-
           Locally Made Boston Harbor Distillery Putnam Rye Whiskey, Carpano
           Antica Sweet Vermouth, Angostura Bitters 
@@ -261,7 +258,7 @@ subgroups:
         title: (red) 2019 Charles & Charles "Double Trouble" Cabernet/Syrah Blend
       - description: 'North Coast, CA (Napa, Sonoma & Mendocino counties)'
         price: 14 / 48
-        title: '(red) 2021 Silver Palm Cabernet Sauvignon '
+        title: (red) 2020 Contour Cabernet Sauvignon
     title: Wine List
   - items:
       - description: 'White & Red Cranberry Juices, Fresh Lemonade '
