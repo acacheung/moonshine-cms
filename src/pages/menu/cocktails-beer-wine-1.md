@@ -183,12 +183,12 @@ subgroups:
       - description: 12oz bottle
         price: '8'
         title: 'Boulevard Brewing Smokestack Series"Dark Truth" Imperial Stout '
+      - description: 12oz can
+        price: '6'
+        title: Athletic Brewing co "Upside Dawn" Golden Ale  (non-alcoholic)
       - description: '12 oz can '
         price: '6'
         title: Athletic Brewing co "Free Wave" IPA  (non-alcoholic)
-      - description: 12oz can
-        price: '5'
-        title: Athletic Brewing co "ripe pursuit" lemon radler  (non-alcoholic)
       - description: 12 oz can
         price: '6'
         title: Athletic Brewing co " All-out" dark beer(non-alcoholic)
