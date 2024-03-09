@@ -14,9 +14,6 @@ subgroups:
       - description: 'Served with with Sea Salted Caramel & Whipped Cream '
         price: '12'
         title: 'Menu Addition: Sticky Toffee Bread Pudding'
-      - description: ' Cinnamon Sugar Baked Apples, Toasted Oat Streusel, French Vanilla Ice Cream  '
-        price: '13'
-        title: 'Menu Addition: Warm Apple Crisp A la Mode'
       - description: >-
           Mocha Chip Ice Cream, Warm Belgian Waffle, Whipped Cream, Nutella
           Chocolate Sauce, Chocolate Chips
