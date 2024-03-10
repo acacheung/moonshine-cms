@@ -7,8 +7,9 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          Lemon Mango Cheesecake: Vodka, Lemon Jello, Mango Cream Sorbet,
-          Toasted Almond Shortbread **contains almonds & dairy** 
+          Celtic Pride ☘️ ☘️ ☘️
+          :                                                               a
+          Tequila Lime Jello Shot & an Orange Irish Whiskey Jello Shot
         price: '6'
         title: Rotating Jello Shots
       - description: >-
