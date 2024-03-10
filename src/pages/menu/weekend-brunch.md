@@ -7,8 +7,9 @@ subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
       - description: >-
-          Lemon Mango Cheesecake: Vodka, Lemon Jello, Mango Cream Sorbet,
-          Toasted Almond Shortbread **contains almonds & dairy** 
+          ☘️ ☘️ Celtic Pride  $6  
+          ☘️☘️:                                                               a
+          Tequila Lime Jello Shot & a Orange Irish Whiskey Jello Shot
         price: '6'
         title: Chef Asia's Rotating Jello Shots
       - description: >
