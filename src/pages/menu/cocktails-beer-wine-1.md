@@ -158,9 +158,9 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '7'
         title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
-      - description: '16oz tallboy can '
+      - description: '12 oz bottle '
         price: '6'
-        title: 'Bell''s Brewing "Oberon" Wheat Ale '
+        title: 'Cisco Brewing "Grey Lady" Wheat Ale '
       - description: 16 oz tallboy can
         price: '8'
         title: 'Allagash Brewing "Hop Reach" IPA '
