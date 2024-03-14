@@ -169,7 +169,7 @@ subgroups:
     items:
       - description: ' Guinness Ground Beef & Lamb Casserole                                                                   with Green Garlic Mashed Potatoes    '
         price: '25'
-        title: 'Menu Addition: Happy π Day ( 3.14) Sheperd’s Pie '
+        title: 'Menu Addition: Happy π Day ( 3.14) Shepherd’s Pie '
       - description: >-
           Red Wine Braised Rabbit, Toasted Hazelnuts,                         
           Louisiana-Tomato Cream Sauce, Campanelle Pasta 
