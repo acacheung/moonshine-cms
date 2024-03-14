@@ -59,6 +59,11 @@ subgroups:
         price: '14'
         title: Sahil's Ginger Hibiscus Red Sangria
       - description: >-
+          White Wine Blend, Apricot Brandy, Peach Liqueur, Apricot Puree, Fresh
+          Citrus
+        price: '14'
+        title: Amanda's Apricot Peach White Sangria
+      - description: >-
           Select Apertivo, Pamplemousse Grapefruit Liqueur, Prosecco, Fresh
           Lemon 
         price: '14'
