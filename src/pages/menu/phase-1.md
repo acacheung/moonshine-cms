@@ -167,14 +167,17 @@ subgroups:
       Don't forget to top it off by adding your favorite proteins, fixins, sides
       & sauces to any dish.
     items:
-      - description: ' Guinness Ground Beef & Lamb Casserole                                                                   with Green Garlic Mashed Potatoes    '
-        price: '25'
-        title: 'Menu Addition: Happy π Day ( 3.14) Shepherd’s Pie '
       - description: >-
-          Red Wine Braised Rabbit, Toasted Hazelnuts,                         
-          Louisiana-Tomato Cream Sauce, Campanelle Pasta 
+          Thick-cut Corned Beef Piled High with Melted Swiss, House Sauerkraut,
+          Special Sauce, Grilled Potato Bun served with Shoestring French
+          Fries      
+        price: '24'
+        title: 'Menu Addition: ARae''s Favorite ''Shine Corned Beef Sandwich'
+      - description: >-
+          Moonshine’s Famous Thick-cut Corned Beef, Green Garlic Chive Mashed
+          Potatoes, Grilled Tomato, House ‘Kraut Braised Cabbage     
         price: '28'
-        title: 'Menu Addition: Louisiana Braised Rabbit Pasta '
+        title: 'Menu Addition:St. Paddy''s Corned Beef Platter'
       - description: >-
           Smoky 'Shine BBQ Meatloaf Smothered in French Onion Soup Sauce, Melted
           Swiss Cheese, Texas Toast & a Petite Mixed Greens Salad
