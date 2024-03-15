@@ -108,8 +108,8 @@ subgroups:
         title: Marinated Skirt Steak**
       - price: '13'
         title: SAUTÉED BABY SHRIMP**
-      - price: '15.00'
-        title: Cajun Grilled Fish
+      - price: '15'
+        title: Cajun Grilled Fish**
     title: Add Ons!
   - description: 'Regular= 2 Tacos Go Grande = 3 Tacos '
     items:
