@@ -102,8 +102,6 @@ subgroups:
         title: Roasted statler Chicken Breast
       - price: '13'
         title: PULLED CHINATOWN STYLE ROASTED DUCK
-      - price: '15'
-        title: 'Red Wine Braised Rabbit '
       - price: '13'
         title: '''Shine Smoky BBQ Meatloaf'
       - price: '15'
