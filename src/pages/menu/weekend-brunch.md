@@ -2,7 +2,7 @@
 templateKey: menu-group
 title: Weekend Brunch
 subtitle: Moonshine's Weekend Brunch Menu 1130am-3pm Saturday and Sunday
-order: 6
+order: 3
 subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
@@ -57,11 +57,6 @@ subgroups:
     title: 'Cheers To The Weekend! '
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
-      - description: >-
-          Fresh Mango, Raspberry Coulis, Litchi Popping Boba Bubbles, Whipped
-          Chantilly Cream 
-        price: $15 regular / $26 grande
-        title: 'Menu Addition: Tropical mANGO crepes'
       - description: >-
           Warm Crisp Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
