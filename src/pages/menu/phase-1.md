@@ -71,7 +71,7 @@ subgroups:
       - description: >-
           Tater tots smothered with kimchi butter, sweet chili, truffled
           teriyaki sauce
-        price: 16 regular / 26 grande
+        price: 17 regular / 28 grande
         title: Party Tots
       - description: >-
           Pan-roasted brussels sprouts smothered with kimchi butter, sweet
