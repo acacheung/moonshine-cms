@@ -91,6 +91,13 @@ subgroups:
           check out the website at www.oldfashionedcocktail.com**
         price: '15'
         title: 'Cocktail Feature: Uncle Nearest HBCU Old Fashioned Challenge '
+      - price: '13'
+        title: 'Cocktail Special: Castle Island Iced Tea Party Punch'
+      - description: >-
+          GrandTen Spicy Firepuncher Vodka, Midori Melon Liqueur, Pineapple
+          Juice, House Sour Mix
+        price: '13'
+        title: 'Cocktail Special: Spicy Leprechaun '
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
