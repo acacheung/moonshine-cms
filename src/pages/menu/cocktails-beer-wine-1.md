@@ -91,7 +91,11 @@ subgroups:
           check out the website at www.oldfashionedcocktail.com**
         price: '15'
         title: 'Cocktail Feature: Uncle Nearest HBCU Old Fashioned Challenge '
-      - price: '13'
+      - description: >
+          JAMESON ORANGE, RUMHAVEN COCONUT  RUM,                   MANGO VODKA,
+          COCONUT-CHAI ICED SWEET TEA,                          FRESH
+          LEMON-LIMEADE 
+        price: '13'
         title: 'Cocktail Special: Castle Island Iced Tea Party Punch'
       - description: >-
           GrandTen Spicy Firepuncher Vodka, Midori Melon Liqueur, Pineapple
