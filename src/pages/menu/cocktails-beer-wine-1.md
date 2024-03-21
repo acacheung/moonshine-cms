@@ -108,7 +108,7 @@ subgroups:
         price: '6'
         title: Miller High Life
       - description: '16 oz draft '
-        price: '7 '
+        price: '8'
         title: Bissel Brothers "Substance" IPA
       - description: 16 oz draft
         price: '8'
