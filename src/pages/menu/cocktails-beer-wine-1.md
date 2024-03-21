@@ -46,10 +46,10 @@ subgroups:
         price: '14'
         title: danish modern
       - description: >-
-          Uncle Nearest 1884 Small Batch Whiskey, Combier Peche Liqueur, White
+          GrandTen Southie Irish Whiskey, Combier Peche Liqueur, White
           Cranberry, Fresh Lime
         price: '14'
-        title: Fawn's Fancy
+        title: Patron Saint of Southie
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '14'
         title: 'La Diabla '
