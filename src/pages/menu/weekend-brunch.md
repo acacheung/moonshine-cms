@@ -175,7 +175,7 @@ subgroups:
       - description: >-
           Chinese sausage, Scrambled egg, Fresh ginger, Scallions, Chopped duck
           liver 
-        price: '21'
+        price: '24'
         title: 'Mama Mei’s Dirty Fried Rice '
       - description: >-
           "Boston's Best" Buttermilk fried chicken, Belgian waffle,
