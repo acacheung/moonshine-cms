@@ -64,6 +64,9 @@ subgroups:
           Aged Balsamic       
         price: 18 regular / 29 grande
         title: 'Menu Addition: crispy artichoke salad '
+      - description: '                              Fresh Mango, Raspberry Coulis, Litchi Popping Boba Bubbles,                    Whipped Chantilly Cream     '
+        price: '$15 regular / $26 grande       '
+        title: 'menu addition: Tropical Mango Crepes        '
       - description: >-
           Local honey, Fresh berries, Oat-Flax-Chia Seed Granola Crunch **add a
           belgian waffle $7**
