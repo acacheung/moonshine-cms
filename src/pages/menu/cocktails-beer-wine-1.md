@@ -105,11 +105,11 @@ subgroups:
   - description: 'please note this menu is subject to change '
     items:
       - description: 16 oz draft
-        price: '6'
-        title: Miller High Life
+        price: '5'
+        title: Bud Light
       - description: '16 oz draft '
-        price: '8'
-        title: Bissel Brothers "Substance" IPA
+        price: '7'
+        title: Harpoon IPA
       - description: 16 oz draft
         price: '8'
         title: Dorchester Brewing Co. Galaxy Session IPA
