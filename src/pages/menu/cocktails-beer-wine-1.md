@@ -11,11 +11,6 @@ subgroups:
           Coconut-Chai Sweet Tea, Fresh Lemon-Limeade                
         price: '13'
         title: 'Cocktail Special: Castle Island Iced Tea Party Punch'
-      - description: >-
-          GrandTen Spicy Firepuncher Vodka, Japanese Melon Liqueur, Pineapple
-          Juice, House Sour Mix
-        price: '13'
-        title: 'Cocktail Special: Green Dragon'
       - description: >2-
            **From January 15, 2024,
           (in honor of Martin Luther King Jr. Day) and continuing through June
@@ -68,6 +63,11 @@ subgroups:
           Agave 
         price: '14'
         title: There’s Fire
+      - description: >-
+          GrandTen Spicy Firepuncher Vodka, Japanese Melon Liqueur, Pineapple
+          Juice, House Sour Mix
+        price: '13'
+        title: Green Dragon
       - description: >-
           Mad River Distillery Rye Whiskey, Dark Cherry Liqueur, Cinnamon
           Simple, Fresh Lemon 
