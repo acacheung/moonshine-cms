@@ -166,16 +166,10 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
-          Thick-cut Corned Beef Piled High with Melted Swiss, House Sauerkraut,
-          Special Sauce, Grilled Potato Bun served with Shoestring French
-          Fries      
-        price: '24'
-        title: 'Menu Addition: ARae''s Favorite ''Shine Corned Beef Sandwich'
-      - description: >-
-          Moonshine’s Famous Thick-cut Corned Beef, Green Garlic Chive Mashed
-          Potatoes, Grilled Tomato, House ‘Kraut Braised Cabbage     
+          Red Wine Braised Rabbit, Campanelle Pasta, Toasted Hazelnut,
+          Louisiana-Tomato Cream Sauce  
         price: '28'
-        title: 'Menu Addition:St. Paddy''s Corned Beef Platter'
+        title: 'Menu Addition: Louisiana Braised Rabbit Pasta '
       - description: >-
           Smoky 'Shine BBQ Meatloaf Smothered in French Onion Soup Sauce, Melted
           Swiss Cheese, Texas Toast & a Petite Mixed Greens Salad
