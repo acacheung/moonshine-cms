@@ -12,10 +12,10 @@ subgroups:
         price: '13'
         title: 'Cocktail Special: Castle Island Iced Tea Party Punch'
       - description: >-
-          GrandTen Spicy Firepuncher Vodka, Midori Melon Liqueur, Pineapple
+          GrandTen Spicy Firepuncher Vodka, Japanese Melon Liqueur, Pineapple
           Juice, House Sour Mix
         price: '13'
-        title: 'Cocktail Special: Spicy Leprechaun '
+        title: 'Cocktail Special: Green Dragon'
       - description: >2-
            **From January 15, 2024,
           (in honor of Martin Luther King Jr. Day) and continuing through June
@@ -55,11 +55,6 @@ subgroups:
           Just ask for Baileys Irish Cream!) 
         price: '15'
         title: '''Shine Espresso Martini'
-      - description: >-
-          Empress 1908 Indigo Gin, Luxardo Maraschino, Creme de Yiolette, Fresh
-          Lemon 
-        price: '14'
-        title: fly me to the moon
       - description: 'Gin Lane London Dry Gin, Elderflower Liqueur, Fresh Lemon, Prosecco '
         price: '15'
         title: Moonshine '76
@@ -191,6 +186,9 @@ subgroups:
       - description: 12oz bottle
         price: '8'
         title: 'Boulevard Brewing Smokestack Series"Dark Truth" Imperial Stout '
+      - description: '16oz tallboy can '
+        price: '7'
+        title: Guinness Non-Alcoholic
       - description: 12oz can
         price: '6'
         title: Athletic Brewing co "Upside Dawn" Golden Ale  (non-alcoholic)
