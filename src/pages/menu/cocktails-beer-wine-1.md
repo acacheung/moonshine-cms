@@ -146,9 +146,6 @@ subgroups:
       - description: '12 oz bottle '
         price: '7'
         title: 'Corona Extra '
-      - description: '16oz tallboy can '
-        price: '6'
-        title: 'Smuttynose Brewing Limited Release Sour "Cherry Limeade" '
       - description: '12 oz can '
         price: '6'
         title: Downeast Pomegranate Cider
