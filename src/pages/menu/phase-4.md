@@ -7,11 +7,6 @@ subgroups:
   - description: Add a Belgian waffle to your favorite dessert $7
     items:
       - description: >-
-          Fresh Mango, Raspberry Coulis, Litchi Popping Boba Bubbles,  Whipped
-          Chantilly Cream
-        price: '15'
-        title: 'Menu Addition: Tropical Mango Crepes'
-      - description: >-
           Cream Cheese Ribboned Carrot Cake, Toasted Walnuts, Chantilly Cream,
           Crispy Carrot Chips
         price: '13'
