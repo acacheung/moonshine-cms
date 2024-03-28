@@ -11,29 +11,6 @@ subgroups:
           Coconut-Chai Sweet Tea, Fresh Lemon-Limeade                
         price: '13'
         title: 'Cocktail Special: Castle Island Iced Tea Party Punch'
-      - description: >2-
-           **From January 15, 2024,
-          (in honor of Martin Luther King Jr. Day) and continuing through June
-          19, 2024, ( in honor of Juneteenth), Uncle
-
-          Nearest will donate $1 for every Uncle Nearest Old Fashioned cocktail
-          sold to raise up to $1.4 Million for Historically Black Colleges and
-          Universities (HBCUs) to provide one full in-state tuition scholarship
-          to
-
-          each accredited school. Uncle Nearest Premium Whiskey is the
-          most-awarded Bourbon and
-
-          American Whiskey of 2019, 2020, 2021, 2022, and 2023 and is the
-          fastest
-
-          growing American whiskey brand in history. It is the first brand to
-          honor an African American–the first known
-
-          African American master distiller, Nearest Green. For more information
-          check out the website at www.oldfashionedcocktail.com**
-        price: '15'
-        title: 'Cocktail Feature: Uncle Nearest HBCU Old Fashioned Challenge '
       - description: >-
           Celtic Pride ☘️ ☘️ ☘️
           :                                                               a
