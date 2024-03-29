@@ -58,6 +58,11 @@ subgroups:
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
       - description: >-
+          Crispy Filo Baked Ricotta Crinkle, Honeyed Fig Preserves, Toasted
+          Pistachio, Fresh Pomegranate 
+        price: '16'
+        title: 'Menu Addition: Easter Ricotta Pie-Crinkle'
+      - description: >-
           Warm Crisp Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
           Quinoa, Parmesan,                              Creamy Pesto Dressing,
@@ -248,6 +253,11 @@ subgroups:
     title: All the sides & Fixin’s
   - description: ' (Dessert)'
     items:
+      - description: >-
+          Crispy Filo Baked Ricotta Crinkle, Honeyed Fig Preserves, Toasted
+          Pistachio, Fresh Pomegranate 
+        price: '16'
+        title: 'Menu Addition: Easter Ricotta Pie-Crinkle'
       - description: |2-
            Served Warm with Sea Salted Caramel & Whipped Cream  
                                                 
