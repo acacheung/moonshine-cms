@@ -15,6 +15,11 @@ subgroups:
         price: 18 regular / 29 grande
         title: 'Menu Addition: Warm Crispy Artichoke Salad'
       - description: >-
+          Crispy Filo Baked Ricotta Crinkle, Honeyed Fig Preserves, Toasted
+          Pistachio, Fresh Pomegranate 
+        price: '16'
+        title: 'Menu Addition: easter ricotta pie-crinkle'
+      - description: >-
           House Buttermilk Biscuits, Korean Gochujang-Buffalo Sauce, House Asian
           B&B Pickles, Mayo & Hot Honey  ...*Make It an Entree…add Housecut
           Shoestring Fries OR Petite Mixed Greens Salad for $5*    
