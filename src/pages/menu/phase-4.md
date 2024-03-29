@@ -7,6 +7,11 @@ subgroups:
   - description: Add a Belgian waffle to your favorite dessert $7
     items:
       - description: >-
+          Crispy Filo Baked Ricotta Crinkle, Honeyed Fig Preserves, Toasted
+          Pistachio, Fresh Pomegranate 
+        price: '16'
+        title: 'menu addition: easter ricotta pie-crinkle'
+      - description: >-
           Cream Cheese Ribboned Carrot Cake, Toasted Walnuts, Chantilly Cream,
           Crispy Carrot Chips
         price: '13'
