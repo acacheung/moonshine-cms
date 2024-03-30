@@ -6,6 +6,16 @@ order: 1
 subgroups:
   - description: ''
     items:
+      - description: >
+          From January 15, 2024 (in honor of MLK Jr. Day) through June 19, 2024
+          (in honor of Juneteenth), Uncle Nearest is partnering with bars,
+          restaurants, and our Uncle Nearest #WhiskeyFamily to donate $1 for
+          every Uncle Nearest Old Fashioned sold to raise up to $1.4 Million for
+          Historically Black Colleges & Universities (HBCUs) to provide one full
+          in-state tuition scholarship to each accredited school. For more
+          information, check out the website at www.oldfashionedcocktail.com    
+        price: '15 '
+        title: 'Cocktail Feature: Uncle Nearest HBCU Old Fashioned Challenge '
       - description: >-
           Jameson Orange Whiskey, Rumhaven Coconut Rum, Mango Vodka,
           Coconut-Chai Sweet Tea, Fresh Lemon-Limeade                
@@ -202,14 +212,6 @@ subgroups:
       - description: 'Provence, France'
         price: 15 / 58
         title: (rose) 2022 Whispering Angel Rose
-      - description: >-
-          Made from 100% Grenache grapes,  this rose is crisp, elegant &
-          light-bodied showing hints of strawberry                       on the
-          nose and palate.   
-        price: '32 / bottle '
-        title: >-
-          (rose) treat yo self bottle special:  2022 Borsao Rose Campo De
-          Borja     
       - description: 'Trentino, Italy '
         price: 12  /  42
         title: '(White) 2021 Torre di Luna Pinot Grigio '
