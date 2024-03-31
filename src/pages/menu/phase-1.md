@@ -121,12 +121,11 @@ subgroups:
       - description: >-
           Bulgogi Beef Shortrib, Salsa Fresca,  Melted Cheese, Smoky Sriracha
           Mayo, Shredded Lettuce, Tater Tots & Birria Dipping Jus    
-        price: ' 18 regular / 28 grande'
-        title: 'Menu Addition: Birria Gringo Tacos  '
+        price: ' 18 regular (2) / 28 grande (4)'
+        title: 'Menu Addition: Pan Fried Carnitas Birria Tacos'
       - description: >-
           Tempura Veggie Burger Bites, Pickled Red Cabbage, Toasted Cumin Crema,
-          Shredded Lettuce, Tomato Salsa                             *Available
-          Vegan 
+          Tomato Salsa                             *Available Vegan 
         price: 15 regular / 22 grande
         title: CRISPY MUSHROOM TOFU TACOS
       - description: >-
