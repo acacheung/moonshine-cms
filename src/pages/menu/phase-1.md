@@ -119,8 +119,8 @@ subgroups:
   - description: 'Regular= 2 Tacos Go Grande = 3 Tacos '
     items:
       - description: >-
-          hredded Beef & Cheese Tacos, Red Pickled Cabbage Salsa, Smoky Sriracha
-          Mayo, Birria Dipping Jus
+          Shredded Beef & Cheese Tacos, Red Pickled Cabbage Salsa, Smoky
+          Sriracha Mayo, Birria Dipping Jus 
         price: ' 18 regular (2) / 28 grande (4)'
         title: 'Menu Addition: Pan Fried Carnitas Birria Tacos'
       - description: >-
