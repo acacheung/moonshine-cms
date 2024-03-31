@@ -106,6 +106,9 @@ subgroups:
     title: To Get Ya Started!
   - description: ' (Entrees)'
     items:
+      - description: 'Red Wine Braised Rabbit, Green Chili Grits, Sherry Pan Sauce'
+        price: '26'
+        title: 'Menu Addition: Traditional ''Shine Braised Easter Bunny & Grits'
       - description: >-
           Tender  Beef Brisket wrapped in a  Scallion Pancake
           with                                        Pho Noodle Salad &  Bacony
