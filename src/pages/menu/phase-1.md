@@ -17,7 +17,7 @@ subgroups:
       - description: >-
           Shredded Beef & Cheese Tacos, Pickled Red Cabbage Salsa, Smoky
           Sriracha Mayo,   & Birria Dipping Jus  
-        price: '$18 (2 tacos) / $28 (3 tacos)  '
+        price: '$18 (2 tacos) / $28 (4 tacos)  '
         title: 'Menu Addition: Pan-Fried Carnitas Birria Gringo Tacos         '
       - description: >-
           House Buttermilk Biscuits, Korean Gochujang-Buffalo Sauce, House Asian
