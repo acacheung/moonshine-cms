@@ -15,21 +15,16 @@ subgroups:
         price: 18 regular / 29 grande
         title: 'Menu Addition: Warm Crispy Artichoke Salad'
       - description: >-
-          Crispy Filo Baked Ricotta Crinkle, Honeyed Fig Preserves, Toasted
-          Pistachio, Fresh Pomegranate 
-        price: '16'
-        title: 'Menu Addition: easter ricotta pie-crinkle'
+          Shredded Beef & Cheese Tacos, Pickled Red Cabbage Salsa, Smoky
+          Sriracha Mayo,   & Birria Dipping Jus  
+        price: '$18 (2 tacos) / $28 (3 tacos)  '
+        title: 'Menu Addition: Pan-Fried Carnitas Birria Gringo Tacos         '
       - description: >-
           House Buttermilk Biscuits, Korean Gochujang-Buffalo Sauce, House Asian
           B&B Pickles, Mayo & Hot Honey  ...*Make It an Entree…add Housecut
           Shoestring Fries OR Petite Mixed Greens Salad for $5*    
         price: '27 '
         title: 'Menu Addition:“Hot Mess” Hot Honey Biscuit Fried Chicken Sliders (x3) '
-      - description: >-
-          Bulgogi Beef Shortrib, Salsa Fresca,  Melted Cheese, Smoky Sriracha
-          Mayo, Shredded Lettuce, Tater Tots & Birria Dipping Jus  
-        price: '$18 (2 tacos) / $28 (3 tacos)  '
-        title: 'Menu Addition: Birria Gringo Tacos         '
       - description: >-
           Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
