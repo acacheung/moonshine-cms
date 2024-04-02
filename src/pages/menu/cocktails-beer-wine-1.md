@@ -193,7 +193,7 @@ subgroups:
         title: '(Sparkling) NV LaMarca Prosecco '
       - description: 'Veneto, ITALY'
         price: 12     (187ml mini bottle)
-        title: (sparkling rose) 2020 Casa Vinicola Prosecco Rose Lido
+        title: (sparkling rose) 2020  Canella Prosecco Rose Lido
       - description: >
           The Lini family are a fourth-generation, family-owned and operated
           winery dedicated to the art of making Lambrusco, sparkling red wine.
