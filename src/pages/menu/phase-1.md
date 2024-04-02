@@ -191,16 +191,14 @@ subgroups:
         price: '19'
         title: GRASS-FED ’SHINE BEEF BURGER**
       - description: >-
-          ☘️“St. Patrick’s Day Shepherd's Pie Burger” topped with Guinness
-          Ground Lamb Shepherd's Pie, Green Garlic Mashed Potatoes, Melted
-          Orange
-          Cheddar                                                                      
-          ….add extra  cheddar cheese $2 …add fried egg $2…add sliced  jalapenos
-          $2                                                                 
-          …add sliced avocado $3..add jalapeno bacon
+          The "Leggo My Eggo" Waffle-wich Burger”: 2 Diner Style Buttermilk
+          Waffles, Melted Cheddar Cheese, Vermont Butter & Maple
+          Syrup                                                          ….add
+          extra  cheddar cheese $2 …add fried egg $2…add sliced  jalapenos
+          $2                    …add sliced avocado $3..add jalapeno bacon
           $4                                                      
         price: '24'
-        title: march 2024 VIP burger of the month
+        title: April 2024 VIP burger of the month
       - description: >-
           Smoky pulled pork, scrambled egg, tomato, petite mixed greens salad,
           teriyaki, sweet chili glaze, house-cut shoestring french fries...
