@@ -103,6 +103,8 @@ subgroups:
       - price: '13'
         title: PULLED CHINATOWN STYLE ROASTED DUCK
       - price: '13'
+        title: Red Wine Braised Rabbit
+      - price: '13'
         title: '''Shine Smoky BBQ Meatloaf'
       - price: '15'
         title: Marinated Skirt Steak**
@@ -114,13 +116,13 @@ subgroups:
   - description: 'Regular= 2 Tacos Go Grande = 3 Tacos '
     items:
       - description: >-
-          Shredded Beef & Cheese Tacos, Red Pickled Cabbage Salsa, Smoky
-          Sriracha Mayo, Birria Dipping Jus 
+          Shredded Beef & Cheese Tacos, Pickled Red Cabbage Salsa, Smoky
+          Sriracha Mayo,   & Birria Dipping Jus  
         price: ' 18 regular (2) / 28 grande (4)'
         title: 'Menu Addition: Pan Fried Carnitas Birria Tacos'
       - description: >-
           Tempura Veggie Burger Bites, Pickled Red Cabbage, Toasted Cumin Crema,
-          Tomato Salsa                             *Available Vegan 
+          Tomato Salsa *Available Vegan 
         price: 15 regular / 22 grande
         title: CRISPY MUSHROOM TOFU TACOS
       - description: >-
