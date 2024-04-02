@@ -6,6 +6,12 @@ order: 1
 subgroups:
   - description: ''
     items:
+      - description: >-
+          Celtic Pride ☘️ ☘️ ☘️
+          :                                                               a
+          Tequila Lime Jello Shot & an Orange Irish Whiskey Jello Shot
+        price: '6'
+        title: Rotating Jello Shots
       - description: >
           From January 15, 2024 (in honor of MLK Jr. Day) through June 19, 2024
           (in honor of Juneteenth), Uncle Nearest is partnering with bars,
@@ -22,11 +28,10 @@ subgroups:
         price: '13'
         title: 'Cocktail Special: Castle Island Iced Tea Party Punch'
       - description: >-
-          Celtic Pride ☘️ ☘️ ☘️
-          :                                                               a
-          Tequila Lime Jello Shot & an Orange Irish Whiskey Jello Shot
-        price: '6'
-        title: Rotating Jello Shots
+          GrandTen Spicy Firepuncher Vodka, Japanese Melon Liqueur, Pineapple
+          Juice, House Sour Mix
+        price: '13'
+        title: 'Cocktail Special: Green Dragon'
       - description: >-
           Locally Made Boston Harbor Distillery Putnam Rye Whiskey, Carpano
           Antica Sweet Vermouth, Angostura Bitters 
@@ -41,25 +46,20 @@ subgroups:
         price: '15'
         title: Moonshine '76
       - description: >-
-          GrandTen Spicy Firepuncher Vodka, Fresh Squeezed Cucumber Juice,
-          Elderflower Liqueur, Fresh Lemon 
+          Empress 1908 Indigo Gin, Creme de Violette, Luxardo Maraschino, Fresh
+          Lemon 
         price: '15'
-        title: farm to glass
+        title: Fly Me To The Moon
       - description: >-
           House Infused Spicy Organic Tequilla, Ginger Liqueur, Fresh Lime,
           Agave 
         price: '14'
         title: There’s Fire
       - description: >-
-          GrandTen Spicy Firepuncher Vodka, Japanese Melon Liqueur, Pineapple
-          Juice, House Sour Mix
-        price: '13'
-        title: Green Dragon
-      - description: >-
-          Mad River Distillery Rye Whiskey, Dark Cherry Liqueur, Cinnamon
-          Simple, Fresh Lemon 
-        price: '14'
-        title: danish modern
+          GrandTen Spicy Firepuncher Vodka, Fresh Squeezed Cucumber Juice,
+          Elderflower Liqueur, Fresh Lemon 
+        price: '15'
+        title: farm to glass
       - description: >-
           GrandTen Southie Irish Whiskey, Combier Peche Liqueur, White
           Cranberry, Fresh Lime
@@ -192,53 +192,68 @@ subgroups:
         price: 12 / 45
         title: '(Sparkling) NV LaMarca Prosecco '
       - description: 'Veneto, ITALY'
-        price: 14      (187ml mini bottle)
-        title: '(sparkling rose) NV Casa Vinicola Canella Rose Brut '
+        price: 12     (187ml mini bottle)
+        title: (sparkling rose) 2020 Casa Vinicola Prosecco Rose Lido
       - description: >
           The Lini family are a fourth-generation, family-owned and operated
           winery dedicated to the art of making Lambrusco, sparkling red wine.
           This mostly dry wine has notes of cherries, blueberries, sweet herbs
           and spice with zesty acids & salty minerals on the palate. 
-        price: 45/bottle
+        price: 45 / bottle
         title: >-
           (sparkling red)  Treat Yo Self Bottle Special: NV Lini 910 Lambrusca
           Rosso  (Emilia Romagna, IT) 
       - description: 'Columbia Valley, WA, USA '
         price: 13  /  46
         title: (rose) 2021 Charles & Charles Rose
-      - description: 'Carinola, Campania IT'
-        price: 15 / 58
-        title: '(rose) 2021 Fattoria Pagano Rose '
       - description: 'Provence, France'
         price: 15 / 58
         title: (rose) 2022 Whispering Angel Rose
+      - description: >-
+          Fresh & fruity rose wine from father-son team, Antonio and Angelo.
+          Made from 100% Falanghina grapes, it is complex & elegant with intense
+          aromas of cherry, red currant, strawberry and pomegranate. It stands
+          out for its long persistence.
+        price: '40 / bottle '
+        title: >-
+          (rose) TREAT YO SELF BOTTLE SPECIAL:  2021 Fattoria Pagano Rose 
+          (Campania, iTALY)
+      - description: 'Santa Barbera,CA, USA '
+        price: 12 / 42
+        title: '(White) 2021 Seaglass Charonnay '
       - description: 'Trentino, Italy '
         price: 12  /  42
         title: '(White) 2021 Torre di Luna Pinot Grigio '
-      - description: 'CA, USA '
-        price: 13 / 45
-        title: '(White) 2022 Decoy California Chardonnay '
       - description: 'Elqui Valley, Coquimbo, Chile'
         price: 12 / 45
         title: (white) 2022 Mayu Pedro Ximenez
       - description: 'Marlborough, New Zealand '
         price: 14 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
-      - description: 'Napa County, CA, USA '
-        price: 15 / 58
-        title: '(RED) 2022 Joel Gott Pinot Noir '
+      - description: >-
+          Dominant notes of white pulp fruit, apples, and pineapples are well
+          balanced by the citrusy sensations of orange blossoms and jasmine. Its
+          fragrant palate is savory with a soft entry and balanced freshness
+          with an excellent balance of minerals &  excellent structure. 
+        price: '35'
+        title: >-
+          (white) TREAT YO SELF BOTTLE SPECIAL: 2022 TORMARESCA CHARDONNAY
+          (PUGLIA, ITALY)
       - description: 'Mendoza, Argentine'
         price: 14 / 50
         title: (red)2021 Argento Organic Malbec
-      - description: 'Piedmont, Italy '
-        price: '14 / 50 '
-        title: '(red) 2021 Bava Libera Barbera d''Asti '
+      - description: 'Napa County, CA, USA '
+        price: 15 / 58
+        title: '(RED) 2022 Joel Gott Pinot Noir '
       - description: 'Columbia valley, WA, USA '
         price: 14 / 47
         title: (red) 2019 Charles & Charles "Double Trouble" Cabernet/Syrah Blend
       - description: 'North Coast, CA (Napa, Sonoma & Mendocino counties)'
         price: 14 / 48
         title: (red) 2020 Contour Cabernet Sauvignon
+      - description: 'Piedmont, Italy '
+        price: '14 / 50 '
+        title: '(red) 2021 Bava Libera Barbera d''Asti '
     title: Wine List
   - items:
       - description: 'White & Red Cranberry Juices, Fresh Lemonade '
