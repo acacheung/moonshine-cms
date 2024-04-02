@@ -58,11 +58,6 @@ subgroups:
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
       - description: >-
-          Crispy Filo Baked Ricotta Crinkle, Honeyed Fig Preserves, Toasted
-          Pistachio, Fresh Pomegranate 
-        price: '16'
-        title: 'Menu Addition: Easter Ricotta Pie-Crinkle'
-      - description: >-
           Warm Crisp Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
           Quinoa, Parmesan,                              Creamy Pesto Dressing,
@@ -106,9 +101,6 @@ subgroups:
     title: To Get Ya Started!
   - description: ' (Entrees)'
     items:
-      - description: 'Red Wine Braised Rabbit, Green Chili Grits, Sherry Pan Sauce'
-        price: '26'
-        title: 'Menu Addition: Traditional ''Shine Braised Easter Bunny & Grits'
       - description: >-
           Tender  Beef Brisket wrapped in a  Scallion Pancake
           with                                        Pho Noodle Salad &  Bacony
@@ -200,16 +192,14 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          ☘️“St. Patrick’s Day Shepherd's Pie Burger” topped with Guinness
-          Ground Lamb Shepherd's Pie, Green Garlic Mashed Potatoes, Melted
-          Orange
-          Cheddar                                                                      
-          ….add extra  cheddar cheese $2 …add fried egg $2…add sliced  jalapenos
-          $2                                                                 
-          …add sliced avocado $3..add jalapeno bacon
-          $4                           
+          The "Leggo My Eggo" Waffle-wich Burger”: 2 Diner Style Buttermilk
+          Waffles, Melted Cheddar Cheese, Vermont Butter & Maple
+          Syrup                                                          … add
+          extra  cheddar cheese $2 …add fried egg $2…add sliced  jalapenos
+          $2                    …add sliced avocado $3..add jalapeno bacon
+          $4                                
         price: '24'
-        title: March 2024 VIP burger of the month
+        title: April 2024 VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: ' All the sides & Fixin’s'
     items:
@@ -256,11 +246,6 @@ subgroups:
     title: All the sides & Fixin’s
   - description: ' (Dessert)'
     items:
-      - description: >-
-          Crispy Filo Baked Ricotta Crinkle, Honeyed Fig Preserves, Toasted
-          Pistachio, Fresh Pomegranate 
-        price: '16'
-        title: 'Menu Addition: Easter Ricotta Pie-Crinkle'
       - description: |2-
            Served Warm with Sea Salted Caramel & Whipped Cream  
                                                 
