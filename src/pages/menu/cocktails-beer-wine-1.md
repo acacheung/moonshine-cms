@@ -7,9 +7,8 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          Celtic Pride ☘️ ☘️ ☘️
-          :                                                               a
-          Tequila Lime Jello Shot & an Orange Irish Whiskey Jello Shot
+          Spicy Strawberry Margarita: Tanteo Chipotle Tequila, Strawberry Jello,
+          Fresh Lime Juice & Zest        
         price: '6'
         title: Rotating Jello Shots
       - description: >
