@@ -7,9 +7,8 @@ subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
       - description: >-
-          ☘️ ☘️ Celtic Pride  $6  
-          ☘️☘️:                                                               a
-          Tequila Lime Jello Shot & a Orange Irish Whiskey Jello Shot
+          Spicy Strawberry Margarita: Tanteo Chipotle Tequila, Strawberry Jello,
+          Fresh Lime Juice & Zest       
         price: '6'
         title: Chef Asia's Rotating Jello Shots
       - description: >
