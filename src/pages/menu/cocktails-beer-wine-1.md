@@ -22,11 +22,6 @@ subgroups:
         price: '15 '
         title: 'Cocktail Feature: Uncle Nearest HBCU Old Fashioned Challenge '
       - description: >-
-          Jameson Orange Whiskey, Rumhaven Coconut Rum, Mango Vodka,
-          Coconut-Chai Sweet Tea, Fresh Lemon-Limeade                
-        price: '13'
-        title: 'Cocktail Special: Castle Island Iced Tea Party Punch'
-      - description: >-
           GrandTen Spicy Firepuncher Vodka, Japanese Melon Liqueur, Pineapple
           Juice, House Sour Mix
         price: '13'
@@ -253,6 +248,17 @@ subgroups:
       - description: 'Piedmont, Italy '
         price: '14 / 50 '
         title: '(red) 2021 Bava Libera Barbera d''Asti '
+      - description: >-
+          Handcrafted with fruit from small, family-owned vineyards from
+          California’s  Central Coast. Aromas of cherry and plum with hints of
+          violet, leather, and saw dust. The palate is full-bodied and rich with
+          flavors of ripe blackberry, dark cherry, and cassis supported by full
+          tannins and notes of vanilla and toasty spice on a complex, long
+          finish. 
+        price: '40 /  bottle '
+        title: >-
+          (red) treat yo self bottle special: 2021 Smith & Hook Central Coast
+          Cabernet Sauvignon
     title: Wine List
   - items:
       - description: 'White & Red Cranberry Juices, Fresh Lemonade '
