@@ -321,10 +321,10 @@ subgroups:
         price: xxxxx
         title: 'Tequila & Mezcal '
       - description: >-
-          Privateer NE White Rum...$10...Sailor Jerry...$10...Goslings Black
-          Seal...$10...Mad River Vanilla Bean...$10 ...RumHaven
-          Coconut...$10...Ron Zacapa 23...$12... Hennessey...$12...Remy Martin
-          VSOP...$12...
+          Mad River Distilling Rum 44...$10...Privateer NE White
+          Rum...$11...Sailor Jerry...$10...Goslings Black Seal...$10...Mad River
+          Vanilla Bean...$10 ...RumHaven Coconut...$10...Ron Zacapa 23...$12...
+          Hennessey...$12...Remy Martin VSOP...$12...
         price: xxxxx
         title: 'Rum  & Cognac '
       - description: >-
