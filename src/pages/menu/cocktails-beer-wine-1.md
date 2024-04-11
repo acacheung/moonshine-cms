@@ -337,8 +337,7 @@ subgroups:
           Rye...$11...Boston Harbor Distillery Putnam
           Rye...$12......$13...Boston Harbor Distillery Putnam Single Malt
           Whiskey ...$13...Whistlepig 6 yr PiggyBack Rye...$14...Old Smokey
-          Tennessee Moonshine  White Whiskey ...$10...Screwball Peanut Butter
-          Whiskey...$10...
+          Tennessee Moonshine  White Whiskey ...$10...
         price: xxxxx
         title: 'American Whiskey/Bourbon/Rye '
       - description: >-
