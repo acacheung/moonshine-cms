@@ -315,9 +315,9 @@ subgroups:
           Anejo...$12 ...Teramana Blanco...$10...Teramana Reposado...$11....
           Teramana Anejo...$13.....Espolon Blanco...$11... Espolon
           Reposado...$12.. .House Infused Spicy Tequila...$12...Don Julio
-          Blanco...$12...Don Julio Reposado..$13...  Libélula Tequila...$12 Gran
-          Coramino Cristalino Reposado...$12... Xicaru Silver Mezcal...$11...Del
-          Maguey Vida Mezcal ..$12...Banhez Mezcal Artesanal $12
+          Blanco...$12...Don Julio Reposado..$13...  Libélula Tequila...$12 ...
+          Xicaru Silver Mezcal...$11...Del Maguey Vida Mezcal ..$12...Banhez
+          Mezcal Artesanal $12
         price: xxxxx
         title: 'Tequila & Mezcal '
       - description: >-
