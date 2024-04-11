@@ -214,13 +214,19 @@ subgroups:
         title: 'Two Eggs Any Style** '
       - price: '6'
         title: 'Spicy Green Chili Cheese Grits '
-      - description: 'Cinnamon Honey Butter & Sriracha-Bourbon Awesome Sauce '
-        price: '7'
-        title: House Belgian Waffle
       - price: '3'
         title: 'Homemade English Muffin '
       - price: '3'
         title: 'Homemade Beer Bread '
+      - description: 'Cinnamon Honey Butter & Sriracha-Bourbon Awesome Sauce '
+        price: '7'
+        title: House Belgian Waffle
+      - price: '9'
+        title: >-
+          Chef Asia’s Best Ever Buttermilk Biscuits  w/ White Pepper Sausage
+          Gravy
+      - price: '9 '
+        title: 'Chef Asia’s Best Ever Buttermilk Biscuits  w/  Pepper Jelly '
       - price: '9'
         title: 'Side Order of Corned Beef Hash '
       - price: '2'
