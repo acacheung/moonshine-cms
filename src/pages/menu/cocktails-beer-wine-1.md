@@ -306,8 +306,8 @@ subgroups:
       - description: >-
           Gin Lane London Dry...$10...Bombay Sapphire...$11...
           Tanqueray...$11... Hendrick's...$12..GrandTen Wire Works Gin...$11....
-          Glendalough Wild Botanical...$11... Empress 1908 Indigo Butterfly Pea
-          Blossom Gin...$12
+          Glendalough Irish Wild Botanical...$11... Empress 1908 Indigo
+          Butterfly Pea Blossom Gin...$12
         price: xxxxx
         title: Gin
       - description: >-
