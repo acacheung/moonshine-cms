@@ -115,7 +115,7 @@ subgroups:
       - description: >-
           Red-eye gravy, Chinese sausage, Green onions, Chopped melted white
           cheese
-        price: '14 regular  / 21 grande '
+        price: '14 regular  / 23 grande '
         title: 'Tater Tot Poutine '
       - description: >-
           Fresh Maine Crab Salad, Tasso Ham Hollandaise Sauce, Fried Eggs,
@@ -123,10 +123,10 @@ subgroups:
           Looking for something different? Just ask your server to swap it out
           for either Pecanwood Bacon, Jalapeno Bacon, or our Famous Corned Beef
           Hash for no additional charge**
-        price: '19'
+        price: '24'
         title: ’Shine Crab Eggs Benedict**
       - description: 'Melt-in-your-mouth corned beef, Scrambled eggs, Housemade beer bread '
-        price: '19'
+        price: '24'
         title: ’Shine Southie Corned Beef Hash**
       - description: 'Spiced homefries, Petite mixed greens'
         price: '19'
@@ -135,12 +135,12 @@ subgroups:
         price: '19'
         title: Vegan Turmeric Tofu Scramble
       - description: 'Pan-seared shrimp, Spicy cheese grits, Sherry pan sauce '
-        price: '22'
+        price: '24'
         title: 'Cajun Shrimp & Grits '
       - description: >-
           Scrambled eggs, Pan-Seared Polenta, Rustic Spicy Tomato Sauce, Fresh
           Lemon Zest & Your Choice of Bacon 
-        price: '19'
+        price: '22'
         title: 'Tommy G’s Favorite Romani Polenta & Eggs Scramble '
       - description: >-
           Smoky pulled pork, Scrambled egg, Tomato salsa, Petite mixed greens
