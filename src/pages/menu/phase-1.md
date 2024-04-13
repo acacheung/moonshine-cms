@@ -89,7 +89,7 @@ subgroups:
       - price: '5'
         title: Heirloom White Quinoa
       - description: add cheddar cheese...2
-        price: '10'
+        price: '11'
         title: CHEF ASIA’S FAMOUS VEGAN MUSHROOM TOFU BURGER PATTY
       - description: add cheddar cheese...2
         price: '11'
