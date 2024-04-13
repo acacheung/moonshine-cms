@@ -221,10 +221,11 @@ subgroups:
         price: '29'
         title: SPANISH TAPAS STYLE STEAK FRITES**
       - description: >-
-          Cajun-rubbed fish of the day, Fried picked green tomatoes,
-          Sriracha-shrimp uni butter sauce, Sautéed tomatoes
+          Cajun-rubbed Grilled Tilapia, Fried Pickled Green Tomatoes,
+          Tomato-Shrimp Shallot Ragout, Sriracha Butter .... add side white rice
+          $5
         price: '29'
-        title: cajun grilled fish of the day
+        title: Chef Asia's Favorite Cajun Grilled Tilapia
     title: THE MAIN AFFAIR-Entrees
   - description: 'Compliment your meal by adding your favorite fixins, sides & sauces!'
     items:
