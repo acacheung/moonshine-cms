@@ -153,9 +153,9 @@ subgroups:
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >-
-          Classic French Onion Soup served with Toasted Brioche Croutons &
-          Melted Gruyere
-          Cheese                                                       
+          Lemongrass Carrot-Ginger Bisque: Creamy Baby Carrot & Squash Soup,
+          Fresh Ginger, Lemongrass
+          (vegetarian)                                                     
         price: '12 / 19 '
         title: 'Chef’s Whim Soup for the Soul '
       - description: >
