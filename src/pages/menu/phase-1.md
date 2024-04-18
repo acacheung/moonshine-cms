@@ -65,9 +65,9 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
-      - description: 'served with Toasted Brioche & Melted Gruyere Cheese '
+      - description: '                                                                       Creamy Baby Carrot & Squash Soup, Fresh Ginger, Lemongrass (vegetarian)    '
         price: '12 regular / 19 grande '
-        title: 'chef''s whim soup of the day: Classic French Onion Soup '
+        title: 'chef''s whim soup of the day: Lemongrass Carrot-Ginger Bisque   '
       - description: >-
           Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton crisps,
           Shaved pecorino cheese
