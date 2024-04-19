@@ -76,7 +76,7 @@ subgroups:
   - description: 'please note this menu is subject to change '
     items:
       - description: 16 oz draft
-        price: '5'
+        price: '3'
         title: Bud Light
       - description: '16 oz draft '
         price: '7'
