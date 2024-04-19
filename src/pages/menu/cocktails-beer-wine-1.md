@@ -80,13 +80,13 @@ subgroups:
         title: Bud Light
       - description: '16 oz draft '
         price: '7'
-        title: Harpoon IPA
+        title: Allagash White
       - description: 16 oz draft
         price: '8'
         title: Dorchester Brewing Co. Galaxy Session IPA
       - description: '16 oz draft '
-        price: '7'
-        title: Allagash White
+        price: '8'
+        title: Bissell Brothers "Substance" IPA
       - description: '16 oz draft '
         price: '7'
         title: Downeast Original Unfiltered Cider
