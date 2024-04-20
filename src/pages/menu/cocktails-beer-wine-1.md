@@ -76,8 +76,8 @@ subgroups:
   - description: 'please note this menu is subject to change '
     items:
       - description: 16 oz draft
-        price: '3'
-        title: Bud Light
+        price: '5'
+        title: 'Miller High Life '
       - description: '16 oz draft '
         price: '7'
         title: Allagash White
