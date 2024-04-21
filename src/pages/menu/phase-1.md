@@ -111,8 +111,6 @@ subgroups:
       - price: '13'
         title: PULLED CHINATOWN STYLE ROASTED DUCK
       - price: '13'
-        title: Red Wine Braised Rabbit
-      - price: '13'
         title: '''Shine Smoky BBQ Meatloaf'
       - price: '15'
         title: Marinated Skirt Steak**
@@ -174,11 +172,6 @@ subgroups:
       Don't forget to top it off by adding your favorite proteins, fixins, sides
       & sauces to any dish.
     items:
-      - description: >-
-          Red Wine Braised Rabbit, Campanelle Pasta, Toasted Hazelnut,
-          Louisiana-Tomato Cream Sauce  
-        price: '28'
-        title: 'Menu Addition: Louisiana Braised Rabbit Pasta '
       - description: >-
           Smoky 'Shine BBQ Meatloaf Smothered in French Onion Soup Sauce, Melted
           Swiss Cheese, Texas Toast & a Petite Mixed Greens Salad
