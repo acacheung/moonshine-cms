@@ -9,9 +9,6 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
-      - description: '                                                   Crispy Parmesan Risotto Rice Fritter Stuffed with Cheeseburger Filling, Shredded Lettuce, Special Sauce, Bacon Bits, Tomato Salsa'
-        price: '$17 regular /$27 grande '
-        title: '420 Blaze It Menu Addition: Gigantic Cheeseburger Stuffed Arancini '
       - description: >-
           Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy Pesto
           Dressing, Aged Balsamic
