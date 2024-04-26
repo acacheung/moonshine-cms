@@ -195,14 +195,6 @@ subgroups:
         price: '24'
         title: April 2024 VIP burger of the month
       - description: >-
-          Smoky pulled pork, scrambled egg, tomato, petite mixed greens salad,
-          teriyaki, sweet chili glaze, house-cut shoestring french fries...
-          available vegetarian without pulled pork 25
-        price: '27'
-        title: >-
-          RON SWANSON BRUNCH-INSPIRED CHIPOTLE PULLED PORK SCALLION PANCAKE
-          QUESADILLA**
-      - description: >-
           Moonshine’s Best of Boston fried chicken, Belgian waffle,
           sriracha-bourbon awesome sauce, cinnamon honey butter ** GO GRANDE by
           adding an additional Belgian Waffle for $7**
@@ -219,6 +211,14 @@ subgroups:
           $5
         price: '29'
         title: Chef Asia's Favorite Cajun Grilled Tilapia
+      - description: >-
+          Smoky pulled pork, scrambled egg, tomato, petite mixed greens salad,
+          teriyaki, sweet chili glaze, house-cut shoestring french fries...
+          available vegetarian without pulled pork 25
+        price: '27'
+        title: >-
+          RON SWANSON BRUNCH-INSPIRED CHIPOTLE PULLED PORK SCALLION PANCAKE
+          QUESADILLA**
     title: THE MAIN AFFAIR-Entrees
   - description: 'Compliment your meal by adding your favorite fixins, sides & sauces!'
     items:
