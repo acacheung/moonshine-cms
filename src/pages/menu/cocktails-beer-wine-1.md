@@ -240,17 +240,6 @@ subgroups:
       - description: 'Piedmont, Italy '
         price: '14 / 50 '
         title: '(red) 2021 Bava Libera Barbera d''Asti '
-      - description: >-
-          Handcrafted with fruit from small, family-owned vineyards from
-          California’s  Central Coast. Aromas of cherry and plum with hints of
-          violet, leather, and saw dust. The palate is full-bodied and rich with
-          flavors of ripe blackberry, dark cherry, and cassis supported by full
-          tannins and notes of vanilla and toasty spice on a complex, long
-          finish. 
-        price: '40 /  bottle '
-        title: >-
-          (red) treat yo self bottle special: 2021 Smith & Hook Central Coast
-          Cabernet Sauvignon
     title: Wine List
   - items:
       - description: 'White & Red Cranberry Juices, Fresh Lemonade '
