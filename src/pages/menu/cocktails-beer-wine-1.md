@@ -22,11 +22,6 @@ subgroups:
         price: '15 '
         title: 'Cocktail Feature: Uncle Nearest HBCU Old Fashioned Challenge '
       - description: >-
-          GrandTen Spicy Firepuncher Vodka, Japanese Melon Liqueur, Pineapple
-          Juice, House Sour Mix
-        price: '13'
-        title: 'Cocktail Special: Green Dragon'
-      - description: >-
           Locally Made Boston Harbor Distillery Putnam Rye Whiskey, Carpano
           Antica Sweet Vermouth, Angostura Bitters 
         price: '15'
