@@ -191,14 +191,14 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          The "Leggo My Eggo" Waffle-wich Burger”: 2 Diner Style Buttermilk
-          Waffles, Melted Cheddar Cheese, Vermont Butter & Maple
-          Syrup                                                          … add
-          extra  cheddar cheese $2 …add fried egg $2…add sliced  jalapenos
+          ~HAPPY AAPI HERITGE MONTH~~ "Banchan Burger" topped with Korean Cheesy
+          Corn, House Asian Pear Kimchi, Gochujang Glaze, Pickled Daikon, Sesame
+          Spinach & Bulgogi Drizzle                                           …
+          add cheddar cheese $2 …add fried egg $2…add sliced  jalapenos
           $2                    …add sliced avocado $3..add jalapeno bacon
           $4                                
         price: '24'
-        title: April 2024 VIP burger of the month
+        title: May 2024 VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: ' All the sides & Fixin’s'
     items:
