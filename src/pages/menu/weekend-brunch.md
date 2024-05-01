@@ -191,11 +191,12 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          ~HAPPY AAPI HERITGE MONTH~~ "Banchan Burger" topped with Korean Cheesy
-          Corn, House Asian Pear Kimchi, Gochujang Glaze, Pickled Daikon, Sesame
-          Spinach & Bulgogi Drizzle                                           …
-          add cheddar cheese $2 …add fried egg $2…add sliced  jalapenos
-          $2                    …add sliced avocado $3..add jalapeno bacon
+          ~HAPPY AAPI HERITAGE MONTH~~ "Banchan Burger" topped with Korean
+          Cheesy Corn, House Asian Pear Kimchi, Gochujang Glaze, Pickled Daikon,
+          Sesame Spinach & Bulgogi
+          Drizzle                                           … add cheddar cheese
+          $2 …add fried egg $2…add sliced  jalapenos $2                    …add
+          sliced avocado $3..add jalapeno bacon
           $4                                
         price: '24'
         title: May 2024 VIP burger of the month
