@@ -10,7 +10,7 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
-          Herrbed Crostini, Chilled Applewood Smoked Crab & Shrimp, Kewpie Mayo,
+          Herbed Crostini, Chilled Applewood Smoked Crab & Shrimp, Kewpie Mayo,
           Homemade Crunchy Shrimp Puffs, Furikake
         price: 17 regular / 27 grande
         title: 'Menu Addition: Japanese smoky New England Shrimp & Crab Dip'
