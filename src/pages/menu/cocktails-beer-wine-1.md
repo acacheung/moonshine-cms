@@ -72,11 +72,6 @@ subgroups:
           Hibiscus, Fresh Citrus Juices 
         price: '14'
         title: Sahil's Ginger Hibiscus Red Sangria
-      - description: >-
-          Select Apertivo, Pamplemousse Grapefruit Liqueur, Prosecco, Fresh
-          Lemon 
-        price: '14'
-        title: Shine Spritz
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
