@@ -6,9 +6,21 @@ order: 3
 subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
+      - description: 'Lemon-Raspberry Vodka, Peach Liqueur, Lychee Puree, Fresh Lemonade '
+        price: '13'
+        title: >-
+          Menu Addition: Happy Birthday Month  Chef Asia!! Cocktail Special Chef
+          Asia’s Bday Month Party Punch
+      - description: |-
+          Whiskey, Blackberry Puree, Lemon, Simple, Agave, Fresh Lemon, Soda
+           ***Blackberry Mint Lemonade Spritz Available Non-Alcoholic $7
+        price: '14'
+        title: 'Menu Addition: Derby Day Blackberry Mint Whiskey Bramble'
       - description: >-
-          Spicy Strawberry Margarita: Tanteo Chipotle Tequila, Strawberry Jello,
-          Fresh Lime Juice & Zest       
+          Watermelon Cucumber
+          Collins:                                                          
+          Botanical Gin, Watermelon Liqueur, Cucumber Juice, Lemon Jello&
+          Zest       
         price: '6'
         title: Chef Asia's Rotating Jello Shots
       - description: >
