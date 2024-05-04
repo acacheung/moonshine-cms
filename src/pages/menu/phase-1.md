@@ -112,8 +112,6 @@ subgroups:
         title: Roasted statler Chicken Breast
       - price: '13'
         title: PULLED CHINATOWN STYLE ROASTED DUCK
-      - price: '13'
-        title: '''Shine Smoky BBQ Meatloaf'
       - price: '15'
         title: Marinated Skirt Steak**
       - price: '13'
@@ -174,11 +172,6 @@ subgroups:
       Don't forget to top it off by adding your favorite proteins, fixins, sides
       & sauces to any dish.
     items:
-      - description: >-
-          Smoky 'Shine BBQ Meatloaf Smothered in French Onion Soup Sauce, Melted
-          Swiss Cheese, Texas Toast & a Petite Mixed Greens Salad
-        price: '28'
-        title: 'Menu Addition: French Onion Soup Meatloaf '
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask! Also ask About our House
