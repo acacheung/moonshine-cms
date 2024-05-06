@@ -76,9 +76,8 @@ subgroups:
         price: 18 regular / 29 grande
         title: 'Menu Addition: crispy artichoke salad '
       - description: >-
-          Herbed Crostini, Chilled Applewood Smoked Crab &
-          Shrimp,                          Kewpie Mayo, Homemade Crunchy Shrimp
-          Puffs, Furikake
+          Chilled Applewood Smoked Crab & Shrimp,                         
+          Kewpie Mayo, Homemade Crunchy Shrimp Puffs, Furikake
         price: '17 regular / 27 grande '
         title: 'Menu Addition: Japanese Smoky New England Shrimp & Crab Dip'
       - description: >-
