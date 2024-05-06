@@ -7,8 +7,9 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          Spicy Strawberry Margarita: Tanteo Chipotle Tequila, Strawberry Jello,
-          Fresh Lime Juice & Zest        
+          Watermelon Cucumber
+          Collins:                                                          
+          Botanical Gin, Watermelon Liqueur, Cucumber Juice, Lemon Jello& Zest
         price: '6'
         title: Rotating Jello Shots
       - description: >-
