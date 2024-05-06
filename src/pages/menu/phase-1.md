@@ -9,9 +9,7 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
-      - description: >-
-          Herbed Crostini, Chilled Applewood Smoked Crab & Shrimp, Kewpie Mayo,
-          Homemade Crunchy Shrimp Puffs, Furikake
+      - description: ' Chilled Applewood Smoked Crab & Shrimp, Kewpie Mayo, Homemade Crunchy Shrimp Puffs, Furikake'
         price: 17 regular / 27 grande
         title: 'Menu Addition: Japanese smoky New England Shrimp & Crab Dip'
       - description: >-
