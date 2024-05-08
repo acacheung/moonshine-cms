@@ -13,11 +13,6 @@ subgroups:
         price: '6'
         title: Rotating Jello Shots
       - description: >-
-          Lemon-Raspberry Vodka, Peach Liqueur, Lychee Puree, White Cranberry,
-          Fresh Lemonade 
-        price: '13'
-        title: 'Cocktail Special: "Happy Birthday Month Chef Asia" Lychee Party Punch'
-      - description: >-
           whiskey, Blackberry Puree, Mint Simple, Fresh Lemon, Agave, Soda
           ***Blackberry Mint Lemonade Spritz Available Non-Alcoholic $7
         price: '14'
