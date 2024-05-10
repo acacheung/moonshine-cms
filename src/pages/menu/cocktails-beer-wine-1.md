@@ -12,11 +12,6 @@ subgroups:
           Botanical Gin, Watermelon Liqueur, Cucumber Juice, Lemon Jello& Zest
         price: '6'
         title: Rotating Jello Shots
-      - description: >-
-          whiskey, Blackberry Puree, Mint Simple, Fresh Lemon, Agave, Soda
-          ***Blackberry Mint Lemonade Spritz Available Non-Alcoholic $7
-        price: '14'
-        title: 'Cocktail Special: Blackberry Mint Whiskey Bramble'
       - description: >
           From January 15, 2024 (in honor of MLK Jr. Day) through June 19, 2024
           (in honor of Juneteenth), Uncle Nearest is partnering with bars,
@@ -238,9 +233,6 @@ subgroups:
         title: '(red) 2021 Bava Libera Barbera d''Asti '
     title: Wine List
   - items:
-      - description: 'Blackberry Puree, Mint Simple, Fresh Lemon, Agave, Soda '
-        price: '7'
-        title: 'Menu Addition: Blackberry Mint Lemonade Spritz (mocktail)'
       - description: 'White & Red Cranberry Juices, Fresh Lemonade '
         price: '7'
         title: Squeeze The Day (mocktail)
