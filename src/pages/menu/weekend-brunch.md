@@ -302,6 +302,13 @@ subgroups:
       - description: Blackberry
         price: '11'
         title: chef's whim sorbet of the day (vegan)
+      - description: >-
+          Crispy Layered Merengue Cookies, Mango
+          Coulis,                                                 Coconut
+          Jellies, Whipped Cream, Spring Berry Sauce          (gluten-free,
+          available vegan!)     
+        price: '13'
+        title: 'Menu Addition: Tropical Mango Pavlova'
     title: Sweet Tooth
   - description: 'This, That and Other Stuff '
     items:
