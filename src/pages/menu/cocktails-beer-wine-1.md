@@ -12,6 +12,11 @@ subgroups:
           Botanical Gin, Watermelon Liqueur, Cucumber Juice, Lemon Jello& Zest
         price: '6'
         title: Rotating Jello Shots
+      - description: >-
+          Kalamansi Lemon, Fresh Cucumber Juice, Watermelon Liqueur, Litchi
+          Popping Boba, Prosecco
+        price: '15'
+        title: Asia Does Bar Stuff
       - description: >
           From January 15, 2024 (in honor of MLK Jr. Day) through June 19, 2024
           (in honor of Juneteenth), Uncle Nearest is partnering with bars,
