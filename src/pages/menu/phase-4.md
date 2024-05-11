@@ -9,6 +9,9 @@ subgroups:
       - description: '                                                      Crispy Layered Merengue Cookies, Mango Coulis, Coconut Jellies, Whipped Cream, Spring Berry Sauce   (gluten-free, available vegan!)      '
         price: '13'
         title: 'Menu Addition: Tropical Mango Pavlova '
+      - description: '                            Strawberry  Ice Cream, Warm Belgian Waffle,                                               Whipped Cream, Mixed Berry Sauce, Toasted Hazelnuts     '
+        price: '13'
+        title: 'Menu Addition: Berries & Cream Waffle Ice Cream Sundae     '
       - description: >-
           Cream Cheese Ribboned Carrot Cake, Toasted Walnuts, Chantilly Cream,
           Crispy Carrot Chips
@@ -26,6 +29,9 @@ subgroups:
       - description: Blackberry
         price: '11'
         title: 'Chef''s Whim Sorbet (vegan) '
+      - description: Strawberry
+        price: '11'
+        title: Chef's Whim Ice Cream
     title: Sweet Tooth
 ---
 
