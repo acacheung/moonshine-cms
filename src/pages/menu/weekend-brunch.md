@@ -75,7 +75,7 @@ subgroups:
           Tots,                                                            Salsa
           Fresca, Spiced Hollandaise Sauce, Flour Tortilla           
         price: ' $18 (2) / $27 (3)'
-        title: 'Menu Addition:  Chef Asia’s Cinco de Mayo  Birthday Brunch Tacos '
+        title: 'Menu Addition:  Chef Asia’s Brunch Tacos '
       - description: >-
           Local honey, Fresh berries, Oat-Flax-Chia Seed Granola Crunch **add a
           belgian waffle $7**
@@ -265,6 +265,13 @@ subgroups:
     title: All the sides & Fixin’s
   - description: ' (Dessert)'
     items:
+      - description: >-
+          Crispy Layered Merengue Cookies, Mango
+          Coulis,                                                 Coconut
+          Jellies, Whipped Cream, Spring Berry Sauce          (gluten-free,
+          available vegan!)     
+        price: '13'
+        title: 'Menu Addition: Tropical Mango Pavlova'
       - description: |2-
            Served Warm with Sea Salted Caramel & Whipped Cream  
                                                 
@@ -276,29 +283,22 @@ subgroups:
         price: '12'
         title: 'Menu Addition: Tati''s Favorite Carrot Cake '
       - description: >-
-          Mocha Chip Ice Cream, Warm Belgian Waffle, Whipped Cream, Nutella
-          Chocolate Sauce, Chocolate Chips …add candied bacon $2
+          Strawberry Ice Cream, Warm Belgian Waffle, Whipped Cream, Mixed Berry
+          Sauce, Toasted Hazelnuts 
         price: '13'
-        title: 'Menu Addition: Belgian Waffle Ice Cream Sundae'
+        title: 'Menu Addition: Berries & Cream Waffle Ice Cream Sundae'
       - description: 'Whipped chantilly cream, Toasted oat-amaranth streusel '
         price: '12'
         title: 'Butterscotch Pudding '
       - description: 'Nutellla fudge chocolate sauce, Powdered sugar '
         price: '12'
         title: 'Jaime’s Favorite Oreo Cookie Layered Fudge Brownie '
-      - description: Mocha Chip
+      - description: Strawberry
         price: '11'
         title: Chef's whim ice cream of the day
       - description: Blackberry
         price: '11'
         title: chef's whim sorbet of the day (vegan)
-      - description: >-
-          Crispy Layered Merengue Cookies, Mango
-          Coulis,                                                 Coconut
-          Jellies, Whipped Cream, Spring Berry Sauce          (gluten-free,
-          available vegan!)     
-        price: '13'
-        title: 'Menu Addition: Tropical Mango Pavlova'
     title: Sweet Tooth
   - description: 'This, That and Other Stuff '
     items:
