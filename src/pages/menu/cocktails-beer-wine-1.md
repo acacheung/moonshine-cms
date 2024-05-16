@@ -7,9 +7,8 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          Watermelon Cucumber
-          Collins:                                                          
-          Botanical Gin, Watermelon Liqueur, Cucumber Juice, Lemon Jello& Zest
+          Strawberry Lime Rickey: Blanco Tequila, Fresh Lime Juice, Strawberry
+          Jell-O
         price: '6'
         title: Rotating Jello Shots
       - description: >
