@@ -67,6 +67,11 @@ subgroups:
           Hibiscus, Fresh Citrus Juices 
         price: '14'
         title: Sahil's Ginger Hibiscus Red Sangria
+      - description: >-
+          Chardonnay Blend, Peach Liqueur, Orange Brandy, Mango Puree, Fresh
+          Citrus, Bubbles 
+        price: '14'
+        title: ARae's Mango Peach White Sangria
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
@@ -124,6 +129,9 @@ subgroups:
       - description: 16 oz Tallboy Can
         price: '6'
         title: Narragansett Lager
+      - description: 16oz tallboy can
+        price: '7'
+        title: Zero Gravity "Green State" Lager
       - description: '16oz tallboy can '
         price: '7'
         title: 'Night Shift Brewing "Nite Lite" Light Lager '
@@ -137,7 +145,7 @@ subgroups:
         price: '6'
         title: 'Cisco Brewing "Grey Lady" Wheat Ale '
       - description: 16 oz tallboy can
-        price: '8'
+        price: '5'
         title: 'Allagash Brewing "Hop Reach" IPA '
       - description: '16 oz tallboy can '
         price: '8'
@@ -146,13 +154,13 @@ subgroups:
         price: '8'
         title: Aeronaut Brewing "Hop Hop Away" IPA
       - description: '12 oz bottle '
-        price: '8'
+        price: '7'
         title: 'Stone IPA '
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
       - description: 12oz bottle
-        price: '8'
+        price: '6'
         title: 'Boulevard Brewing Smokestack Series"Dark Truth" Imperial Stout '
       - description: '16oz tallboy can '
         price: '7'
@@ -173,8 +181,8 @@ subgroups:
         price: 12 / 45
         title: '(Sparkling) NV LaMarca Prosecco '
       - description: 'Veneto, ITALY'
-        price: 12     (187ml mini bottle)
-        title: (sparkling rose) 2020  Canella Prosecco Rose Lido
+        price: 14     (187ml mini bottle)
+        title: '(sparkling rose) NV Canella Spumante Brut Rose '
       - description: >
           The Lini family are a fourth-generation, family-owned and operated
           winery dedicated to the art of making Lambrusco, sparkling red wine.
