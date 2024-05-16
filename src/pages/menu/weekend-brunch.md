@@ -7,10 +7,8 @@ subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
       - description: >-
-          Watermelon Cucumber
-          Collins:                                                          
-          Botanical Gin, Watermelon Liqueur, Cucumber Juice, Lemon Jello&
-          Zest       
+          Strawberry Lime Rickey: Blanco Tequila, Fresh Lime Juice, Strawberry
+          Jell-O
         price: '6'
         title: Chef Asia's Rotating Jello Shots
       - description: >
