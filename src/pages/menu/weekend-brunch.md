@@ -69,12 +69,6 @@ subgroups:
         price: '17 regular / 27 grande '
         title: 'Menu Addition: Japanese Smoky New England Shrimp & Crab Dip'
       - description: >-
-          Cheesy Scrambled  Eggs, Pecanwood Bacon, Tater
-          Tots,                                                            Salsa
-          Fresca, Spiced Hollandaise Sauce, Flour Tortilla           
-        price: ' $18 (2) / $27 (3)'
-        title: 'Menu Addition:  Chef Asia’s Brunch Tacos '
-      - description: >-
           Local honey, Fresh berries, Oat-Flax-Chia Seed Granola Crunch **add a
           belgian waffle $7**
         price: 9 / 14
