@@ -183,15 +183,6 @@ subgroups:
       - description: 'Veneto, ITALY'
         price: 14     (187ml mini bottle)
         title: '(sparkling rose) NV Canella Spumante Brut Rose '
-      - description: >
-          The Lini family are a fourth-generation, family-owned and operated
-          winery dedicated to the art of making Lambrusco, sparkling red wine.
-          This mostly dry wine has notes of cherries, blueberries, sweet herbs
-          and spice with zesty acids & salty minerals on the palate. 
-        price: 45 / bottle
-        title: >-
-          (sparkling red)  Treat Yo Self Bottle Special: NV Lini 910 Lambrusca
-          Rosso  (Emilia Romagna, IT) 
       - description: 'Columbia Valley, WA, USA '
         price: 13  /  46
         title: (rose) 2021 Charles & Charles Rose
