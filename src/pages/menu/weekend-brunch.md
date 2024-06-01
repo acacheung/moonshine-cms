@@ -7,8 +7,8 @@ subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
       - description: >-
-          Strawberry Lime Rickey: Blanco Tequila, Fresh Lime Juice, Strawberry
-          Jell-O
+          "Mandarin Orange PainQuila": Blanco Tequilla, Orange Jello, Coconut
+          Milk. Pineapple Juice
         price: '6'
         title: Chef Asia's Rotating Jello Shots
       - description: >
