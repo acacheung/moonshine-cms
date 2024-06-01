@@ -17,11 +17,11 @@ subgroups:
           Dressing, Aged Balsamic
         price: 18 regular / 29 grande
         title: 'Menu Addition: Warm Crispy Artichoke Salad'
-      - description: |
-          Parisienne Oven-Crisped Gnocchi, Spring Veggies,
-           Creamy Miso Vodka Sauce, Fresh Burrata Cheese 
-        price: 26 regular  /  32 grande
-        title: 'Menu Addition: Baked Gnocchi & Burrata Primavera '
+      - description: >
+          New England Softshell Crab Tempura, Soft Steamed Bao Buns, Wasabi-Aji
+          Amarillo Aioli, Teriyaki Glaze, Shredded Cabbage 
+        price: $MKT regular  /  $MKT grande
+        title: 'Menu Addition: Softshell Crab Bao Buns '
       - description: >-
           Shredded Beef & Cheese Tacos, Pickled Red Cabbage Salsa, Smoky
           Sriracha Mayo,   & Birria Dipping Jus  
