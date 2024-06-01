@@ -7,8 +7,8 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          Strawberry Lime Rickey: Blanco Tequila, Fresh Lime Juice, Strawberry
-          Jell-O
+          "Mandarin Orange PainQuila": Blanco Tequilla, Orange Jello, Coconut
+          Milk. Pineapple Juice
         price: '6'
         title: Rotating Jello Shots
       - description: >
