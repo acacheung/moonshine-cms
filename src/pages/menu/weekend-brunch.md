@@ -270,11 +270,6 @@ subgroups:
         price: '12'
         title: 'Menu Addition: Sticky Toffee Bread Pudding  '
       - description: >-
-          Cream Cheese Ribboned Carrot Cake, Toasted Walnuts & Almonds,
-          Chantilly Cream, Crispy Carrot Chips
-        price: '12'
-        title: 'Menu Addition: Tati''s Favorite Carrot Cake '
-      - description: >-
           Strawberry Ice Cream, Warm Belgian Waffle, Whipped Cream, Mixed Berry
           Sauce, Toasted Hazelnuts 
         price: '13'
@@ -288,7 +283,7 @@ subgroups:
       - description: Strawberry
         price: '11'
         title: Chef's whim ice cream of the day
-      - description: Blackberry
+      - description: Kalamansi Lemon
         price: '11'
         title: chef's whim sorbet of the day (vegan)
     title: Sweet Tooth
