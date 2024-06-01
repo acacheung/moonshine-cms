@@ -12,11 +12,6 @@ subgroups:
       - description: '                            Strawberry  Ice Cream, Warm Belgian Waffle,                                               Whipped Cream, Mixed Berry Sauce, Toasted Hazelnuts     '
         price: '13'
         title: 'Menu Addition: Berries & Cream Waffle Ice Cream Sundae     '
-      - description: >-
-          Cream Cheese Ribboned Carrot Cake, Toasted Walnuts, Chantilly Cream,
-          Crispy Carrot Chips
-        price: '13'
-        title: 'Menu Addition: Tati''s Favorite carrot CAKE '
       - description: 'Served with with Sea Salted Caramel & Whipped Cream '
         price: '12'
         title: 'Menu Addition: Sticky Toffee Bread Pudding'
@@ -26,7 +21,7 @@ subgroups:
       - description: 'Powdered sugar, nutella chocolate fudge sauce'
         price: '12'
         title: Jaime’s Favorite Oreo Cookie Layered Fudge Brownie
-      - description: Blackberry
+      - description: 'Kalamansi Lemon '
         price: '11'
         title: 'Chef''s Whim Sorbet (vegan) '
       - description: Strawberry
