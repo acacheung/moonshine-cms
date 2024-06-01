@@ -196,15 +196,14 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          ~HAPPY AAPI HERITAGE MONTH~~ "Banchan Burger" topped with Korean
-          Cheesy Corn, House Asian Pear Kimchi, Gochujang Glaze, Pickled Daikon,
-          Sesame Spinach & Bulgogi
-          Drizzle                                           … add cheddar cheese
+          "Tuscan Summer"  Burger topped with Panzanella Toscano Salad,
+          Cannellini Beans, Sundried Tomato Pomodoro, Crispy Basil, Fresh
+          Mozzarella                                      … add cheddar cheese
           $2 …add fried egg $2…add sliced  jalapenos $2                    …add
           sliced avocado $3..add jalapeno bacon
           $4                                
         price: '24'
-        title: May 2024 VIP burger of the month
+        title: June 2024 VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: ' All the sides & Fixin’s'
     items:
