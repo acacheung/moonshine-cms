@@ -11,6 +11,11 @@ subgroups:
           Milk. Pineapple Juice
         price: '6'
         title: Rotating Jello Shots
+      - description: >-
+          Raspberry Vodka, Fresh Blueberry Infused  Indigo Gin, Mandarin Orange
+          Liqueur,  Lemon-Limeade  
+        price: '14'
+        title: 'Pride Month Cocktail Special: Fruit Salad Party Punch $14'
       - description: >
           From January 15, 2024 (in honor of MLK Jr. Day) through June 19, 2024
           (in honor of Juneteenth), Uncle Nearest is partnering with bars,
