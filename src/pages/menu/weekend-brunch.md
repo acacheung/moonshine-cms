@@ -61,6 +61,11 @@ subgroups:
     title: 'Cheers To The Weekend! '
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
+      - description: |
+          Pan-Seared Banana Bread French Toast,
+           Bananas Foster Caramel, Local Blueberries    
+        price: '17 regular  / 26 grande '
+        title: 'Menu Addition: Bananas Fosters Banana Bread French Toast'
       - description: >-
           Warm Crisp Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
