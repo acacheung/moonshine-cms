@@ -142,9 +142,6 @@ subgroups:
       - description: '16oz tallboy can '
         price: '7'
         title: 'Night Shift Brewing "Nite Lite" Light Lager '
-      - description: '12 oz bottle '
-        price: '7'
-        title: Kona Brewing "Big Wave" Golden Ale
       - description: '16 oz tallboy can '
         price: '7'
         title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
