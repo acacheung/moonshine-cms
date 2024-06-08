@@ -12,11 +12,6 @@ subgroups:
       - description: ' Chilled Applewood Smoked Crab & Shrimp, Kewpie Mayo, Homemade Crunchy Shrimp Puffs, Furikake'
         price: 17 regular / 27 grande
         title: 'Menu Addition: Japanese smoky New England Shrimp & Crab Dip'
-      - description: >
-          Local Sugar Snap Peas, Creamy Burrata Cheese, Herbed Crostini, Bourbon
-          Fig Jam    
-        price: ' $17 regular  /  $27 grande'
-        title: 'Menu Addition: Summer Burrata Salad   '
       - description: >-
           Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy Pesto
           Dressing, Aged Balsamic
