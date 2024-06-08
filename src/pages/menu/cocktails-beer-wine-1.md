@@ -73,11 +73,6 @@ subgroups:
         price: '14'
         title: 'La Diabla '
       - description: >-
-          Tres Agaves Blanco Tequila, Combier Watermelon Liqueur, Grapefruit
-          Juice, Fresh Lime, Agave, Touch of Salt 
-        price: '14'
-        title: Watermelon Paloma
-      - description: >-
           Mediterranean Red Wine Blend, Housemade Ginger Liqueur, Brandy,
           Hibiscus, Fresh Citrus Juices 
         price: '14'
