@@ -11,11 +11,6 @@ subgroups:
           Milk. Pineapple Juice
         price: '6'
         title: Chef Asia's Rotating Jello Shots
-      - description: >-
-          Tres Agaves Blanco Tequila, Combier Watermelon Liqueur, Grapefruit
-          Juice, Fresh Lime, Agave, Touch of Salt 
-        price: '14'
-        title: 'Cocktail Special: Watermelon Paloma'
       - description: >
           vodka or blanco tequila with our house bloody mary mix, infused with
           homemade kimchi juice 
