@@ -77,11 +77,6 @@ subgroups:
           Hibiscus, Fresh Citrus Juices 
         price: '14'
         title: Sahil's Ginger Hibiscus Red Sangria
-      - description: >-
-          Chardonnay Blend, Peach Liqueur, Orange Brandy, Mango Puree, Fresh
-          Citrus, Bubbles 
-        price: '14'
-        title: ARae's Mango Peach White Sangria
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
