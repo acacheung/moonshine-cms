@@ -6,7 +6,10 @@ order: 5
 subgroups:
   - description: Add a Belgian waffle to your favorite dessert $7
     items:
-      - description: '                                                      Crispy Layered Merengue Cookies, Mango Coulis, Coconut Jellies, Whipped Cream, Spring Berry Sauce   (gluten-free, available vegan!)      '
+      - description: 'Chef Asia’s Favorite Rainbow Nerds, Mango Sauce   '
+        price: '12'
+        title: 'Menu Addition: Pride Coconut Mochi Bites'
+      - description: '                                                      Crispy Layered Merengue Cookies, Mango Coulis, Coconut Jellies, Whipped Cream, Summer Berry Sauce   (gluten-free, available vegan!)      '
         price: '13'
         title: 'Menu Addition: Tropical Mango Pavlova '
       - description: '                            Strawberry  Ice Cream, Warm Belgian Waffle,                                               Whipped Cream, Mixed Berry Sauce, Toasted Hazelnuts     '
