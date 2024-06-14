@@ -79,28 +79,28 @@ subgroups:
         price: '14 / 24 '
         title: 'Chef Asia’s Famous Cinnamon French Toast Sticks '
       - description: 'Japanese ginger-sesame carrot vinaigrette, Roasted kale '
-        price: 10 / 14
+        price: '12 regular / 16 grande '
         title: 'Local Mixed Greens Salad '
       - description: 'Toasted sesame, Crispy garlic & shallots, Soy vinaigrette '
-        price: '10 / 15 '
+        price: 14 regular / 23 grande
         title: 'Blistered Shishito Peppers '
       - description: >-
           Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
-        price: 14 regular / 23 grande
+        price: 14 regular / 24 grande
         title: ’Shine Famous Caramelized Onion-Roasted Beet Dip
       - description: >-
           Sourdough holiday stuffing bites, Crispy pecanwood bacon, Candied
           ginger aioli 
-        price: 15 / 24
+        price: '16 regular / 25 grande '
         title: '’Shine Famous Bacon Wrapped Stuffing Bites  '
       - description: >-
           Crispy olive oil roasted potatoes, Sherry pesto aioli, Roasted garlic
           oil 
-        price: '15 / 26 '
+        price: '16 regular / 27 grande '
         title: 'Tapas Style Patatas Bravas '
       - description: 'Jalapeno crab filling, Spicy honey '
-        price: '16 regular  / 26 grande '
+        price: '17 regular  / 27 grande '
         title: 'Jalapeno Crab Rangoons '
     title: To Get Ya Started!
   - description: ' (Entrees)'
@@ -120,7 +120,7 @@ subgroups:
       - description: >-
           Red-eye gravy, Chinese sausage, Green onions, Chopped melted white
           cheese
-        price: '14 regular  / 23 grande '
+        price: '14 regular  / 26 grande '
         title: 'Tater Tot Poutine '
       - description: >-
           Fresh Maine Crab Salad, Tasso Ham Hollandaise Sauce, Fried Eggs,
@@ -128,29 +128,29 @@ subgroups:
           Looking for something different? Just ask your server to swap it out
           for either Pecanwood Bacon, Jalapeno Bacon, or our Famous Corned Beef
           Hash for no additional charge**
-        price: '24'
+        price: '26'
         title: ’Shine Crab Eggs Benedict**
       - description: 'Melt-in-your-mouth corned beef, Scrambled eggs, Housemade beer bread '
-        price: '24'
+        price: '26'
         title: ’Shine Southie Corned Beef Hash**
       - description: 'Spiced homefries, Petite mixed greens'
-        price: '19'
+        price: '23'
         title: Sauteed Mushroom & Swiss Omelet**
       - description: 'Sauteed kale, Spiced homefries, Petite mixed greens salad'
-        price: '19'
+        price: '23'
         title: Vegan Turmeric Tofu Scramble
       - description: 'Pan-seared shrimp, Spicy cheese grits, Sherry pan sauce '
-        price: '24'
+        price: '26'
         title: 'Cajun Shrimp & Grits '
       - description: >-
           Scrambled eggs, Pan-Seared Polenta, Rustic Spicy Tomato Sauce, Fresh
           Lemon Zest & Your Choice of Bacon 
-        price: '22'
+        price: '26'
         title: 'Tommy G’s Favorite Romani Polenta & Eggs Scramble '
       - description: >-
           Smoky pulled pork, Scrambled egg, Tomato salsa, Petite mixed greens
           salad, House-cut shoestring fries
-        price: '27'
+        price: '28'
         title: >-
           Ron Swanson Brunch Inspired Chipotle Pulled Pork Scallion Pancake
           Quesadilla (AVAILABLE VEGETARIAN   25)**
@@ -166,7 +166,7 @@ subgroups:
       - description: >
           Heirloom quinoa, sautéed kale, creamy Caesar dressing, wonton crisps,
           fresh pomegranate, shaved pecorino cheese
-        price: 17 regular / 27 grande
+        price: 17 regular / 28 grande
         title: 'Warm Kale and Quinoa Caesar Salad '
       - description: served with Poblano Ranch Sauce
         price: 17 / 29
@@ -174,18 +174,18 @@ subgroups:
       - description: >-
           Boneless beef shortrib, Asian pear kimchi, Candied ginger aioli,
           Sriracha sauce 
-        price: 16 / 24
+        price: 17 regular (2) / 24 grande (3)
         title: 'Throwback Korean BBQ Tacos '
       - description: >-
           Chinese sausage, Scrambled egg, Fresh ginger, Scallions, Chopped duck
           liver 
-        price: '24'
+        price: '26'
         title: 'Mama Mei’s Dirty Fried Rice '
       - description: >-
           "Boston's Best" Buttermilk fried chicken, Belgian waffle,
           Sriracha-bourbon awesome sauce, Cinnamon honey butter  ** GO GRANDE by
           adding an additional Belgian Waffle for $7**
-        price: '27'
+        price: '28'
         title: 'Leslie Knope’s Fried Chicken & Waffle '
       - description: 'Sharp cheddar, Housemade aioli, LTO & Shoestring fries  '
         price: '19'
@@ -202,16 +202,16 @@ subgroups:
           $2 …add fried egg $2…add sliced  jalapenos $2                    …add
           sliced avocado $3..add jalapeno bacon
           $4                                
-        price: '24'
+        price: '26'
         title: June 2024 VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: ' All the sides & Fixin’s'
     items:
       - price: '7'
         title: 'House-cut Shoestring Fries '
-      - price: '7'
+      - price: '9'
         title: 'Side of Pecanwood Bacon '
-      - price: '7'
+      - price: '9'
         title: 'Side of Jalapeno Bacon '
       - price: '5'
         title: 'Spiced Homefries '
@@ -224,7 +224,7 @@ subgroups:
       - price: '3'
         title: 'Homemade Beer Bread '
       - description: 'Cinnamon Honey Butter & Sriracha-Bourbon Awesome Sauce '
-        price: '7'
+        price: '9'
         title: House Belgian Waffle
       - price: '9'
         title: >-
