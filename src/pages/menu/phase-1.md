@@ -207,7 +207,7 @@ subgroups:
       - description: >-
           Moonshine’s Best of Boston fried chicken, Belgian waffle,
           sriracha-bourbon awesome sauce, cinnamon honey butter ** GO GRANDE by
-          adding an additional Belgian Waffle for $7**
+          adding an additional Belgian Waffle for $9**
         price: '28'
         title: LESLIE KNOPE’S “FRIED CHICKEN AND WAFFLE”
       - description: >-
