@@ -4,7 +4,7 @@ title: Sweet Tooth
 subtitle: (Dessert)
 order: 5
 subgroups:
-  - description: Add a Belgian waffle to your favorite dessert $7
+  - description: Add a Warm Belgian Waffle to Your Favorite Dessert $9
     items:
       - description: 'Chef Asia’s Favorite Rainbow Nerds, Mango Sauce   '
         price: '12'
