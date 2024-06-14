@@ -70,7 +70,7 @@ subgroups:
         title: 'Menu Addition: Japanese Smoky New England Shrimp & Crab Dip'
       - description: >-
           Local honey, Fresh berries, Oat-Flax-Chia Seed Granola Crunch **add a
-          belgian waffle $7**
+          warm house belgian waffle $9**
         price: 9 / 14
         title: 'Whipped Greek Yogurt Parfait '
       - description: >-
@@ -174,7 +174,7 @@ subgroups:
       - description: >-
           Boneless beef shortrib, Asian pear kimchi, Candied ginger aioli,
           Sriracha sauce 
-        price: 17 regular (2) / 24 grande (3)
+        price: 17 regular (2) / 25 grande (3)
         title: 'Throwback Korean BBQ Tacos '
       - description: >-
           Chinese sausage, Scrambled egg, Fresh ginger, Scallions, Chopped duck
@@ -184,7 +184,7 @@ subgroups:
       - description: >-
           "Boston's Best" Buttermilk fried chicken, Belgian waffle,
           Sriracha-bourbon awesome sauce, Cinnamon honey butter  ** GO GRANDE by
-          adding an additional Belgian Waffle for $7**
+          adding an additional Belgian Waffle for $9**
         price: '28'
         title: 'Leslie Knope’s Fried Chicken & Waffle '
       - description: 'Sharp cheddar, Housemade aioli, LTO & Shoestring fries  '
