@@ -36,18 +36,18 @@ subgroups:
       - description: >-
           Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
-        price: 14 regular / 23 grande
+        price: 14 regular / 24 grande
         title: ’Shine Famous Caramelized Onion-Roasted Beet Dip
       - description: >-
           Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
-        price: 10 regular / 14 grande
+        price: 12 regular / 16 grande
         title: Local Mixed Greens Salad
       - description: 'Sweet and spicy honey-sambal, real jalapeno crab filling'
-        price: 16 regular / 26 grande
+        price: 17 regular / 27 grande
         title: Jalapeno Crab Rangoons
       - description: 'Toasted sesame, crispy garlic and shallots, soy vinaigrette'
-        price: 13 regular / 22 grande
+        price: 14 regular / 23 grande
         title: Blistered Shishito Peppers
       - description: 'Organic ground lamb, habanero date jam, lingonberry (gluten free)'
         price: 17 regular / 28 grande
@@ -55,12 +55,12 @@ subgroups:
       - description: >-
           Crispy olive oil roasted potatoes, sherry pesto aioli, roasted garlic
           oil
-        price: 15 regular / 26 grande
+        price: 16 regular / 27 grande
         title: Tapas Style Patatas Bravas
       - description: >-
           Caramelized onion sourdough stuffing wrapped in crispy pecanwood
           bacon, Candied ginger aioli 
-        price: 15 regular / 24 grande
+        price: 16 regular / 25 grande
         title: ’Shine Famous Bacon Wrapped Stuffing Bites
     title: To Get Ya Started
   - description: >-
@@ -74,7 +74,7 @@ subgroups:
       - description: >-
           Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton crisps,
           Shaved pecorino cheese
-        price: 17 regular / 26 grande
+        price: 17 regular / 28 grande
         title: wARM KALE AND QUINOA CAESAR SALAD
       - description: >-
           Tater tots smothered with kimchi butter, sweet chili, truffled
@@ -127,18 +127,18 @@ subgroups:
       - description: >-
           Tempura Veggie Burger Bites, Pickled Red Cabbage, Toasted Cumin Crema,
           Tomato Salsa *Available Vegan 
-        price: 15 regular / 22 grande
+        price: 16 regular / 24 grande
         title: CRISPY MUSHROOM TOFU TACOS
       - description: >-
           Beer battered tempura cod, mango-cabbage slaw, sweet chili, ginger
           aioli
-        price: 16 regular / 24 grande
-        title: DEVON’S FAVORITE ’SHINE FISH TACOS**
+        price: 17 regular / 25 grande
+        title: Crispy Tempura Fish Tacos **
       - description: 'Slow roasted duck, cabbage, wonton crisps'
         price: 17 regular / 25 grande
         title: CHARSIU PULLED DUCK TACOS
       - description: 'Boneless beef shortrib, Asian pear kimchi, candied ginger aioli'
-        price: 16 regular / 24 grande
+        price: 17 regular / 25 grande
         title: THROWBACK KOREAN BBQ TACOS
     title: A-MEI STREET TACOS
   - description: >-
@@ -148,12 +148,12 @@ subgroups:
       - description: >-
           Stirfried Chinese sausage, Scrambled egg, Ginger, Scallions, Duck
           liver
-        price: '24'
+        price: '26'
         title: MAMA MEI’S FAMOUS DIRTY FRIED RICE
       - description: >-
           Asian pear kimchi, jalapenos, scrambled egg, stirfried veggies...
           available vegan, just ask!
-        price: '24'
+        price: '26'
         title: SPICY KIMCHI THAI VEGETARIAN FRIED RICE
       - description: >-
           Sweet Maui onion salmon poke, house applewood smoked shrimp & crab
@@ -194,12 +194,6 @@ subgroups:
         price: '24'
         title: June 2024 VIP burger of the month
       - description: >-
-          Moonshine’s Best of Boston fried chicken, Belgian waffle,
-          sriracha-bourbon awesome sauce, cinnamon honey butter ** GO GRANDE by
-          adding an additional Belgian Waffle for $7**
-        price: '27'
-        title: LESLIE KNOPE’S “FRIED CHICKEN AND WAFFLE”
-      - description: >-
           Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
         price: '29'
@@ -211,10 +205,16 @@ subgroups:
         price: '29'
         title: Chef Asia's Favorite Cajun Grilled Tilapia
       - description: >-
+          Moonshine’s Best of Boston fried chicken, Belgian waffle,
+          sriracha-bourbon awesome sauce, cinnamon honey butter ** GO GRANDE by
+          adding an additional Belgian Waffle for $7**
+        price: '28'
+        title: LESLIE KNOPE’S “FRIED CHICKEN AND WAFFLE”
+      - description: >-
           Smoky pulled pork, scrambled egg, tomato, petite mixed greens salad,
           teriyaki, sweet chili glaze, house-cut shoestring french fries...
           available vegetarian without pulled pork 25
-        price: '27'
+        price: '28'
         title: >-
           RON SWANSON BRUNCH-INSPIRED CHIPOTLE PULLED PORK SCALLION PANCAKE
           QUESADILLA**
@@ -239,7 +239,7 @@ subgroups:
         title: ADD SLICED JALAPENOS TO ANY DISH
       - price: '3 '
         title: Add sliced avocado to any dish
-      - price: '7'
+      - price: '9'
         title: SIDE OF JALAPENO BACON
       - price: '3 '
         title: CHEF ASIA'S INFAMOUS "ANGRY SAUCE"
