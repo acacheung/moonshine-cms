@@ -171,9 +171,11 @@ subgroups:
       Don't forget to top it off by adding your favorite proteins, fixins, sides
       & sauces to any dish.
     items:
-      - description: 'Summer Veggie Ginger Stirfry, Sugar Snap Peas, Broiled Same-Miso Cod '
-        price: '29'
-        title: 'Menu Addition: Japanese Miso Glazed Cod '
+      - description: |2
+            Baked Gnocchi Dumplings, Spicy Marinara, 
+          Sauteed Spinach, Herbed Breadcrumbs 
+        price: '32'
+        title: 'Menu Addition: Grilled Shrimp FraDiavolo'
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask! Also ask About our House
