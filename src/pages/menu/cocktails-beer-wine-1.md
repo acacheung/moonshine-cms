@@ -149,6 +149,9 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '8'
         title: Castle Island Brewing "Keeper" IPA
+      - description: '12 oz bottle '
+        price: '7'
+        title: Kona Brewing "Big Wave" Golden Ale
       - description: '16 oz tallboy can '
         price: '8'
         title: Aeronaut Brewing "Hop Hop Away" IPA
