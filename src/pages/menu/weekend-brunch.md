@@ -6,11 +6,6 @@ order: 3
 subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
-      - description: >-
-          "Mandarin Orange PainQuila": Blanco Tequilla, Orange Jello, Coconut
-          Milk. Pineapple Juice
-        price: '6'
-        title: Chef Asia's Rotating Jello Shots
       - description: >
           vodka or blanco tequila with our house bloody mary mix, infused with
           homemade kimchi juice 
