@@ -7,11 +7,6 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          "Mandarin Orange PainQuila": Blanco Tequilla, Orange Jello, Coconut
-          Milk. Pineapple Juice
-        price: '6'
-        title: Rotating Jello Shots
-      - description: >-
           Raspberry Vodka, Fresh Blueberry Infused  Indigo Gin, Mandarin Orange
           Liqueur,  Lemon-Limeade  
         price: '14'
