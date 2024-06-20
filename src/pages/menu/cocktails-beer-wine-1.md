@@ -136,6 +136,9 @@ subgroups:
         price: '7'
         title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
       - description: '12 oz bottle '
+        price: '7'
+        title: Kona Brewing "Big Wave" Golden Ale
+      - description: '12 oz bottle '
         price: '6'
         title: 'Cisco Brewing "Grey Lady" Wheat Ale '
       - description: 16 oz tallboy can
@@ -144,9 +147,9 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '8'
         title: Castle Island Brewing "Keeper" IPA
-      - description: '12 oz bottle '
+      - description: 16 oz tallboy can
         price: '7'
-        title: Kona Brewing "Big Wave" Golden Ale
+        title: Lord Hobo "Boom Sauce" Double IPA
       - description: '16 oz tallboy can '
         price: '8'
         title: Aeronaut Brewing "Hop Hop Away" IPA
