@@ -11,26 +11,16 @@ subgroups:
           Liqueur,  Lemon-Limeade  
         price: '14'
         title: 'Pride Month Cocktail Special: Fruit Salad Party Punch $14'
-      - description: >
-          From January 15, 2024 (in honor of MLK Jr. Day) through June 19, 2024
-          (in honor of Juneteenth), Uncle Nearest is partnering with bars,
-          restaurants, and our Uncle Nearest #WhiskeyFamily to donate $1 for
-          every Uncle Nearest Old Fashioned sold to raise up to $1.4 Million for
-          Historically Black Colleges & Universities (HBCUs) to provide one full
-          in-state tuition scholarship to each accredited school. For more
-          information, check out the website at www.oldfashionedcocktail.com    
-        price: '15 '
-        title: 'Cocktail Feature: Uncle Nearest HBCU Old Fashioned Challenge '
+      - description: >-
+          Strawberry Lime Rickey: Tito's Vodka, Strawberry Jello, Fresh Lime
+          Juice & Zest
+        price: '6'
+        title: Rotating Jello Shots
       - description: >-
           Kalamansi Lemon, Fresh Cucumber Juice, Watermelon Liqueur, Litchi
           Popping Boba, Prosecco
         price: '15'
         title: Asia Does Bar Stuff
-      - description: >-
-          Locally Made Boston Harbor Distillery Putnam Rye Whiskey, Carpano
-          Antica Sweet Vermouth, Angostura Bitters 
-        price: '15'
-        title: House Manhattan
       - description: >-
           Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
           Just ask for Baileys Irish Cream!) 
