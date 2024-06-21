@@ -153,7 +153,7 @@ subgroups:
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
       - description: >-
-          Lamb Brria Ramen Bowl: Ground Lamb, Lime Birria Consumme, Ramen
+          Lamb Birria Ramen Bowl: Ground Lamb, Lime Birria Consumme, Ramen
           Noodles, Red Cabbage Salsa, Cumin Crema           
         price: '12 / 19 '
         title: 'Chef’s Whim Soup for the Soul '
