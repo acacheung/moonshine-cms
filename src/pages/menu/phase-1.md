@@ -68,9 +68,11 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
-      - description: '                                                                       Creamy Baby Carrot & Squash Soup, Fresh Ginger, Lemongrass (vegetarian)    '
-        price: '12 regular / 19 grande '
-        title: 'chef''s whim soup of the day: Lemongrass Carrot-Ginger Bisque   '
+      - description: >-
+          Ground Lamb, Lime Birria Consumme, Ramen Noodles, Red Cabbage Salsa,
+          Cumin Crema 
+        price: '17 regular / 27 grande '
+        title: 'chef''s whim soup of the day: Lamb Birria Ramen Bowl'
       - description: >-
           Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton crisps,
           Shaved pecorino cheese
