@@ -155,7 +155,7 @@ subgroups:
       - description: >-
           Lamb Birria Ramen Bowl: Ground Lamb, Lime Birria Consumme, Ramen
           Noodles, Red Cabbage Salsa, Cumin Crema           
-        price: '12 / 19 '
+        price: 17 / 27
         title: 'Chef’s Whim Soup for the Soul '
       - description: >
           Heirloom quinoa, sautéed kale, creamy Caesar dressing, wonton crisps,
