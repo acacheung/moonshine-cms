@@ -12,8 +12,8 @@ subgroups:
         price: '14'
         title: 'Pride Month Cocktail Special: Fruit Salad Party Punch'
       - description: >-
-          Strawberry Lime Rickey: Tito's Vodka, Strawberry Jello, Fresh Lime
-          Juice & Zest
+          Cherry Mezcal Margarita: Smoky Mezcal, Cherry Jello, Fresh Lime Juice
+          & Zest
         price: '6'
         title: Rotating Jello Shots
       - description: >-
