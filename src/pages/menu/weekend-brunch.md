@@ -52,17 +52,22 @@ subgroups:
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
       - description: >-
+          House Applewood Smoked Salmon Rillette, Cream Cheese, Toasted Garlic
+          Butter Bagel, Cucumber Salad 
+        price: '19'
+        title: 'Menu Addition: Homemade Garlic Bagel  & Smoked Salmon Cream Cheese'
+      - description: >-
+          Chilled Applewood Smoked Crab & Shrimp,                         
+          Kewpie Mayo, Homemade Crunchy Shrimp Puffs, Furikake
+        price: '17 regular / 27 grande '
+        title: 'Menu Addition: Japanese Smoky New England Shrimp & Crab Dip'
+      - description: >-
           Warm Crisp Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
           Quinoa, Parmesan,                              Creamy Pesto Dressing,
           Aged Balsamic       
         price: 18 regular / 29 grande
         title: 'Menu Addition: crispy artichoke salad '
-      - description: >-
-          Chilled Applewood Smoked Crab & Shrimp,                         
-          Kewpie Mayo, Homemade Crunchy Shrimp Puffs, Furikake
-        price: '17 regular / 27 grande '
-        title: 'Menu Addition: Japanese Smoky New England Shrimp & Crab Dip'
       - description: >-
           Local honey, Fresh berries, Oat-Flax-Chia Seed Granola Crunch **add a
           warm house belgian waffle $9**
