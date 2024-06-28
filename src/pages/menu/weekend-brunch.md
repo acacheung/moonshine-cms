@@ -57,6 +57,11 @@ subgroups:
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
       - description: >-
+          Grilled Elote Street Corn served Chilled with Heirloom Cherry
+          Tomatoes, Citrus Aioli, Cotija Cheese, Espelette Pepper 
+        price: '17 regular / 27 grande '
+        title: 'Menu Addition: Grilled Summer Street Corn Salad '
+      - description: >-
           House Applewood Smoked Salmon Rillette, Cream Cheese, Toasted Garlic
           Butter Bagel, Cucumber Salad 
         price: '19'
