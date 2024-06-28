@@ -9,6 +9,12 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
+      - description: >-
+          Grilled Elote Street Corn served Chilled with Heirloom Cherry
+          Tomatoes, Citrus Aioli, Cotija Cheese, Espelette Pepper 
+                         
+        price: '17 regular / 27 grande '
+        title: 'Menu Addition: Summer Grilled Street Corn Salad '
       - description: ' Chilled Applewood Smoked Crab & Shrimp, Kewpie Mayo, Homemade Crunchy Shrimp Puffs, Furikake'
         price: 17 regular / 27 grande
         title: 'Menu Addition: Japanese smoky New England Shrimp & Crab Dip'
