@@ -191,13 +191,15 @@ subgroups:
         price: '19'
         title: GRASS-FED ’SHINE BEEF BURGER**
       - description: >-
-          "Tuscan Summer"  Burger topped with Panzanella Toscano Salad,
-          Cannellini Beans, Sundried Tomato Pomodoro, Crispy Basil, Fresh
-          Mozzarella ….add cheddar cheese $2 …add fried egg $2…add sliced 
-          jalapenos $2                    …add sliced avocado $3..add jalapeno
-          bacon $4                                                      
+          “New Mexico Green Chili Burger" topped with Hatch Chili Verde, Roasted
+          Tomatillos, Melted Pepperjack Cheese, Toasted Cumin Crema, Tortilla
+          Crisps                                                                                                                              
+          ….add extra cheese $2 ..add jalapeno bacon
+          $4                                   …add fried egg $2  …add 
+          jalapenos $2  …add avocado
+          $3                                                
         price: '24'
-        title: June 2024 VIP burger of the month
+        title: July 2024 VIP burger of the month
       - description: >-
           Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
