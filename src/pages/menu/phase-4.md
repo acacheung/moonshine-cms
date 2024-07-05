@@ -15,9 +15,6 @@ subgroups:
       - description: '                            Strawberry  Ice Cream, Warm Belgian Waffle,                                               Whipped Cream, Mixed Berry Sauce, Toasted Hazelnuts     '
         price: '13'
         title: 'Menu Addition: Berries & Cream Waffle Ice Cream Sundae     '
-      - description: 'Served with with Sea Salted Caramel & Whipped Cream '
-        price: '12'
-        title: 'Menu Addition: Sticky Toffee Bread Pudding'
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
         title: Moonshine’s Butterscotch Pudding
