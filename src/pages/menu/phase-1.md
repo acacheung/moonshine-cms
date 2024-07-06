@@ -9,6 +9,9 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
+      - description: 'Crumbled Blue Cheese, Celery Ribbon Salad'
+        price: 17 regular / 28 grande
+        title: 'Menu Addition: Buffalo Fried Mac n'' Cheese Fritters'
       - description: >-
           Grilled Elote Street Corn served Chilled with Heirloom Cherry
           Tomatoes, Citrus Aioli, Cotija Cheese, Espelette Pepper 
