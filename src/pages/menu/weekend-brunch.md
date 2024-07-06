@@ -57,15 +57,15 @@ subgroups:
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
       - description: >-
+          Hatch Green Chili, Scrambled Eggs, Tortillas, Tomato Cabbage Salsa,
+          Black Beans, Cumin Sour Cream
+        price: '26'
+        title: 'Menu Addition: Green Chili Huevos Rancheros'
+      - description: >-
           Grilled Elote Street Corn served Chilled with Heirloom Cherry
           Tomatoes, Citrus Aioli, Cotija Cheese, Espelette Pepper 
         price: '17 regular / 27 grande '
         title: 'Menu Addition: Grilled Summer Street Corn Salad '
-      - description: >-
-          House Applewood Smoked Salmon Rillette, Cream Cheese, Toasted Garlic
-          Butter Bagel, Cucumber Salad 
-        price: '19'
-        title: 'Menu Addition: Homemade Garlic Bagel  & Smoked Salmon Cream Cheese'
       - description: >-
           Chilled Applewood Smoked Crab & Shrimp,                         
           Kewpie Mayo, Homemade Crunchy Shrimp Puffs, Furikake
@@ -266,17 +266,17 @@ subgroups:
   - description: ' (Dessert)'
     items:
       - description: >-
+          Layered Blueberry Pie Topping, Whipped Cream Cheese Filling, and
+          Toasted Almond Shortbread
+        price: '13'
+        title: 'Menu Addition: ''Shine Favorite Blueberry Jamboree'
+      - description: >-
           Crispy Layered Merengue Cookies, Mango
           Coulis,                                                 Coconut
           Jellies, Whipped Cream, Spring Berry Sauce          (gluten-free,
           available vegan!)     
         price: '13'
         title: 'Menu Addition: Tropical Mango Pavlova'
-      - description: |2-
-           Served Warm with Sea Salted Caramel & Whipped Cream  
-                                                
-        price: '12'
-        title: 'Menu Addition: Sticky Toffee Bread Pudding  '
       - description: >-
           Strawberry Ice Cream, Warm Belgian Waffle, Whipped Cream, Mixed Berry
           Sauce, Toasted Hazelnuts 
