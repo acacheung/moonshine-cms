@@ -6,6 +6,11 @@ order: 5
 subgroups:
   - description: Add a Warm Belgian Waffle to Your Favorite Dessert $9
     items:
+      - description: >-
+          Layered Blueberry Pie Topping, Whipped Cream Cheese Filling, and
+          Toasted Almond Shortbread
+        price: '13'
+        title: 'Menu Addition: ‘Shine Favorite Blueberry Jamboree'
       - description: 'Chef Asia’s Favorite Rainbow Nerds, Mango Sauce   '
         price: '12'
         title: 'Menu Addition: Pride Coconut Mochi Bites'
