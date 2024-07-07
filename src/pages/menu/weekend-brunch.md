@@ -10,7 +10,7 @@ subgroups:
           Celebrate Shark Week with Raspberry Vodka, Blue Curacao, Fresh Lime
           Juice, Pineapple Juice, Luxardo Cherry Syrup and Shark Gummies
         price: '14'
-        title: 'Menu Addition: Shark Bait'
+        title: 'Shark Week Cocktail Special: Shark Bait'
       - description: >-
           Cherry Mezcal Margarita: Smoky Mezcal, Cherry Jello, Fresh Lime Juice
           & Zest
