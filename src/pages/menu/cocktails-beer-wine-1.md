@@ -15,7 +15,7 @@ subgroups:
           Raspberry Vodka, Fresh Blueberry Infused  Indigo Gin, Mandarin Orange
           Liqueur,  Lemon-Limeade  
         price: '14'
-        title: 'Pride Month Cocktail Special: Fruit Salad Party Punch'
+        title: 'Cocktail Special: Fruit Salad Party Punch'
       - description: >-
           Cherry Mezcal Margarita: Smoky Mezcal, Cherry Jello, Fresh Lime Juice
           & Zest
