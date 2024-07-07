@@ -11,9 +11,6 @@ subgroups:
           Toasted Almond Shortbread
         price: '13'
         title: 'Menu Addition: ‘Shine Favorite Blueberry Jamboree'
-      - description: 'Chef Asia’s Favorite Rainbow Nerds, Mango Sauce   '
-        price: '12'
-        title: 'Menu Addition: Pride Coconut Mochi Bites'
       - description: '                                                      Crispy Layered Merengue Cookies, Mango Coulis, Coconut Jellies, Whipped Cream, Summer Berry Sauce   (gluten-free, available vegan!)      '
         price: '13'
         title: 'Menu Addition: Tropical Mango Pavlova '
