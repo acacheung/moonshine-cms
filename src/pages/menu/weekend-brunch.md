@@ -7,6 +7,11 @@ subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
       - description: >-
+          Celebrate Shark Week with Raspberry Vodka, Blue Curacao, Fresh Lime
+          Juice, Pineapple Juice, Luxardo Cherry Syrup and Shark Gummies
+        price: '14'
+        title: 'Menu Addition: Shark Bait'
+      - description: >-
           Cherry Mezcal Margarita: Smoky Mezcal, Cherry Jello, Fresh Lime Juice
           & Zest
         price: '6'
@@ -66,11 +71,9 @@ subgroups:
           Tomatoes, Citrus Aioli, Cotija Cheese, Espelette Pepper 
         price: '17 regular / 27 grande '
         title: 'Menu Addition: Grilled Summer Street Corn Salad '
-      - description: >-
-          Chilled Applewood Smoked Crab & Shrimp,                         
-          Kewpie Mayo, Homemade Crunchy Shrimp Puffs, Furikake
-        price: '17 regular / 27 grande '
-        title: 'Menu Addition: Japanese Smoky New England Shrimp & Crab Dip'
+      - description: 'Crumbled Blue Cheese, Celery Ribbon Salad'
+        price: '17 regular / 28 grande '
+        title: 'Menu Addition: Buffalo Fried Mac n'' Cheese Fritters'
       - description: >-
           Warm Crisp Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
