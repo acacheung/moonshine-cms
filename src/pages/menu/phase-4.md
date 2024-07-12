@@ -29,6 +29,11 @@ subgroups:
       - description: Strawberry
         price: '11'
         title: Chef's Whim Ice Cream
+      - description: |
+          Homemade Pistachio-Walnut Butter,Valrhona Chocolate, 
+           Toffee, Shredded Filo Dough Crisp, Sea Salt
+        price: '12'
+        title: 'Menu Addition: Dubai Toffee Crunch'
     title: Sweet Tooth
 ---
 
