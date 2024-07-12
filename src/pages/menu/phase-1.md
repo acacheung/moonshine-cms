@@ -9,9 +9,11 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
-      - description: 'Crumbled Blue Cheese, Celery Ribbon Salad'
-        price: 17 regular / 28 grande
-        title: 'Menu Addition: Buffalo Fried Mac n'' Cheese Fritters'
+      - description: |
+          Crumbled Feta Cheese, Fresh Watermelon, 
+          Basil Pesto, Balsamic Vinaigrette 
+        price: '18 regular / 29 grande '
+        title: 'Menu Addition: Heirloom Cherry Tomato Watermelon Salad '
       - description: >-
           Grilled Elote Street Corn served Chilled with Heirloom Cherry
           Tomatoes, Citrus Aioli, Cotija Cheese, Espelette Pepper 
@@ -28,17 +30,14 @@ subgroups:
           Amarillo Aioli, Teriyaki Glaze, Shredded Cabbage 
         price: $MKT regular  /  $MKT grande
         title: 'Menu Addition: Softshell Crab Bao Buns '
+      - description: 'Crumbled Blue Cheese, Celery Ribbon Salad'
+        price: 17 regular / 28 grande
+        title: 'Menu Addition: Buffalo Fried Mac n'' Cheese Fritters'
       - description: >-
           Shredded Beef & Cheese Tacos, Pickled Red Cabbage Salsa, Smoky
           Sriracha Mayo,   & Birria Dipping Jus  
         price: '$18 (2 tacos) / $28 (4 tacos)  '
         title: 'Menu Addition: Pan-Fried Carnitas Birria Gringo Tacos         '
-      - description: >-
-          House Buttermilk Biscuits, Korean Gochujang-Buffalo Sauce, House Asian
-          B&B Pickles, Mayo & Hot Honey  ...*Make It an Entree…add Housecut
-          Shoestring Fries OR Petite Mixed Greens Salad for $5*    
-        price: '27 '
-        title: 'Menu Addition:“Hot Mess” Hot Honey Biscuit Fried Chicken Sliders (x3) '
       - description: >-
           Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
