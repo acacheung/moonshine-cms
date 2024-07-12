@@ -39,11 +39,27 @@ subgroups:
           Lemon 
         price: '15'
         title: Fly Me To The Moon
+      - description: 'Jack Daniels Whiskey, Aperol, Strawberry Rosewater Jam, Fresh Lemon '
+        price: '15'
+        title: shaeboozey a bar drink
       - description: >-
           GrandTen Southie Irish Whiskey, Combier Peche Liqueur, White
           Cranberry, Fresh Lime
         price: '14'
         title: Patron Saint of Southie
+      - description: >-
+          Rumhaven Coconut Water Infused Rum, Pineapple Shrub, Coconut Cream,
+          Allagash Wheat Ale Float, Li-Hing Rim
+        price: '15'
+        title: 'Stir It Up '
+      - description: 'Aperol, Prosecco Bubbles, Pineapple, Cinnamon Simple, Fresh Lemon '
+        price: '14'
+        title: Patio Crusher
+      - description: >-
+          Mediterranean Red Wine Blend, Housemade Ginger Liqueur, Brandy,
+          Hibiscus, Fresh Citrus Juices 
+        price: '14'
+        title: Sahil's Ginger Hibiscus Red Sangria
       - description: >-
           GrandTen Spicy Firepuncher Vodka, Fresh Squeezed Cucumber Juice,
           Elderflower Liqueur, Fresh Lemon 
@@ -54,19 +70,14 @@ subgroups:
           Agave 
         price: '14'
         title: There’s Fire
+      - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
+        price: '14'
+        title: 'La Diabla '
       - description: >-
           Xicaru Mezcal, Housemade Ginger Liqueur, Fresh Lemon, Black Infusions
           "Dirty Shirley" Topper 
         price: '14'
         title: smoke em if you got em
-      - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
-        price: '14'
-        title: 'La Diabla '
-      - description: >-
-          Mediterranean Red Wine Blend, Housemade Ginger Liqueur, Brandy,
-          Hibiscus, Fresh Citrus Juices 
-        price: '14'
-        title: Sahil's Ginger Hibiscus Red Sangria
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
@@ -139,9 +150,9 @@ subgroups:
       - description: 16 oz tallboy can
         price: '5'
         title: 'Allagash Brewing "Hop Reach" IPA '
-      - description: '16 oz tallboy can '
-        price: '8'
-        title: Castle Island Brewing "Keeper" IPA
+      - description: '12 oz bottle '
+        price: '6'
+        title: 'Wachusett Blueberry Wheat Ale '
       - description: 16 oz tallboy can
         price: '7'
         title: Lord Hobo "Boom Sauce" Double IPA
