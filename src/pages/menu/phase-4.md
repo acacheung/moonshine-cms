@@ -11,6 +11,11 @@ subgroups:
           Toasted Almond Shortbread
         price: '13'
         title: 'Menu Addition: ‘Shine Favorite Blueberry Jamboree'
+      - description: |
+          Homemade Pistachio-Walnut Butter,Valrhona Chocolate, 
+           Toffee, Shredded Filo Dough Crisp, Sea Salt
+        price: '12'
+        title: 'Menu Addition: Dubai Toffee Crunch'
       - description: '                                                      Crispy Layered Merengue Cookies, Mango Coulis, Coconut Jellies, Whipped Cream, Summer Berry Sauce   (gluten-free, available vegan!)      '
         price: '13'
         title: 'Menu Addition: Tropical Mango Pavlova '
@@ -29,11 +34,6 @@ subgroups:
       - description: Strawberry
         price: '11'
         title: Chef's Whim Ice Cream
-      - description: |
-          Homemade Pistachio-Walnut Butter,Valrhona Chocolate, 
-           Toffee, Shredded Filo Dough Crisp, Sea Salt
-        price: '12'
-        title: 'Menu Addition: Dubai Toffee Crunch'
     title: Sweet Tooth
 ---
 
