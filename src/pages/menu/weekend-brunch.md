@@ -288,8 +288,11 @@ subgroups:
           Toasted Almond Shortbread
         price: '13'
         title: 'Menu Addition: ''Shine Favorite Blueberry Jamboree'
-      - price: '14'
-        title: 'Menu Addition: Dubai Toffe Crunch'
+      - description: |-
+          Homemade Pistachio-Walnut Butter, Valrhona Chocolate, 
+           Toffee, Shredded Filo Dough Crisp, Sea Salt
+        price: '12'
+        title: 'Menu Addition: Dubai Toffee Crunch'
       - description: >-
           Crispy Layered Merengue Cookies, Mango
           Coulis,                                                 Coconut
