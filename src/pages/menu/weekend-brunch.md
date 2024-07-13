@@ -12,6 +12,11 @@ subgroups:
         price: '14'
         title: 'Shark Week Cocktail Special: Shark Bait'
       - description: >-
+          Mixed Berry Vodka, Fresh Blueberry Infused  Indigo Gin, Mandarin
+          Orange Liqueur,  Lemon-Limeade  
+        price: '14'
+        title: 'Cocktail Special: Fruit Salad Party Punch'
+      - description: >-
           Cherry Mezcal Margarita: Smoky Mezcal, Cherry Jello, Fresh Lime Juice
           & Zest
         price: '6'
