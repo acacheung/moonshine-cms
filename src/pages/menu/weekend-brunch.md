@@ -61,19 +61,16 @@ subgroups:
     title: 'Cheers To The Weekend! '
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
-      - description: >-
-          Hatch Green Chili, Scrambled Eggs, Tortillas, Tomato Cabbage Salsa,
-          Black Beans, Cumin Sour Cream
-        price: '26'
-        title: 'Menu Addition: Green Chili Huevos Rancheros'
+      - description: |
+          Crumbled Feta Cheese, Fresh Watermelon, 
+          Basil Pesto, Balsamic Vinaigrette 
+        price: '18 regular / 28 grande '
+        title: 'Menu Addition: Heirloom Cherry Tomato Watermelon Salad '
       - description: >-
           Grilled Elote Street Corn served Chilled with Heirloom Cherry
           Tomatoes, Citrus Aioli, Cotija Cheese, Espelette Pepper 
         price: '17 regular / 27 grande '
         title: 'Menu Addition: Grilled Summer Street Corn Salad '
-      - description: 'Crumbled Blue Cheese, Celery Ribbon Salad'
-        price: '17 regular / 28 grande '
-        title: 'Menu Addition: Buffalo Fried Mac n'' Cheese Fritters'
       - description: >-
           Warm Crisp Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
@@ -81,6 +78,14 @@ subgroups:
           Aged Balsamic       
         price: 18 regular / 29 grande
         title: 'Menu Addition: crispy artichoke salad '
+      - description: 'Crumbled Blue Cheese, Celery Ribbon Salad'
+        price: '17 regular / 28 grande '
+        title: 'Menu Addition: Buffalo Fried Mac n'' Cheese Fritters'
+      - description: >-
+          Hatch Green Chili, Scrambled Eggs, Tortillas, Tomato Cabbage Salsa,
+          Black Beans, Cumin Sour Cream
+        price: '26'
+        title: 'Menu Addition: Green Chili Huevos Rancheros'
       - description: >-
           Local honey, Fresh berries, Oat-Flax-Chia Seed Granola Crunch **add a
           warm house belgian waffle $9**
@@ -118,6 +123,11 @@ subgroups:
     title: To Get Ya Started!
   - description: ' (Entrees)'
     items:
+      - description: >-
+          Hatch Green Chili, Scrambled Eggs, Tortillas, Tomato Cabbage Salsa,
+          Black Beans, Cumin Sour Cream
+        price: '26'
+        title: 'Menu Addition: Green Chili Huevos Rancheros'
       - description: >-
           Tender  Beef Brisket wrapped in a  Scallion Pancake
           with                                        Pho Noodle Salad &  Bacony
