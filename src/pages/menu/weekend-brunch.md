@@ -288,6 +288,8 @@ subgroups:
           Toasted Almond Shortbread
         price: '13'
         title: 'Menu Addition: ''Shine Favorite Blueberry Jamboree'
+      - price: '14'
+        title: 'Menu Addition: Dubai Toffe Crunch'
       - description: >-
           Crispy Layered Merengue Cookies, Mango
           Coulis,                                                 Coconut
