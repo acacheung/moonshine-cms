@@ -7,11 +7,6 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          Celebrate Shark Week with Raspberry Vodka, Blue Curacao, Fresh Lime
-          Juice, Pineapple Juice, Luxardo Cherry Syrup and Shark Gummies
-        price: '14'
-        title: 'Shark Week Cocktail Special: Shark Bait'
-      - description: >-
           Mixed Berry Vodka, Fresh Blueberry Infused  Indigo Gin, Mandarin
           Orange Liqueur,  Lemon-Limeade  
         price: '14'
@@ -43,10 +38,10 @@ subgroups:
         price: '15'
         title: shaeboozey a bar drink
       - description: >-
-          GrandTen Southie Irish Whiskey, Combier Peche Liqueur, White
+          Uncle Nearest 1884 Small Batch Whiskey, Combier Peche Liqueur, White
           Cranberry, Fresh Lime
         price: '14'
-        title: Patron Saint of Southie
+        title: Fawn's Fancy
       - description: >-
           Rumhaven Coconut Water Infused Rum, Pineapple Shrub, Coconut Cream,
           Allagash Wheat Ale Float, Li-Hing Rim
@@ -78,6 +73,11 @@ subgroups:
           "Dirty Shirley" Topper 
         price: '14'
         title: smoke em if you got em
+      - description: >-
+          Black Infusions Apricot Vodka, Combier Peche Liqueur, Apricot Puree,
+          Fresh Lemon, Soda Water 
+        price: '14'
+        title: The Summer Stones
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
