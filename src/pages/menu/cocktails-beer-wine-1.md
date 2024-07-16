@@ -81,6 +81,9 @@ subgroups:
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
+      - description: '16 oz draft '
+        price: '7'
+        title: Downeast Original Unfiltered Cider
       - description: 16 oz draft
         price: '5'
         title: 'Miller High Life '
@@ -93,15 +96,12 @@ subgroups:
       - description: '16 oz draft '
         price: '8'
         title: Bissell Brothers "Substance" IPA
-      - description: '16 oz draft '
-        price: '7'
-        title: Downeast Original Unfiltered Cider
+      - description: 16oz Tallboy Can
+        price: '9.0'
+        title: Mighty Squirrel's "Guavaland" Sour Double IPA
       - description: '12 oz bottle '
         price: '6'
-        title: 'Budweiser / Bud Light '
-      - description: 12 oz bottle
-        price: '6'
-        title: Michelob Ultra
+        title: 'Wachusett Blueberry Wheat Ale '
       - description: 355ml can
         price: '7'
         title: 'Viva  tequila seltzer: Watermelon or Huckleberry'
@@ -111,6 +111,12 @@ subgroups:
       - description: '12 oz can '
         price: '6'
         title: Black Infusions "Dirty Shirley" Cocktail in a Can
+      - description: '12 oz bottle '
+        price: '6'
+        title: 'Budweiser / Bud Light '
+      - description: 12 oz bottle
+        price: '6'
+        title: Michelob Ultra
       - description: 12 oz Bottle
         price: '6'
         title: 'Stella Artois '
@@ -150,9 +156,6 @@ subgroups:
       - description: 16 oz tallboy can
         price: '5'
         title: 'Allagash Brewing "Hop Reach" IPA '
-      - description: '12 oz bottle '
-        price: '6'
-        title: 'Wachusett Blueberry Wheat Ale '
       - description: 16 oz tallboy can
         price: '7'
         title: Lord Hobo "Boom Sauce" Double IPA
