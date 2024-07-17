@@ -97,7 +97,7 @@ subgroups:
         price: '8'
         title: Bissell Brothers "Substance" IPA
       - description: 16oz Tallboy Can
-        price: '9.0'
+        price: '8.0'
         title: Mighty Squirrel's "Guavaland" Sour Double IPA
       - description: '12 oz bottle '
         price: '6'
