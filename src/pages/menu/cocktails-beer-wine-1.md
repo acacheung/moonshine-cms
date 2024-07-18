@@ -129,9 +129,6 @@ subgroups:
       - description: '12 oz bottle '
         price: '7'
         title: 'Corona Extra '
-      - description: '12 oz can '
-        price: '6'
-        title: Downeast Pomegranate Cider
       - description: '16 oz tallboy can '
         price: '7'
         title: Stormalong "Mass Appeal" Hard Cider
