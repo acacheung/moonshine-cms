@@ -7,11 +7,6 @@ subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
       - description: >-
-          Celebrate Shark Week with Raspberry Vodka, Blue Curacao, Fresh Lime
-          Juice, Pineapple Juice, Luxardo Cherry Syrup and Shark Gummies
-        price: '14'
-        title: 'Shark Week Cocktail Special: Shark Bait'
-      - description: >-
           Mixed Berry Vodka, Fresh Blueberry Infused  Indigo Gin, Mandarin
           Orange Liqueur,  Lemon-Limeade  
         price: '14'
@@ -185,11 +180,11 @@ subgroups:
     title: The Main Affair
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
-      - description: >-
-          Lamb Birria Ramen Bowl: Ground Lamb, Lime Birria Consumme, Ramen
-          Noodles, Red Cabbage Salsa, Cumin Crema           
-        price: 17 / 27
-        title: 'Chef’s Whim Soup for the Soul '
+      - description: 'Roasted Beets, Diced Cucumber, Dill Creme Fraiche    '
+        price: 14 / 24
+        title: >-
+          Chef’s Whim Soup for the Soul: Chef Asia’s Famous Chilled Beet Soup
+          Gazpacho
       - description: >
           Heirloom quinoa, sautéed kale, creamy Caesar dressing, wonton crisps,
           fresh pomegranate, shaved pecorino cheese
