@@ -73,11 +73,12 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
-      - description: >-
-          Ground Lamb, Lime Birria Consumme, Ramen Noodles, Red Cabbage Salsa,
-          Cumin Crema 
-        price: '17 regular / 27 grande '
-        title: 'chef''s whim soup of the day: Lamb Birria Ramen Bowl'
+      - description: |
+          Roasted Beets, Diced Cucumber, Dill Creme Fraiche 
+        price: '14 regular / 24 grande '
+        title: >-
+          chef's whim soup of the day: Chef Asia’s Famous Chilled Beet Soup
+          Gazpacho
       - description: >-
           Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton crisps,
           Shaved pecorino cheese
