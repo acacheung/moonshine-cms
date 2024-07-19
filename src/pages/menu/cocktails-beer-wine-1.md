@@ -195,15 +195,6 @@ subgroups:
       - description: 'Provence, France'
         price: 15 / 58
         title: (rose) 2022 Whispering Angel Rose
-      - description: >-
-          Fresh & fruity rose wine from father-son team, Antonio and Angelo.
-          Made from 100% Falanghina grapes, it is complex & elegant with intense
-          aromas of cherry, red currant, strawberry and pomegranate. It stands
-          out for its long persistence.
-        price: '40 / bottle '
-        title: >-
-          (rose) TREAT YO SELF BOTTLE SPECIAL:  2021 Fattoria Pagano Rose 
-          (Campania, iTALY)
       - description: 'Santa Barbera,CA, USA '
         price: 12 / 42
         title: '(White) 2021 Seaglass Charonnay '
