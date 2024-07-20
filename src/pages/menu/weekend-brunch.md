@@ -7,7 +7,7 @@ subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
       - description: >-
-          Mixed Berry Vodka, Fresh Blueberry Infused  Indigo Gin, Mandarin
+          House Infused Mixed Berry Vodka, Fresh Blueberry Indigo Gin, Mandarin
           Orange Liqueur,  Lemon-Limeade  
         price: '14'
         title: 'Cocktail Special: Fruit Salad Party Punch'
