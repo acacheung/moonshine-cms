@@ -7,11 +7,6 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          Mixed Berry Vodka, Fresh Blueberry Infused  Indigo Gin, Mandarin
-          Orange Liqueur,  Lemon-Limeade  
-        price: '14'
-        title: 'Cocktail Special: Fruit Salad Party Punch'
-      - description: >-
           Cherry Mezcal Margarita: Smoky Mezcal, Cherry Jello, Fresh Lime Juice
           & Zest
         price: '6'
@@ -26,6 +21,11 @@ subgroups:
           Just ask for Baileys Irish Cream!) 
         price: '15'
         title: '''Shine Espresso Martini'
+      - description: >-
+          Black Infusions Apricot Vodka, Combier Peche Liqueur, Apricot Puree,
+          Fresh Lemon, Soda Water 
+        price: '14'
+        title: The Summer Stones
       - description: 'Gin Lane London Dry Gin, Elderflower Liqueur, Fresh Lemon, Prosecco '
         price: '15'
         title: Moonshine '76
@@ -61,6 +61,11 @@ subgroups:
         price: '15'
         title: farm to glass
       - description: >-
+          Xicaru Mezcal, Housemade Ginger Liqueur, Fresh Lemon, Black Infusions
+          "Dirty Shirley" Topper 
+        price: '14'
+        title: smoke em if you got em
+      - description: >-
           House Infused Spicy Organic Tequilla, Ginger Liqueur, Fresh Lime,
           Agave 
         price: '14'
@@ -68,16 +73,6 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '14'
         title: 'La Diabla '
-      - description: >-
-          Xicaru Mezcal, Housemade Ginger Liqueur, Fresh Lemon, Black Infusions
-          "Dirty Shirley" Topper 
-        price: '14'
-        title: smoke em if you got em
-      - description: >-
-          Black Infusions Apricot Vodka, Combier Peche Liqueur, Apricot Puree,
-          Fresh Lemon, Soda Water 
-        price: '14'
-        title: The Summer Stones
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
