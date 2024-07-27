@@ -124,8 +124,8 @@ subgroups:
   - description: ' (Entrees)'
     items:
       - description: >-
-          Homemade Banana Bread, Sliced Banana, Pecanwood Bacon, Fluff, Peanut
-          Butter Caramel, and Shoestring French Fries
+          Homemade Banana Bread, Sliced Banana, Pecanwood Bacon, Marshmallow
+          Fluff, Peanut Butter Caramel, and Shoestring French Fries
         price: '19'
         title: 'Menu Addition: The King Fluffernutter'
       - description: >-
