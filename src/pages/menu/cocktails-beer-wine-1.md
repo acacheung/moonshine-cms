@@ -6,9 +6,10 @@ order: 1
 subgroups:
   - description: ''
     items:
-      - description: >-
-          Cherry Mezcal Margarita: Smoky Mezcal, Cherry Jello, Fresh Lime Juice
-          & Zest
+      - description: |-
+          “PB & J”      
+          Blanco Tequila, Pomegranate Cider, Strawberry Jello,
+          Peanut Butter Caramel Drizzle *contains peanuts and dairy 
         price: '6'
         title: Rotating Jello Shots
       - description: >-
