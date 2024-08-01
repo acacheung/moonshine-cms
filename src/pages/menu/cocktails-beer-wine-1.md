@@ -81,7 +81,7 @@ subgroups:
         price: '7'
         title: Downeast Original Unfiltered Cider
       - description: 16 oz draft
-        price: '5'
+        price: '6'
         title: 'Miller High Life '
       - description: '16 oz draft '
         price: '7'
