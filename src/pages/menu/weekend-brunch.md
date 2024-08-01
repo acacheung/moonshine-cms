@@ -7,13 +7,8 @@ subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
       - description: >-
-          House Infused Mixed Berry Vodka, Fresh Blueberry Indigo Gin, Mandarin
-          Orange Liqueur,  Lemon-Limeade  
-        price: '14'
-        title: 'Cocktail Special: Fruit Salad Party Punch'
-      - description: >-
-          Cherry Mezcal Margarita: Smoky Mezcal, Cherry Jello, Fresh Lime Juice
-          & Zest
+          PB&J: Blanco Tequila, Pomegranate Cider, Strawberry Jello, Peanut
+          Butter Caramel Drizzle.  **contains peanuts and dairy
         price: '6'
         title: Chef Asia's Rotating Jello Shots
       - description: >
