@@ -191,15 +191,17 @@ subgroups:
         price: '19'
         title: GRASS-FED ’SHINE BEEF BURGER**
       - description: >-
-          “New Mexico Green Chili Burger" topped with Hatch Chili Verde, Roasted
-          Tomatillos, Melted Pepperjack Cheese, Toasted Cumin Crema, Tortilla
-          Crisps                                                                                                                              
+          “The Italian Stallion”
+
+          topped with Slow-Roasted Chopped Porchetta, Broccoli Rabe Pesto,
+          Melted Provolone Cheese, Lemon Aioli, Banana
+          Peppers                                                                                                                              
           ….add extra cheese $2 ..add jalapeno bacon
           $4                                   …add fried egg $2  …add 
           jalapenos $2  …add avocado
           $3                                                
-        price: '24'
-        title: July 2024 VIP burger of the month
+        price: '26'
+        title: August 2024 VIP burger of the month
       - description: >-
           Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
