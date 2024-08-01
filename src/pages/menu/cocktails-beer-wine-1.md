@@ -192,10 +192,10 @@ subgroups:
         price: 15 / 58
         title: (rose) 2022 Whispering Angel Rose
       - description: 'Santa Barbera,CA, USA '
-        price: 12 / 42
+        price: 13 / 45
         title: '(White) 2021 Seaglass Charonnay '
       - description: 'Trentino, Italy '
-        price: 12  /  42
+        price: 13  /  45
         title: '(White) 2021 Torre di Luna Pinot Grigio '
       - description: 'Elqui Valley, Coquimbo, Chile'
         price: 12 / 45
