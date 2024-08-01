@@ -33,7 +33,7 @@ subgroups:
       - description: >-
           Empress 1908 Indigo Gin, Creme de Violette, Luxardo Maraschino, Fresh
           Lemon 
-        price: '15'
+        price: '16'
         title: Fly Me To The Moon
       - description: 'Jack Daniels Whiskey, Aperol, Strawberry Rosewater Jam, Fresh Lemon '
         price: '16'
