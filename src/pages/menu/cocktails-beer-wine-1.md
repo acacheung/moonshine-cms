@@ -20,15 +20,15 @@ subgroups:
       - description: >-
           Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
           Just ask for Baileys Irish Cream!) 
-        price: '15'
+        price: '16'
         title: '''Shine Espresso Martini'
       - description: >-
           Black Infusions Apricot Vodka, Combier Peche Liqueur, Apricot Puree,
           Fresh Lemon, Soda Water 
-        price: '14'
+        price: '15'
         title: The Summer Stones
       - description: 'Gin Lane London Dry Gin, Elderflower Liqueur, Fresh Lemon, Prosecco '
-        price: '15'
+        price: '16'
         title: Moonshine '76
       - description: >-
           Empress 1908 Indigo Gin, Creme de Violette, Luxardo Maraschino, Fresh
@@ -36,17 +36,17 @@ subgroups:
         price: '15'
         title: Fly Me To The Moon
       - description: 'Jack Daniels Whiskey, Aperol, Strawberry Rosewater Jam, Fresh Lemon '
-        price: '15'
+        price: '16'
         title: shaeboozey a bar drink
       - description: >-
           Uncle Nearest 1884 Small Batch Whiskey, Combier Peche Liqueur, White
           Cranberry, Fresh Lime
-        price: '14'
+        price: '15'
         title: Fawn's Fancy
       - description: >-
           Rumhaven Coconut Water Infused Rum, Pineapple Shrub, Coconut Cream,
           Allagash Wheat Ale Float, Li-Hing Rim
-        price: '15'
+        price: '16'
         title: 'Stir It Up '
       - description: 'Aperol, Prosecco Bubbles, Pineapple, Cinnamon Simple, Fresh Lemon '
         price: '14'
@@ -59,7 +59,7 @@ subgroups:
       - description: >-
           GrandTen Spicy Firepuncher Vodka, Fresh Squeezed Cucumber Juice,
           Elderflower Liqueur, Fresh Lemon 
-        price: '15'
+        price: '16'
         title: farm to glass
       - description: >-
           Xicaru Mezcal, Housemade Ginger Liqueur, Fresh Lemon, Black Infusions
@@ -69,7 +69,7 @@ subgroups:
       - description: >-
           House Infused Spicy Organic Tequilla, Ginger Liqueur, Fresh Lime,
           Agave 
-        price: '14'
+        price: '15'
         title: There’s Fire
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '14'
