@@ -25,11 +25,6 @@ subgroups:
           Dressing, Aged Balsamic
         price: 18 regular / 29 grande
         title: 'Menu Addition: Warm Crispy Artichoke Salad'
-      - description: >
-          New England Softshell Crab Tempura, Soft Steamed Bao Buns, Wasabi-Aji
-          Amarillo Aioli, Teriyaki Glaze, Shredded Cabbage 
-        price: $MKT regular  /  $MKT grande
-        title: 'Menu Addition: Softshell Crab Bao Buns '
       - description: 'Crumbled Blue Cheese, Celery Ribbon Salad'
         price: 17 regular / 28 grande
         title: 'Menu Addition: Buffalo Fried Mac n'' Cheese Fritters'
