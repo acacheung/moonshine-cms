@@ -266,11 +266,6 @@ subgroups:
           denomination
         price: $$
         title: Moonshine 152 Gift Cards
-      - description: >-
-          (Everything Bagel) Spice Up Your Life with a 3oz Mason Jar of Chef
-          Asia’s Homemade Everything Bagel Spice Mix 
-        price: '5'
-        title: 'Housemade “Everything But The Bagel” Spice Mix '
     title: 'Miscellaneous '
   - description: >-
       Consuming Raw or Undercooked Meats, Poultry, Seafood, Shellfish, or Eggs
