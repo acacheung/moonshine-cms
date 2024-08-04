@@ -203,15 +203,6 @@ subgroups:
       - description: 'Marlborough, New Zealand '
         price: 14 / 48
         title: '(White) 2020 Whitehaven Sauvignon  Blanc '
-      - description: >-
-          Dominant notes of white pulp fruit, apples, and pineapples are well
-          balanced by the citrusy sensations of orange blossoms and jasmine. Its
-          fragrant palate is savory with a soft entry and balanced freshness
-          with an excellent balance of minerals &  excellent structure. 
-        price: '35'
-        title: >-
-          (white) TREAT YO SELF BOTTLE SPECIAL: 2022 TORMARESCA CHARDONNAY
-          (PUGLIA, ITALY)
       - description: 'Mendoza, Argentine'
         price: 14 / 50
         title: (red)2021 Argento Organic Malbec
