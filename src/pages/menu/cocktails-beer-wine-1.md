@@ -90,8 +90,8 @@ subgroups:
         price: '8'
         title: Dorchester Brewing Co. Galaxy Session IPA
       - description: '16 oz draft '
-        price: '8'
-        title: Bissell Brothers "Substance" IPA
+        price: '7'
+        title: Harpoon IPA
       - description: 16oz Tallboy Can
         price: '8.0'
         title: Mighty Squirrel's "Guavaland" Sour Double IPA
