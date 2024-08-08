@@ -166,9 +166,6 @@ subgroups:
       - description: '16 oz nitro can '
         price: '7'
         title: 'Guinness Nitro Stout '
-      - description: 12oz bottle
-        price: '6'
-        title: 'Boulevard Brewing Smokestack Series"Dark Truth" Imperial Stout '
       - description: '16oz tallboy can '
         price: '7'
         title: Guinness Non-Alcoholic
