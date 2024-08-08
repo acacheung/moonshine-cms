@@ -57,6 +57,11 @@ subgroups:
         price: '14'
         title: Sahil's Ginger Hibiscus Red Sangria
       - description: >-
+          Mediterranean White Wine Blend, Orange-Mango Vodka, Aperol, Mango
+          Puree, Fresh Citrus
+        price: '14'
+        title: Arae's Orange-Mango White Sangria
+      - description: >-
           GrandTen Spicy Firepuncher Vodka, Fresh Squeezed Cucumber Juice,
           Elderflower Liqueur, Fresh Lemon 
         price: '16'
