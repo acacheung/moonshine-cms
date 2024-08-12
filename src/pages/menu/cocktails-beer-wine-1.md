@@ -67,11 +67,6 @@ subgroups:
         price: '16'
         title: farm to glass
       - description: >-
-          Xicaru Mezcal, Housemade Ginger Liqueur, Fresh Lemon, Black Infusions
-          "Dirty Shirley" Topper 
-        price: '14'
-        title: smoke em if you got em
-      - description: >-
           House Infused Spicy Organic Tequilla, Ginger Liqueur, Fresh Lime,
           Agave 
         price: '15'
@@ -109,9 +104,6 @@ subgroups:
       - description: '12 oz can '
         price: '7'
         title: 'High Noon Hard Seltzer: Pineapple or Black Cherry'
-      - description: '12 oz can '
-        price: '6'
-        title: Black Infusions "Dirty Shirley" Cocktail in a Can
       - description: '12 oz bottle '
         price: '6'
         title: 'Budweiser / Bud Light '
