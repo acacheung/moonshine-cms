@@ -9,6 +9,9 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
+      - description: 'Crispy Seared Parmesan Polenta, Summer Pesto, Tomato Butter'
+        price: 19 regular / 36 grande
+        title: 'Menu Addition: Grilled Shrimp & Polenta'
       - description: |
           Crumbled Feta Cheese, Fresh Watermelon, 
           Basil Pesto, Balsamic Vinaigrette 
@@ -25,9 +28,6 @@ subgroups:
           Dressing, Aged Balsamic
         price: 18 regular / 29 grande
         title: 'Menu Addition: Warm Crispy Artichoke Salad'
-      - description: 'Crumbled Blue Cheese, Celery Ribbon Salad'
-        price: 17 regular / 28 grande
-        title: 'Menu Addition: Buffalo Fried Mac n'' Cheese Fritters'
       - description: >-
           Shredded Beef & Cheese Tacos, Pickled Red Cabbage Salsa, Smoky
           Sriracha Mayo,   & Birria Dipping Jus  
@@ -174,6 +174,11 @@ subgroups:
       Don't forget to top it off by adding your favorite proteins, fixins, sides
       & sauces to any dish.
     items:
+      - description: >-
+          Honey Roasted Peanuts, Duck Confit, Duck Fat Roasted Brussel Sprouts,
+          Vermicelli Rice Noodles, Thai Peanut Sauce
+        price: '29'
+        title: 'Menu Addition: ‘Shine Summer Tiki Duck Noodle Salad'
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask! Also ask About our House
