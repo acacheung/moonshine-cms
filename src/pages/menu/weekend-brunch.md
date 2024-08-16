@@ -73,9 +73,6 @@ subgroups:
           Aged Balsamic       
         price: 18 regular / 29 grande
         title: 'Menu Addition: crispy artichoke salad '
-      - description: 'Crumbled Blue Cheese, Celery Ribbon Salad'
-        price: '17 regular / 28 grande '
-        title: 'Menu Addition: Buffalo Fried Mac n'' Cheese Fritters'
       - description: >-
           Hatch Green Chili, Scrambled Eggs, Tortillas, Tomato Cabbage Salsa,
           Black Beans, Cumin Sour Cream
@@ -119,10 +116,13 @@ subgroups:
   - description: ' (Entrees)'
     items:
       - description: >-
-          Homemade Banana Bread, Sliced Banana, Pecanwood Bacon, Marshmallow
-          Fluff, Peanut Butter Caramel, and Shoestring French Fries
-        price: '19'
-        title: 'Menu Addition: The King Fluffernutter'
+          Spiced Tomato & Chickpea Baked Eggs, Basil Mayo, Crumbled Feta Cheese,
+          Olive Oil Toast Points
+        price: '27'
+        title: 'Menu Addition: Mediterranean ''Shine Shakshuka'
+      - description: 'Crispy Seared Parmesan Polenta, Summer Pesto, Tomato Butter'
+        price: 22 regular / 36 grande
+        title: 'Menu Addition: Grilled Shrimp & Polenta'
       - description: >-
           Hatch Green Chili, Scrambled Eggs, Tortillas, Tomato Cabbage Salsa,
           Black Beans, Cumin Sour Cream
@@ -165,11 +165,6 @@ subgroups:
       - description: 'Pan-seared shrimp, Spicy cheese grits, Sherry pan sauce '
         price: '26'
         title: 'Cajun Shrimp & Grits '
-      - description: >-
-          Scrambled eggs, Pan-Seared Polenta, Rustic Spicy Tomato Sauce, Fresh
-          Lemon Zest & Your Choice of Bacon 
-        price: '26'
-        title: 'Tommy G’s Favorite Romani Polenta & Eggs Scramble '
       - description: >-
           Smoky pulled pork, Scrambled egg, Tomato salsa, Petite mixed greens
           salad, House-cut shoestring fries
@@ -281,15 +276,15 @@ subgroups:
   - description: ' (Dessert)'
     items:
       - description: >-
+          Griddled Banana Bread, Hazelnut Chocolate Ganache, Amarena
+          Cherry-Balsamic Berry Glaze
+        price: '13'
+        title: 'Menu Addition: Sweet Nutella Bruschetta'
+      - description: >-
           Layered Blueberry Pie Topping, Whipped Cream Cheese Filling, and
           Toasted Almond Shortbread
         price: '13'
         title: 'Menu Addition: ''Shine Favorite Blueberry Jamboree'
-      - description: |-
-          Homemade Pistachio-Walnut Butter, Valrhona Chocolate, 
-           Toffee, Shredded Filo Dough Crisp, Sea Salt
-        price: '12'
-        title: 'Menu Addition: Dubai Toffee Crunch'
       - description: >-
           Crispy Layered Merengue Cookies, Mango
           Coulis,                                                 Coconut
