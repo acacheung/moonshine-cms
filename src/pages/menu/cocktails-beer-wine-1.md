@@ -95,9 +95,6 @@ subgroups:
       - description: 16oz Tallboy Can
         price: '8.0'
         title: Mighty Squirrel's "Guavaland" Sour Double IPA
-      - description: '12 oz bottle '
-        price: '6'
-        title: 'Wachusett Blueberry Wheat Ale '
       - description: 355ml can
         price: '7'
         title: 'Viva  tequila seltzer: Watermelon or Huckleberry'
