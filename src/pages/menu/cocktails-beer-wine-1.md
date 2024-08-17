@@ -92,9 +92,6 @@ subgroups:
       - description: '16 oz draft '
         price: '7'
         title: Harpoon IPA
-      - description: 16oz Tallboy Can
-        price: '8.0'
-        title: Mighty Squirrel's "Guavaland" Sour Double IPA
       - description: 355ml can
         price: '7'
         title: 'Viva  tequila seltzer: Watermelon or Huckleberry'
@@ -149,6 +146,9 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '8'
         title: Aeronaut Brewing "Hop Hop Away" IPA
+      - description: 16oz Tallboy Can
+        price: '8.0'
+        title: Mighty Squirrel's "Guavaland" Sour Double IPA
       - description: '12 oz bottle '
         price: '7'
         title: 'Stone IPA '
