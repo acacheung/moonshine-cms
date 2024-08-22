@@ -9,9 +9,6 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
-      - description: 'Crispy Seared Parmesan Polenta, Summer Pesto, Tomato Butter'
-        price: 22 regular / 36 grande
-        title: 'Menu Addition: Grilled Shrimp & Polenta'
       - description: |
           Crumbled Feta Cheese, Fresh Watermelon, 
           Basil Pesto, Balsamic Vinaigrette 
