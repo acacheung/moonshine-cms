@@ -120,9 +120,6 @@ subgroups:
           Olive Oil Toast Points
         price: '27'
         title: 'Menu Addition: Mediterranean ''Shine Shakshuka'
-      - description: 'Crispy Seared Parmesan Polenta, Summer Pesto, Tomato Butter'
-        price: 22 regular / 36 grande
-        title: 'Menu Addition: Grilled Shrimp & Polenta'
       - description: >-
           Hatch Green Chili, Scrambled Eggs, Tortillas, Tomato Cabbage Salsa,
           Black Beans, Cumin Sour Cream
