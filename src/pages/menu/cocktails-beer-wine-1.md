@@ -6,10 +6,11 @@ order: 1
 subgroups:
   - description: ''
     items:
-      - description: |-
-          “PB & J”      
-          Blanco Tequila, Pomegranate Cider, Strawberry Jello,
-          Peanut Butter Caramel Drizzle *contains peanuts and dairy 
+      - description: >-
+          “Mixed Berry Cheesecake"     
+
+          Mixed Berry Jello, Glendalough Irish Whiskey, Whipped Cream Cheese
+          Topping, Graham Cracker Crumble 
         price: '6'
         title: Rotating Jello Shots
       - description: >-
