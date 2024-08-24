@@ -172,6 +172,11 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
+          Grilled Kielbasa, Calamari & Octopus, Cornbread Hush Puppies, House
+          Pickles, Aji Amarillo Sauce
+        price: '29'
+        title: 'Menu Addition: Surf n’ Turf Mixed Grill Platter'
+      - description: >-
           Honey Roasted Peanuts, Duck Confit, Duck Fat Roasted Brussel Sprouts,
           Vermicelli Rice Noodles, Thai Peanut Sauce
         price: '29'
