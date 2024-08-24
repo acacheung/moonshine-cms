@@ -7,8 +7,8 @@ subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
       - description: >-
-          PB&J: Blanco Tequila, Pomegranate Cider, Strawberry Jello, Peanut
-          Butter Caramel Drizzle.  **contains peanuts and dairy
+          Mixed Berry Cheesecake: Mixed Berry Jello, Glendalough Whiskey,
+          Whipped Cream Cheese Topping, Graham Cracker Crumble
         price: '6'
         title: Chef Asia's Rotating Jello Shots
       - description: >
