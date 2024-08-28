@@ -91,8 +91,8 @@ subgroups:
         price: '8'
         title: Dorchester Brewing Co. Galaxy Session IPA
       - description: '16 oz draft '
-        price: '7'
-        title: Harpoon IPA
+        price: '8'
+        title: Bissel Brother's "Subsance IPA"
       - description: 355ml can
         price: '7'
         title: 'Viva  tequila seltzer: Watermelon or Huckleberry'
@@ -138,9 +138,6 @@ subgroups:
       - description: '12 oz bottle '
         price: '6'
         title: 'Cisco Brewing "Grey Lady" Wheat Ale '
-      - description: 16 oz tallboy can
-        price: '5'
-        title: 'Allagash Brewing "Hop Reach" IPA '
       - description: 16 oz tallboy can
         price: '7'
         title: Lord Hobo "Boom Sauce" Double IPA
