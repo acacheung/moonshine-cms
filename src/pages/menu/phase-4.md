@@ -19,7 +19,7 @@ subgroups:
       - description: '                                                      Crispy Layered Merengue Cookies, Mango Coulis, Coconut Jellies, Whipped Cream, Summer Berry Sauce   (gluten-free, available vegan!)      '
         price: '13'
         title: 'Menu Addition: Tropical Mango Pavlova '
-      - description: '                            Strawberry  Ice Cream, Warm Belgian Waffle,                                               Whipped Cream, Mixed Berry Sauce, Toasted Hazelnuts     '
+      - description: '                            Strawberry  Ice Cream, Warm Belgian Waffle,                                               Whipped Cream, Mixed Berry Sauce'
         price: '13'
         title: 'Menu Addition: Berries & Cream Waffle Ice Cream Sundae     '
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
@@ -28,7 +28,7 @@ subgroups:
       - description: 'Powdered sugar, nutella chocolate fudge sauce'
         price: '12'
         title: Jaime’s Favorite Oreo Cookie Layered Fudge Brownie
-      - description: 'Kalamansi Lemon '
+      - description: Coconut
         price: '11'
         title: 'Chef''s Whim Sorbet (vegan) '
       - description: Strawberry
