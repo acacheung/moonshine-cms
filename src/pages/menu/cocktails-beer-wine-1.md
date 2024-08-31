@@ -44,11 +44,6 @@ subgroups:
           Cranberry, Fresh Lime
         price: '15'
         title: Fawn's Fancy
-      - description: >-
-          Rumhaven Coconut Water Infused Rum, Pineapple Shrub, Coconut Cream,
-          Allagash Wheat Ale Float, Li-Hing Rim
-        price: '16'
-        title: 'Stir It Up '
       - description: 'Aperol, Prosecco Bubbles, Pineapple, Cinnamon Simple, Fresh Lemon '
         price: '14'
         title: Patio Crusher
