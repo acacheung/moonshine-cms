@@ -291,7 +291,7 @@ subgroups:
         title: 'Menu Addition: Tropical Mango Pavlova'
       - description: >-
           Strawberry Ice Cream, Warm Belgian Waffle, Whipped Cream, Mixed Berry
-          Sauce, Toasted Hazelnuts 
+          Sauce, Honey Roasted Peanuts 
         price: '13'
         title: 'Menu Addition: Berries & Cream Waffle Ice Cream Sundae'
       - description: 'Whipped chantilly cream, Toasted oat-amaranth streusel '
@@ -303,7 +303,7 @@ subgroups:
       - description: Strawberry
         price: '11'
         title: Chef's whim ice cream of the day
-      - description: Kalamansi Lemon
+      - description: Coconut
         price: '11'
         title: chef's whim sorbet of the day (vegan)
     title: Sweet Tooth
