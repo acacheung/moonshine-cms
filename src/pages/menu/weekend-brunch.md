@@ -121,10 +121,10 @@ subgroups:
         price: '27'
         title: 'Menu Addition: Mediterranean ''Shine Shakshuka'
       - description: >-
-          Hatch Green Chili, Scrambled Eggs, Tortillas, Tomato Cabbage Salsa,
-          Black Beans, Cumin Sour Cream
+          Scrambled Eggs, Tortillas, Tomato Cabbage Salsa, Black Beans, Cumin
+          Sour Cream
         price: '26'
-        title: 'Menu Addition: Green Chili Huevos Rancheros'
+        title: 'Menu Addition: Huevos Rancheros'
       - description: >-
           Tender  Beef Brisket wrapped in a  Scallion Pancake
           with                                        Pho Noodle Salad &  Bacony
@@ -210,16 +210,16 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          “The Italian Stallion”
+          “The Love Letter”
 
-          topped with Slow-Roasted Chopped Porchetta, Broccoli Rabe Pesto,
-          Melted Provolone Cheese, Lemon Aioli, Banana
-          Peppers                                                                                                                              
+          Newlywed Chef Asia’s Wedding Gift to Seamus: Garlic Bread Ziti
+          Bolo-Parm Burger topped with Ziti Bolognese, Garlic Bread Bun, Melted
+          Mozzarella                                                                                                                              
           ….add extra cheese $2 ..add jalapeno bacon
           $4                                   …add fried egg $2  …add 
           jalapenos $2  …add avocado $3                                
         price: '26'
-        title: August 2024 VIP burger of the month
+        title: September 2024 VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: ' All the sides & Fixin’s'
     items:
@@ -272,11 +272,6 @@ subgroups:
     title: All the sides & Fixin’s
   - description: ' (Dessert)'
     items:
-      - description: >-
-          Griddled Banana Bread, Hazelnut Chocolate Ganache, Amarena
-          Cherry-Balsamic Berry Glaze
-        price: '13'
-        title: 'Menu Addition: Sweet Nutella Bruschetta'
       - description: >-
           Layered Blueberry Pie Topping, Whipped Cream Cheese Filling, and
           Toasted Almond Shortbread
