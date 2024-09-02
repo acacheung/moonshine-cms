@@ -7,27 +7,10 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          “Mixed Berry Cheesecake"     
-
-          Mixed Berry Jello, Glendalough Irish Whiskey, Whipped Cream Cheese
-          Topping, Graham Cracker Crumble 
-        price: '6'
-        title: Rotating Jello Shots
-      - description: >-
-          Kalamansi Lemon, Fresh Cucumber Juice, Watermelon Liqueur, Litchi
-          Popping Boba, Prosecco
-        price: '15'
-        title: Asia Does Bar Stuff
-      - description: >-
           Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
           Just ask for Baileys Irish Cream!) 
         price: '16'
         title: '''Shine Espresso Martini'
-      - description: >-
-          Black Infusions Apricot Vodka, Combier Peche Liqueur, Apricot Puree,
-          Fresh Lemon, Soda Water 
-        price: '15'
-        title: The Summer Stones
       - description: 'Gin Lane London Dry Gin, Elderflower Liqueur, Fresh Lemon, Prosecco '
         price: '16'
         title: Moonshine '76
@@ -39,11 +22,6 @@ subgroups:
       - description: 'Jack Daniels Whiskey, Aperol, Strawberry Rosewater Jam, Fresh Lemon '
         price: '16'
         title: shaeboozey a bar drink
-      - description: >-
-          Uncle Nearest 1884 Small Batch Whiskey, Combier Peche Liqueur, White
-          Cranberry, Fresh Lime
-        price: '15'
-        title: Fawn's Fancy
       - description: 'Aperol, Prosecco Bubbles, Pineapple, Cinnamon Simple, Fresh Lemon '
         price: '14'
         title: Patio Crusher
