@@ -64,7 +64,7 @@ subgroups:
         title: 'Miller High Life '
       - description: '16 oz draft '
         price: '7'
-        title: Allagash White
+        title: 'Jack''s Abby Banner City Light Lager '
       - description: 16 oz draft
         price: '8'
         title: Dorchester Brewing Co. Galaxy Session IPA
