@@ -7,11 +7,6 @@ subgroups:
   - description: Add a Warm Belgian Waffle to Your Favorite Dessert $9
     items:
       - description: >-
-          Griddled Banana Bread, Hazelnut Chocolate Ganache, Amarena
-          Cherry-Balsamic Berry Glaze
-        price: '13'
-        title: 'Menu Addition: Sweet Nutella Bruschetta'
-      - description: >-
           Layered Blueberry Pie Topping, Whipped Cream Cheese Filling, and
           Toasted Almond Shortbread
         price: '13'
@@ -19,7 +14,10 @@ subgroups:
       - description: '                                                      Crispy Layered Merengue Cookies, Mango Coulis, Coconut Jellies, Whipped Cream, Summer Berry Sauce   (gluten-free, available vegan!)      '
         price: '13'
         title: 'Menu Addition: Tropical Mango Pavlova '
-      - description: '                            Strawberry  Ice Cream, Warm Belgian Waffle,                                               Whipped Cream, Mixed Berry Sauce'
+      - description: >-
+          Strawberry  Ice Cream, Warm Belgian
+          Waffle,                                               Whipped Cream,
+          Mixed Berry Sauce, Honey Roasted Peanuts
         price: '13'
         title: 'Menu Addition: Berries & Cream Waffle Ice Cream Sundae     '
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
