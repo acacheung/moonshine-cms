@@ -7,6 +7,11 @@ subgroups:
   - description: ''
     items:
       - description: >-
+          "Mixed Berry Cheesecake" Mixed Berry Jello, Glendalough Irish Whiskey,
+          Whipped Cream Cheese Topping , Graham Cracker Crumble
+        price: '6'
+        title: Rotating Jello Shots
+      - description: >-
           Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
           Just ask for Baileys Irish Cream!) 
         price: '16'
@@ -43,6 +48,11 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '14'
         title: 'La Diabla '
+      - description: >-
+          Black Infusions Apricot Vodka, Combier Peche Liqueur, Apricot Puree,
+          Fresh Lemon, Soda Water
+        price: '15'
+        title: The Summer Stones
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
