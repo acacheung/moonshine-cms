@@ -53,6 +53,11 @@ subgroups:
           Fresh Lemon, Soda Water
         price: '15'
         title: The Summer Stones
+      - description: >-
+          Rumhaven Coconut Rum, Cream of Coconut, Pineapple Ginger Shrub, Fresh
+          Lime Juice, Allagash White, Li Hing Rim
+        price: '16'
+        title: Stir it Up
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
