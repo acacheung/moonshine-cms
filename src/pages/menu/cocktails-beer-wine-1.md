@@ -71,6 +71,9 @@ subgroups:
       - description: '16 oz draft '
         price: '8'
         title: Bissel Brother's "Subsance IPA"
+      - description: 16 oz tallboy can
+        price: '7'
+        title: Jack's Abby Copper Legend Octoberfest
       - description: 355ml can
         price: '7'
         title: 'Viva  tequila seltzer: Watermelon or Huckleberry'
@@ -116,9 +119,6 @@ subgroups:
       - description: '16 oz Tallboy can '
         price: '7'
         title: Bell's Oberon Wheat Ale
-      - description: 16 oz tallboy can
-        price: '7'
-        title: Lord Hobo "Boom Sauce" Double IPA
       - description: '16 oz tallboy can '
         price: '8'
         title: Aeronaut Brewing "Hop Hop Away" IPA
