@@ -56,6 +56,11 @@ subgroups:
     title: 'Cheers To The Weekend! '
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
+      - description: >-
+          House Fig Jam, Maple Syrup, Candied Pecanwood Bacon,      Creamy Brie
+          Spread
+        price: '13'
+        title: 'Menu Addition: Bacon & Brie Waffle Bites'
       - description: |
           Crumbled Feta Cheese, Fresh Watermelon, 
           Basil Pesto, Balsamic Vinaigrette 
@@ -74,10 +79,10 @@ subgroups:
         price: 18 regular / 29 grande
         title: 'Menu Addition: crispy artichoke salad '
       - description: >-
-          Hatch Green Chili, Scrambled Eggs, Tortillas, Tomato Cabbage Salsa,
-          Black Beans, Cumin Sour Cream
+          Scrambled Eggs, Tortillas, Tomato Cabbage Salsa, Black Beans, Cumin
+          Sour Cream
         price: '26'
-        title: 'Menu Addition: Green Chili Huevos Rancheros'
+        title: 'Menu Addition: Huevos Rancheros'
       - description: >-
           Local honey, Fresh berries, Oat-Flax-Chia Seed Granola Crunch **add a
           warm house belgian waffle $9**
