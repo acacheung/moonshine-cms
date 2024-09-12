@@ -6,6 +6,9 @@ order: 5
 subgroups:
   - description: Add a Warm Belgian Waffle to Your Favorite Dessert $9
     items:
+      - description: 'Peanut Caramel Drizzle, Shredded Coconut, Amarena Cherry'
+        price: '14'
+        title: 'Menu Addition: Warm Pineapple Upside Down Cake'
       - description: >-
           Layered Blueberry Pie Topping, Whipped Cream Cheese Filling, and
           Toasted Almond Shortbread
@@ -18,7 +21,7 @@ subgroups:
           Strawberry  Ice Cream, Warm Belgian
           Waffle,                                               Whipped Cream,
           Mixed Berry Sauce, Honey Roasted Peanuts
-        price: '13'
+        price: '14'
         title: 'Menu Addition: Berries & Cream Waffle Ice Cream Sundae     '
       - description: 'Chantilly whipped cream, toasted oat-amaranth streusel'
         price: '12'
