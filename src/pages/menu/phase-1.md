@@ -10,6 +10,11 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
+          Oven Roasted Sushi Rice, Farm Fresh Mint, Cucumbers, Fried Shallots,
+          Sesame-Lime Peanut Dressing, Mango
+        price: 17 regular / 28 grande
+        title: 'Menu Addition: Vietnamese Crispy Rice Salad'
+      - description: >-
           House Fig Jam, Maple Syrup, Candied Pecanwood Bacon, Creamy Brie
           Spread
         price: '13'
@@ -24,7 +29,7 @@ subgroups:
           Tomatoes, Citrus Aioli, Cotija Cheese, Espelette Pepper 
                          
         price: '17 regular / 27 grande '
-        title: 'Menu Addition: Summer Grilled Street Corn Salad '
+        title: 'Menu Addition: Grilled Street Corn Salad '
       - description: >-
           Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy Pesto
           Dressing, Aged Balsamic
@@ -70,12 +75,15 @@ subgroups:
       forget to top it off by adding your favorite proteins, fixins, sides &
       sauces to any dish.
     items:
-      - description: |
-          Roasted Beets, Diced Cucumber, Dill Creme Fraiche 
+      - description: >
+          Coconut Milk, Cranberries, Thai Spiced Potatoes & Veggies. (Vegan,
+          GF)..................................................................................................................................
+
+          ** Add Your Favorite Protein or Upgrade to:
+
+          Curry Fries, Tots or Rice Plates $17/ $28
         price: '14 regular / 24 grande '
-        title: >-
-          chef's whim soup of the day: Chef Asia’s Famous Chilled Beet Soup
-          Gazpacho
+        title: 'chef''s whim soup of the day: Penang Pumpkin Curry '
       - description: >-
           Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton crisps,
           Shaved pecorino cheese
@@ -177,15 +185,10 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
-          Grilled Kielbasa, Calamari & Octopus, Cornbread Hush Puppies, House
-          Pickles, Aji Amarillo Sauce
-        price: '29'
-        title: 'Menu Addition: Surf n’ Turf Mixed Grill Platter'
-      - description: >-
           Honey Roasted Peanuts, Duck Confit, Duck Fat Roasted Brussel Sprouts,
           Vermicelli Rice Noodles, Thai Peanut Sauce
         price: '29'
-        title: 'Menu Addition: ‘Shine Summer Tiki Duck Noodle Salad'
+        title: 'Menu Addition: ‘Shine Tiki Duck Noodle Salad'
       - description: >-
           Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask! Also ask About our House
