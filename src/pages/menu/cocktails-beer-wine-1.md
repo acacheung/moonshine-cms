@@ -73,8 +73,8 @@ subgroups:
         price: '6'
         title: 'Miller High Life '
       - description: '16 oz draft '
-        price: '7'
-        title: 'Jack''s Abby Banner City Light Lager '
+        price: '10'
+        title: Maine Beer Company's Lunch IPA
       - description: 16 oz draft
         price: '8'
         title: Dorchester Brewing Co. Galaxy Session IPA
