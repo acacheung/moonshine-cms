@@ -6,9 +6,9 @@ order: 3
 subgroups:
   - description: 'Brunch Cocktails & Beverages '
     items:
-      - description: >-
-          Mixed Berry Cheesecake: Mixed Berry Jello, Glendalough Whiskey,
-          Whipped Cream Cheese Topping, Graham Cracker Crumble
+      - description: >
+          Piña Colada: Lemon Jello, Cream of Coconut, Pineapple Glaze, Chantilly
+          Whipped Cream, Toasted Coconut
         price: '6'
         title: Chef Asia's Rotating Jello Shots
       - description: >
@@ -29,7 +29,7 @@ subgroups:
         title: 'R.I.P. Li’l Sebastian '
       - description: 'london dry gin, aperol, fresh lemon, prosecco '
         price: '13'
-        title: treat to self
+        title: treat yo self
       - description: 'Whiskey, Boozy Cream, Iced Coffee '
         price: '13'
         title: 'Good Morning Pawnee '
@@ -61,16 +61,11 @@ subgroups:
           Spread
         price: '13'
         title: 'Menu Addition: Bacon & Brie Waffle Bites'
-      - description: |
-          Crumbled Feta Cheese, Fresh Watermelon, 
-          Basil Pesto, Balsamic Vinaigrette 
-        price: '18 regular / 28 grande '
-        title: 'Menu Addition: Heirloom Cherry Tomato Watermelon Salad '
       - description: >-
           Grilled Elote Street Corn served Chilled with Heirloom Cherry
           Tomatoes, Citrus Aioli, Cotija Cheese, Espelette Pepper 
         price: '17 regular / 27 grande '
-        title: 'Menu Addition: Grilled Summer Street Corn Salad '
+        title: 'Menu Addition: Grilled Street Corn Salad '
       - description: >-
           Warm Crisp Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
@@ -177,11 +172,15 @@ subgroups:
     title: The Main Affair
   - description: 'Our all-time favorite dishes, available whenever the kitchen is open!'
     items:
-      - description: 'Roasted Beets, Diced Cucumber, Dill Creme Fraiche    '
+      - description: >
+          Coconut Milk, Cranberries, Thai Spiced Potatoes &
+          Veggies...........................................................................
+
+          ** Add Your Favorite Protein or Upgrade to:
+
+          Curry Fries, Tots or Rice Plates $17/ $28
         price: 14 / 24
-        title: >-
-          Chef’s Whim Soup for the Soul: Chef Asia’s Famous Chilled Beet Soup
-          Gazpacho
+        title: 'Chef’s Whim Soup for the Soul: Penang Pumpkin Curry (Vegan, GF)'
       - description: >
           Heirloom quinoa, sautéed kale, creamy Caesar dressing, wonton crisps,
           fresh pomegranate, shaved pecorino cheese
@@ -277,6 +276,9 @@ subgroups:
     title: All the sides & Fixin’s
   - description: ' (Dessert)'
     items:
+      - description: 'Peanut Caramel Drizzle, Shredded Coconut, Amarena Cherry   '
+        price: '14'
+        title: 'Menu Addition: Warm Pineapple Upside Down Cake'
       - description: >-
           Layered Blueberry Pie Topping, Whipped Cream Cheese Filling, and
           Toasted Almond Shortbread
@@ -292,7 +294,7 @@ subgroups:
       - description: >-
           Strawberry Ice Cream, Warm Belgian Waffle, Whipped Cream, Mixed Berry
           Sauce, Honey Roasted Peanuts 
-        price: '13'
+        price: '14'
         title: 'Menu Addition: Berries & Cream Waffle Ice Cream Sundae'
       - description: 'Whipped chantilly cream, Toasted oat-amaranth streusel '
         price: '12'
