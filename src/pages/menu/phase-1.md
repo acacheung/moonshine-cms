@@ -19,11 +19,6 @@ subgroups:
           Spread
         price: '13'
         title: 'Menu Addition: Bacon & Brie Waffle Bites'
-      - description: |
-          Crumbled Feta Cheese, Fresh Watermelon, 
-          Basil Pesto, Balsamic Vinaigrette 
-        price: '18 regular / 29 grande '
-        title: 'Menu Addition: Heirloom Cherry Tomato Watermelon Salad '
       - description: >-
           Grilled Elote Street Corn served Chilled with Heirloom Cherry
           Tomatoes, Citrus Aioli, Cotija Cheese, Espelette Pepper 
