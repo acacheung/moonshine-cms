@@ -62,8 +62,8 @@ subgroups:
         price: 17 regular / 28 grande
         title: 'Menu Addition: Vietnamese Crispy Rice Salad'
       - description: >-
-          House Fig Jam, Maple Syrup, Candied Pecanwood Bacon,      Creamy Brie
-          Spread
+          Maple Syrup, Candied Pecanwood Bacon,      Creamy Brie Spread, Pickled
+          Cranberries
         price: '13'
         title: 'Menu Addition: Bacon & Brie Waffle Bites'
       - description: >-
@@ -121,8 +121,8 @@ subgroups:
   - description: ' (Entrees)'
     items:
       - description: >-
-          Spiced Tomato & Chickpea Baked Eggs, Basil Mayo, Crumbled Feta Cheese,
-          Olive Oil Toast Points
+          Spiced Tomato & Chickpea Baked Eggs, Basil Mayo, Crumbled Queso
+          Blanco, Olive Oil Toast Points
         price: '27'
         title: 'Menu Addition: Mediterranean ''Shine Shakshuka'
       - description: >-
