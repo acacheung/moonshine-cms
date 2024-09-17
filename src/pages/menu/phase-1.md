@@ -10,11 +10,6 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
-          Oven Roasted Sushi Rice, Farm Fresh Mint, Cucumbers, Fried Shallots,
-          Sesame-Lime Peanut Dressing, Mango
-        price: 17 regular / 28 grande
-        title: 'Menu Addition: Vietnamese Crispy Rice Salad'
-      - description: >-
           House Fig Jam, Maple Syrup, Candied Pecanwood Bacon, Creamy Brie
           Spread
         price: '13'
