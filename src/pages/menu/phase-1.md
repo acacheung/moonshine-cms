@@ -175,6 +175,11 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >-
+          Cod, Mixed Shellfish, Biscuit Toasties, Linquica, Kale, Tomato Broth,
+          Orange Saffron Aioli
+        price: '29'
+        title: 'Menu Addition: Portuguese Fisherman’s Stew'
+      - description: >-
           Honey Roasted Peanuts, Duck Confit, Duck Fat Roasted Brussel Sprouts,
           Vermicelli Rice Noodles, Thai Peanut Sauce
         price: '29'
