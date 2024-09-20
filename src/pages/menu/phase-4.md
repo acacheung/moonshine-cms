@@ -9,12 +9,7 @@ subgroups:
       - description: 'Peanut Caramel Drizzle, Shredded Coconut, Amarena Cherry'
         price: '14'
         title: 'Menu Addition: Warm Pineapple Upside Down Cake'
-      - description: >-
-          Layered Blueberry Pie Topping, Whipped Cream Cheese Filling, and
-          Toasted Almond Shortbread
-        price: '13'
-        title: 'Menu Addition: ‘Shine Favorite Blueberry Jamboree'
-      - description: '                                                      Crispy Layered Merengue Cookies, Mango Coulis, Coconut Jellies, Whipped Cream, Summer Berry Sauce   (gluten-free, available vegan!)      '
+      - description: '                                                      Crispy Layered Merengue Cookies, Mango Coulis, Coconut Jellies, Whipped Cream, Berry Sauce   (gluten-free, available vegan!)      '
         price: '13'
         title: 'Menu Addition: Tropical Mango Pavlova '
       - description: >-
