@@ -10,8 +10,8 @@ subgroups:
       sauces to any dish.
     items:
       - description: >-
-          House Fig Jam, Maple Syrup, Candied Pecanwood Bacon, Creamy Brie
-          Spread
+          Maple Syrup, Candied Pecanwood Bacon, Creamy Brie Spread, Pickled
+          Cranberries
         price: '13'
         title: 'Menu Addition: Bacon & Brie Waffle Bites'
       - description: >-
