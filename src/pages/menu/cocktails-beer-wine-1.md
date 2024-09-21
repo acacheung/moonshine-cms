@@ -80,7 +80,7 @@ subgroups:
         title: Dorchester Brewing Co. Galaxy Session IPA
       - description: '16 oz draft '
         price: '8'
-        title: Bissel Brother's "Subsance IPA"
+        title: Jack's Abby "Pumpkin Crop"
       - description: 16 oz tallboy can
         price: '7'
         title: Jack's Abby Copper Legend Octoberfest
