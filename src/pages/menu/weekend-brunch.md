@@ -287,10 +287,10 @@ subgroups:
         price: '13'
         title: 'Menu Addition: Tropical Mango Pavlova'
       - description: >-
-          Strawberry Ice Cream, Warm Belgian Waffle, Whipped Cream, Mixed Berry
-          Sauce, Honey Roasted Peanuts 
+          Coffee Ice Cream, Hazelnut Chocolate Ganache, Salted Caramel Sauce,
+          Whipped Cream, Chocolate Dipped Espresso Beans
         price: '14'
-        title: 'Menu Addition: Berries & Cream Waffle Ice Cream Sundae'
+        title: Warm Belgian Waffle Ice Cream Sundae
       - description: 'Whipped chantilly cream, Toasted oat-amaranth streusel '
         price: '12'
         title: 'Butterscotch Pudding '
