@@ -7,8 +7,8 @@ subgroups:
   - description: ''
     items:
       - description: >-
-          "Mixed Berry Cheesecake" Mixed Berry Jello, Glendalough Irish Whiskey,
-          Whipped Cream Cheese Topping , Graham Cracker Crumble
+          "Piña Colada" - Lemon Jello, Cream of Coconut, Pineapple Glaze,
+          Chantilly Whipped Cream, Toasted Coconut
         price: '6'
         title: Rotating Jello Shots
       - description: >-
@@ -68,7 +68,7 @@ subgroups:
         price: '6'
         title: 'Miller High Life '
       - description: '16 oz draft '
-        price: '10'
+        price: '12'
         title: Maine Beer Company's Lunch IPA
       - description: 16 oz draft
         price: '8'
