@@ -297,7 +297,7 @@ subgroups:
       - description: 'Nutellla fudge chocolate sauce, Powdered sugar '
         price: '12'
         title: 'Jaime’s Favorite Oreo Cookie Layered Fudge Brownie '
-      - description: Strawberry
+      - description: Coffee
         price: '11'
         title: Chef's whim ice cream of the day
       - description: Coconut
