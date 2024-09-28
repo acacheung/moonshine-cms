@@ -106,6 +106,9 @@ subgroups:
       - description: '16 oz tallboy can '
         price: '7'
         title: Stormalong "Mass Appeal" Hard Cider
+      - description: 12oz can
+        price: '7'
+        title: Downeast Original Cider
       - description: 16 oz Tallboy Can
         price: '6'
         title: Narragansett Lager
@@ -148,9 +151,6 @@ subgroups:
       - description: 12 oz can
         price: '6'
         title: Athletic Brewing co " All-out" dark beer(non-alcoholic)
-      - description: 12oz can
-        price: '7'
-        title: Downeast Original Cider
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
