@@ -6,6 +6,9 @@ order: 5
 subgroups:
   - description: Add a Warm Belgian Waffle to Your Favorite Dessert $9
     items:
+      - description: 'Fresh Pomegranate, Local Honey, Filo Dough, Pumpkin Custard'
+        price: '14'
+        title: 'Menu Addition: Warm Pumpkin Pistachio Baklava Crinkle'
       - description: 'Peanut Caramel Drizzle, Shredded Coconut, Amarena Cherry'
         price: '14'
         title: 'Menu Addition: Warm Pineapple Upside Down Cake'
