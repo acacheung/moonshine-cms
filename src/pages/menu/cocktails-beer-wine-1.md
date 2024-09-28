@@ -62,8 +62,8 @@ subgroups:
   - description: 'please note this menu is subject to change '
     items:
       - description: '16 oz draft '
-        price: '7'
-        title: Downeast Original Unfiltered Cider
+        price: '8'
+        title: Harpoon IPA
       - description: 16 oz draft
         price: '6'
         title: 'Miller High Life '
@@ -148,6 +148,9 @@ subgroups:
       - description: 12 oz can
         price: '6'
         title: Athletic Brewing co " All-out" dark beer(non-alcoholic)
+      - description: 12oz can
+        price: '7'
+        title: Downeast Original Cider
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
