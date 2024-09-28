@@ -10,7 +10,7 @@ subgroups:
           "Pina Coolada" Lemon Jello, Cream of Coconut, Pineapple Glaze,
           Chantilly Whipped Cream, Toasted Coconut
         price: '6'
-        title: 'Rotating Jello Shots '
+        title: Rotating Jello Shots
       - description: >-
           Kalamansi Lemon, Fresh Cucumber Juice, Watermelon Liqueur, Litchi
           Popping Boba, Prosecco
@@ -53,11 +53,6 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '14'
         title: 'La Diabla '
-      - description: >-
-          Black Infusions Apricot Vodka, Combier Peche Liqueur, Apricot Puree,
-          Fresh Lemon, Soda Water
-        price: '15'
-        title: The Summer Stones
       - description: >-
           Rumhaven Coconut Rum, Cream of Coconut, Pineapple Ginger Shrub, Fresh
           Lime Juice, Allagash White, Li Hing Rim
@@ -156,12 +151,6 @@ subgroups:
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
-      - description: >-
-          A 100% Pinot Noir Grown in the Sancerre Region in France, This Wine is
-          Fruity and Round with a Wonderful Depth and Fresh Finish. Great with
-          all Grilled Meats and Poultry
-        price: '60'
-        title: 'Red Bottle Special: 2019 Sancerre “Vieilles Vigens”'
       - description: 'Veneto, Italy '
         price: 12 / 45
         title: '(Sparkling) NV LaMarca Prosecco '
