@@ -276,6 +276,9 @@ subgroups:
     title: All the sides & Fixin’s
   - description: ' (Dessert)'
     items:
+      - description: 'Fresh Pomegranate, Local Honey, Filo Dough, Pumpkin Custard'
+        price: '14'
+        title: 'Menu Addition: Warm Pumpkin Pistachio Baklava Crinkle'
       - description: 'Peanut Caramel Drizzle, Shredded Coconut, Amarena Cherry   '
         price: '14'
         title: 'Menu Addition: Warm Pineapple Upside Down Cake'
