@@ -10,7 +10,7 @@ subgroups:
           "Pina Coolada" Lemon Jello, Cream of Coconut, Pineapple Glaze,
           Chantilly Whipped Cream, Toasted Coconut
         price: '6'
-        title: Rotating Jello Shots
+        title: 'Rotating Jello Shots '
       - description: >-
           Kalamansi Lemon, Fresh Cucumber Juice, Watermelon Liqueur, Litchi
           Popping Boba, Prosecco
