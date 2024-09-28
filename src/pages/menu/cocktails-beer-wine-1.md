@@ -156,6 +156,12 @@ subgroups:
     title: 'Beer Menu '
   - description: 'please note vintages are subject to change '
     items:
+      - description: >-
+          A 100% Pinot Noir Grown in the Sancerre Region in France, This Wine is
+          Fruity and Round with a Wonderful Depth and Fresh Finish. Great with
+          all Grilled Meats and Poultry
+        price: '60'
+        title: 'Red Bottle Special: 2019 Sancerre “Vieilles Vigens”'
       - description: 'Veneto, Italy '
         price: 12 / 45
         title: '(Sparkling) NV LaMarca Prosecco '
