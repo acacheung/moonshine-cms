@@ -29,9 +29,6 @@ subgroups:
           Lemon 
         price: '16'
         title: Fly Me To The Moon
-      - description: 'Jack Daniels Whiskey, Aperol, Strawberry Rosewater Jam, Fresh Lemon '
-        price: '16'
-        title: shaeboozey a bar drink
       - description: 'Aperol, Prosecco Bubbles, Pineapple, Cinnamon Simple, Fresh Lemon '
         price: '14'
         title: Patio Crusher
@@ -53,11 +50,6 @@ subgroups:
       - description: 'Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime '
         price: '14'
         title: 'La Diabla '
-      - description: >-
-          Rumhaven Coconut Rum, Cream of Coconut, Pineapple Ginger Shrub, Fresh
-          Lime Juice, Allagash White, Li Hing Rim
-        price: '16'
-        title: Stir it Up
     title: '’Shine Specialty Cocktails '
   - description: 'please note this menu is subject to change '
     items:
