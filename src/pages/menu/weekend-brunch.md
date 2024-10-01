@@ -214,16 +214,16 @@ subgroups:
         price: '19'
         title: Grass-fed Beef Burger**
       - description: >-
-          “The Love Letter”
+          “The Octoberfest”
 
-          Newlywed Chef Asia’s Wedding Gift to Seamus: Garlic Bread Ziti
-          Bolo-Parm Burger topped with Ziti Bolognese, Garlic Bread Bun, Melted
-          Mozzarella                                                                                                                              
+          Pretzel Bun, Warm Bacony German Potato Salad, Smoked Gouda, Honey
+          Mustard, Beer Braised
+          Apple-Kraut                                                                                                                               
           ….add extra cheese $2 ..add jalapeno bacon
           $4                                   …add fried egg $2  …add 
           jalapenos $2  …add avocado $3                                
         price: '26'
-        title: September 2024 VIP burger of the month
+        title: October 2024 VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: ' All the sides & Fixin’s'
     items:
