@@ -162,17 +162,17 @@ subgroups:
       - description: Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask! Also ask About our House
           Vegan Aioli!
-        price: "19"
+        price: "22"
         title: CHEF ASIA’S FAMOUS VEGETARIAN MUSHROOM TOFU BURGER
       - description: Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries .... Make it a double patty 11
-        price: "19"
+        price: "22"
         title: GRASS-FED ’SHINE BEEF BURGER**
       - description: >-
-          “The Octoberfest”
+          “The Oktoberfest”
 
           Pretzel Bun, Warm Bacony German Potato Salad, Smoked Gouda, Honey Mustard, Beer Braised Apple-Kraut                                                                                                                               ….add extra cheese $2 ..add jalapeno bacon $4                                   …add fried egg $2  …add  jalapenos $2  …add avocado $3                                                
-        price: "26"
+        price: "27"
         title: October's 2024 VIP burger of the month
       - description: Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
