@@ -147,8 +147,12 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
-      - description: Cod, Mixed Shellfish, Biscuit Toasties, Linquica, Kale, Tomato
-          Broth, Orange Saffron Aioli
+      - title: "Menu Addition: Rosh Hashanah Beef Brisket Platter"
+        price: "29"
+        description: "Red Wine Braised Brisket, Potato Pancakes, Carrots, Pomegranate,
+          Horseradish Beet Crema "
+      - description: Cod, Biscuit Toasties, Linquica, Kale, Tomato Broth, Orange Saffron
+          Aioli
         price: "29"
         title: "Menu Addition: Portuguese Fisherman’s Stew"
       - description: Honey Roasted Peanuts, Duck Confit, Duck Fat Roasted Brussel
