@@ -20,7 +20,7 @@ subgroups:
       - description: Coffee Ice Cream, Hazelnut Chocolate Ganache, Salted Caramel Sauce,
           Whipped Cream, Chocolate Dipped Espresso Beans
         price: "15"
-        title: Warm Belgian Waffle Ice Cream Sundae
+        title: Belgian Waffle Ice Cream Sundae
       - description: Chantilly whipped cream, toasted oat-amaranth streusel
         price: "12"
         title: Moonshine’s Butterscotch Pudding
