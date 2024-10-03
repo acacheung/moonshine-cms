@@ -6,7 +6,7 @@ order: 1
 subgroups:
   - description: ""
     items:
-      - description: '"Pina Coolada" Lemon Jello, Cream of Coconut, Pineapple Glaze,
+      - description: '"Pina Colada" Lemon Jello, Cream of Coconut, Pineapple Glaze,
           Chantilly Whipped Cream, Toasted Coconut'
         price: "6"
         title: Rotating Jello Shots
@@ -54,14 +54,14 @@ subgroups:
   - description: "please note this menu is subject to change "
     items:
       - description: "16 oz draft "
+        price: "12"
+        title: Maine Beer Company's Lunch IPA
+      - description: "16 oz draft "
         price: "8"
         title: Harpoon IPA
       - description: 16 oz draft
         price: "6"
         title: "Miller High Life "
-      - description: "16 oz draft "
-        price: "12"
-        title: Maine Beer Company's Lunch IPA
       - description: 16 oz draft
         price: "8"
         title: Dorchester Brewing Co. Galaxy Session IPA
