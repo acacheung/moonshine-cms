@@ -8,10 +8,6 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
-      - description: "Grilled Elote Street Corn served Chilled with Heirloom Cherry
-          Tomatoes, Citrus Aioli, Cotija Cheese, Espelette Pepper "
-        price: "17 regular / 27 grande "
-        title: "Menu Addition: Grilled Street Corn Salad "
       - description: Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy
           Pesto Dressing, Aged Balsamic
         price: 18 regular / 29 grande
