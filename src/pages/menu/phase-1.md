@@ -127,9 +127,9 @@ subgroups:
         price: "26"
         title: MAMA MEI’S FAMOUS DIRTY FRIED RICE
       - description: Asian pear kimchi, jalapenos, scrambled egg, stirfried veggies...
-          available vegan, just ask!
+          available vegetarian or vegan, just ask!
         price: "26"
-        title: SPICY KIMCHI THAI VEGETARIAN FRIED RICE
+        title: SPICY KIMCHI THAI FRIED RICE
       - description: Sweet Maui onion salmon poke, house applewood smoked shrimp & crab
           remoulade, mango-edamame salsa, sushi rice, crispy chickpea papadum
           chips
@@ -163,7 +163,7 @@ subgroups:
       - description: Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries .... Make it a double patty 11
         price: "22"
-        title: GRASS-FED ’SHINE BEEF BURGER**
+        title: GRASS-FED ’SHINE BEEF BURGER**  Boston's Best Award Winner
       - description: >-
           “The Oktoberfest”
 
