@@ -183,7 +183,7 @@ subgroups:
       - description: "Sharp cheddar, Housemade aioli, LTO & Shoestring fries  ...make it
           a double patty 11 "
         price: "22"
-        title: Grass-fed Beef Burger**
+        title: Grass-fed Beef Burger**  Boston's Best Award Winner
       - description: >-
           “The Oktoberfest”
 
