@@ -242,7 +242,7 @@ subgroups:
       - description: Fresh Pomegranate, Local Honey, Filo Dough, Pumpkin Custard
         price: "14"
         title: "Menu Addition: Warm Pumpkin Pistachio Baklava Crinkle"
-      - description: "Peanut Caramel Drizzle, Shredded Coconut, Amarena Cherry   "
+      - description: "Caramel Drizzle, Shredded Coconut, Amarena Cherry   "
         price: "14"
         title: "Menu Addition: Warm Pineapple Upside Down Cake"
       - description: "Crispy Layered Merengue Cookies, Mango
