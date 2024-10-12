@@ -146,14 +146,17 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
-      - title: "Menu Addition: Rosh Hashanah Beef Brisket Platter"
-        price: "29"
-        description: "Red Wine Braised Brisket, Potato Pancakes, Carrots, Pomegranate,
-          Horseradish Beet Crema "
+      - title: "Menu Addition: 'Shine Stuffed Peppers"
+        price: "28"
+        description: "Classic Cheesy Sausage Rice Stuffing, Rabe Pesto, Creamed Corn "
       - description: Honey Roasted Peanuts, Duck Confit, Duck Fat Roasted Brussel
           Sprouts, Vermicelli Rice Noodles, Thai Peanut Sauce
         price: "29"
         title: "Menu Addition: ‘Shine Tiki Duck Noodle Salad"
+      - title: "Menu Addition: Braised Beef Brisket Platter"
+        price: "29"
+        description: "Thick-cut Braised Brisket, Potato Pancakes, Red Wine Gravy,
+          Horseradish Crema, Fresh Pomegranate "
       - description: Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask! Also ask About our House
           Vegan Aioli!
