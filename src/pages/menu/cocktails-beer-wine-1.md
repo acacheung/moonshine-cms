@@ -65,9 +65,6 @@ subgroups:
       - description: 16 oz draft
         price: "8"
         title: Dorchester Brewing Co. Galaxy Session IPA
-      - description: "16 oz draft "
-        price: "8"
-        title: Jack's Abby "Pumpkin Crop"
       - description: 16 oz tallboy can
         price: "7"
         title: Jack's Abby Copper Legend Octoberfest
@@ -122,9 +119,6 @@ subgroups:
       - description: "16 oz tallboy can "
         price: "8"
         title: Aeronaut Brewing "Hop Hop Away" IPA
-      - description: 16oz Tallboy Can
-        price: "8.0"
-        title: Mighty Squirrel's "Guavaland" Sour Double IPA
       - description: "12 oz bottle "
         price: "7"
         title: "Stone IPA "
