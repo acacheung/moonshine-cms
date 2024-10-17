@@ -175,7 +175,7 @@ subgroups:
       - description: "Napa County, CA, USA "
         price: 15 / 58
         title: "(RED) 2022 Joel Gott Pinot Noir "
-      - description: "Columbia valley, WA, USA "
+      - description: "Columbia Valley, WA, USA "
         price: 14 / 47
         title: (red) 2019 Charles & Charles "Double Trouble" Cabernet/Syrah Blend
       - description: North Coast, CA (Napa, Sonoma & Mendocino counties)
