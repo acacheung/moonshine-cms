@@ -169,9 +169,9 @@ subgroups:
       - description: "Marlborough, New Zealand "
         price: 14 / 48
         title: "(White) 2020 Whitehaven Sauvignon  Blanc "
-      - description: Mendoza, Argentine
+      - description: Mendoza, Argentina
         price: 14 / 50
-        title: (red)2021 Argento Organic Malbec
+        title: (red) 2021 Argento Organic Malbec
       - description: "Napa County, CA, USA "
         price: 15 / 58
         title: "(RED) 2022 Joel Gott Pinot Noir "
