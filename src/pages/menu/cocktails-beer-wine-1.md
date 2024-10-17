@@ -157,7 +157,7 @@ subgroups:
       - description: Provence, France
         price: 15 / 58
         title: (rose) 2022 Whispering Angel Rose
-      - description: "Santa Barbera,CA, USA "
+      - description: "Santa Barbara, CA, USA "
         price: 13 / 45
         title: "(White) 2021 Seaglass Charonnay "
       - description: "Trentino, Italy "
