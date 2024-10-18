@@ -62,12 +62,18 @@ subgroups:
       - description: 16 oz draft
         price: "6"
         title: "Miller High Life "
+      - title: Jack's Abby "Banner City" Light Lager
+        price: "6"
+        description: "16 oz draft "
       - description: 16 oz draft
         price: "8"
         title: Dorchester Brewing Co. Galaxy Session IPA
       - description: 16 oz tallboy can
         price: "7"
         title: Jack's Abby Copper Legend Octoberfest
+      - title: Nightshift Brewing "Pie Scraper" Pumpkin Pie Ale
+        price: "8"
+        description: "16 oz tallboy can "
       - description: 355ml can
         price: "7"
         title: "Viva  tequila seltzer: Watermelon or Huckleberry"
@@ -140,53 +146,50 @@ subgroups:
     title: "Beer Menu "
   - description: "please note vintages are subject to change "
     items:
+      - title: (Red Wine Bottle Special:) 2019 Sancerre “Vieilles Vignes”
+        price: "60"
+        description: A 100% Pinot Noir Grown in the Sancerre Region in France, This Wine
+          is Fruity and Round with a Wonderful Depth and Fresh Finish. Great
+          with all Grilled Meats and Poultry
       - description: "Veneto, Italy "
         price: 12 / 45
         title: "(Sparkling) NV LaMarca Prosecco "
       - description: Veneto, ITALY
         price: 14     (187ml mini bottle)
-        title: "(sparkling rose) NV Canella Sparkling Rose "
+        title: "(sparkling rose) NV Canella Spumante Brut Rose "
       - description: "Columbia Valley, WA, USA "
         price: 13  /  46
-        title: (rose) 2022 Charles & Charles Rose
+        title: (rose) 2021 Charles & Charles Rose
       - description: Provence, France
         price: 15 / 58
-        title: (rose) 2023 Whispering Angel Rose
-      - title: (White Wine Bottle Special:) 2022 J Vineyards Winemaker's Selection
-          Chardonnay
-        price: "40"
-        description: "Monterrey, Sonoma & Napa County, CA, USA "
+        title: (rose) 2022 Whispering Angel Rose
+      - description: "Santa Barbera,CA, USA "
+        price: 13 / 45
+        title: "(White) 2021 Seaglass Charonnay "
       - description: "Trentino, Italy "
         price: 13  /  45
-        title: "(White) 2022 Torre di Luna Pinot Grigio "
-      - description: "Santa Barbara, CA, USA "
-        price: 13 / 45
-        title: "(White) 2022 Seaglass Chardonnay "
+        title: "(White) 2021 Torre di Luna Pinot Grigio "
       - description: Elqui Valley, Coquimbo, Chile
         price: 12 / 45
         title: (white) 2022 Mayu Pedro Ximenez
       - description: "Marlborough, New Zealand "
         price: 14 / 48
-        title: "(White) 2023 Whitehaven Sauvignon  Blanc "
-      - title: (Red Wine Bottle Special:) 2022 J Vineyards Winemaker's Selection Pinot
-          Noir
-        price: "50"
-        description: "Monterey, Sonoma County, and Santa Barbara, CA, USA "
-      - description: Mendoza, Argentina
+        title: "(White) 2020 Whitehaven Sauvignon  Blanc "
+      - description: Mendoza, Argentine
         price: 14 / 50
-        title: (red) 2021 Argento Organic Malbec
+        title: (red)2021 Argento Organic Malbec
       - description: "Napa County, CA, USA "
         price: 15 / 58
         title: "(RED) 2022 Joel Gott Pinot Noir "
-      - description: "Columbia Valley, WA, USA "
+      - description: "Columbia valley, WA, USA "
         price: 14 / 47
         title: (red) 2019 Charles & Charles "Double Trouble" Cabernet/Syrah Blend
       - description: North Coast, CA (Napa, Sonoma & Mendocino counties)
         price: 14 / 48
         title: (red) 2020 Contour Cabernet Sauvignon
-      - description: "Loire, France "
-        price: 15 / 60
-        title: '(red) 2019 Domaine Raimbalt Sancerre "Vieilles Vignes" '
+      - description: "Piedmont, Italy "
+        price: "14 / 50 "
+        title: "(red) 2021 Bava Libera Barbera d'Asti "
     title: Wine List
   - items:
       - description: "White & Red Cranberry Juices, Fresh Lemonade "
@@ -194,7 +197,7 @@ subgroups:
         title: Squeeze The Day (mocktail)
       - description: "Pineapple Juice, Fresh Lime, Fever Tree Ginger Beer "
         price: "7"
-        title: "Pineapple Ginger  Mule (mocktail) "
+        title: "Pineapple Mule (mocktail) "
       - price: "4"
         title: "Unsweetened Iced Tea "
       - price: "5"
