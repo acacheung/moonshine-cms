@@ -8,6 +8,10 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
+      - title: "Menu Addition: Hot Honey Stuffed Scallion Pancakes"
+        price: 19 regular / 29 grande
+        description: Pan-Seared Beef & Noodle Stuffed Scallion Pancakes, Pickled Ginger,
+          Go-Go Sauce
       - description: Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy
           Pesto Dressing, Aged Balsamic
         price: 18 regular / 29 grande
