@@ -56,6 +56,10 @@ subgroups:
     title: "Cheers To The Weekend! "
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
+      - price: "15"
+        description: "Local Cinnamon Apple Pie Filling, House Almond Frangipane Creme,
+          Honey Pressed Croissant "
+        title: "Menu Addition: Caramel Apple-Almond Croissant"
       - description: "Warm Crisp Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
           Quinoa, Parmesan,                              Creamy Pesto Dressing,
