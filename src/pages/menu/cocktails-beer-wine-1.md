@@ -68,9 +68,6 @@ subgroups:
       - description: 16 oz draft
         price: "8"
         title: Dorchester Brewing Co. Galaxy Session IPA
-      - description: 16 oz tallboy can
-        price: "7"
-        title: Jack's Abby Copper Legend Octoberfest
       - title: Nightshift Brewing "Pie Scraper" Pumpkin Pie Ale
         price: "8"
         description: "16 oz tallboy can "
