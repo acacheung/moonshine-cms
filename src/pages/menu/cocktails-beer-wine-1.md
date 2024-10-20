@@ -63,7 +63,7 @@ subgroups:
         price: "6"
         title: "Miller High Life "
       - title: Jack's Abby "Banner City" Light Lager
-        price: "6"
+        price: "7"
         description: "16 oz draft "
       - description: 16 oz draft
         price: "8"
