@@ -150,9 +150,6 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
-      - title: "Menu Addition: 'Shine Stuffed Peppers"
-        price: "28"
-        description: "Classic Cheesy Sausage Rice Stuffing, Rabe Pesto, Creamed Corn "
       - description: Honey Roasted Peanuts, Duck Confit, Duck Fat Roasted Brussel
           Sprouts, Vermicelli Rice Noodles, Thai Peanut Sauce
         price: "29"
