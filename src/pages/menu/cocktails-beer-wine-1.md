@@ -113,6 +113,9 @@ subgroups:
       - description: "16 oz tallboy can "
         price: "7"
         title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
+      - title: Allagash White
+        price: "7"
+        description: "16 oz tallboy can "
       - description: "12 oz bottle "
         price: "7"
         title: Kona Brewing "Big Wave" Golden Ale
@@ -122,6 +125,9 @@ subgroups:
       - description: "16 oz tallboy can "
         price: "8"
         title: Aeronaut Brewing "Hop Hop Away" IPA
+      - title: Castle Island Brewing "Keeper" IPA
+        price: "8"
+        description: "16 oz tallboy can "
       - description: "12 oz bottle "
         price: "7"
         title: "Stone IPA "
