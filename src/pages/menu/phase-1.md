@@ -8,14 +8,19 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
-      - title: "Menu Addition: Hot Honey Stuffed Scallion Pancakes"
-        price: 19 regular / 29 grande
-        description: Pan-Seared Beef & Noodle Stuffed Scallion Pancakes, Pickled Ginger,
-          Go-Go Sauce
+      - description: >
+          Roasted Beets, Crumbled Blue Cheese, Sesame Candied Walnuts, Mandarin
+          Oranges, Maple Cider Vinaigrette 
+        price: "18 regular / 28 "
+        title: "Menu Addition: Autumn Roasted Beet & Blue Salad "
       - description: Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy
           Pesto Dressing, Aged Balsamic
         price: 18 regular / 29 grande
         title: "Menu Addition: Warm Crispy Artichoke Salad"
+      - title: "Menu Addition: Hot Honey Stuffed Scallion Pancakes"
+        price: 19 regular / 29 grande
+        description: Pan-Seared Beef & Noodle Stuffed Scallion Pancakes, Pickled Ginger,
+          Go-Go Sauce
       - description: "Shredded Beef & Cheese Tacos, Pickled Red Cabbage Salsa, Smoky
           Sriracha Mayo,   & Birria Dipping Jus  "
         price: "$18 (2 tacos) / $28 (4 tacos)  "
