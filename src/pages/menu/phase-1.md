@@ -20,9 +20,6 @@ subgroups:
           Sriracha Mayo,   & Birria Dipping Jus  "
         price: "$18 (2 tacos) / $28 (4 tacos)  "
         title: "Menu Addition: Pan-Fried Carnitas Birria Gringo Tacos         "
-      - title: "Menu Addition: 'Shine Stuffed Peppers"
-        price: "28"
-        description: "Classic Cheesy Sausage Rice Stuffing, Rabe Pesto, Creamed Corn "
       - description: Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
         price: 14 regular / 24 grande
