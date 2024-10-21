@@ -149,11 +149,6 @@ subgroups:
     title: "Beer Menu "
   - description: "please note vintages are subject to change "
     items:
-      - title: (Red Wine Bottle Special:) 2019 Sancerre “Vieilles Vignes”
-        price: "60"
-        description: A 100% Pinot Noir Grown in the Sancerre Region in France, This Wine
-          is Fruity and Round with a Wonderful Depth and Fresh Finish. Great
-          with all Grilled Meats and Poultry
       - description: "Veneto, Italy "
         price: 12 / 45
         title: "(Sparkling) NV LaMarca Prosecco "
@@ -190,9 +185,6 @@ subgroups:
       - description: North Coast, CA (Napa, Sonoma & Mendocino counties)
         price: 14 / 48
         title: (red) 2020 Contour Cabernet Sauvignon
-      - description: "Piedmont, Italy "
-        price: "14 / 50 "
-        title: "(red) 2021 Bava Libera Barbera d'Asti "
     title: Wine List
   - items:
       - description: "White & Red Cranberry Juices, Fresh Lemonade "
