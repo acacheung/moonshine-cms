@@ -6,8 +6,11 @@ order: 1
 subgroups:
   - description: ""
     items:
-      - description: '"Pina Colada" Lemon Jello, Cream of Coconut, Pineapple Glaze,
-          Chantilly Whipped Cream, Toasted Coconut'
+      - description: >
+          Halloween Boo-Berry Saketini: Japanese Junmai Sake, Mandarin Orange
+          Jello, 
+
+          Blueberry Preserves, Edible Glitter
         price: "6"
         title: Rotating Jello Shots
       - description: Kalamansi Lemon, Fresh Cucumber Juice, Watermelon Liqueur, Litchi
@@ -161,6 +164,11 @@ subgroups:
       - description: Provence, France
         price: 15 / 58
         title: (rose) 2022 Whispering Angel Rose
+      - description: |
+          Monterrey, Sonoma & Napa County, CA, USA 
+        price: $40/bottle
+        title: "(White) Treat Yo'Self Bottle Special: 2022 J Vineyards Winemaker’s
+          Selection Chardonnay "
       - description: "Santa Barbera,CA, USA "
         price: 13 / 45
         title: "(White) 2021 Seaglass Charonnay "
@@ -185,6 +193,9 @@ subgroups:
       - description: North Coast, CA (Napa, Sonoma & Mendocino counties)
         price: 14 / 48
         title: (red) 2020 Contour Cabernet Sauvignon
+      - title: '(red) 2019 Domaine Rimbault "Vielles Vignes" Sancerre '
+        price: 15 / 58
+        description: France, Loire Valley, Sancerre
     title: Wine List
   - items:
       - description: "White & Red Cranberry Juices, Fresh Lemonade "
