@@ -13,10 +13,6 @@ subgroups:
           Blueberry Preserves, Edible Glitter
         price: "6"
         title: Rotating Jello Shots
-      - description: Kalamansi Lemon, Fresh Cucumber Juice, Watermelon Liqueur, Litchi
-          Popping Boba, Prosecco
-        price: "15"
-        title: Asia Does Bar Stuff
       - description: "Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
           Just ask for Baileys Irish Cream!) "
         price: "16"
