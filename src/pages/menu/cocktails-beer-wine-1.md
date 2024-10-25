@@ -55,9 +55,6 @@ subgroups:
       - description: "16 oz draft "
         price: "12"
         title: Maine Beer Company's Lunch IPA
-      - description: "16 oz draft "
-        price: "8"
-        title: Harpoon IPA
       - description: 16 oz draft
         price: "6"
         title: "Miller High Life "
