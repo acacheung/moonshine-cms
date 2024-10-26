@@ -152,6 +152,11 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
+      - description: "Honeycrisp Apple, Cranberry-Pecan Bread, Fried Sage    …add french
+          fries $5  …add petite mixed greens salad $5 "
+        title: "Menu Addition: Fall Candied Bacon Grilled Cheese Sandwich  & Spicy
+          Tomato Soup "
+        price: "28"
       - title: "Menu Addition: Braised Beef Brisket Platter"
         price: "29"
         description: "Thick-cut Braised Brisket, Potato Pancakes, Red Wine Gravy,
