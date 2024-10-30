@@ -19,8 +19,8 @@ subgroups:
         title: "Menu Addition: Warm Crispy Artichoke Salad"
       - title: "Menu Addition: Hot Honey Stuffed Scallion Pancakes"
         price: 19 regular / 29 grande
-        description: Pan-Seared Beef & Noodle Stuffed Scallion Pancakes, Pickled Ginger,
-          Go-Go Sauce
+        description: Pan-Seared Beef & Noodle Stuffed Scallion Pancakes, House B&B
+          Pickles, Go-Go Sauce
       - description: "Shredded Beef & Cheese Tacos, Pickled Red Cabbage Salsa, Smoky
           Sriracha Mayo,   & Birria Dipping Jus  "
         price: "$18 (2 tacos) / $28 (4 tacos)  "
@@ -113,10 +113,9 @@ subgroups:
           Sriracha Mayo,   & Birria Dipping Jus  "
         price: " 18 regular (2) / 28 grande (4)"
         title: "Menu Addition: Pan Fried Carnitas Birria Tacos"
-      - description: "Tempura Veggie Burger Bites, Pickled Red Cabbage, Toasted Cumin
-          Crema, Tomato Salsa *Available Vegan "
+      - description: Oaxacan Cheese, Smashed Avocado, Toasted Cumin Cream, Salsa Fresca
         price: 16 regular / 24 grande
-        title: CRISPY MUSHROOM TOFU TACOS
+        title: Roasted Cauliflower TACOS
       - description: Beer battered tempura cod, mango-cabbage slaw, sweet chili, ginger
           aioli
         price: 17 regular / 25 grande
