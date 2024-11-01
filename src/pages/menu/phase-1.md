@@ -169,12 +169,14 @@ subgroups:
           fries .... Make it a double patty 11
         price: "22"
         title: GRASS-FED ’SHINE BEEF BURGER**  Boston's Best Award Winner
-      - description: >-
-          “The Oktoberfest”
-
-          Pretzel Bun, Warm Bacony German Potato Salad, Smoked Gouda, Honey Mustard, Beer Braised Apple-Kraut                                                                                                                               ….add extra cheese $2 ..add jalapeno bacon $4                                   …add fried egg $2  …add  jalapenos $2  …add avocado $3                                                
+      - description: '"The Friendsgiving Burger” topped with Chorizo Cornbread Stuffing,
+          Crumbled Goat Cheese, Fried Sage on a Buttered Potato
+          Bun                                                                                                                                                  ….add
+          cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg
+          $2  …add  jalapenos $2  …add avocado
+          $3                                                                                                                                                                          '
         price: "27"
-        title: October's 2024 VIP burger of the month
+        title: November's 2024 VIP burger of the month
       - description: Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
         price: "29"
