@@ -170,7 +170,8 @@ subgroups:
         price: "22"
         title: GRASS-FED ’SHINE BEEF BURGER**  Boston's Best Award Winner
       - description: '"The Friendsgiving Burger” topped with Chorizo Cornbread Stuffing,
-          Crumbled Goat Cheese, Fried Sage on a Buttered Potato
+          Gravy, Maple Cranberries, Crumbled Goat Cheese, Fried Sage on a Honey
+          Buttered Potato
           Bun                                                                                                                                                  ….add
           cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg
           $2  …add  jalapenos $2  …add avocado
