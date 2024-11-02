@@ -14,7 +14,7 @@ subgroups:
         price: "6"
         title: Rotating Jello Shots
       - title: (Rotating Hot) Hot Buttered Rum Cider
-        price: "15"
+        price: "16"
         description: Caramel Spiced Apple Cider, Spiced Rum, Cinnamon Honey Butter
       - description: "Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
           Just ask for Baileys Irish Cream!) "
