@@ -13,6 +13,9 @@ subgroups:
           Blueberry Preserves, Edible Glitter
         price: "6"
         title: Rotating Jello Shots
+      - title: (Rotating Hot) Hot Buttered Rum Cider
+        price: "15"
+        description: Caramel Spiced Apple Cider, Spiced Rum, Cinnamon Honey Butter
       - description: "Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
           Just ask for Baileys Irish Cream!) "
         price: "16"
@@ -26,7 +29,7 @@ subgroups:
         title: Fly Me To The Moon
       - description: "Aperol, Prosecco Bubbles, Pineapple, Cinnamon Simple, Fresh Lemon "
         price: "14"
-        title: Patio Crusher
+        title: Endless Summer
       - description: "Mediterranean Red Wine Blend, Housemade Ginger Liqueur, Brandy,
           Hibiscus, Fresh Citrus Juices "
         price: "14"
@@ -49,10 +52,6 @@ subgroups:
       - title: Call Me Maple
         price: "15"
         description: Rye Whiskey, Maple Syrup, Fresh Lemon, Cinnamon Simple
-      - title: You Like Apples?
-        price: "15"
-        description: Spiced Rum, Fall  Spiced Apple Cider  Shrub, Fresh Lemon Juice,
-          Downeast Cider Float
     title: "’Shine Specialty Cocktails "
   - description: "please note this menu is subject to change "
     items:
@@ -201,6 +200,9 @@ subgroups:
       - description: "Pineapple Juice, Fresh Lime, Fever Tree Ginger Beer "
         price: "7"
         title: "Pineapple Mule (mocktail) "
+      - title: Johnny Apple-Mule (mocktail)
+        price: "7"
+        description: Spiced Apple Shrub, Lemon Juice, Ginger Beer
       - price: "4"
         title: "Unsweetened Iced Tea "
       - price: "5"
