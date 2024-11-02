@@ -13,9 +13,10 @@ subgroups:
           Blueberry Preserves, Edible Glitter
         price: "6"
         title: Rotating Jello Shots
-      - title: (Rotating Hot) Hot Buttered Rum Cider
+      - title: (Rotating Hot) Chef Asia's Salted Caramel Apple Cider
         price: "16"
-        description: Caramel Spiced Apple Cider, Spiced Rum, Cinnamon Honey Butter
+        description: "Hot Cinnamon-Honey Buttered Rum, Fresh Orchard Apple Cider, Salted
+          Caramel Drizzle "
       - description: "Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
           Just ask for Baileys Irish Cream!) "
         price: "16"
