@@ -156,10 +156,6 @@ subgroups:
         title: "Menu Addition: Fall Candied Bacon Grilled Cheese Sandwich  & Spicy
           Tomato Soup "
         price: "28"
-      - title: "Menu Addition: Braised Beef Brisket Platter"
-        price: "29"
-        description: "Thick-cut Braised Brisket, Potato Pancakes, Red Wine Gravy,
-          Horseradish Crema, Fresh Pomegranate "
       - description: Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask! Also ask About our House
           Vegan Aioli!
