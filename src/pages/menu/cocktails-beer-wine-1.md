@@ -57,16 +57,19 @@ subgroups:
     items:
       - description: "16 oz draft "
         price: "12"
-        title: Maine Beer Company's Lunch IPA
+        title: (draft) Maine Beer Company's Lunch IPA
       - description: 16 oz draft
         price: "6"
-        title: "Miller High Life "
-      - title: Jack's Abby "Banner City" Light Lager
+        title: "(draft) Miller High Life "
+      - title: (draft) Jack's Abby "Banner City" Light Lager
         price: "7"
         description: "16 oz draft "
       - description: 16 oz draft
         price: "8"
-        title: Dorchester Brewing Co. Galaxy Session IPA
+        title: (draft) Dorchester Brewing Co. Galaxy Session IPA
+      - title: (Draft) Harpoon IPA
+        price: "7"
+        description: 16oz draft
       - title: Nightshift Brewing "Pie Scraper" Pumpkin Pie Ale
         price: "8"
         description: "16 oz tallboy can "
