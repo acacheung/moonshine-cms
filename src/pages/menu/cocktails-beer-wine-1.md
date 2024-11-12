@@ -126,8 +126,8 @@ subgroups:
         price: "7"
         title: Bell's Oberon Wheat Ale
       - description: "16 oz tallboy can "
-        price: "8"
-        title: Aeronaut Brewing "Hop Hop Away" IPA
+        price: "10"
+        title: Lord Hobo "BoomSauce" Double IPA
       - title: Castle Island Brewing "Keeper" IPA
         price: "8"
         description: "16 oz tallboy can "
@@ -146,9 +146,6 @@ subgroups:
       - description: "12 oz can "
         price: "6"
         title: Athletic Brewing co "Free Wave" IPA  (non-alcoholic)
-      - description: 12 oz can
-        price: "6"
-        title: Athletic Brewing co " All-out" dark beer(non-alcoholic)
     title: "Beer Menu "
   - description: "please note vintages are subject to change "
     items:
@@ -204,9 +201,6 @@ subgroups:
       - description: "Pineapple Juice, Fresh Lime, Fever Tree Ginger Beer "
         price: "7"
         title: "Pineapple Mule (mocktail) "
-      - title: Johnny Apple-Mule (mocktail)
-        price: "7"
-        description: Spiced Apple Shrub, Lemon Juice, Ginger Beer
       - price: "4"
         title: "Unsweetened Iced Tea "
       - price: "5"
