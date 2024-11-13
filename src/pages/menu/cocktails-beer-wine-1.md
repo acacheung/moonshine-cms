@@ -82,7 +82,7 @@ subgroups:
         title: "High Noon Hard Seltzer: Pineapple or Black Cherry"
       - description: "12 oz bottle "
         price: "6"
-        title: "Budweiser / Bud Light "
+        title: Budweiser
       - description: 12 oz bottle
         price: "6"
         title: Michelob Ultra
