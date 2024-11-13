@@ -201,27 +201,27 @@ subgroups:
       - description: "Pineapple Juice, Fresh Lime, Fever Tree Ginger Beer "
         price: "7"
         title: "Pineapple Mule (mocktail) "
-      - price: "4"
+      - price: "5"
         title: "Unsweetened Iced Tea "
-      - price: "5"
+      - price: "6"
         title: Fresh-Made Lemonade
-      - price: "5"
+      - price: "6"
         title: Fresh-Made Limeade
-      - price: "4 small  / 8 large "
+      - price: "5 small  / 9 large "
         title: Saratoga Springs Bottled Sparkling Water
       - description: "Apple, Orange, Grapefruit, Pineapple, Cranberry, Pear Nectar,
           White Cranberry "
         price: "5"
         title: Assorted Juices
       - description: Coca-Cola, Diet Coke, Sprite, Ginger Ale, Root Beer
-        price: "3"
+        price: "4"
         title: Sodas
-      - price: "5"
+      - price: "6"
         title: Fever-Tree Lime Yuzu Soda
-      - price: "5"
+      - price: "6"
         title: Fever-Tree Premium Ginger Beer
       - description: "Original, Sugar Free or Tropical "
-        price: "4.50"
+        price: "5"
         title: Red Bull
     title: "Non-Alcoholic "
   - description: ""
