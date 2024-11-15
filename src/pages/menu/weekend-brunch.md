@@ -246,6 +246,10 @@ subgroups:
     title: All the sides & Fixin’s
   - description: " (Dessert)"
     items:
+      - price: "14"
+        description: Toasted Walnut Carrot Cake with Baked in Cream Cheese Ribbons,
+          Crispy Carrot Chips and Sea Salted Caramel
+        title: "Menu Addition: Cream Cheese Carrot Cake"
       - description: Fresh Pomegranate, Local Honey, Filo Dough, Pumpkin Custard
         price: "14"
         title: "Menu Addition: Warm Pumpkin Pistachio Baklava Crinkle"
