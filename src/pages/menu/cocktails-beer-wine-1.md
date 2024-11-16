@@ -74,6 +74,9 @@ subgroups:
       - title: Nightshift Brewing "Pie Scraper" Pumpkin Pie Ale
         price: "8"
         description: "16 oz tallboy can "
+      - title: Boulevard "Dark Truth" Imperial Stout
+        price: "9"
+        description: 12 oz Bottle
       - description: 355ml can
         price: "7"
         title: "Viva  tequila seltzer: Watermelon or Huckleberry"
