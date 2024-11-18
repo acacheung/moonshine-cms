@@ -183,13 +183,13 @@ subgroups:
         title: "(White) 2020 Whitehaven Sauvignon  Blanc "
       - description: Mendoza, Argentine
         price: 14 / 50
-        title: (red)2021 Argento Organic Malbec
+        title: (red) 2022 Argento Organic Malbec
       - description: "Napa County, CA, USA "
         price: 15 / 58
         title: "(RED) 2022 Joel Gott Pinot Noir "
       - description: "Columbia valley, WA, USA "
         price: 14 / 47
-        title: (red) 2019 Charles & Charles "Double Trouble" Cabernet/Syrah Blend
+        title: (red) 2020 Charles & Charles "Double Trouble" Cabernet/Syrah Blend
       - description: North Coast, CA (Napa, Sonoma & Mendocino counties)
         price: 14 / 48
         title: (red) 2020 Contour Cabernet Sauvignon
