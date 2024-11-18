@@ -18,16 +18,16 @@ subgroups:
           Cream, Berry Sauce   (gluten-free, available vegan!)      "
         price: "13"
         title: "Menu Addition: Tropical Mango Pavlova "
-      - description: Coffee Ice Cream, Hazelnut Chocolate Ganache, Salted Caramel Sauce,
-          Whipped Cream, Chocolate Dipped Espresso Beans
-        price: "15"
-        title: Belgian Waffle Ice Cream Sundae
       - description: Chantilly whipped cream, toasted oat-amaranth streusel
         price: "12"
         title: Moonshine’s Butterscotch Pudding
       - description: Powdered sugar, nutella chocolate fudge sauce
         price: "12"
         title: Jaime’s Favorite Oreo Cookie Layered Fudge Brownie
+      - description: Coffee Ice Cream, Hazelnut Chocolate Ganache, Salted Caramel Sauce,
+          Whipped Cream, Chocolate Dipped Espresso Beans
+        price: "15"
+        title: Belgian Waffle Ice Cream Sundae
       - description: Coconut
         price: "11"
         title: "Chef's Whim Sorbet (vegan) "
