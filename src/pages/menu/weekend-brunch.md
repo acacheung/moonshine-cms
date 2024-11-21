@@ -6,9 +6,8 @@ order: 3
 subgroups:
   - description: "Brunch Cocktails & Beverages "
     items:
-      - description: >
-          Piña Colada: Lemon Jello, Cream of Coconut, Pineapple Glaze, Chantilly
-          Whipped Cream, Toasted Coconut
+      - description: "Spicy Smokey Margarita: Tanteo Chipotle Spiced Tequila, Lime
+          Jello, Fresh Citrus Zest "
         price: "6"
         title: Chef Asia's Rotating Jello Shots
       - description: >
