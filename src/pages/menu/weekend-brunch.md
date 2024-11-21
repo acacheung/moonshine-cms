@@ -65,10 +65,6 @@ subgroups:
           Aged Balsamic       "
         price: 18 regular / 29 grande
         title: "Menu Addition: crispy artichoke salad "
-      - description: Scrambled Eggs, Tortillas, Tomato Cabbage Salsa, Black Beans, Cumin
-          Sour Cream
-        price: "26"
-        title: "Menu Addition: Huevos Rancheros"
       - description: Local honey, Fresh berries, Oat-Flax-Chia Seed Granola Crunch **add
           a warm house belgian waffle $9**
         price: 9 / 14
@@ -105,10 +101,6 @@ subgroups:
           Blanco, Olive Oil Toast Points
         price: "27"
         title: "Menu Addition: Mediterranean 'Shine Shakshuka"
-      - description: Scrambled Eggs, Tortillas, Tomato Cabbage Salsa, Black Beans, Cumin
-          Sour Cream
-        price: "26"
-        title: "Menu Addition: Huevos Rancheros"
       - description: "Tender  Beef Brisket wrapped in a  Scallion Pancake
           with                                        Pho Noodle Salad &  Bacony
           Pho Bone Broth for Dipping   "
@@ -150,15 +142,13 @@ subgroups:
     title: The Main Affair
   - description: Our all-time favorite dishes, available whenever the kitchen is open!
     items:
-      - description: >
-          Coconut Milk, Cranberries, Thai Spiced Potatoes &
-          Veggies...........................................................................
+      - description: >+
+          Hungarian Mushroom Bisque (vegetarian & gluten-free): Creamy Porcini
+          Mushroom Soup, 
+           Smoked Paprika 
 
-          ** Add Your Favorite Protein or Upgrade to:
-
-          Curry Fries, Tots or Rice Plates $17/ $28
         price: 14 / 24
-        title: "Chef’s Whim Soup for the Soul: Penang Pumpkin Curry (Vegan, GF)"
+        title: Chef’s Whim Soup for the Soul
       - description: >
           Heirloom quinoa, sautéed kale, creamy Caesar dressing, wonton crisps,
           fresh pomegranate, shaved pecorino cheese
