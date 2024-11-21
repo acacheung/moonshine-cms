@@ -7,10 +7,8 @@ subgroups:
   - description: ""
     items:
       - description: >
-          Halloween Boo-Berry Saketini: Japanese Junmai Sake, Mandarin Orange
-          Jello, 
-
-          Blueberry Preserves, Edible Glitter
+          Spicy Smokey Margarita: Tanteo Chipotle Spiced Tequila, Lime Jello,
+          Fresh Citrus Zest 
         price: "6"
         title: Rotating Jello Shots
       - title: (Rotating Hot) Chef Asia's Salted Caramel Apple Cider
