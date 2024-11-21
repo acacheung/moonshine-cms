@@ -56,14 +56,11 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >
-          Coconut Milk, Cranberries, Thai Spiced Potatoes & Veggies. (Vegan,
-          GF)..................................................................................................................................
-
-          ** Add Your Favorite Protein or Upgrade to:
-
-          Curry Fries, Tots or Rice Plates $17/ $28
+          Hungarian Mushroom Bisque (vegetarian & gluten-free): Creamy Porcini
+          Mushroom Soup, 
+           Smoked Paprika 
         price: "14 regular / 24 grande "
-        title: "chef's whim soup of the day: Penang Pumpkin Curry "
+        title: chef's whim soup of the day
       - description: Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton
           crisps, Shaved pecorino cheese
         price: 17 regular / 28 grande
