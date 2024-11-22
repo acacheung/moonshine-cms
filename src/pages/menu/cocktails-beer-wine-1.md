@@ -191,9 +191,9 @@ subgroups:
       - description: North Coast, CA (Napa, Sonoma & Mendocino counties)
         price: 14 / 48
         title: (red) 2020 Contour Cabernet Sauvignon
-      - title: '(red) 2019 Domaine Rimbault "Vielles Vignes" Sancerre '
-        price: 15 / 58
-        description: France, Loire Valley, Sancerre
+      - title: "(red) 2022 Bava \"Libera\" Barbera d' Asti "
+        price: 14 / 50
+        description: Italy
     title: Wine List
   - items:
       - description: "White & Red Cranberry Juices, Fresh Lemonade "
