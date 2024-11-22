@@ -57,8 +57,7 @@ subgroups:
     items:
       - description: >
           Hungarian Mushroom Bisque (vegetarian & gluten-free): Creamy Porcini
-          Mushroom Soup, 
-           Smoked Paprika 
+          Mushroom Soup,   Smoked Paprika 
         price: "14 regular / 24 grande "
         title: chef's whim soup of the day
       - description: Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton
@@ -149,11 +148,11 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
-      - title: "Menu Addition: Braised Beef Brisket Platter"
+      - title: "Menu Addition: Louisiana Braised Rabbit Pasta"
         price: "29"
-        description: |
-          Thick-cut  Braised Brisket, Potato Pancakes, Red Wine Gravy,
-           Horseradish Crema, Fresh Pomegranate
+        description: >
+          Red Wine Braised Rabbit, Campanelle Pasta, Toasted Hazelnut,
+          Louisiana-Tomato Cream Sauce
       - description: "Honeycrisp Apple, Cranberry-Pecan Bread, Fried Sage    …add french
           fries $5  …add petite mixed greens salad $5 "
         title: "Menu Addition: Fall Candied Bacon Grilled Cheese Sandwich  & Spicy
