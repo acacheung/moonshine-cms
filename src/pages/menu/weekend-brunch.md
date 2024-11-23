@@ -97,6 +97,10 @@ subgroups:
     title: To Get Ya Started!
   - description: " (Entrees)"
     items:
+      - title: "menu addition: Twin Mei-Griddle Breakfast Sammies"
+        price: "26"
+        description: "Maple Drizzled Potato Pancakes, Breakfast Sausage, Scrambled Egg,
+          Cheddar Cheese, Spiced Homefries "
       - description: Spiced Tomato & Chickpea Baked Eggs, Basil Mayo, Crumbled Queso
           Blanco, Olive Oil Toast Points
         price: "27"
@@ -144,8 +148,7 @@ subgroups:
     items:
       - description: >+
           Hungarian Mushroom Bisque (vegetarian & gluten-free): Creamy Porcini
-          Mushroom Soup, 
-           Smoked Paprika 
+          Mushroom Soup,   Smoked Paprika 
 
         price: 14 / 24
         title: Chef’s Whim Soup for the Soul
