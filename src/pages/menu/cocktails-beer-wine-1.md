@@ -69,9 +69,6 @@ subgroups:
       - title: (Draft) Harpoon IPA
         price: "7"
         description: 16oz draft
-      - title: Nightshift Brewing "Pie Scraper" Pumpkin Pie Ale
-        price: "8"
-        description: "16 oz tallboy can "
       - title: Boulevard "Dark Truth" Imperial Stout
         price: "9"
         description: 12 oz Bottle
