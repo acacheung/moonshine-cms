@@ -19,7 +19,7 @@ subgroups:
         title: "Menu Addition: Warm Crispy Artichoke Salad"
       - title: "Menu Addition: Hot Honey Stuffed Scallion Pancakes"
         price: 19 regular / 29 grande
-        description: Pan-Seared Beef & Noodle Stuffed Scallion Pancakes, House B&B
+        description: Pan-Seared Chorizo & Noodle Stuffed Scallion Pancakes, House B&B
           Pickles, Go-Go Sauce
       - description: "Shredded Beef & Cheese Tacos, Pickled Red Cabbage Salsa, Smoky
           Sriracha Mayo,   & Birria Dipping Jus  "
