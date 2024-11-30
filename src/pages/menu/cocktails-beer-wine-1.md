@@ -78,12 +78,6 @@ subgroups:
       - description: "12 oz can "
         price: "7"
         title: High Noon Hard Seltzer Black Cherry
-      - description: "12 oz bottle "
-        price: "6"
-        title: Budweiser
-      - description: 12 oz bottle
-        price: "6"
-        title: Michelob Ultra
       - description: 12 oz Bottle
         price: "6"
         title: "Stella Artois "
