@@ -55,6 +55,11 @@ subgroups:
     title: "Cheers To The Weekend! "
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
+      - description: >
+          Savory Crispy Cheesy Garlic Potato Fritters, Sweet Chili-Teriyaki
+          Glaze, House Furikake Everything Spice *gluten-free & vegetarian 
+        title: "Menu addition: Japanese Cheesy Potato  Mochi Pancakes "
+        price: 17 regular / 29 grande
       - price: "15"
         description: "Local Cinnamon Apple Pie Filling, House Almond Frangipane Creme,
           Honey Pressed Croissant "
