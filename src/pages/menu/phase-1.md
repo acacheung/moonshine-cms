@@ -8,6 +8,12 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
+      - description: |-
+          Savory Crispy Cheesy Garlic Potato Fritters, 
+          Sweet Chili-Teriyaki Glaze, House Furikake Everything Spice 
+          *gluten-free & vegetarian 
+        price: "17 regular / 29 grande "
+        title: "Menu addition: Japanese Cheesy Potato Mochi Pancakes"
       - description: >
           Roasted Beets, Crumbled Blue Cheese, Sesame Candied Walnuts, Mandarin
           Oranges, Maple Cider Vinaigrette 
