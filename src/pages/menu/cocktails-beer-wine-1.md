@@ -108,15 +108,15 @@ subgroups:
       - description: "16 oz tallboy can "
         price: "7"
         title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
+      - description: "16 oz Tallboy can "
+        price: "7"
+        title: Bell's Oberon Wheat Ale
       - title: Allagash White
         price: "7"
         description: "16 oz tallboy can "
       - description: "12 oz bottle "
         price: "7"
         title: Kona Brewing "Big Wave" Golden Ale
-      - description: "16 oz Tallboy can "
-        price: "7"
-        title: Bell's Oberon Wheat Ale
       - description: "16 oz tallboy can "
         price: "10"
         title: Lord Hobo "BoomSauce" Double IPA
