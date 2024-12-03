@@ -14,11 +14,6 @@ subgroups:
           *gluten-free & vegetarian 
         price: "17 regular / 29 grande "
         title: "Menu addition: Japanese Cheesy Potato Mochi Pancakes"
-      - description: >
-          Roasted Beets, Crumbled Blue Cheese, Sesame Candied Walnuts, Mandarin
-          Oranges, Maple Cider Vinaigrette 
-        price: "18 regular / 28 "
-        title: "Menu Addition: Autumn Roasted Beet & Blue Salad "
       - description: Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy
           Pesto Dressing, Aged Balsamic
         price: 18 regular / 29 grande
@@ -173,11 +168,13 @@ subgroups:
           fries .... Make it a double patty 11
         price: "22"
         title: GRASS-FED ’SHINE BEEF BURGER**  Boston's Best Award Winner
-      - description: >-
-          Colombian “Arepa de Chocolo” Burger  topped with Chef Asia’s Favorite
-          Sweet Corn Griddle Cake, Queso Fresco & Guava
-          Candy                                                                                                                                                 
-                                                                                                                                                          ….add cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg $2  …add  jalapenos $2  …add avocado $3                                                                                                                                                                          
+      - description: "Colombian “Arepa de Chocolo” Burger  topped with Chef Asia’s
+          Favorite Sweet Corn Griddle Cake, Queso Fresco & Guava
+          Candy                                                                                                                                                                                                                                                                                                  \
+          ….add cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg
+          $2  …add  jalapenos $2  …add avocado
+          $3                                                                                                                                                                          \
+          "
         price: "27"
         title: December's 2024 VIP burger of the month
       - description: Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
