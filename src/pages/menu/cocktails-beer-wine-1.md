@@ -13,8 +13,8 @@ subgroups:
         title: Rotating Jello Shots
       - title: (Rotating Hot) Chef Asia's Salted Caramel Apple Cider
         price: "16"
-        description: "Hot Cinnamon-Honey Buttered Rum, Fresh Orchard Apple Cider, Salted
-          Caramel Drizzle "
+        description: Hot Cinnamon-Honey Buttered Rum, Fresh Orchard Apple Cider, Salted
+          Caramel Drizzle **contains dairy
       - description: "Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
           Just ask for Baileys Irish Cream!) "
         price: "16"
@@ -69,9 +69,6 @@ subgroups:
       - title: (Draft) Harpoon IPA
         price: "7"
         description: 16oz draft
-      - title: Boulevard "Dark Truth" Imperial Stout
-        price: "9"
-        description: 12 oz Bottle
       - description: 355ml can
         price: "7"
         title: "Viva  tequila seltzer: Watermelon or Huckleberry"
@@ -108,15 +105,15 @@ subgroups:
       - description: "16 oz tallboy can "
         price: "7"
         title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
+      - description: "12 oz bottle "
+        price: "7"
+        title: Kona Brewing "Big Wave" Golden Ale
       - description: "16 oz Tallboy can "
         price: "7"
         title: Bell's Oberon Wheat Ale
       - title: Allagash White
         price: "7"
         description: "16 oz tallboy can "
-      - description: "12 oz bottle "
-        price: "7"
-        title: Kona Brewing "Big Wave" Golden Ale
       - description: "16 oz tallboy can "
         price: "10"
         title: Lord Hobo "BoomSauce" Double IPA
@@ -129,6 +126,9 @@ subgroups:
       - description: "16 oz nitro can "
         price: "7"
         title: "Guinness Nitro Stout "
+      - title: Boulevard "Dark Truth" Imperial Stout
+        price: "9"
+        description: 12 oz Bottle
       - description: "16oz tallboy can "
         price: "7"
         title: Guinness Non-Alcoholic
