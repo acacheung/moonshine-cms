@@ -8,20 +8,19 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
+      - title: "Menu Addition: Sweet Cornbread Stuffin Muffins"
+        price: 17 regular / 27 grande
+        description: "Local Cranberry Mayo "
+      - description: Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy
+          Pesto Dressing, Aged Balsamic
+        price: 18 regular / 29 grande
+        title: "Menu Addition: Warm Crispy Artichoke Salad"
       - description: |-
           Savory Crispy Cheesy Garlic Potato Fritters, 
           Sweet Chili-Teriyaki Glaze, House Furikake Everything Spice 
           *gluten-free & vegetarian 
         price: "17 regular / 29 grande "
         title: "Menu addition: Japanese Cheesy Potato Mochi Pancakes"
-      - description: Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy
-          Pesto Dressing, Aged Balsamic
-        price: 18 regular / 29 grande
-        title: "Menu Addition: Warm Crispy Artichoke Salad"
-      - title: "Menu Addition: Hot Honey Stuffed Scallion Pancakes"
-        price: 19 regular / 29 grande
-        description: Pan-Seared Chorizo & Noodle Stuffed Scallion Pancakes, House B&B
-          Pickles, Go-Go Sauce
       - description: "Shredded Beef & Cheese Tacos, Pickled Red Cabbage Salsa, Smoky
           Sriracha Mayo,   & Birria Dipping Jus  "
         price: "$18 (2 tacos) / $28 (4 tacos)  "
@@ -61,6 +60,9 @@ subgroups:
           Mushroom Soup,   Smoked Paprika 
         price: "14 regular / 24 grande "
         title: chef's whim soup of the day
+      - title: "Menu Addition: Creamy Spicy Tomato Soup"
+        price: 14 regular / 24 grande
+        description: "San Marzano Tomatoes, Fresh Cream (gluten-free, vegetarian) "
       - description: Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton
           crisps, Shaved pecorino cheese
         price: 17 regular / 28 grande
@@ -156,8 +158,8 @@ subgroups:
           Louisiana-Tomato Cream Sauce
       - description: "Honeycrisp Apple, Cranberry-Pecan Bread, Fried Sage    …add french
           fries $5  …add petite mixed greens salad $5 "
-        title: "Menu Addition: Fall Candied Bacon Grilled Cheese Sandwich  & Spicy
-          Tomato Soup "
+        title: "Menu Addition: Candied Bacon Grilled Cheese Sandwich  & Spicy Tomato
+          Soup "
         price: "28"
       - description: Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask! Also ask About our House
