@@ -8,19 +8,10 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
-      - title: "Menu Addition: Sweet Cornbread Stuffin Muffins"
-        price: 17 regular / 27 grande
-        description: "Local Cranberry Mayo "
       - description: Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy
           Pesto Dressing, Aged Balsamic
         price: 18 regular / 29 grande
         title: "Menu Addition: Warm Crispy Artichoke Salad"
-      - description: |-
-          Savory Crispy Cheesy Garlic Potato Fritters, 
-          Sweet Chili-Teriyaki Glaze, House Furikake Everything Spice 
-          *gluten-free & vegetarian 
-        price: "17 regular / 29 grande "
-        title: "Menu addition: Japanese Cheesy Potato Mochi Pancakes"
       - description: "Shredded Beef & Cheese Tacos, Pickled Red Cabbage Salsa, Smoky
           Sriracha Mayo,   & Birria Dipping Jus  "
         price: "$18 (2 tacos) / $28 (4 tacos)  "
