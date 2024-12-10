@@ -14,7 +14,8 @@ subgroups:
         title: "Menu Addition: Warm Crispy Artichoke Salad"
       - title: "Menu Addition: Hot Honey-Buffalo Mac n' Cheese Fritters"
         price: 17 regular (3) / 28 grande (6)
-        description: "Cheddar Bechamel Sauce, Hot Honey-Buffalo Drizzle, Beurre Blanc "
+        description: Cheddar Bechamel Sauce, Hot Honey-Buffalo Drizzle, Beurre Blanc,
+          Shaved Celery Salad
       - description: "Shredded Beef & Cheese Tacos, Pickled Red Cabbage Salsa, Smoky
           Sriracha Mayo,   & Birria Dipping Jus  "
         price: "$18 (2 tacos) / $28 (4 tacos)  "
