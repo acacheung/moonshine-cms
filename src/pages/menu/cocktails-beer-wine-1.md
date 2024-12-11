@@ -11,10 +11,6 @@ subgroups:
           Fresh Citrus Zest 
         price: "6"
         title: Rotating Jello Shots
-      - title: (Rotating Hot) Chef Asia's Salted Caramel Apple Cider
-        price: "16"
-        description: Hot Cinnamon-Honey Buttered Rum, Fresh Orchard Apple Cider, Salted
-          Caramel Drizzle **contains dairy
       - description: "Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
           Just ask for Baileys Irish Cream!) "
         price: "16"
