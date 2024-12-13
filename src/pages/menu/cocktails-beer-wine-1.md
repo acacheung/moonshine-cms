@@ -11,6 +11,16 @@ subgroups:
           Fresh Citrus Zest 
         price: "6"
         title: Rotating Jello Shots
+      - title: (Rotating Hot) Moonshine Holiday Cheer
+        price: "16"
+        description: Warm Red Wine Blend, Winter Warming Spices, Cranberry, Orange
+      - title: "Holiday Cocktail Special: Rum Rum Rudolph"
+        price: "15"
+        description: Passion Fruit Rum, Bully Boy Amaro, Tiki Spiced Simple, Pineapple
+      - title: "Holiday Cocktail Special: Candy Cane Espresso Martini"
+        price: "16"
+        description: Double Espresso Vodka, Candy Cane Liqueur, Kahlua, a Touch of
+          Vanilla ** Available Dark or Creamy with Bailey's Irish Cream
       - description: "Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
           Just ask for Baileys Irish Cream!) "
         price: "16"
