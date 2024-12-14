@@ -158,7 +158,8 @@ subgroups:
     items:
       - description: >+
           Hungarian Mushroom Bisque (vegetarian & gluten-free): Creamy Porcini
-          Mushroom Soup,   Smoked Paprika 
+          Mushroom Soup,   Smoked Paprika OR  Spicy Creamy Tomato Soup
+          (vegetarian, gluten-free) : San Marzano Tomatoes, Fresh Cream       
 
         price: 14 / 24
         title: Chef’s Whim Soup for the Soul
