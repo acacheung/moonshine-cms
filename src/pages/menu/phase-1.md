@@ -8,6 +8,10 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
+      - title: "Menu Addition: Creamy Edamamae-Chickpea Hummus Plate"
+        price: 17 regular / 28 grande
+        description: "Maple Roasted Carrots, Buttermilk Biscuit Toasties, Homemade
+          Pepper Jelly *vegetarian "
       - description: Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy
           Pesto Dressing, Aged Balsamic
         price: 18 regular / 29 grande
