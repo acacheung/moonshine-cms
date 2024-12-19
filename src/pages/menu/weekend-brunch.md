@@ -108,7 +108,7 @@ subgroups:
   - description: " (Entrees)"
     items:
       - title: "menu addition: Twin Mei-Griddle Breakfast Sammies"
-        price: "26"
+        price: "27"
         description: "Maple Drizzled Potato Pancakes, Breakfast Sausage, Scrambled Egg,
           Cheddar Cheese, Spiced Homefries "
       - description: Spiced Tomato & Chickpea Baked Eggs, Basil Mayo, Crumbled Queso
