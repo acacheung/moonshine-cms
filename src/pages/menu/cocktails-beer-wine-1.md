@@ -75,6 +75,12 @@ subgroups:
       - title: (Draft) Harpoon IPA
         price: "7"
         description: 16oz draft
+      - title: Budweiser / Budlight
+        price: "6"
+        description: 12 oz bottle
+      - title: Michelob Ultra
+        price: "6"
+        description: 12 oz bottle
       - description: 355ml can
         price: "7"
         title: "Viva  tequila seltzer: Watermelon or Huckleberry"
