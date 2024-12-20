@@ -81,12 +81,6 @@ subgroups:
       - title: Michelob Ultra
         price: "6"
         description: 12 oz bottle
-      - description: 355ml can
-        price: "7"
-        title: "Viva  tequila seltzer: Watermelon or Huckleberry"
-      - description: "12 oz can "
-        price: "7"
-        title: High Noon Hard Seltzer Black Cherry
       - description: 12 oz Bottle
         price: "6"
         title: "Stella Artois "
@@ -99,6 +93,12 @@ subgroups:
       - description: "12 oz bottle "
         price: "7"
         title: "Corona Extra "
+      - description: "12 oz can "
+        price: "7"
+        title: High Noon Hard Seltzer Black Cherry
+      - description: 355ml can
+        price: "7"
+        title: "Viva  tequila seltzer: Watermelon or Huckleberry"
       - description: "16 oz tallboy can "
         price: "7"
         title: Stormalong "Mass Appeal" Hard Cider
