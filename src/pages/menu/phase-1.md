@@ -12,6 +12,11 @@ subgroups:
           Pesto Dressing, Aged Balsamic
         price: 18 regular / 29 grande
         title: "Menu Addition: Warm Crispy Artichoke Salad"
+      - description: "Melted Brie & Goat Cheese Fondue, Cinnamon-Rosemary
+          Apples,   Pistachio Cornbread Biscotti, Biscuit Toasties & Fresh
+          Pomegranate "
+        price: " 19 regular / 28 grande"
+        title: "Menu Addition: Skillet Baked Brie Fondue"
       - title: "Menu Addition: Hot Honey-Buffalo Mac n' Cheese Fritters"
         price: 17 regular (3) / 28 grande (6)
         description: Cheddar Bechamel Sauce, Hot Honey-Buffalo Drizzle, Beurre Blanc,
