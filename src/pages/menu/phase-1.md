@@ -55,9 +55,10 @@ subgroups:
       Don't forget to top it off by adding your favorite proteins, fixins, sides
       & sauces to any dish.
     items:
-      - description: >
-          Hungarian Mushroom Bisque (vegetarian & gluten-free): Creamy Porcini
-          Mushroom Soup,   Smoked Paprika 
+      - description: |+
+          Bistro French Onion Soup: Caramelized Onion Madiera-Beef Bone Broth, 
+          Toasty Brioche, Melted Swiss Cheese 
+
         price: "14 regular / 24 grande "
         title: chef's whim soup of the day
       - title: "Menu Addition: Creamy Spicy Tomato Soup"
