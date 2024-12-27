@@ -156,10 +156,10 @@ subgroups:
     title: The Main Affair
   - description: Our all-time favorite dishes, available whenever the kitchen is open!
     items:
-      - description: >+
-          Hungarian Mushroom Bisque (vegetarian & gluten-free): Creamy Porcini
-          Mushroom Soup,   Smoked Paprika OR  Spicy Creamy Tomato Soup
-          (vegetarian, gluten-free) : San Marzano Tomatoes, Fresh Cream       
+      - description: |+
+          Bistro French Onion Soup: Caramelized Onion Madiera-Beef Bone Broth, 
+          Toasty Brioche, Melted Swiss Cheese 
+
 
         price: 14 / 24
         title: Chef’s Whim Soup for the Soul
