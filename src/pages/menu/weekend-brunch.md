@@ -65,6 +65,10 @@ subgroups:
     title: "Cheers To The Weekend! "
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
+      - description: "Chocolate Chip Red Velvet Pancakes, Vanilla Creme Brulee Topping,
+          Hazelnut Chocolate Drizzle, Chantilly Cream "
+        price: "19 regular/ 26 grande       "
+        title: "Menu Addition: Red Velvet Crème Brulee Pancakes    "
       - price: "15"
         description: "Local Cinnamon Apple Pie Filling, House Almond Frangipane Creme,
           Honey Pressed Croissant "
