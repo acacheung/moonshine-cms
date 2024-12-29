@@ -120,9 +120,6 @@ subgroups:
       - description: "12 oz bottle "
         price: "7"
         title: Kona Brewing "Big Wave" Golden Ale
-      - description: "16 oz Tallboy can "
-        price: "7"
-        title: Bell's Oberon Wheat Ale
       - title: Allagash White
         price: "7"
         description: "16 oz tallboy can "
