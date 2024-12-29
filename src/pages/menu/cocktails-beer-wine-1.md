@@ -11,9 +11,6 @@ subgroups:
           Fresh Citrus Zest 
         price: "6"
         title: Rotating Jello Shots
-      - title: "Holiday Cocktail Special: Rum Rum Rudolph"
-        price: "15"
-        description: Passion Fruit Rum, Bully Boy Amaro, Tiki Spiced Simple, Pineapple
       - title: "Holiday Cocktail Special: Candy Cane Espresso Martini"
         price: "16"
         description: Double Espresso Vodka, Candy Cane Liqueur, Kahlua, a Touch of
