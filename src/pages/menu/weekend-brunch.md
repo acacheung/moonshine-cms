@@ -13,9 +13,6 @@ subgroups:
         price: "16"
         description: Double Espresso Vodka, Candy Cane Liqueur, Kahlua, a Touch of
           Vanilla ** Available Dark or Creamy with Bailey's Irish Cream
-      - title: (Rotating Hot) Moonshine Holiday Cheer
-        price: "16"
-        description: Warm Red Wine Blend, Winter Warming Spices, Cranberry, Orange
       - description: "Spicy Smokey Margarita: Tanteo Chipotle Spiced Tequila, Lime
           Jello, Fresh Citrus Zest "
         price: "6"
