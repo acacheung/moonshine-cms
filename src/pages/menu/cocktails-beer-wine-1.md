@@ -18,6 +18,10 @@ subgroups:
         price: "16"
         description: Double Espresso Vodka, Candy Cane Liqueur, Kahlua, a Touch of
           Vanilla ** Available Dark or Creamy with Bailey's Irish Cream
+      - title: "(Rotating Hot): Moonshine Holiday Cheer"
+        price: "16"
+        description: "Warm Mulled Spiced Red Wine, Secret Herbs & Spices, Cranberry,
+          Orange "
       - description: "Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
           Just ask for Baileys Irish Cream!) "
         price: "16"
