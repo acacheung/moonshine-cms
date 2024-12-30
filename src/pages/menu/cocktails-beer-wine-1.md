@@ -19,6 +19,10 @@ subgroups:
         price: "16"
         description: "Warm Mulled Spiced Red Wine, Secret Herbs & Spices, Cranberry,
           Orange "
+      - price: "15"
+        title: Monkey See Monkey Do
+        description: Screwball Peanut Butter Whiskey, Banana Liqueur, Chocolate Liqueur,
+          Homemade Nutella Chocolate Drizzle
       - description: "Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
           Just ask for Baileys Irish Cream!) "
         price: "16"
