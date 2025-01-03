@@ -171,15 +171,14 @@ subgroups:
           fries .... Make it a double patty 11
         price: "22"
         title: GRASS-FED ’SHINE BEEF BURGER**  Boston's Best Award Winner
-      - description: "Colombian “Arepa de Chocolo” Burger  topped with Chef Asia’s
-          Favorite Sweet Corn Griddle Cake, Queso Fresco & Guava
-          Candy                                                                                                                                                                                                                                                                                                  \
-          ….add cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg
+      - description: '"The Mortadella Monstah" topped with Shaved Mortadella, Creamy
+          Burrata Cheese, Aged Balsamic, Baby Arugula, Pickles, Pistachio Pesto
+          Aioli                                                                                                                                                                                                                                                                                                  ….add
+          cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg
           $2  …add  jalapenos $2  …add avocado
-          $3                                                                                                                                                                          \
-          "
+          $3                                                                                                                                                                          '
         price: "27"
-        title: December's 2024 VIP burger of the month
+        title: January's 2025 VIP burger of the month
       - description: Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
         price: "29"
