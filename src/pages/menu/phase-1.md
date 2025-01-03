@@ -61,9 +61,6 @@ subgroups:
 
         price: "14 regular / 24 grande "
         title: chef's whim soup of the day
-      - title: "Menu Addition: Creamy Spicy Tomato Soup"
-        price: 14 regular / 24 grande
-        description: "San Marzano Tomatoes, Fresh Cream (gluten-free, vegetarian) "
       - description: Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton
           crisps, Shaved pecorino cheese
         price: 17 regular / 28 grande
