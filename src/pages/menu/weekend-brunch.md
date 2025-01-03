@@ -192,13 +192,12 @@ subgroups:
           a double patty 11 "
         price: "22"
         title: Grass-fed Beef Burger**  Boston's Best Award Winner
-      - description: "Colombian “Arepa de Chocolo” Burger  topped with Chef Asia’s
-          Favorite Sweet Corn Griddle Cake, Queso Fresco & Guava
-          Candy                                                                                                                                                                                                                                                                                   \
-          ….add cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg
-          $2  …add  jalapenos $2  …add avocado $3                       "
+      - description: '"The Mortadella Monstah" topped with Shaved Mortadella, Creamy
+          Burrata Cheese, Aged Balsamic, Baby Arugula, Pickles, Pistachio Pesto
+          Aioli4   …add fried egg $2  …add  jalapenos $2  …add avocado
+          $3                       '
         price: "27"
-        title: December 2024 VIP burger of the month
+        title: January's 2025 VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: " All the sides & Fixin’s"
     items:
