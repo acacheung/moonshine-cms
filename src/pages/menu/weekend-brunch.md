@@ -243,6 +243,9 @@ subgroups:
     title: All the sides & Fixin’s
   - description: " (Dessert)"
     items:
+      - title: "Menu Addition: Warm Sticky Toffee Breadpudding"
+        price: "14.00"
+        description: Served Warm with Sea Salt Caramel & Whipped Cream
       - price: "14"
         description: Toasted Walnut Carrot Cake with Baked in Cream Cheese Ribbons,
           Crispy Carrot Chips and Sea Salted Caramel
