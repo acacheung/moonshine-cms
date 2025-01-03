@@ -6,6 +6,9 @@ order: 5
 subgroups:
   - description: Add a Warm Belgian Waffle to Your Favorite Dessert $9
     items:
+      - title: "Menu Addition: Warm Sticky Toffee Bread Pudding"
+        price: "14"
+        description: Served Warm with Sea Salt Caramel & Whipped Cream
       - title: "Menu Addition: Cream Cheese Carrot Cake"
         price: "14"
         description: Toasted Walnut Carrot Cake with Baked in Cream Cheese Ribbons,
