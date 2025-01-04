@@ -6,9 +6,10 @@ order: 1
 subgroups:
   - description: ""
     items:
-      - description: >
-          Spicy Smokey Margarita: Tanteo Chipotle Spiced Tequila, Lime Jello,
-          Fresh Citrus Zest 
+      - description: |+
+          "Raspberry Lime Rickey"
+          Raspberry Vodka, Lime Jello, Tropical Redbull 
+
         price: "6"
         title: Rotating Jello Shots
       - title: "Holiday Cocktail Special: Candy Cane Espresso Martini"
