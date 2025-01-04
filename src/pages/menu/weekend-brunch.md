@@ -221,6 +221,8 @@ subgroups:
         title: "Chef Asia’s Best Ever Buttermilk Biscuits  w/  Pepper Jelly "
       - price: "9"
         title: "Side Order of Corned Beef Hash "
+      - title: Side Two Breakfast Sausage Patties
+        price: "9"
       - price: "2"
         title: Add a Fried Egg To Any Dish**
       - price: "4"
