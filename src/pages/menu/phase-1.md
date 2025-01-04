@@ -103,7 +103,7 @@ subgroups:
         title: SAUTÉED BABY SHRIMP**
       - price: "15"
         title: Cajun Grilled Tilapia**
-      - title: Breakfast Sausage Patties
+      - title: Two Breakfast Sausage Patties
         price: "9"
     title: Add Ons!
   - description: "Regular= 2 Tacos Go Grande = 3 Tacos "
