@@ -6,15 +6,14 @@ order: 3
 subgroups:
   - description: "Brunch Cocktails & Beverages "
     items:
-      - title: "Holiday Cocktail Special: Rum Rum Rudolph"
-        price: "15"
-        description: Passion Fruit Rum, Bully Boy Amaro, Tiki Spiced Simple, Pineapple
       - title: "Holiday Cocktail Special: Candy Cane Espresso Martini"
         price: "16"
         description: Double Espresso Vodka, Candy Cane Liqueur, Kahlua, a Touch of
           Vanilla ** Available Dark or Creamy with Bailey's Irish Cream
-      - description: "Spicy Smokey Margarita: Tanteo Chipotle Spiced Tequila, Lime
-          Jello, Fresh Citrus Zest "
+      - description: |+
+          "Raspberry Lime Rickey"
+          Raspberry Vodka, Lime Jello, Tropical Redbull 
+
         price: "6"
         title: Chef Asia's Rotating Jello Shots
       - description: >
