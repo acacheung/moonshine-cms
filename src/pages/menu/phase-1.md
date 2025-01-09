@@ -8,6 +8,11 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
+      - title: "Menu Addition: Warm Baked Pear & Walnut Salad"
+        price: 17 regular / 27 grande
+        description: |
+          Red Wine Poached Pear Stuffed With Crumbled Bleu Cheese
+          Baby Arugula, Sesame Candied Walnuts, Pear-Pomegranate Reduction
       - description: Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy
           Pesto Dressing, Aged Balsamic
         price: 18 regular / 29 grande
