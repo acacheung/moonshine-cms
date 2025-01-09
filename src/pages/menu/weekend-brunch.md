@@ -61,10 +61,6 @@ subgroups:
     title: "Cheers To The Weekend! "
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
-      - price: "15"
-        description: "Local Cinnamon Apple Pie Filling, House Almond Frangipane Creme,
-          Honey Pressed Croissant "
-        title: "Menu Addition: Caramel Apple-Almond Croissant"
       - description: "Warm Crisp Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
           Quinoa, Parmesan,                              Creamy Pesto Dressing,
@@ -153,7 +149,7 @@ subgroups:
   - description: Our all-time favorite dishes, available whenever the kitchen is open!
     items:
       - description: |+
-          Bistro French Onion Soup: Caramelized Onion Madiera-Beef Bone Broth, 
+          Bistro French Onion Soup: Caramelized Onion Madeira-Beef Bone Broth, 
           Toasty Brioche, Melted Swiss Cheese 
 
 
