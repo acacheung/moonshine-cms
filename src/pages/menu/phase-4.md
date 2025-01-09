@@ -13,9 +13,6 @@ subgroups:
         price: "14"
         description: Toasted Walnut Carrot Cake with Baked in Cream Cheese Ribbons,
           Crispy Carrot Chips and Sea Salted Caramel
-      - description: Fresh Pomegranate, Local Honey, Filo Dough, Pumpkin Custard
-        price: "14"
-        title: "Menu Addition: Warm Pumpkin Pistachio Baklava Crinkle"
       - description: "                                                      Crispy
           Layered Merengue Cookies, Mango Coulis, Coconut Jellies, Whipped
           Cream, Berry Sauce   (gluten-free, available vegan!)      "
