@@ -69,7 +69,7 @@ subgroups:
       - description: >
           Chocolate Chip Red Velvet Pancakes, Vanilla Creme Brulee Topping,
           Hazelnut Chocolate Drizzle, Chantilly Cream 
-        price: 19 regular / 26 grande
+        price: 19 regular / 27 grande
         title: "Menu Addition: Red Velvet Creme Brulee Pancakes "
       - description: "Warm Crisp Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
