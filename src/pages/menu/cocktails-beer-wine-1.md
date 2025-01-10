@@ -169,11 +169,6 @@ subgroups:
       - description: Provence, France
         price: 15 / 58
         title: (rose) 2022 Whispering Angel Rose
-      - description: |
-          Monterrey, Sonoma & Napa County, CA, USA 
-        price: $40/bottle
-        title: "(White) Treat Yo'Self Bottle Special: 2022 J Vineyards Winemaker’s
-          Selection Chardonnay "
       - description: "Santa Barbera,CA, USA "
         price: 13 / 45
         title: "(White) 2021 Seaglass Charonnay "
