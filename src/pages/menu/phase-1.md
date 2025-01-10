@@ -17,6 +17,12 @@ subgroups:
           Pesto Dressing, Aged Balsamic
         price: 18 regular / 29 grande
         title: "Menu Addition: Warm Crispy Artichoke Salad"
+      - description: >
+          Grilled Pork, House Asian Pear Kimchi, Tempura Beer Battered
+          Veggie-Egg Sushi Roll, Wasabi Aioli, Teriyaki Glaze ** Available
+          Vegetarian**
+        price: " 25 regular  / 35 grande  "
+        title: "Menu Addition: Tempura Kimchi Kimbap Sushi Roll       "
       - title: "Menu Addition: Hot Honey-Buffalo Mac n' Cheese Fritters"
         price: 17 regular (3) / 28 grande (6)
         description: Cheddar Bechamel Sauce, Hot Honey-Buffalo Drizzle, Beurre Blanc,
