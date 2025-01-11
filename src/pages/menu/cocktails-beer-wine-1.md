@@ -24,7 +24,7 @@ subgroups:
         title: Monkey See Monkey Do
         description: Screwball Peanut Butter Whiskey, Banana Liqueur, Chocolate Liqueur,
           Homemade Nutella Chocolate Drizzle
-      - title: Are there Coconuts in Columbia?
+      - title: Are there Coconuts in Colombia?
         price: "15"
         description: Aguardiente, Pama Pomegranate Liqueur, Coco Lopez, Fresh Lime
           Juice, Cinnamon Simple
