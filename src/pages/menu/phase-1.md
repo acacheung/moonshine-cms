@@ -164,11 +164,6 @@ subgroups:
         description: >
           Red Wine Braised Rabbit, Campanelle Pasta, Toasted Hazelnut,
           Louisiana-Tomato Cream Sauce
-      - description: "Honeycrisp Apple, Cranberry-Pecan Bread, Fried Sage    …add french
-          fries $5  …add petite mixed greens salad $5 "
-        title: "Menu Addition: Candied Bacon Grilled Cheese Sandwich  & Spicy Tomato
-          Soup "
-        price: "28"
       - description: Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask! Also ask About our House
           Vegan Aioli!
