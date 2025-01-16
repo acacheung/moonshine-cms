@@ -46,10 +46,6 @@ subgroups:
           Hibiscus, Fresh Citrus Juices "
         price: "14"
         title: Sahil's Ginger Hibiscus Red Sangria
-      - title: Fruit Bowl White Sangria
-        price: "14"
-        description: Chilean White Wine Blend, Raspberry-Apricot Vodka, Watermelon
-          Liqueur, Strawberry Syrup, Fresh Citrus Juices
       - description: "GrandTen Spicy Firepuncher Vodka, Fresh Squeezed Cucumber Juice,
           Elderflower Liqueur, Fresh Lemon "
         price: "16"
