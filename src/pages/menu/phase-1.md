@@ -21,7 +21,7 @@ subgroups:
           Grilled Pork, House Asian Pear Kimchi, Tempura Beer Battered
           Veggie-Egg Sushi Roll, Wasabi Aioli, Teriyaki Glaze ** Available
           Vegetarian**
-        price: " 25 regular  / 35 grande  "
+        price: "19 regular  / 29 grande  "
         title: "Menu Addition: Tempura Kimchi Kimbap Sushi Roll       "
       - description: "Shredded Beef & Cheese Tacos, Pickled Red Cabbage Salsa, Smoky
           Sriracha Mayo,   & Birria Dipping Jus  "
@@ -153,6 +153,11 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
+      - title: "Menu Addition: Chicken ‘n Dumplings "
+        price: "28"
+        description: |2
+           Skillet Baked Parmesan Gnocchi-Dumplings, 
+          Chicken Pot Pie Filling, Pepper Gravy
       - description: >+
           Our Famous BBQ Smoked Meatloaf, Buttered Noodles, Wild Mushroom
           Stroganoff Sauce 
