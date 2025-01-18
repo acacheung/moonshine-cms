@@ -46,6 +46,10 @@ subgroups:
           Hibiscus, Fresh Citrus Juices "
         price: "14"
         title: Sahil's Ginger Hibiscus Red Sangria
+      - title: Cherry Berry Crush Party Punch
+        price: "14"
+        description: "Cold River Blueberry Vodka, Cherry Liqueur, Luxardo Maraschino
+          Cherry, White Cranberry Lemonade, Citrus Soda "
       - description: "GrandTen Spicy Firepuncher Vodka, Fresh Squeezed Cucumber Juice,
           Elderflower Liqueur, Fresh Lemon "
         price: "16"
