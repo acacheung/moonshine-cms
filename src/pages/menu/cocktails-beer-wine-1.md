@@ -106,9 +106,6 @@ subgroups:
       - description: 355ml can
         price: "7"
         title: "Viva  tequila seltzer: Watermelon or Huckleberry"
-      - description: "16 oz tallboy can "
-        price: "7"
-        title: Stormalong "Mass Appeal" Hard Cider
       - description: 12oz can
         price: "7"
         title: Downeast Original Cider
