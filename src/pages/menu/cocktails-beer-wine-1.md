@@ -151,6 +151,9 @@ subgroups:
       - description: "12 oz can "
         price: "6"
         title: Athletic Brewing co "Free Wave" IPA  (non-alcoholic)
+      - title: Athletic Brewing Co Lite Lager (non-alcoholic)
+        price: "6"
+        description: 12 oz can
     title: "Beer Menu "
   - description: "please note vintages are subject to change "
     items:
