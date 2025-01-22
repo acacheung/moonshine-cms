@@ -81,7 +81,7 @@ subgroups:
         title: (draft) Dorchester Brewing Co. Galaxy Session IPA
       - title: (Draft) Harpoon IPA
         price: "7"
-        description: 16oz draft
+        description: 16 oz draft
       - title: Budweiser / Budlight
         price: "6"
         description: 12 oz bottle
@@ -103,19 +103,19 @@ subgroups:
       - description: "12 oz can "
         price: "7"
         title: High Noon Hard Seltzer Black Cherry
-      - description: 355ml can
+      - description: 355 ml can
         price: "7"
         title: "Viva  tequila seltzer: Watermelon or Huckleberry"
-      - description: 12oz can
+      - description: 12 oz can
         price: "7"
         title: Downeast Original Cider
       - description: 16 oz tallboy can
         price: "6"
         title: Narragansett Lager
-      - description: 16oz tallboy can
+      - description: 16 oz tallboy can
         price: "7"
         title: Zero Gravity "Green State" Lager
-      - description: "16oz tallboy can "
+      - description: "16 oz tallboy can "
         price: "7"
         title: 'Night Shift Brewing "Nite Lite" Light Lager '
       - description: "16 oz tallboy can "
@@ -142,13 +142,13 @@ subgroups:
       - title: Boulevard "Dark Truth" Imperial Stout
         price: "9"
         description: 12 oz bottle
-      - description: "16oz tallboy can "
+      - description: "16 oz tallboy can "
         price: "7"
         title: Guinness ZERO (Non-Alcoholic)
       - title: Heineken ZERO (non-alcoholic)
         price: "7"
         description: 12 oz bottle
-      - description: 12oz can
+      - description: 12 oz can
         price: "6"
         title: Athletic Brewing Co "Upside Dawn" Golden Ale  (non-alcoholic)
       - description: "12 oz can "
