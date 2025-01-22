@@ -88,7 +88,7 @@ subgroups:
       - title: Michelob Ultra
         price: "6"
         description: 12 oz bottle
-      - description: 12 oz Bottle
+      - description: 12 oz bottle
         price: "6"
         title: "Stella Artois "
       - description: 12 oz bottle
@@ -109,7 +109,7 @@ subgroups:
       - description: 12oz can
         price: "7"
         title: Downeast Original Cider
-      - description: 16 oz Tallboy Can
+      - description: 16 oz tallboy can
         price: "6"
         title: Narragansett Lager
       - description: 16oz tallboy can
@@ -141,13 +141,13 @@ subgroups:
         title: "Guinness Nitro Stout "
       - title: Boulevard "Dark Truth" Imperial Stout
         price: "9"
-        description: 12 oz Bottle
+        description: 12 oz bottle
       - description: "16oz tallboy can "
         price: "7"
         title: Guinness ZERO (Non-Alcoholic)
       - title: Heineken ZERO (non-alcoholic)
         price: "7"
-        description: 12 oz Bottle
+        description: 12 oz bottle
       - description: 12oz can
         price: "6"
         title: Athletic Brewing Co "Upside Dawn" Golden Ale  (non-alcoholic)
