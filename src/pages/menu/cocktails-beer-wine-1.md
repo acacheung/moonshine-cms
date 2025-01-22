@@ -145,18 +145,18 @@ subgroups:
       - description: "16oz tallboy can "
         price: "7"
         title: Guinness ZERO (Non-Alcoholic)
-      - description: 12oz can
-        price: "6"
-        title: Athletic Brewing co "Upside Dawn" Golden Ale  (non-alcoholic)
-      - description: "12 oz can "
-        price: "6"
-        title: Athletic Brewing co "Free Wave" IPA  (non-alcoholic)
-      - title: Athletic Brewing Co Lite Lager (non-alcoholic)
-        price: "6"
-        description: 12 oz can
       - title: Heineken ZERO (non-alcoholic)
         price: "7"
         description: 12 oz Bottle
+      - description: 12oz can
+        price: "6"
+        title: Athletic Brewing Co "Upside Dawn" Golden Ale  (non-alcoholic)
+      - description: "12 oz can "
+        price: "6"
+        title: Athletic Brewing Co "Free Wave" IPA  (non-alcoholic)
+      - title: Athletic Brewing Co "Lite" Light Lager (non-alcoholic)
+        price: "6"
+        description: 12 oz can
     title: "Beer Menu "
   - description: "please note vintages are subject to change "
     items:
