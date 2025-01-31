@@ -6,11 +6,11 @@ order: 1
 subgroups:
   - description: ""
     items:
-      - description: |+
-          "Raspberry Lime Rickey"
-          Raspberry Vodka, Lime Jello, Tropical Redbull 
+      - description: >+
+          Chocolate Covered Cherry: Firepuncher Black Vodka, Cherry Jello,
+          Nutella Chocolate Sauce *Contains Hazelnuts 
 
-        price: "6"
+        price: "7"
         title: Rotating Jello Shots
       - title: "Holiday Cocktail Special: Candy Cane Espresso Martini"
         price: "16"
