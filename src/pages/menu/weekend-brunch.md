@@ -53,7 +53,7 @@ subgroups:
         price: "5"
         title: "Juices "
       - description: Coca-Cola, Diet Coke, Sprite, Ginger Ale, Root Beer
-        price: "3"
+        price: "4"
         title: Soda
       - description: "Premium Ginger Beer or Yuzu Lime "
         price: "5"
@@ -66,30 +66,30 @@ subgroups:
           Baby Arugula, Sesame Candied Walnuts, Pear-Pomegranate Reduction
         price: 17 regular / 27 grande
         title: "Menu Addition: Warm Baked Pear & Walnut Salad"
-      - description: >
-          Chocolate Chip Red Velvet Pancakes, Vanilla Creme Brulee Topping,
-          Hazelnut Chocolate Drizzle, Chantilly Cream 
-        price: 19 regular / 27 grande
-        title: "Menu Addition: Red Velvet Creme Brulee Pancakes "
       - description: "Warm Crisp Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
           Quinoa, Parmesan,                              Creamy Pesto Dressing,
           Aged Balsamic       "
         price: 18 regular / 29 grande
         title: "Menu Addition: crispy artichoke salad "
+      - description: >
+          Chocolate Chip Red Velvet Pancakes, Vanilla Creme Brulee Topping,
+          Hazelnut Chocolate Drizzle, Chantilly Cream 
+        price: 19 regular / 27 grande
+        title: "Menu Addition: Red Velvet Creme Brulee Pancakes "
       - description: Local honey, Fresh berries, Oat-Flax-Chia Seed Granola Crunch **add
           a warm house belgian waffle $9**
-        price: 9 / 14
+        price: 11 regular / 16 grande
         title: "Whipped Greek Yogurt Parfait "
       - description: "Brioche cinnamon French toast sticks, Fresh berries, Maple berry
           butter dipping sauce "
-        price: "14 / 24 "
+        price: "15 regular / 25 grande "
         title: "Chef Asia’s Famous Cinnamon French Toast Sticks "
       - description: "Japanese ginger-sesame carrot vinaigrette, Roasted kale "
-        price: "12 regular / 16 grande "
+        price: "13 regular / 19 grande "
         title: "Local Mixed Greens Salad "
       - description: "Toasted sesame, Crispy garlic & shallots, Soy vinaigrette "
-        price: 14 regular / 23 grande
+        price: 15 regular / 25 grande
         title: "Blistered Shishito Peppers "
       - description: Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
@@ -97,14 +97,14 @@ subgroups:
         title: ’Shine Famous Caramelized Onion-Roasted Beet Dip
       - description: "Sourdough holiday stuffing bites, Crispy pecanwood bacon, Candied
           ginger aioli "
-        price: "16 regular / 25 grande "
+        price: "17 regular / 26 grande "
         title: "’Shine Famous Bacon Wrapped Stuffing Bites  "
       - description: "Crispy olive oil roasted potatoes, Sherry pesto aioli, Roasted
           garlic oil "
         price: "16 regular / 27 grande "
         title: "Tapas Style Patatas Bravas "
       - description: "Jalapeno crab filling, Spicy honey "
-        price: "17 regular  / 27 grande "
+        price: "18 regular  / 28 grande "
         title: "Jalapeno Crab Rangoons "
     title: To Get Ya Started!
   - description: " (Entrees)"
@@ -129,32 +129,33 @@ subgroups:
         title: 'Menu Addition: "’Shine Steak & Eggs"'
       - description: Red-eye gravy, Chinese sausage, Green onions, Chopped melted white
           cheese
-        price: "14 regular  / 26 grande "
+        price: "17 regular  / 27 grande "
         title: "Tater Tot Poutine "
       - description: Fresh Maine Crab Salad, Tasso Ham Hollandaise Sauce, Fried Eggs,
           Sauteed Baby Spinach, Housemade English Muffin **Not a fan of crab?
           Looking for something different? Just ask your server to swap it out
           for either Pecanwood Bacon, Jalapeno Bacon, or our Famous Corned Beef
           Hash for no additional charge**
-        price: "26"
+        price: "27"
         title: ’Shine Crab Eggs Benedict**
-      - description: "Melt-in-your-mouth corned beef, Scrambled eggs, Housemade beer bread "
-        price: "26"
+      - description: "Melt-in-your-mouth corned beef, Red bliss potatoes, Sauteed
+          cabbage, Scrambled eggs, Housemade beer bread "
+        price: "27"
         title: ’Shine Southie Corned Beef Hash**
       - description: Spiced homefries, Petite mixed greens
-        price: "23"
+        price: "25"
         title: Sauteed Mushroom & Swiss Omelet**
       - description: Sauteed kale, Spiced homefries, Petite mixed greens salad
         price: "23"
         title: Vegan Turmeric Tofu Scramble
       - description: "Pan-seared shrimp, Spicy cheese grits, Sherry pan sauce "
-        price: "26"
+        price: "27"
         title: "Cajun Shrimp & Grits "
-      - description: Smoky pulled pork, Scrambled egg, Tomato salsa, Petite mixed greens
-          salad, House-cut shoestring fries
+      - description: Smoky pulled pork, Melted cheese, Chopped tomato, Petite mixed
+          greens salad, House-cut shoestring fries
         price: "28"
-        title: Ron Swanson Brunch Inspired Chipotle Pulled Pork Scallion Pancake
-          Quesadilla (AVAILABLE VEGETARIAN   25)**
+        title: Ron Swanson Chipotle Pulled Pork Scallion Pancake Quesadilla (AVAILABLE
+          VEGETARIAN   26)**
     title: The Main Affair
   - description: Our all-time favorite dishes, available whenever the kitchen is open!
     items:
@@ -171,7 +172,7 @@ subgroups:
         price: 17 regular / 28 grande
         title: "Warm Kale and Quinoa Caesar Salad "
       - description: served with Poblano Ranch Sauce
-        price: 17 / 29
+        price: "18 regular  / 29 grande "
         title: '"Boston’s Best" Buttermilk Fried Chicken Wings '
       - description: "Boneless beef shortrib, Asian pear kimchi, Candied ginger aioli,
           Sriracha sauce "
@@ -179,7 +180,7 @@ subgroups:
         title: "Throwback Korean BBQ Tacos "
       - description: "Chinese sausage, Scrambled egg, Fresh ginger, Scallions, Chopped
           duck liver "
-        price: "26"
+        price: "27"
         title: "Mama Mei’s Dirty Fried Rice "
       - description: "\"Boston's Best\" Buttermilk fried chicken, Belgian waffle,
           Sriracha-bourbon awesome sauce, Cinnamon honey butter  ** GO GRANDE by
@@ -208,15 +209,15 @@ subgroups:
         title: "Side of Pecanwood Bacon "
       - price: "9"
         title: "Side of Jalapeno Bacon "
-      - price: "5"
+      - price: "7"
         title: "Spiced Homefries "
-      - price: "5"
-        title: "Two Eggs Any Style** "
       - price: "6"
+        title: "Two Eggs Any Style** "
+      - price: "7"
         title: "Spicy Green Chili Cheese Grits "
-      - price: "3"
+      - price: "4"
         title: "Homemade English Muffin "
-      - price: "3"
+      - price: "4"
         title: "Homemade Beer Bread "
       - description: "Cinnamon Honey Butter & Sriracha-Bourbon Awesome Sauce "
         price: "9"
@@ -229,7 +230,7 @@ subgroups:
         title: "Side Order of Corned Beef Hash "
       - title: Side Two Breakfast Sausage Patties
         price: "9"
-      - price: "2"
+      - price: "3"
         title: Add a Fried Egg To Any Dish**
       - price: "4"
         title: "Add Bacon To Any Dish "
