@@ -196,7 +196,7 @@ subgroups:
         title: Grass-fed Beef Burger**  Boston's Best Award Winner
       - description: '"The Mortadella Monstah" topped with Shaved Mortadella, Creamy
           Burrata Cheese, Aged Balsamic, Baby Arugula, Pickles, Pistachio Pesto
-          Aioli4   …add fried egg $2  …add  jalapenos $2  …add avocado
+          Aioli4   …add fried egg $3  …add  jalapenos $2  …add avocado
           $3                       '
         price: "27"
         title: January's 2025 VIP burger of the month
@@ -251,8 +251,8 @@ subgroups:
     title: All the sides & Fixin’s
   - description: " (Dessert)"
     items:
-      - title: "Menu Addition: Warm Sticky Toffee Breadpudding"
-        price: "14.00"
+      - title: "Menu Addition: Warm Sticky Toffee Bread Pudding"
+        price: "14"
         description: Served Warm with Sea Salt Caramel & Whipped Cream
       - price: "14"
         description: Toasted Walnut Carrot Cake with Baked in Cream Cheese Ribbons,
