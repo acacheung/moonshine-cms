@@ -170,7 +170,7 @@ subgroups:
         price: 13  /  46
         title: (rose) 2021 Charles & Charles Rose
       - description: Provence, France
-        price: 15 / 58
+        price: 16 / 58
         title: (rose) 2022 Whispering Angel Rose
       - description: "Santa Barbera,CA, USA "
         price: 13 / 45
@@ -179,7 +179,7 @@ subgroups:
         price: 13  /  45
         title: "(White) 2021 Torre di Luna Pinot Grigio "
       - description: Elqui Valley, Coquimbo, Chile
-        price: 12 / 45
+        price: 13 / 45
         title: (white) 2022 Mayu Pedro Ximenez
       - description: "Marlborough, New Zealand "
         price: 14 / 48
@@ -197,7 +197,7 @@ subgroups:
         price: 14 / 48
         title: (red) 2020 Contour Cabernet Sauvignon
       - title: "(red) 2022 Bava \"Libera\" Barbera d' Asti "
-        price: 14 / 50
+        price: 15 / 50
         description: Italy
     title: Wine List
   - items:
