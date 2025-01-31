@@ -33,16 +33,16 @@ subgroups:
         title: ’Shine Famous Caramelized Onion-Roasted Beet Dip
       - description: Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
-        price: 12 regular / 16 grande
+        price: 13 regular / 19 grande
         title: Local Mixed Greens Salad
       - description: Sweet and spicy honey-sambal, real jalapeno crab filling
-        price: 17 regular / 27 grande
+        price: 18 regular / 28 grande
         title: Jalapeno Crab Rangoons
       - description: Toasted sesame, crispy garlic and shallots, soy vinaigrette
-        price: 14 regular / 23 grande
+        price: 15 regular / 25 grande
         title: Blistered Shishito Peppers
       - description: Organic ground lamb, habanero date jam, lingonberry (gluten free)
-        price: 17 regular / 28 grande
+        price: 18 regular / 28 grande
         title: Spicy Lamb Meatballs
       - description: Crispy olive oil roasted potatoes, sherry pesto aioli, roasted
           garlic oil
@@ -50,7 +50,7 @@ subgroups:
         title: Tapas Style Patatas Bravas
       - description: "Caramelized onion sourdough stuffing wrapped in crispy pecanwood
           bacon, Candied ginger aioli "
-        price: 16 regular / 25 grande
+        price: 17 regular / 26 grande
         title: ’Shine Famous Bacon Wrapped Stuffing Bites
     title: To Get Ya Started
   - description: Shareable 'Shine classics available in small or large Portions.
@@ -76,7 +76,7 @@ subgroups:
         price: 17 regular / 28 grande
         title: Party Sprouts
       - description: "served with Poblano Ranch Sauce "
-        price: 17 regular / 29 grande
+        price: 18 regular / 29 grande
         title: MOONSHINE’S BOSTON’S BEST buttermilk FRIED CHICKEN WINGs
     title: Next Level Favorites
   - description: "Add your favorite proteins to any dish on the menu! "
@@ -91,19 +91,19 @@ subgroups:
       - description: add cheddar cheese...2
         price: "11"
         title: GRASS-FED BEEF BURGER PATTY**
-      - price: "14"
+      - price: "15"
         title: Spicy Lamb Meatballs
       - price: "14"
         title: House Crispy Chicken Nuggies
       - price: "13"
         title: Roasted statler Chicken Breast
-      - price: "13"
+      - price: "14"
         title: PULLED CHINATOWN STYLE ROASTED DUCK
       - title: Smoked BBQ Meatloaf**
         price: "15"
       - price: "15"
         title: Marinated Skirt Steak**
-      - price: "13"
+      - price: "15"
         title: SAUTÉED BABY SHRIMP**
       - price: "15"
         title: Cajun Grilled Tilapia**
@@ -116,7 +116,7 @@ subgroups:
         title: "Menu Addition: Pan Fried Carnitas Birria Tacos"
       - description: Oaxacan Cheese, Smashed Avocado, Toasted Cumin Cream, Salsa Fresca,
           Sesame Candied Walnuts
-        price: 16 regular / 24 grande
+        price: 17 regular / 25 grande
         title: Roasted Cauliflower TACOS
       - description: Beer battered tempura cod, mango-cabbage slaw, sweet chili, ginger
           aioli
@@ -134,11 +134,11 @@ subgroups:
       2
     items:
       - description: Stirfried Chinese sausage, Scrambled egg, Ginger, Scallions, Duck liver
-        price: "26"
+        price: "27"
         title: MAMA MEI’S FAMOUS DIRTY FRIED RICE
       - description: Asian pear kimchi, jalapenos, scrambled egg, stirfried veggies...
           available vegetarian or vegan, just ask!
-        price: "26"
+        price: "27"
         title: SPICY KIMCHI THAI FRIED RICE
       - description: Sweet Maui onion salmon poke, house applewood smoked shrimp & crab
           remoulade, mango-edamame salsa, sushi rice, crispy chickpea papadum
@@ -200,24 +200,23 @@ subgroups:
           adding an additional Belgian Waffle for $9**
         price: "28"
         title: LESLIE KNOPE’S “FRIED CHICKEN AND WAFFLE”
-      - description: Smoky pulled pork, scrambled egg, tomato, petite mixed greens
-          salad, teriyaki, sweet chili glaze, house-cut shoestring french
-          fries... available vegetarian without pulled pork 25
+      - description: Smoky pulled pork, melted cheese, chopped tomato, petite mixed
+          greens salad, teriyaki, sweet chili glaze, house-cut shoestring french
+          fries... available vegetarian without pulled pork 26
         price: "28"
-        title: RON SWANSON BRUNCH-INSPIRED CHIPOTLE PULLED PORK SCALLION PANCAKE
-          QUESADILLA**
+        title: RON SWANSON  CHIPOTLE PULLED PORK SCALLION PANCAKE QUESADILLA**
     title: THE MAIN AFFAIR-Entrees
   - description: Compliment your meal by adding your favorite fixins, sides & sauces!
     items:
       - price: "7"
         title: HOUSE-CUT SHOESTRING FRENCH FRIES
-      - price: "5"
+      - price: "6"
         title: STEAMED WHITE RICE
-      - price: "9"
+      - price: "11"
         title: PAN-ROASTED BRUSSEL SPROUTS
       - price: "7"
         title: ASIAN PEAR KIMCHI
-      - price: "2"
+      - price: "3"
         title: ADD A FRIED EGG TO ANY DISH**
       - price: "4 "
         title: ADD 2 PCS JALAPENO BACON TO ANY DISH
