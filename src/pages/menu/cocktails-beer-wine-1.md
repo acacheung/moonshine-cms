@@ -12,14 +12,13 @@ subgroups:
 
         price: "7"
         title: Rotating Jello Shots
-      - title: "Holiday Cocktail Special: Candy Cane Espresso Martini"
-        price: "16"
-        description: Double Espresso Vodka, Candy Cane Liqueur, Kahlua, a Touch of
-          Vanilla ** Available Dark or Creamy with Bailey's Irish Cream
       - title: "(Rotating Hot): Moonshine Mulled Wine"
         price: "16"
         description: "Warm Mulled Spiced Red Wine, Secret Herbs & Spices, Cranberry,
           Orange "
+      - title: Get Him to the Greek
+        price: "14"
+        description: Kleos Mastiha Liqueur, Mint, Cucumber, Fresh Lime Juice, Lime Yuzu Soda
       - price: "15"
         title: Monkey See Monkey Do
         description: Screwball Peanut Butter Whiskey, Banana Liqueur, Chocolate Liqueur,
