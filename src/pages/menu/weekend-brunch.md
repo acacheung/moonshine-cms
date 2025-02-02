@@ -10,9 +10,9 @@ subgroups:
         price: "16"
         description: Double Espresso Vodka, Candy Cane Liqueur, Kahlua, a Touch of
           Vanilla ** Available Dark or Creamy with Bailey's Irish Cream
-      - description: |+
-          "Raspberry Lime Rickey"
-          Raspberry Vodka, Lime Jello, Tropical Redbull 
+      - description: >+
+          Chocolate Covered Cherry: Firepuncher Black Vodka, Cherry Jello,
+          Nutella Chocolate Sauce *Contains Hazelnuts 
 
         price: "6"
         title: Chef Asia's Rotating Jello Shots
