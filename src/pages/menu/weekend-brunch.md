@@ -6,13 +6,12 @@ order: 3
 subgroups:
   - description: "Brunch Cocktails & Beverages "
     items:
-      - title: "Holiday Cocktail Special: Candy Cane Espresso Martini"
-        price: "16"
-        description: Double Espresso Vodka, Candy Cane Liqueur, Kahlua, a Touch of
-          Vanilla ** Available Dark or Creamy with Bailey's Irish Cream
       - description: >+
-          Chocolate Covered Cherry: Firepuncher Black Vodka, Cherry Jello,
-          Nutella Chocolate Sauce *Contains Hazelnuts 
+          PB&J: Basil Hayden “Toast" Bourbon, Strawberry Jello, Fresh Lemon
+          Juice,
+           Whipped Cream, Peanut Butter Cookie Crumble 
+          *Crumble Contains Peanuts, Can Be Made Nut Free
+
 
         price: "6"
         title: Chef Asia's Rotating Jello Shots
