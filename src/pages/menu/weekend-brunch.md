@@ -73,10 +73,10 @@ subgroups:
         price: 18 regular / 29 grande
         title: "Menu Addition: crispy artichoke salad "
       - description: >
-          Chocolate Chip Red Velvet Pancakes, Vanilla Creme Brulee Topping,
-          Hazelnut Chocolate Drizzle, Chantilly Cream 
+          Chocolate Chip Red Velvet Pancakes, Hazelnut Chocolate Drizzle,
+          Chantilly Cream 
         price: 19 regular / 27 grande
-        title: "Menu Addition: Red Velvet Creme Brulee Pancakes "
+        title: "Menu Addition: Red Velvet Pancakes "
       - description: Local honey, Fresh berries, Oat-Flax-Chia Seed Granola Crunch **add
           a warm house belgian waffle $9**
         price: 11 regular / 16 grande
