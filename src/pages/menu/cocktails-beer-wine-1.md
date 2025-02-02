@@ -7,8 +7,10 @@ subgroups:
   - description: ""
     items:
       - description: >+
-          Chocolate Covered Cherry: Firepuncher Black Vodka, Cherry Jello,
-          Nutella Chocolate Sauce *Contains Hazelnuts 
+          PB&J: PB&J: Basil Hayden “Toast" Bourbon, Strawberry Jello, Fresh
+          Lemon Juice,
+           Whipped Cream, Peanut Butter Cookie Crumble 
+          *Crumble Contains Peanuts, Can Be Made Nut Free
 
         price: "7"
         title: Rotating Jello Shots
