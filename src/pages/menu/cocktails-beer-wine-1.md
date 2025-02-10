@@ -137,9 +137,6 @@ subgroups:
       - description: "16 oz nitro can "
         price: "7"
         title: "Guinness Nitro Stout "
-      - title: Boulevard "Dark Truth" Imperial Stout
-        price: "9"
-        description: 12 oz bottle
       - description: "16 oz tallboy can "
         price: "7"
         title: Guinness ZERO (Non-Alcoholic)
