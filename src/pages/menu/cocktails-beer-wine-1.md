@@ -18,9 +18,6 @@ subgroups:
         price: "16"
         description: "Warm Mulled Spiced Red Wine, Secret Herbs & Spices, Cranberry,
           Orange "
-      - title: Get Him to the Greek
-        price: "14"
-        description: Kleos Mastiha Liqueur, Mint, Cucumber, Fresh Lime Juice, Lime Yuzu Soda
       - price: "15"
         title: Monkey See Monkey Do
         description: Screwball Peanut Butter Whiskey, Banana Liqueur, Chocolate Liqueur,
@@ -47,10 +44,6 @@ subgroups:
           Hibiscus, Fresh Citrus Juices "
         price: "14"
         title: Sahil's Ginger Hibiscus Red Sangria
-      - title: Cherry Berry Crush Party Punch
-        price: "14"
-        description: "Cold River Blueberry Vodka, Cherry Liqueur, Luxardo Maraschino
-          Cherry, White Cranberry Lemonade, Citrus Soda "
       - description: "GrandTen Spicy Firepuncher Vodka, Fresh Squeezed Cucumber Juice,
           Elderflower Liqueur, Fresh Lemon "
         price: "16"
@@ -65,6 +58,10 @@ subgroups:
       - title: Call Me Maple
         price: "15"
         description: Rye Whiskey, Maple Syrup, Fresh Lemon, Cinnamon Simple
+      - title: Cherry Berry Crush Party Punch
+        price: "14"
+        description: "Cold River Blueberry Vodka, Cherry Liqueur, Luxardo Maraschino
+          Cherry, White Cranberry Lemonade, Citrus Soda "
     title: "’Shine Specialty Cocktails "
   - description: "please note this menu is subject to change "
     items:
