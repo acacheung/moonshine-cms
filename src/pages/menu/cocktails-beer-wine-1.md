@@ -6,9 +6,8 @@ order: 1
 subgroups:
   - description: ""
     items:
-      - description: >+
-          PB&J: PB&J: Basil Hayden “Toast" Bourbon, Strawberry Jello, Fresh
-          Lemon Juice,
+      - description: >+2
+           PB&J: Basil Hayden “Toast" Bourbon, Strawberry Jello, Fresh Lemon Juice,
            Whipped Cream, Peanut Butter Cookie Crumble 
           *Crumble Contains Peanuts, Can Be Made Nut Free
 
@@ -22,6 +21,10 @@ subgroups:
         title: Monkey See Monkey Do
         description: Screwball Peanut Butter Whiskey, Banana Liqueur, Chocolate Liqueur,
           Homemade Nutella Chocolate Drizzle
+      - title: Get Him to the Greek
+        price: "14"
+        description: Kleos Mastiha Liqueur, Mint, Fresh Cucumber Juice, Fresh Lime
+          Juice, Lime Yuzu Soda
       - title: Are there Coconuts in Colombia?
         price: "15"
         description: Aguardiente, Pama Pomegranate Liqueur, Coco Lopez, Fresh Lime
@@ -81,9 +84,6 @@ subgroups:
         price: "7"
         description: 16 oz draft
       - title: Budweiser / Budlight
-        price: "6"
-        description: 12 oz bottle
-      - title: Michelob Ultra
         price: "6"
         description: 12 oz bottle
       - description: 12 oz bottle
