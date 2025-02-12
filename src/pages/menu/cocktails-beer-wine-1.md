@@ -29,6 +29,10 @@ subgroups:
         price: "15"
         description: Aguardiente, Pama Pomegranate Liqueur, Coco Lopez, Fresh Lime
           Juice, Cinnamon Simple
+      - title: Shine Strawberry Sparkler
+        price: "15"
+        description: Citrus Vodka, Fresh Lemonade, Strawberry Popping Boba **Available
+          Non-Alcoholic
       - description: "Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
           Just ask for Baileys Irish Cream!) "
         price: "16"
