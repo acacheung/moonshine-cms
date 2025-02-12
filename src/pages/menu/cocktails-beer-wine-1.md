@@ -206,6 +206,9 @@ subgroups:
       - description: "Pineapple Juice, Fresh Lime, Fever Tree Ginger Beer "
         price: "7"
         title: "Pineapple Mule (mocktail) "
+      - title: Strawberry Sparkler (Mocktail)
+        price: "8"
+        description: Fresh Lemonade, Strawberry Popping Boba
       - price: "5"
         title: "Unsweetened Iced Tea "
       - price: "6"
