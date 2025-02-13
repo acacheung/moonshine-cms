@@ -29,7 +29,7 @@ subgroups:
         price: "15"
         description: Aguardiente, Pama Pomegranate Liqueur, Coco Lopez, Fresh Lime
           Juice, Cinnamon Simple
-      - title: Shine Strawberry Sparkler
+      - title: Cupid's Pink Lemonade
         price: "15"
         description: Citrus Vodka, Fresh Lemonade, Strawberry Popping Boba **Available
           Non-Alcoholic
