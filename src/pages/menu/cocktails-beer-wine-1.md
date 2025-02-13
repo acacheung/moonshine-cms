@@ -29,10 +29,6 @@ subgroups:
         price: "15"
         description: Aguardiente, Pama Pomegranate Liqueur, Coco Lopez, Fresh Lime
           Juice, Cinnamon Simple
-      - title: Hearts on Fire
-        price: "15"
-        description: "Demon Seed Whiskey, House Made Ginger Liqueur, Cassis, Cranberry
-          Juice "
       - title: Cupid's Pink Lemonade
         price: "15"
         description: Citrus Vodka, Fresh Lemonade, Strawberry Popping Boba **Available
