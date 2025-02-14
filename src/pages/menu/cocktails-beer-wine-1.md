@@ -13,10 +13,13 @@ subgroups:
 
         price: "7"
         title: Rotating Jello Shots
-      - title: "Valentine's Day Cocktail Special: Cupid's Pink Lemonade"
+      - title: "V-Day Cocktail Special: Cupid's Pink Lemonade"
         price: "15"
         description: Citrus Vodka, Fresh Lemonade, Strawberry Popping Boba **Available
           Non-Alcoholic
+      - title: "V-Day Cocktail Special: Hearts on Fire"
+        price: "15"
+        description: Demon Seed Whiskey, House made Ginger Liqueur, Cassis, Cranberry Juice
       - title: "(Rotating Hot): Moonshine Mulled Wine"
         price: "16"
         description: "Warm Mulled Spiced Red Wine, Secret Herbs & Spices, Cranberry,
