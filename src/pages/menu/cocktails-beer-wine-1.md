@@ -13,6 +13,10 @@ subgroups:
 
         price: "7"
         title: Rotating Jello Shots
+      - title: "Valentine's Day Cocktail Special: Cupid's Pink Lemonade"
+        price: "15"
+        description: Citrus Vodka, Fresh Lemonade, Strawberry Popping Boba **Available
+          Non-Alcoholic
       - title: "(Rotating Hot): Moonshine Mulled Wine"
         price: "16"
         description: "Warm Mulled Spiced Red Wine, Secret Herbs & Spices, Cranberry,
@@ -29,10 +33,6 @@ subgroups:
         price: "15"
         description: Aguardiente, Pama Pomegranate Liqueur, Coco Lopez, Fresh Lime
           Juice, Cinnamon Simple
-      - title: Cupid's Pink Lemonade
-        price: "15"
-        description: Citrus Vodka, Fresh Lemonade, Strawberry Popping Boba **Available
-          Non-Alcoholic
       - description: "Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
           Just ask for Baileys Irish Cream!) "
         price: "16"
