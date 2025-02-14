@@ -9,25 +9,28 @@ subgroups:
       - title: "Menu Addition: Warm Sticky Toffee Bread Pudding"
         price: "14"
         description: Served Warm with Sea Salt Caramel & Whipped Cream
+      - title: "Menu Addition: greek yogurt panna cotta"
+        price: "14"
+        description: Strawberry Boba Bubbles, Mandarin Orange, Local Honey
       - title: "Menu Addition: Cream Cheese Carrot Cake"
         price: "14"
         description: Toasted Walnut Carrot Cake with Baked in Cream Cheese Ribbons,
           Crispy Carrot Chips and Sea Salted Caramel
-      - description: "                                                      Crispy
-          Layered Merengue Cookies, Mango Coulis, Coconut Jellies, Whipped
-          Cream, Berry Sauce   (gluten-free, available vegan!)      "
-        price: "13"
-        title: "Menu Addition: Tropical Mango Pavlova "
+      - description: Coffee Ice Cream, Hazelnut Chocolate Ganache, Salted Caramel Sauce,
+          Whipped Cream, Chocolate Dipped Espresso Beans
+        price: "15"
+        title: "Menu Addition: Belgian Waffle Ice Cream Sundae"
       - description: Chantilly whipped cream, toasted oat-amaranth streusel
         price: "12"
         title: Moonshine’s Butterscotch Pudding
       - description: Powdered sugar, nutella chocolate fudge sauce
         price: "12"
         title: Jaime’s Favorite Oreo Cookie Layered Fudge Brownie
-      - description: Coffee Ice Cream, Hazelnut Chocolate Ganache, Salted Caramel Sauce,
-          Whipped Cream, Chocolate Dipped Espresso Beans
-        price: "15"
-        title: Belgian Waffle Ice Cream Sundae
+      - description: "                                                      Crispy
+          Layered Merengue Cookies, Mango Coulis, Coconut Jellies, Whipped
+          Cream, Berry Sauce   (gluten-free, available vegan!)      "
+        price: "13"
+        title: "Tropical Mango Pavlova "
       - description: Coconut
         price: "11"
         title: "Chef's Whim Sorbet (vegan) "
