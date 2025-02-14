@@ -17,12 +17,6 @@ subgroups:
           Pesto Dressing, Aged Balsamic
         price: 18 regular / 29 grande
         title: "Menu Addition: Warm Crispy Artichoke Salad"
-      - description: >
-          Grilled Pork, House Asian Pear Kimchi, Tempura Beer Battered
-          Veggie-Egg Sushi Roll, Wasabi Aioli, Teriyaki Glaze ** Available
-          Vegetarian**
-        price: "19 regular  / 29 grande  "
-        title: "Menu Addition: Tempura Kimchi Kimbap Sushi Roll       "
       - description: "Shredded Beef & Cheese Tacos, Pickled Red Cabbage Salsa, Smoky
           Sriracha Mayo,   & Birria Dipping Jus  "
         price: "$18 (2 tacos) / $28 (4 tacos)  "
