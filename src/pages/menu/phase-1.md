@@ -8,6 +8,11 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
+      - price: 19 regular / 29 grande
+        description: >
+          Candied Bacon, Creamy Blue Cheese Fonduta, Maple Glazed Waffle Bites,
+          Brown Sugar Apples
+        title: "Menu Addition: “Bacon & Blue” Belgian Waffle Bites"
       - title: "Menu Addition: Warm Baked Pear & Walnut Salad"
         price: 17 regular / 27 grande
         description: |
