@@ -13,11 +13,6 @@ subgroups:
           Candied Bacon, Creamy Blue Cheese Fonduta, Maple Glazed Waffle Bites,
           Brown Sugar Apples
         title: "Menu Addition: “Bacon & Blue” Belgian Waffle Bites"
-      - title: "Menu Addition: Warm Baked Pear & Walnut Salad"
-        price: 17 regular / 27 grande
-        description: |
-          Red Wine Poached Pear Stuffed With Crumbled Bleu Cheese
-          Baby Arugula, Sesame Candied Walnuts, Pear-Pomegranate Reduction
       - description: Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy
           Pesto Dressing, Aged Balsamic
         price: 18 regular / 29 grande
