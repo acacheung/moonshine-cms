@@ -60,11 +60,11 @@ subgroups:
     title: "Cheers To The Weekend! "
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
-      - description: |
-          Red Wine Poached Pear Stuffed With Crumbled Bleu Cheese
-          Baby Arugula, Sesame Candied Walnuts, Pear-Pomegranate Reduction
-        price: 17 regular / 27 grande
-        title: "Menu Addition: Warm Baked Pear & Walnut Salad"
+      - title: 'Menu Addition: "Bacon & Blue" Belgian Waffle Bites'
+        price: "19 regular / 29 grande "
+        description: |-
+          Candied Bacon, Creamy Blue Cheese Fonduta,
+           Maple Glazed Waffle Bites, Brown Sugar Apples
       - description: "Warm Crisp Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
           Quinoa, Parmesan,                              Creamy Pesto Dressing,
