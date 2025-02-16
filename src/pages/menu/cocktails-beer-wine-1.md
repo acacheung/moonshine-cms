@@ -24,10 +24,6 @@ subgroups:
         price: "16"
         description: "Warm Mulled Spiced Red Wine, Secret Herbs & Spices, Cranberry,
           Orange "
-      - title: Get Him to the Greek
-        price: "14"
-        description: Kleos Mastiha Liqueur, Mint, Fresh Cucumber Juice, Fresh Lime
-          Juice, Lime Yuzu Soda
       - title: Are there Coconuts in Colombia?
         price: "15"
         description: Aguardiente, Pama Pomegranate Liqueur, Coco Lopez, Fresh Lime
