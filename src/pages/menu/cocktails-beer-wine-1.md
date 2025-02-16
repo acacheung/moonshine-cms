@@ -24,10 +24,6 @@ subgroups:
         price: "16"
         description: "Warm Mulled Spiced Red Wine, Secret Herbs & Spices, Cranberry,
           Orange "
-      - price: "15"
-        title: Monkey See Monkey Do
-        description: Screwball Peanut Butter Whiskey, Banana Liqueur, Chocolate Liqueur,
-          Homemade Nutella Chocolate Drizzle
       - title: Get Him to the Greek
         price: "14"
         description: Kleos Mastiha Liqueur, Mint, Fresh Cucumber Juice, Fresh Lime
