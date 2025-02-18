@@ -13,17 +13,14 @@ subgroups:
 
         price: "7"
         title: Rotating Jello Shots
-      - title: "V-Day Cocktail Special: Cupid's Pink Lemonade"
-        price: "15"
-        description: Citrus Vodka, Fresh Lemonade, Strawberry Popping Boba **Available
-          Non-Alcoholic
-      - title: "V-Day Cocktail Special: Hearts on Fire"
-        price: "15"
-        description: Demon Seed Whiskey, House made Ginger Liqueur, Cassis, Cranberry Juice
       - title: "(Rotating Hot): Moonshine Mulled Wine"
         price: "16"
         description: "Warm Mulled Spiced Red Wine, Secret Herbs & Spices, Cranberry,
           Orange "
+      - title: Hearts on Fire
+        price: "15"
+        description: Demon Seed Whiskey, House made Ginger Liqueur, Cassis, Cranberry
+          Juice, Fresh Lemon Juice
       - title: Are there Coconuts in Colombia?
         price: "15"
         description: Aguardiente, Pama Pomegranate Liqueur, Coco Lopez, Fresh Lime
@@ -201,9 +198,6 @@ subgroups:
       - description: "Pineapple Juice, Fresh Lime, Fever Tree Ginger Beer "
         price: "7"
         title: "Pineapple Mule (mocktail) "
-      - title: Strawberry Sparkler (Mocktail)
-        price: "8"
-        description: Fresh Lemonade, Strawberry Popping Boba
       - price: "5"
         title: "Unsweetened Iced Tea "
       - price: "6"
