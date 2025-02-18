@@ -13,10 +13,10 @@ subgroups:
 
         price: "7"
         title: Rotating Jello Shots
-      - title: "(Rotating Hot): Moonshine Mulled Wine"
-        price: "16"
-        description: "Warm Mulled Spiced Red Wine, Secret Herbs & Spices, Cranberry,
-          Orange "
+      - title: "(Rotating Hot): Hot Dr. Pepper"
+        price: "15"
+        description: Warm Dr. Pepper, Secret Herbs & Spices, Lemon, Spiced Rum **
+          Available Non-Alcoholic
       - title: Hearts on Fire
         price: "15"
         description: Demon Seed Whiskey, House made Ginger Liqueur, Cassis, Cranberry
@@ -198,6 +198,9 @@ subgroups:
       - description: "Pineapple Juice, Fresh Lime, Fever Tree Ginger Beer "
         price: "7"
         title: "Pineapple Mule (mocktail) "
+      - title: Hot Dr. Pepper NA
+        price: "7"
+        description: Warm Dr. Pepper, Secret Herbs and Spices, Lemon
       - price: "5"
         title: "Unsweetened Iced Tea "
       - price: "6"
