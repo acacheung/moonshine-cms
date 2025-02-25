@@ -57,10 +57,6 @@ subgroups:
       - title: Call Me Maple
         price: "15"
         description: Rye Whiskey, Maple Syrup, Fresh Lemon, Cinnamon Simple
-      - title: Cherry Berry Crush Party Punch
-        price: "14"
-        description: "Cold River Blueberry Vodka, Cherry Liqueur, Luxardo Maraschino
-          Cherry, White Cranberry Lemonade, Citrus Soda "
     title: "’Shine Specialty Cocktails "
   - description: "please note this menu is subject to change "
     items:
