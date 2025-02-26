@@ -21,6 +21,9 @@ subgroups:
         price: "15"
         description: Demon Seed Whiskey, House made Ginger Liqueur, Cassis, Cranberry
           Juice, Fresh Lemon Juice
+      - title: Cupid's Lemonade
+        price: "15"
+        description: Strawberry Popping Boba, Citrus Vodka, Fresh House made Lemonade
       - title: Are there Coconuts in Colombia?
         price: "15"
         description: Aguardiente, Pama Pomegranate Liqueur, Coco Lopez, Fresh Lime
