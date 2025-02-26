@@ -9,9 +9,6 @@ subgroups:
       - title: "Menu Addition: Warm Sticky Toffee Bread Pudding"
         price: "14"
         description: Served Warm with Sea Salt Caramel & Whipped Cream
-      - title: "Menu Addition: greek yogurt panna cotta"
-        price: "14"
-        description: Strawberry Boba Bubbles, Mandarin Orange, Local Honey
       - title: "Menu Addition: Cream Cheese Carrot Cake"
         price: "14"
         description: Toasted Walnut Carrot Cake with Baked in Cream Cheese Ribbons,
