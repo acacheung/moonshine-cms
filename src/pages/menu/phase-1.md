@@ -17,7 +17,7 @@ subgroups:
           Vermicelli Rice Noodles. Shredded Veggies, Mango Nuoc Cham Dipping
           Sauce "
         title: "Menu Addition: Grilled Beef & Mushroom Spring Rolls "
-        price: "18 regular / 28 grande "
+        price: "18 regular / 29 grande "
       - description: Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy
           Pesto Dressing, Aged Balsamic
         price: 18 regular / 29 grande
