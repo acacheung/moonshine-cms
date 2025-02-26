@@ -21,10 +21,6 @@ subgroups:
         price: "15"
         description: Demon Seed Whiskey, House made Ginger Liqueur, Cassis, Cranberry
           Juice, Fresh Lemon Juice
-      - title: The Boppin' Boba
-        price: "15"
-        description: Strawberry Popping Boba, Citrus Vodka, Fresh House Lemonade.
-          **Available Non-Alcoholic
       - title: Are there Coconuts in Colombia?
         price: "15"
         description: Aguardiente, Pama Pomegranate Liqueur, Coco Lopez, Fresh Lime
