@@ -13,10 +13,6 @@ subgroups:
 
         price: "7"
         title: Rotating Jello Shots
-      - title: "(Rotating Hot): Hot Doc Toddy"
-        price: "14"
-        description: Warm Dr. Pepper, Secret Herbs & Spices, Lemon, House Bourbon
-          **Available Non-Alcoholic
       - title: Hearts on Fire
         price: "15"
         description: Demon Seed Whiskey, House made Ginger Liqueur, Cassis, Cranberry
