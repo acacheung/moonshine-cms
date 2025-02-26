@@ -201,6 +201,9 @@ subgroups:
       - title: Hot Dr. Pepper NA
         price: "7"
         description: Warm Dr. Pepper, Secret Herbs and Spices, Lemon
+      - title: "'Shine Strawberry Sparkler"
+        price: "8"
+        description: Strawberry Popping Boba, Fresh House Lemonade
       - price: "5"
         title: "Unsweetened Iced Tea "
       - price: "6"
