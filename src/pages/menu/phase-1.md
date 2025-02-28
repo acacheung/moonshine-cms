@@ -8,16 +8,6 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
-      - price: 19 regular / 29 grande
-        description: >
-          Candied Bacon, Creamy Blue Cheese Fonduta, Maple Glazed Waffle Bites,
-          Brown Sugar Apples
-        title: "Menu Addition: “Bacon & Blue” Belgian Waffle Bites"
-      - description: "Chilled Bulgogi Beef & Wild Mushrooms, Fresh Spring Rolls,
-          Vermicelli Rice Noodles. Shredded Veggies, Mango Nuoc Cham Dipping
-          Sauce "
-        title: "Menu Addition: Grilled Beef & Mushroom Spring Rolls "
-        price: "18 regular / 29 grande "
       - description: Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy
           Pesto Dressing, Aged Balsamic
         price: 18 regular / 29 grande
