@@ -13,6 +13,9 @@ subgroups:
 
         price: "7"
         title: Rotating Jello Shots
+      - title: Cupid's Lemonade
+        price: "15"
+        description: Strawberry Popping Boba, Citrus Vodka, Fresh House Lemonade
       - title: Hearts on Fire
         price: "15"
         description: Demon Seed Whiskey, House made Ginger Liqueur, Cassis, Cranberry
