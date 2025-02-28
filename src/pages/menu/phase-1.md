@@ -142,6 +142,11 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
+      - title: "Menu Addition: Korean Beef Shortrib & Oyster Mushroom Bibimbap Rice
+          Bowl"
+        price: "29"
+        description: House Kimchi, Stirfried Tofu, Warm Sushi Rice, Baby Bok Choy, Fried
+          Egg, Sticky Soy, Sesame-Gochujang Glaze **Available Vegetarian
       - title: "Menu Addition: Chicken ‘n Dumplings "
         price: "28"
         description: |2
