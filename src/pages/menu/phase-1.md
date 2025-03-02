@@ -172,15 +172,15 @@ subgroups:
           fries .... Make it a double patty 11
         price: "22"
         title: GRASS-FED ’SHINE BEEF BURGER**  Boston's Best Award Winner
-      - description: 'Lunar New Year Inspired "Firecracker- Rangoon Burger”  topped with
-          Roasted Jalapeño-Scallion Cream Cheese, Crispy Wonton Strips, Spicy
-          Chili Honey
-          Glaze                                                                                                                                                                                                                                                                                                     ….add
+      - description: 'St Paddy’s Inspired "Green Monstah” topped with Loaded Chive
+          Garlic Mashed Potatoes,  Candied Bacon, Guinness Roasted
+          Broccoli-Cheddar Casserole, Vermont Cheddar
+          Cheese                                                                                                                                                                                                                                                                                                    ….add
           cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg
           $3  …add  jalapenos $2  …add avocado
           $3                                                                                                                                                                          '
         price: "27"
-        title: February's 2025 VIP burger of the month
+        title: March's 2025 VIP burger of the month
       - description: Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
         price: "29"
