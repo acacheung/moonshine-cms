@@ -16,10 +16,6 @@ subgroups:
       - title: Cupid's Lemonade
         price: "15"
         description: Strawberry Popping Boba, Citrus Vodka, Fresh House Lemonade
-      - title: Hearts on Fire
-        price: "15"
-        description: Demon Seed Whiskey, House made Ginger Liqueur, Cassis, Cranberry
-          Juice, Fresh Lemon Juice
       - title: Are there Coconuts in Colombia?
         price: "15"
         description: Aguardiente, Pama Pomegranate Liqueur, Coco Lopez, Fresh Lime
@@ -74,21 +70,6 @@ subgroups:
       - title: (Draft) Harpoon IPA
         price: "7"
         description: 16 oz draft
-      - title: Budweiser / Budlight
-        price: "6"
-        description: 12 oz bottle
-      - description: 12 oz bottle
-        price: "6"
-        title: "Stella Artois "
-      - description: 12 oz bottle
-        price: "6"
-        title: "SAPPORO "
-      - description: "12 oz bottle "
-        price: "7"
-        title: "Heineken "
-      - description: "12 oz bottle "
-        price: "7"
-        title: "Corona Extra "
       - description: "12 oz can "
         price: "7"
         title: High Noon Hard Seltzer Black Cherry
@@ -98,6 +79,15 @@ subgroups:
       - description: 12 oz can
         price: "7"
         title: Downeast Original Cider
+      - description: 12 oz bottle
+        price: "6"
+        title: "SAPPORO "
+      - description: "12 oz bottle "
+        price: "7"
+        title: "Heineken "
+      - description: "12 oz bottle "
+        price: "7"
+        title: "Corona Extra "
       - description: 16 oz tallboy can
         price: "6"
         title: Narragansett Lager
