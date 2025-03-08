@@ -46,9 +46,15 @@ subgroups:
       Don't forget to top it off by adding your favorite proteins, fixins, sides
       & sauces to any dish.
     items:
-      - description: |+
-          Bistro French Onion Soup: Caramelized Onion Madiera-Beef Bone Broth, 
-          Toasty Brioche, Melted Swiss Cheese 
+      - description: >+
+          Southie Irish Potato-Penang Curry (V/GF): Simmered Spiced
+          Potato-Veggie Thai Curry, Coconut Milk, Sweet Bell Peppers. **Make it
+          an Entree: Don’t Forget to add Your Favorite Protein or
+
+          Pair Your Curry with White Rice, Tater Tots or French Fries
+
+          $17 / $28
+
 
         price: "14 regular / 24 grande "
         title: chef's whim soup of the day
