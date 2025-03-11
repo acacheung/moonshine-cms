@@ -148,9 +148,14 @@ subgroups:
     title: The Main Affair
   - description: Our all-time favorite dishes, available whenever the kitchen is open!
     items:
-      - description: |+
-          Bistro French Onion Soup: Caramelized Onion Madeira-Beef Bone Broth, 
-          Toasty Brioche, Melted Swiss Cheese 
+      - description: >+
+          Southie Irish Potato-Penang Curry (V/GF): Simmered Spiced
+          Potato-Veggie Thai Curry, Coconut Milk, Sweet Bell Peppers. **Make it
+          an Entree: Don’t Forget to add Your Favorite Protein $MKT$ or
+
+          Pair Your Curry with Tater Tots or French Fries
+
+          $17 / $28
 
 
         price: 14 / 24
