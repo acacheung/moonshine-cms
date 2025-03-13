@@ -148,6 +148,14 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
+      - price: "27"
+        description: Thick-cut Corned Beef, Homemade Sauerkraut, Melted Swiss Cheese,
+          Special Sauce, Shoestring French Fries
+        title: "Menu Addition: Chef Asia's Famous Corned Beef Sandwich"
+      - description: Thick-cut Corned Beef, Green Chive Mashed Potatoes, House
+          Sauerkraut, Grilled Tomatoes, Red-wine Gravy
+        title: "Menu Addition: St. Paddy's Southie Corned Beef Platter "
+        price: "29"
       - title: "Menu Addition: Korean Beef Shortrib & Bibimbap Rice Bowl"
         price: "29"
         description: House Kimchi, Stirfried Tofu, Warm Sushi Rice, Baby Bok Choy, Fried
