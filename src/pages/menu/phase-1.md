@@ -48,7 +48,7 @@ subgroups:
     items:
       - description: >+
           Southie Irish Potato-Penang Curry (V/GF): Simmered Spiced
-          Potato-Veggie Thai Curry, Coconut Milk, Sweet Bell Peppers. **Make it
+          Potato-Veggie Thai Curry, Coconut Milk, Sweet Bell Peppers **Make it
           an Entree: Don’t Forget to add Your Favorite Protein $MKT$ or
 
           Pair Your Curry with White Rice, Tater Tots or French Fries
