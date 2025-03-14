@@ -183,9 +183,6 @@ subgroups:
       - description: "Pineapple Juice, Fresh Lime, Fever Tree Ginger Beer "
         price: "7"
         title: "Pineapple Mule (mocktail) "
-      - title: Hot Dr. Pepper NA
-        price: "7"
-        description: Warm Dr. Pepper, Secret Herbs and Spices, Lemon
       - title: "'Shine Strawberry Sparkler"
         price: "8"
         description: Strawberry Popping Boba, Fresh House Lemonade
