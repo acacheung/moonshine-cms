@@ -99,6 +99,10 @@ subgroups:
     title: To Get Ya Started!
   - description: " (Entrees)"
     items:
+      - description: Thick-cut Corned Beef, Homemade Sauerkraut, Melted Swiss Cheese,
+          Special Sauce, Shoestring French Fries
+        price: "27"
+        title: "Menu Addition: Chef Asia's Famous Corned Beed Sandwich"
       - title: "menu addition: Twin Mei-Griddle Breakfast Sammies"
         price: "27"
         description: "Maple Drizzled Potato Pancakes, Breakfast Sausage, Scrambled Egg,
