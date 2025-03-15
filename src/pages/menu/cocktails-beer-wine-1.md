@@ -6,10 +6,9 @@ order: 1
 subgroups:
   - description: ""
     items:
-      - description: >+2
-           PB&J: Basil Hayden “Toast" Bourbon, Strawberry Jello, Fresh Lemon Juice,
-           Whipped Cream, Peanut Butter Cookie Crumble 
-          *Crumble Contains Peanuts, Can Be Made Nut Free
+      - description: >+
+          Celtic Pride: Glendalough Irish Whiskey & Botanical Iirsh Gins, Lime &
+          Orange Jello,    Good Luck Sprinkles 
 
         price: "7"
         title: Rotating Jello Shots
@@ -52,6 +51,8 @@ subgroups:
       - title: Call Me Maple
         price: "15"
         description: Rye Whiskey, Maple Syrup, Fresh Lemon, Cinnamon Simple
+      - price: "13"
+        title: "Cocktail Special: Castle Island Iced Tea Party Punch"
     title: "’Shine Specialty Cocktails "
   - description: "please note this menu is subject to change "
     items:
