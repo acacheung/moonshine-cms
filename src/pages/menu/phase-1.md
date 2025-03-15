@@ -160,11 +160,6 @@ subgroups:
         price: "29"
         description: House Kimchi, Stirfried Tofu, Warm Sushi Rice, Baby Bok Choy, Fried
           Egg, Sticky Soy, Sesame-Gochujang Glaze **Available Vegetarian
-      - title: "Menu Addition: Chicken ‘n Dumplings "
-        price: "28"
-        description: |2
-           Skillet Baked Parmesan Gnocchi-Dumplings, 
-          Chicken Pot Pie Filling, Pepper Gravy
       - description: >+
           Our Famous BBQ Smoked Meatloaf, Buttered Noodles, Wild Mushroom
           Stroganoff Sauce 
