@@ -6,10 +6,9 @@ order: 1
 subgroups:
   - description: ""
     items:
-      - description: >+
+      - description: >
           Celtic Pride: Glendalough Irish Whiskey & Botanical Iirsh Gins, Lime &
-          Orange Jello,    Good Luck Sprinkles 
-
+          Orange Jello,    Good Luck Glitter
         price: "7"
         title: Rotating Jello Shots
       - price: "14"
