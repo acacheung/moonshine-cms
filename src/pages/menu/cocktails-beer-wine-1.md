@@ -12,6 +12,10 @@ subgroups:
 
         price: "7"
         title: Rotating Jello Shots
+      - price: "14"
+        title: "Cocktail Special: Castle Island Iced Tea Party Punch"
+        description: "Orange & Lemon Vodkas, Glendalough Botanical Irish Gin, Tullamore
+          Dew Honey, Aperol, Mango-Ginger Sweet Tea, Pineapple Limeade "
       - title: Cupid's Lemonade
         price: "15"
         description: Strawberry Popping Boba, Citrus Vodka, Fresh House Lemonade
@@ -51,8 +55,6 @@ subgroups:
       - title: Call Me Maple
         price: "15"
         description: Rye Whiskey, Maple Syrup, Fresh Lemon, Cinnamon Simple
-      - price: "13"
-        title: "Cocktail Special: Castle Island Iced Tea Party Punch"
     title: "’Shine Specialty Cocktails "
   - description: "please note this menu is subject to change "
     items:
