@@ -6,12 +6,13 @@ order: 3
 subgroups:
   - description: "Brunch Cocktails & Beverages "
     items:
+      - title: "Cocktail Special: Castle Isalnd Iced Tea Party Punch "
+        price: "13"
+        description: "Orange & Lemon Vodkas, Glendalough Botanical Irish Gin, Tullamore
+          Dew Honey, Aperol, Mango-Ginger Sweet Tea, Pineapple Limeade "
       - description: >+
-          PB&J: Basil Hayden “Toast" Bourbon, Strawberry Jello, Fresh Lemon
-          Juice,
-           Whipped Cream, Peanut Butter Cookie Crumble 
-          *Crumble Contains Peanuts, Can Be Made Nut Free
-
+          Celtic Pride: Glendalough Irish Whiskey & Botanical Iirsh Gins, Lime &
+          Orange Jello,    Good Luck Sprinkles 
 
         price: "6"
         title: Chef Asia's Rotating Jello Shots
