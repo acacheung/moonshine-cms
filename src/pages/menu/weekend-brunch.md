@@ -6,7 +6,7 @@ order: 3
 subgroups:
   - description: "Brunch Cocktails & Beverages "
     items:
-      - title: "Cocktail Special: Castle Isalnd Iced Tea Party Punch "
+      - title: "Cocktail Special: Castle Island Iced Tea Party Punch "
         price: "13"
         description: "Orange & Lemon Vodkas, Glendalough Botanical Irish Gin, Tullamore
           Dew Honey, Aperol, Mango-Ginger Sweet Tea, Pineapple Limeade "
