@@ -55,12 +55,12 @@ subgroups:
     title: "’Shine Specialty Cocktails "
   - description: "please note this menu is subject to change "
     items:
-      - description: "16 oz draft "
-        price: "12"
-        title: (draft) Maine Beer Company's Lunch IPA
       - description: 16 oz draft
         price: "6"
         title: "(draft) Miller High Life "
+      - description: "16 oz draft "
+        price: "12"
+        title: (draft) Maine Beer Company's Lunch IPA
       - description: 16 oz draft
         price: "8"
         title: (draft) Dorchester Brewing Co. Galaxy Session IPA
