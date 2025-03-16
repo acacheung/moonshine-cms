@@ -115,7 +115,7 @@ subgroups:
         price: "7"
         title: "Stone IPA "
       - description: "16 oz nitro can "
-        price: "7"
+        price: "8"
         title: "Guinness Nitro Stout "
       - description: "16 oz tallboy can "
         price: "7"
