@@ -15,24 +15,10 @@ subgroups:
         title: "Cocktail Special: Castle Island Iced Tea Party Punch"
         description: "Orange & Lemon Vodkas, Glendalough Botanical Irish Gin, Tullamore
           Dew Honey, Aperol, Mango-Ginger Sweet Tea, Pineapple Limeade "
-      - title: Cupid's Lemonade
-        price: "15"
-        description: Strawberry Popping Boba, Citrus Vodka, Fresh House Lemonade
-      - title: Are there Coconuts in Colombia?
-        price: "15"
-        description: Aguardiente, Pama Pomegranate Liqueur, Coco Lopez, Fresh Lime
-          Juice, Cinnamon Simple
       - description: "Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
           Just ask for Baileys Irish Cream!) "
         price: "16"
         title: "'Shine Espresso Martini"
-      - description: "Gin Lane London Dry Gin, Elderflower Liqueur, Fresh Lemon, Prosecco "
-        price: "16"
-        title: Moonshine '76
-      - description: "Empress 1908 Indigo Gin, Creme de Violette, Luxardo Maraschino,
-          Fresh Lemon "
-        price: "16"
-        title: Fly Me To The Moon
       - description: "Aperol, Prosecco Bubbles, Pineapple, Cinnamon Simple, Fresh Lemon "
         price: "14"
         title: Endless Summer
@@ -40,10 +26,6 @@ subgroups:
           Hibiscus, Fresh Citrus Juices "
         price: "14"
         title: Sahil's Ginger Hibiscus Red Sangria
-      - description: "GrandTen Spicy Firepuncher Vodka, Fresh Squeezed Cucumber Juice,
-          Elderflower Liqueur, Fresh Lemon "
-        price: "16"
-        title: farm to glass
       - description: "House Infused Spicy Organic Tequilla, Ginger Liqueur, Fresh Lime,
           Agave "
         price: "15"
