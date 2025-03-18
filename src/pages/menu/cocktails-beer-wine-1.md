@@ -23,6 +23,10 @@ subgroups:
         title: "Cocktail Special: Castle Island Iced Tea Party Punch"
         description: "Orange & Lemon Vodkas, Glendalough Botanical Irish Gin, Tullamore
           Dew Honey, Aperol, Mango-Ginger Sweet Tea, Pineapple Limeade "
+      - title: Patron Saint of Southie
+        price: "14"
+        description: Glendalough Double Barrel Whiskey, Peach Liqueur, Fresh Lime Juice,
+          White Cranberry Juice
       - description: "Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
           Just ask for Baileys Irish Cream!) "
         price: "16"
