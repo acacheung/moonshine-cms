@@ -13,8 +13,12 @@ subgroups:
         title: Rotating Jello Shots
       - title: "Cocktail Special: The Glendalough Shamrock"
         price: "14"
-        description: Glendalough Double Barrel Irish Whiskey, Midori Liqueur, Cinnamon
-          Simple Syrup, Fresh Lemon Juice
+        description: Glendalough Double Barrel Irish Whiskey, Midori Liqueur, Verbena
+          Tea Syrup, Fresh Lime Juice
+      - title: "Cocktail Special: How Do You Like Them Apricots?"
+        price: "14"
+        description: Black Infusions Apricot Liqueur, Cranberry Vodka, Cinnamon Simple
+          Syrup, Fresh Lemon Juice
       - price: "14"
         title: "Cocktail Special: Castle Island Iced Tea Party Punch"
         description: "Orange & Lemon Vodkas, Glendalough Botanical Irish Gin, Tullamore
