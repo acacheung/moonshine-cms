@@ -48,6 +48,14 @@ subgroups:
       - title: Call Me Maple
         price: "15"
         description: Rye Whiskey, Maple Syrup, Fresh Lemon, Cinnamon Simple
+      - title: Farm to Glass
+        price: "16"
+        description: Firepuncher Spicy Vodka, St. Elder Liqueur, Fresh Cucumber Juice,
+          Lemon Juice
+      - title: Cupid's Lemonade
+        price: "15"
+        description: Citron Vodka, Strawberry Poppin' Boba, Fresh Lemonade ** Available
+          Non-Alcoholic
     title: "’Shine Specialty Cocktails "
   - description: "please note this menu is subject to change "
     items:
