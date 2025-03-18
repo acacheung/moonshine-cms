@@ -11,6 +11,10 @@ subgroups:
           Orange Jello,    Good Luck Glitter
         price: "7"
         title: Rotating Jello Shots
+      - title: "Cocktail Special: The Glendalough Shamrock"
+        price: "14"
+        description: Glendalough Double Barrel Irish Whiskey, Midori Liqueur, Cinnamon
+          Simple Syrup, Fresh Lemon Juice
       - price: "14"
         title: "Cocktail Special: Castle Island Iced Tea Party Punch"
         description: "Orange & Lemon Vodkas, Glendalough Botanical Irish Gin, Tullamore
