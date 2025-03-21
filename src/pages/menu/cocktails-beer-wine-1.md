@@ -56,6 +56,10 @@ subgroups:
         price: "15"
         description: Citron Vodka, Strawberry Poppin' Boba, Fresh Lemonade ** Available
           Non-Alcoholic
+      - title: House Manhattan
+        price: "16"
+        description: Boston Harbor Distillery's Putnam Rye, Carpano Antica Sweet
+          Vermouth, Angostura Bitters
     title: "’Shine Specialty Cocktails "
   - description: "please note this menu is subject to change "
     items:
