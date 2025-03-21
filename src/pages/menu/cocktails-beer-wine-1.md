@@ -138,6 +138,9 @@ subgroups:
       - title: Athletic Brewing Co "Lite" Light Lager (non-alcoholic)
         price: "6"
         description: 12 oz can
+      - title: Magner's Irish Cider
+        description: 16 oz Can
+        price: "8"
     title: "Beer Menu "
   - description: "please note vintages are subject to change "
     items:
