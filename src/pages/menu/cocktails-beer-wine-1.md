@@ -75,6 +75,9 @@ subgroups:
       - description: 16 oz draft
         price: "8"
         title: (draft) Dorchester Brewing Co. Galaxy Session IPA
+      - description: "12 oz bottle "
+        price: "7"
+        title: Kona Brewing "Big Wave" Golden Ale
       - description: "12 oz can "
         price: "7"
         title: High Noon Hard Seltzer Black Cherry
@@ -105,9 +108,6 @@ subgroups:
       - description: "16 oz tallboy can "
         price: "7"
         title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
-      - description: "12 oz bottle "
-        price: "7"
-        title: Kona Brewing "Big Wave" Golden Ale
       - title: Allagash White
         price: "7"
         description: "16 oz tallboy can "
