@@ -11,7 +11,7 @@ subgroups:
           Orange Jello,    Good Luck Glitter
         price: "7"
         title: Rotating Jello Shots
-      - title: "Cocktail Special: The Glendalough Shamrock"
+      - title: "Cocktail Special: The Southie Shamrock"
         price: "14"
         description: Glendalough Double Barrel Irish Whiskey, Midori Liqueur, Verbena
           Tea Syrup, Fresh Lime Juice
@@ -19,10 +19,6 @@ subgroups:
         price: "14"
         description: Black Infusions Apricot Liqueur, Cranberry Vodka, Cinnamon Simple
           Syrup, Fresh Lemon Juice
-      - price: "14"
-        title: "Cocktail Special: Castle Island Iced Tea Party Punch"
-        description: "Orange & Lemon Vodkas, Glendalough Botanical Irish Gin, Tullamore
-          Dew Honey, Aperol, Mango-Ginger Sweet Tea, Pineapple Limeade "
       - title: Patron Saint of Southie
         price: "14"
         description: Glendalough Double Barrel Whiskey, Peach Liqueur, Fresh Lime Juice,
