@@ -59,21 +59,18 @@ subgroups:
     title: "’Shine Specialty Cocktails "
   - description: "please note this menu is subject to change "
     items:
-      - description: 16 oz draft
-        price: "6"
-        title: "(draft) Miller High Life "
       - title: "(Draft) Smithwick's Irish Red Ale "
         price: "8"
         description: 16 oz draft
+      - description: 16 oz draft
+        price: "6"
+        title: "(draft) Miller High Life "
       - description: "16 oz draft "
         price: "12"
         title: (draft) Maine Beer Company's Lunch IPA
       - description: 16 oz draft
         price: "8"
         title: (draft) Dorchester Brewing Co. Galaxy Session IPA
-      - description: "12 oz bottle "
-        price: "7"
-        title: Kona Brewing "Big Wave" Golden Ale
       - description: "12 oz can "
         price: "7"
         title: High Noon Hard Seltzer Black Cherry
