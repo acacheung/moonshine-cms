@@ -46,6 +46,10 @@ subgroups:
       Don't forget to top it off by adding your favorite proteins, fixins, sides
       & sauces to any dish.
     items:
+      - title: Mediterranean Grilled Calamari & Octopus
+        price: 19 regular / 32 grande
+        description: Spanish Style Marinated & Grilled Calamari & Octopus, Mandarin
+          Oranges, Baby Spinach Salad with Citron Butter
       - description: >+
           Southie Irish Potato-Penang Curry (V/GF): Simmered Spiced
           Potato-Veggie Thai Curry, Coconut Milk, Sweet Bell Peppers **Make it
