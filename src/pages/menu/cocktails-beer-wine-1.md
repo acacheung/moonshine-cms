@@ -78,6 +78,9 @@ subgroups:
       - description: 16 oz draft
         price: "8"
         title: (draft) Dorchester Brewing Co. Galaxy Session IPA
+      - title: "Hero 95 "
+        price: "7"
+        description: 12 oz Can
       - description: "12 oz can "
         price: "7"
         title: High Noon Hard Seltzer Black Cherry
