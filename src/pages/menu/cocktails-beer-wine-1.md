@@ -23,6 +23,10 @@ subgroups:
         price: "14"
         description: Glendalough Double Barrel Whiskey, Peach Liqueur, Fresh Lime Juice,
           White Cranberry Juice
+      - title: Are There Coconuts in Columbia?
+        price: "15"
+        description: Aguardiente Columbian Liqueur, Coco Lopez, Pama Pomegranate
+          Liqueur, Cinnamon Syrup, Fresh Lime Juice
       - description: "Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
           Just ask for Baileys Irish Cream!) "
         price: "16"
@@ -48,10 +52,6 @@ subgroups:
         price: "16"
         description: Firepuncher Spicy Vodka, St. Elder Liqueur, Fresh Cucumber Juice,
           Lemon Juice
-      - title: Cupid's Lemonade
-        price: "15"
-        description: Citron Vodka, Strawberry Poppin' Boba, Fresh Lemonade ** Available
-          Non-Alcoholic
       - title: House Manhattan
         price: "15"
         description: Boston Harbor Distillery's Putnam Rye, Carpano Antica Sweet
