@@ -30,10 +30,6 @@ subgroups:
       - title: Meet Me Down M Street
         price: "14"
         description: Triple 8 Blueberry Vodka, Redbull
-      - title: Castle Island Iced Tea
-        description: Irish Botanical Gin, Lemon Citrus Vodka, Aperol, Ginger Lemon Sweet
-          Tea with a Pineapple Limeade
-        price: "14"
       - description: "Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
           Just ask for Baileys Irish Cream!) "
         price: "16"
