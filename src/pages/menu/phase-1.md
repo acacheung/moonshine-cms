@@ -184,15 +184,12 @@ subgroups:
           fries .... Make it a double patty 11
         price: "22"
         title: GRASS-FED ’SHINE BEEF BURGER**  Boston's Best Award Winner
-      - description: 'St Paddy’s Inspired "Green Monstah” topped with Loaded Chive
-          Garlic Mashed Potatoes,  Candied Bacon, Guinness Roasted
-          Broccoli-Cheddar Casserole, Vermont Cheddar
-          Cheese                                                                                                                                                                                                                                                                                                    ….add
-          cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg
-          $3  …add  jalapenos $2  …add avocado
-          $3                                                                                                                                                                          '
+      - description: >-
+          “The Animal Style”  
+
+          Californian Chef Asia’s In ‘N Out Inspired Burger topped with Secret Sauce, Sauteed Onions, American Cheese, Lettuce, Tomato & Homemade B&B Pickles                                                                                                                                                                                                                                                                                                    ….add cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg $3  …add  jalapenos $2  …add avocado $3                                                                                                                                                                          
         price: "27"
-        title: March's 2025 VIP burger of the month
+        title: April's 2025 VIP burger of the month
       - description: Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
         price: "29"
