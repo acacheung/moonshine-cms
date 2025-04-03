@@ -62,9 +62,6 @@ subgroups:
     title: "’Shine Specialty Cocktails "
   - description: "please note this menu is subject to change "
     items:
-      - title: "(Draft) Smithwick's Irish Red Ale "
-        price: "8"
-        description: 16 oz draft
       - description: 16 oz draft
         price: "6"
         title: "(draft) Miller High Life "
