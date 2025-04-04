@@ -71,6 +71,9 @@ subgroups:
       - description: 16 oz draft
         price: "8"
         title: (draft) Dorchester Brewing Co. Galaxy Session IPA
+      - title: (draft) Harpoon IPA
+        price: "7"
+        description: 16 oz draft
       - title: "Hero 95 "
         price: "7"
         description: 12 oz Can
