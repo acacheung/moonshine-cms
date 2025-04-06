@@ -8,6 +8,11 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
+      - description: |2
+            Grilled Sweet Corn Cakes, English Peas, 
+          Creme Fraiche, Red Wine Vinaigrette 
+        price: "18 regular / 28  grande  "
+        title: "Menu Addition: House Applewood-Smoked Trout Salad       "
       - description: Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy
           Pesto Dressing, Aged Balsamic
         price: 18 regular / 29 grande
