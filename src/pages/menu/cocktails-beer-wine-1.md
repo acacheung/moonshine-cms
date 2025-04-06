@@ -6,9 +6,10 @@ order: 1
 subgroups:
   - description: ""
     items:
-      - description: >
-          Celtic Pride: Glendalough Irish Whiskey & Botanical Iirsh Gins, Lime &
-          Orange Jello,    Good Luck Glitter
+      - description: |
+          Spring Berry Punch
+          Blanco Tequilla, Chambord Raspberry LIqueur,
+           Cherry Berry Jello, Fresh Lemon Juice 
         price: "7"
         title: Rotating Jello Shots
       - title: "Cocktail Special: The Southie Shamrock"
