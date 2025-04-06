@@ -6,9 +6,10 @@ order: 3
 subgroups:
   - description: "Brunch Cocktails & Beverages "
     items:
-      - description: >+
-          Celtic Pride: Glendalough Irish Whiskey & Botanical Iirsh Gins, Lime &
-          Orange Jello,    Good Luck Sprinkles 
+      - description: |+
+          Spring Berry Punch: Blanco Tequilla, Chambord Raspberry LIqueur,
+           Cherry Berry Jello, Fresh Lemon Juice 
+
 
         price: "6"
         title: Chef Asia's Rotating Jello Shots
