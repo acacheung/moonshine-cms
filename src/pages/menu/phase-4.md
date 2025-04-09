@@ -6,9 +6,6 @@ order: 5
 subgroups:
   - description: Add a Warm Belgian Waffle to Your Favorite Dessert $9
     items:
-      - description: "Sour Cream Cake, Tahitian Vanilla, Shredded Coconut, Coconut Jellies "
-        price: "13"
-        title: "Menu Addition: Toasted Coconut Cake "
       - title: "Menu Addition: Warm Sticky Toffee Bread Pudding"
         price: "14"
         description: Served Warm with Sea Salt Caramel & Whipped Cream
