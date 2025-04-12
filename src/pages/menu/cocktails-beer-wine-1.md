@@ -81,6 +81,12 @@ subgroups:
       - title: "Hero 95 "
         price: "7"
         description: 12 oz Can
+      - description: 12 oz bottle
+        price: "6"
+        title: "SAPPORO "
+      - description: "12 oz bottle "
+        price: "7"
+        title: "Heineken "
       - description: "12 oz can "
         price: "7"
         title: High Noon Hard Seltzer Black Cherry
@@ -93,12 +99,6 @@ subgroups:
       - title: Magner's Irish Cider
         description: 16 oz Can
         price: "8"
-      - description: 12 oz bottle
-        price: "6"
-        title: "SAPPORO "
-      - description: "12 oz bottle "
-        price: "7"
-        title: "Heineken "
       - description: "12 oz bottle "
         price: "7"
         title: "Corona Extra "
