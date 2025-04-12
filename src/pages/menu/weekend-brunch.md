@@ -58,7 +58,12 @@ subgroups:
     title: "Cheers To The Weekend! "
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
-      - description: "Warm Crisp Artichoke Hearts, Grilled
+      - description: >
+          Grilled Sweet Corn Cakes, English Peas, Creme Fraiche, Red Wine
+          Vinaigrette
+        price: "18 regular / 28 grande "
+        title: "Menu Addition: House Applewood-Smoked Trout Salad    "
+      - description: "Warm Crispy Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
           Quinoa, Parmesan,                              Creamy Pesto Dressing,
           Aged Balsamic       "
