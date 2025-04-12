@@ -84,7 +84,13 @@ subgroups:
         description: 16 oz draft
       - title: "Hero 95 "
         price: "7"
-        description: 12 oz Can
+        description: 12 oz can
+      - title: Smithwicks Irish Red Ale
+        price: "7"
+        description: 14.9 oz tallboy can
+      - title: Oberon Wheat Ale
+        price: "6"
+        description: 12 oz can
       - description: 12 oz bottle
         price: "6"
         title: "SAPPORO "
