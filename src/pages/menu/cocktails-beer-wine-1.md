@@ -87,18 +87,6 @@ subgroups:
       - description: "12 oz bottle "
         price: "7"
         title: "Heineken "
-      - description: "12 oz can "
-        price: "7"
-        title: High Noon Hard Seltzer Black Cherry
-      - description: 355 ml can
-        price: "7"
-        title: "Viva  tequila seltzer: Watermelon or Huckleberry"
-      - description: 12 oz can
-        price: "7"
-        title: Downeast Original Cider
-      - title: Magner's Irish Cider
-        description: 16 oz Can
-        price: "8"
       - description: "12 oz bottle "
         price: "7"
         title: "Corona Extra "
@@ -111,6 +99,18 @@ subgroups:
       - description: "16 oz tallboy can "
         price: "7"
         title: 'Night Shift Brewing "Nite Lite" Light Lager '
+      - description: "12 oz can "
+        price: "7"
+        title: High Noon Hard Seltzer Black Cherry
+      - description: 355 ml can
+        price: "7"
+        title: "Viva  tequila seltzer: Watermelon or Huckleberry"
+      - description: 12 oz can
+        price: "7"
+        title: Downeast Original Cider
+      - title: Magner's Irish Cider
+        description: 16 oz Can
+        price: "8"
       - description: "16 oz tallboy can "
         price: "7"
         title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
