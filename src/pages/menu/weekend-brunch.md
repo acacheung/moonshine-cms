@@ -249,16 +249,9 @@ subgroups:
     title: All the sides & Fixin’s
   - description: " (Dessert)"
     items:
-      - description: "Sour Cream Cake, Tahitian Vanilla, Shredded Coconut, Coconut Jellies "
-        title: "Menu Addition: Toasted Coconut Cake "
-        price: "13"
       - title: "Menu Addition: Warm Sticky Toffee Bread Pudding"
         price: "14"
         description: Served Warm with Sea Salt Caramel & Whipped Cream
-      - price: "14"
-        description: Toasted Walnut Carrot Cake with Baked in Cream Cheese Ribbons,
-          Crispy Carrot Chips and Sea Salted Caramel
-        title: "Menu Addition: Cream Cheese Carrot Cake"
       - description: Coffee Ice Cream, Hazelnut Chocolate Ganache, Salted Caramel Sauce,
           Whipped Cream, Chocolate Dipped Espresso Beans
         price: "15"
