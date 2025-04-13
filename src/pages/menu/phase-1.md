@@ -167,11 +167,6 @@ subgroups:
 
         title: "Menu Addition: ‘Shine Smoky Meatloaf Stroganoff "
         price: "29"
-      - title: "Menu Addition: Louisiana Braised Rabbit Pasta"
-        price: "29"
-        description: >
-          Red Wine Braised Rabbit, Campanelle Pasta, Toasted Hazelnut,
-          Louisiana-Tomato Cream Sauce
       - description: Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask! Also ask About our House
           Vegan Aioli!
