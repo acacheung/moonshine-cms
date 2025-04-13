@@ -9,10 +9,6 @@ subgroups:
       - title: "Menu Addition: Warm Sticky Toffee Bread Pudding"
         price: "14"
         description: Served Warm with Sea Salt Caramel & Whipped Cream
-      - title: "Menu Addition: Cream Cheese Carrot Cake"
-        price: "14"
-        description: Toasted Walnut Carrot Cake with Baked in Cream Cheese Ribbons,
-          Crispy Carrot Chips and Sea Salted Caramel
       - description: Coffee Ice Cream, Hazelnut Chocolate Ganache, Salted Caramel Sauce,
           Whipped Cream, Chocolate Dipped Espresso Beans
         price: "15"
