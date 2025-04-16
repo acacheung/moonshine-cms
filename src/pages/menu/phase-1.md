@@ -9,8 +9,8 @@ subgroups:
       fixins, sides & sauces to any dish."
     items:
       - description: |2
-           Crispy Pizza-Easter Pie Ricoota Filled Eggrolls,
-           Sausage, Ham & Soppresata, Spiced Marinara Dipping Sauce 
+           Crispy Pizza-Easter Pie Ricotta Filled Eggrolls,
+           Sausage, Ham & Soppressata, Spiced Marinara Dipping Sauce 
         price: 18 regular / 28 grande
         title: "Menu Addition: Ricotta Easter Pie Eggrolls"
       - description: |2
