@@ -6,6 +6,10 @@ order: 5
 subgroups:
   - description: Add a Warm Belgian Waffle to Your Favorite Dessert $9
     items:
+      - title: "Menu Addition: Spring Berry-Pomegranate Biscuit Shortcake"
+        price: "14"
+        description: Mini Olive-Oil Toasted Buttermilk Biscuit Toasties, Whipped Creme
+          Fraiche, Toasted Hazelnuts, Aged Balsamic
       - title: "Menu Addition: Warm Sticky Toffee Bread Pudding"
         price: "14"
         description: Served Warm with Sea Salt Caramel & Whipped Cream
