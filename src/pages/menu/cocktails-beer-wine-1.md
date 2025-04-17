@@ -16,14 +16,14 @@ subgroups:
         price: "14"
         description: Glendalough Double Barrel Irish Whiskey, Midori Liqueur, Verbena
           Tea Syrup, Fresh Lime Juice
+      - title: How Do You Like Dem Apricots?
+        price: "14"
+        description: Black Infusions Apricot Liqueur, Cranberry Vodka, Cinnamon Simple
+          Syrup, Fresh Lemon Juice
       - title: Are There Coconuts in Columbia?
         price: "15"
         description: Aguardiente Columbian Liqueur, Coco Lopez, Pama Pomegranate
           Liqueur, Cinnamon Syrup, Fresh Lime Juice
-      - title: "Cocktail Special: How Do You Like Them Apricots?"
-        price: "14"
-        description: Black Infusions Apricot Liqueur, Cranberry Vodka, Cinnamon Simple
-          Syrup, Fresh Lemon Juice
       - title: Meet Me Down M Street
         price: "14"
         description: Triple 8 Blueberry Vodka, Redbull
