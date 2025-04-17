@@ -89,6 +89,9 @@ subgroups:
       - description: 16 oz tallboy can
         price: "6"
         title: Narragansett Lager
+      - title: Smithwicks Irish Red Ale
+        price: "8"
+        description: 14.9 oz tall boy
       - description: 16 oz tallboy can
         price: "7"
         title: Zero Gravity "Green State" Lager
@@ -110,6 +113,9 @@ subgroups:
       - description: "16 oz tallboy can "
         price: "7"
         title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
+      - title: Bell's Oberon Wheat Ale
+        price: "6"
+        description: 12 oz can
       - title: Allagash White
         price: "7"
         description: "16 oz tallboy can "
