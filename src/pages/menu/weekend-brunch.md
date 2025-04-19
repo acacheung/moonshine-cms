@@ -248,6 +248,10 @@ subgroups:
     title: All the sides & Fixin’s
   - description: " (Dessert)"
     items:
+      - description: Mini Olive-Oil Toasted Buttermilk Biscuit Toasties, Whipped Creme
+          Fraiche, Toasted Hazelnuts, Aged Balsamic
+        price: "14"
+        title: "Menu Addition: Spring Berry-Pomegranate Biscuit Shortcake "
       - title: "Menu Addition: Warm Sticky Toffee Bread Pudding"
         price: "14"
         description: Served Warm with Sea Salt Caramel & Whipped Cream
