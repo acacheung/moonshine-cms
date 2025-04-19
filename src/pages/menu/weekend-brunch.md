@@ -101,6 +101,10 @@ subgroups:
     title: To Get Ya Started!
   - description: " (Entrees)"
     items:
+      - title: "Menu Addition: Braised Easter Bunny 'n Grits"
+        price: "28"
+        description: "Red Wine Braised Rabbit, Spring Kale, English Peas, Green Chili
+          Cheddar Grits, Sage-Brown Butter "
       - title: "menu addition: Twin Mei-Griddle Breakfast Sammies"
         price: "27"
         description: "Maple Drizzled Potato Pancakes, Breakfast Sausage, Scrambled Egg,
