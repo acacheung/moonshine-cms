@@ -45,9 +45,6 @@ subgroups:
       - description: "Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime "
         price: "14"
         title: "La Diabla "
-      - title: Call Me Maple
-        price: "15"
-        description: Rye Whiskey, Maple Syrup, Fresh Lemon, Cinnamon Simple
       - title: Farm to Glass
         price: "16"
         description: Firepuncher Spicy Vodka, St. Elder Liqueur, Fresh Cucumber Juice,
