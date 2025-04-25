@@ -8,11 +8,10 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
-      - description: |2
-           Crispy Pizza-Easter Pie Ricotta Filled Eggrolls,
-           Sausage, Ham & Soppressata, Spiced Marinara Dipping Sauce 
-        price: 18 regular / 28 grande
-        title: "Menu Addition: Ricotta Easter Pie Eggrolls"
+      - description: "Crispy Ricotta Pepperoni Pizza Filled Spring Rolls ,Sausage, Ham &
+          Soppressata, Spiced Marinara Dipping Sauce "
+        price: 17 regular / 27 grande
+        title: "Menu Addition: Ricotta Pepperoni Pizza Spring Rolls"
       - description: |2
            Grilled Sweet Corn Cakes, English Peas, 
           Creme Fraiche, Red Wine Vinaigrette 
