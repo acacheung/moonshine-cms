@@ -58,6 +58,10 @@ subgroups:
     title: "Cheers To The Weekend! "
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
+      - title: "Menu Addition: Spring BLT Wedge Salad"
+        price: "18 regular / 28 grande "
+        description: "Crisp Iceberg Lettuce, Candied Bacon, Local Cherry Tomatoes, Harb
+          Boiled Egg, Shredded Beet Crema, Green Goddess Dressing "
       - description: "Warm Crispy Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
           Quinoa, Parmesan,                              Creamy Pesto Dressing,
