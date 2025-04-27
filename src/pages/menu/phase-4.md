@@ -13,10 +13,10 @@ subgroups:
       - title: "Menu Addition: Warm Sticky Toffee Bread Pudding"
         price: "14"
         description: Served Warm with Sea Salt Caramel & Whipped Cream
-      - description: Coffee Ice Cream, Hazelnut Chocolate Ganache, Salted Caramel Sauce,
-          Whipped Cream, Chocolate Dipped Espresso Beans
-        price: "15"
-        title: "Menu Addition: Belgian Waffle Ice Cream Sundae"
+      - description: "Toasted Pistachio Ice Cream, Homemade Brown Butter Shredded
+          Filo-Kataifi, Hazelnut Chocolate Sauce, Whipped Cream "
+        price: "16"
+        title: 'Menu Addition: "Dubai" Belgian Waffle Ice Cream Sundae'
       - description: Chantilly whipped cream, toasted oat-amaranth streusel
         price: "12"
         title: Moonshine’s Butterscotch Pudding
@@ -31,7 +31,7 @@ subgroups:
       - description: Coconut
         price: "11"
         title: "Chef's Whim Sorbet (vegan) "
-      - description: Coffee
+      - description: Toasted Pistachio
         price: "11"
         title: Chef's Whim Ice Cream
     title: Sweet Tooth
