@@ -60,14 +60,8 @@ subgroups:
         description: Spanish Style Marinated & Grilled Calamari & Octopus, Mandarin
           Oranges, Baby Spinach Salad with Citron Butter
       - description: >+
-          Southie Irish Potato-Penang Curry (V/GF): Simmered Spiced
-          Potato-Veggie Thai Curry, Coconut Milk, Sweet Bell Peppers **Make it
-          an Entree: Don’t Forget to add Your Favorite Protein $MKT$ or
-
-          Pair Your Curry with White Rice, Tater Tots or French Fries
-
-          $17 / $28
-
+          Spring Carrot Ginger Bisque-  Creamy Local Baby Carrot Soup, Fresh
+          Ginger, Nutmeg  *GF *VEG
 
         price: "14 regular / 24 grande "
         title: chef's whim soup of the day
