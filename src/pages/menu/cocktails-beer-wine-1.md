@@ -16,9 +16,6 @@ subgroups:
         price: "14"
         description: Glendalough Double Barrel Irish Whiskey, Midori Liqueur, Verbena
           Tea Syrup, Fresh Lime Juice
-      - title: purple pony club
-        price: "16"
-        description: "Four Roses Bourbon, Housemade Blueberry Mint Shrub, Shaved Iced "
       - title: Are There Coconuts in Columbia?
         price: "15"
         description: Aguardiente Columbian Liqueur, Coco Lopez, Pama Pomegranate
