@@ -16,6 +16,10 @@ subgroups:
         price: "14"
         description: Glendalough Double Barrel Irish Whiskey, Midori Liqueur, Verbena
           Tea Syrup, Fresh Lime Juice
+      - title: "'Shine Summer Sling"
+        price: "14"
+        description: Four Corners American Gin, House Made Strawberry-Rhubarb Shrub,
+          Tonic Water, Fresh Lemon Juice
       - title: Are There Coconuts in Columbia?
         price: "15"
         description: Aguardiente Columbian Liqueur, Coco Lopez, Pama Pomegranate
@@ -53,10 +57,6 @@ subgroups:
         price: "15"
         description: Boston Harbor Distillery's Putnam Rye, Carpano Antica Sweet
           Vermouth, Angostura Bitters
-      - title: "'Shine Summer Sling"
-        price: "14"
-        description: Four Corners American Gin, House Made Strawberry-Rhubarb Shrub,
-          Tonic Water, Fresh Lemon Juice
     title: "’Shine Specialty Cocktails "
   - description: "please note this menu is subject to change "
     items:
