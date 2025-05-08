@@ -12,7 +12,7 @@ subgroups:
            Cherry Berry Jello, Fresh Lemon Juice 
         price: "7"
         title: Rotating Jello Shots
-      - title: "Cocktail Special: The Southie Shamrock"
+      - title: The Southie Shamrock
         price: "14"
         description: Glendalough Double Barrel Irish Whiskey, Midori Liqueur, Verbena
           Tea Syrup, Fresh Lime Juice
@@ -28,9 +28,6 @@ subgroups:
         price: "14"
         description: Black Infusions Apricot Liqueur, Cranberry Vodka, Cinnamon Simple
           Syrup, Fresh Lemon Juice
-      - title: Meet Me Down M Street
-        price: "14"
-        description: Triple 8 Blueberry Vodka, Redbull
       - description: "Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
           Just ask for Baileys Irish Cream!) "
         price: "16"
@@ -49,6 +46,10 @@ subgroups:
       - description: "Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime "
         price: "14"
         title: "La Diabla "
+      - title: Fly Me to The Moon
+        price: "16"
+        description: Empress Indico Gin, Luxardo Cherry Liqueur, Fresh Lemon Juice,
+          Creme De Violette
       - title: Farm to Glass
         price: "16"
         description: Firepuncher Spicy Vodka, St. Elder Liqueur, Fresh Cucumber Juice,
