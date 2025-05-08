@@ -250,7 +250,7 @@ subgroups:
   - description: " (Dessert)"
     items:
       - description: Mini Olive-Oil Toasted Buttermilk Biscuit Toasties, Whipped Creme
-          Fraiche, Toasted Hazelnuts, Aged Balsamic
+          Fraiche, Aged Balsamic
         price: "14"
         title: "Menu Addition: Spring Berry-Pomegranate Biscuit Shortcake "
       - title: "Menu Addition: Warm Sticky Toffee Bread Pudding"
