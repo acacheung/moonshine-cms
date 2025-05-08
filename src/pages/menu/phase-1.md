@@ -17,6 +17,10 @@ subgroups:
           Dressing  "
         price: "18 regular / 28 grande "
         title: "Menu Addition: Spring BLT Wedge Salad"
+      - title: "Menu Addition: Hot Honey Mochi Potato Pancakes"
+        price: 17 regular (3) / 28 grande (6)
+        description: "Cheesy-Spring Garlic Japanese Style Potato Croquettes, Sweet Chili
+          Honey Glaze, Teriyaki Sesame Glaze "
       - description: "Crispy Ricotta Pepperoni Pizza Filled Spring Rolls ,Sausage, Ham &
           Soppressata, Spiced Marinara Dipping Sauce "
         price: 17 regular / 27 grande
