@@ -20,10 +20,6 @@ subgroups:
         price: "14"
         description: Four Corners American Gin, House Made Strawberry-Rhubarb Shrub,
           Tonic Water, Fresh Lemon Juice
-      - title: Are There Coconuts in Colombia?
-        price: "15"
-        description: Aguardiente Columbian Liqueur, Coco Lopez, Pama Pomegranate
-          Liqueur, Cinnamon Syrup, Fresh Lime Juice
       - title: How Do You Like Dem Apricots?
         price: "14"
         description: Black Infusions Apricot Liqueur, Cranberry Vodka, Cinnamon Simple
