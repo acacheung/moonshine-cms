@@ -7,8 +7,9 @@ subgroups:
   - description: ""
     items:
       - description: >
-          Key Lime Pie RBV: Lime Jello, Red Bull, Vodka topped with Whipped
-          Cream and Graham Cracker Crumble 
+          Key Lime Pie RBV: 
+
+          House Vodka, Lime Jello, Lime Zest &Fresh Cream Topped with Chantilly Whipped Cream and Graham Cracker Crumble **Contains Dairy,
         price: "7"
         title: Rotating Jello Shots
       - title: The Southie Shamrock
