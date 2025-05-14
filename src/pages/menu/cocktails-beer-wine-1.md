@@ -6,10 +6,9 @@ order: 1
 subgroups:
   - description: ""
     items:
-      - description: |
-          Spring Berry Punch
-          Blanco Tequilla, Chambord Raspberry LIqueur,
-           Cherry Berry Jello, Fresh Lemon Juice 
+      - description: >
+          Key Lime Pie RBV: Lime Jello, Red Bull, Vodka topped with Whipped
+          Cream and Graham Cracker Crumble 
         price: "7"
         title: Rotating Jello Shots
       - title: The Southie Shamrock
