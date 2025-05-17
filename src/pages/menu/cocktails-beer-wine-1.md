@@ -16,10 +16,6 @@ subgroups:
         price: "14"
         description: Glendalough Double Barrel Irish Whiskey, Midori Liqueur, Verbena
           Tea Syrup, Fresh Lime Juice
-      - title: "'Shine Summer Sling"
-        price: "14"
-        description: Four Corners American Gin, House Made Strawberry-Rhubarb Shrub,
-          Tonic Water, Fresh Lemon Juice
       - title: Asia's Hard Poppin' Lemmie
         price: "15"
         description: Citrus Vodka, Strawberry-Lychee Popping Boba, Fresh Lemonade
