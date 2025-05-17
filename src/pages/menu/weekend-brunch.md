@@ -6,11 +6,10 @@ order: 3
 subgroups:
   - description: "Brunch Cocktails & Beverages "
     items:
-      - description: |+
-          Spring Berry Punch: Blanco Tequilla, Chambord Raspberry LIqueur,
-           Cherry Berry Jello, Fresh Lemon Juice 
+      - description: >-
+          Key Lime Pie RBV: 
 
-
+          House Vodka, Lime Jello, Lime Zest &Fresh Cream Topped with Chantilly Whipped Cream and Graham Cracker Crumble **Contains Dairy, Gluten in toppings 
         price: "6"
         title: Chef Asia's Rotating Jello Shots
       - description: >
