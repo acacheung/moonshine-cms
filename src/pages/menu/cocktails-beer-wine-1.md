@@ -20,6 +20,10 @@ subgroups:
         price: "14"
         description: Four Corners American Gin, House Made Strawberry-Rhubarb Shrub,
           Tonic Water, Fresh Lemon Juice
+      - title: Asia's Hard Poppin' Lemmie
+        price: "15"
+        description: Citrus Vodka, Strawberry-Lychee Popping Boba, Fresh Lemonade
+          **Available Non-Alcoholic
       - description: "Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
           Just ask for Baileys Irish Cream!) "
         price: "16"
@@ -54,6 +58,10 @@ subgroups:
         price: "15"
         description: Boston Harbor Distillery's Putnam Rye, Carpano Antica Sweet
           Vermouth, Angostura Bitters
+      - title: Moonshine 76
+        price: "16"
+        description: Gin Lane London Dry Gin, Fresh Lemon Juice, Elderflower Liqueur,
+          Prosecco
     title: "’Shine Specialty Cocktails "
   - description: "please note this menu is subject to change "
     items:
