@@ -21,10 +21,6 @@ subgroups:
         price: 17 regular (3) / 28 grande (6)
         description: "Cheesy-Spring Garlic Japanese Style Potato Croquettes, Sweet Chili
           Honey Glaze, Teriyaki Sesame Glaze "
-      - description: "Crispy Ricotta Pepperoni Pizza Filled Spring Rolls ,Sausage, Ham &
-          Soppressata, Spiced Marinara Dipping Sauce "
-        price: 17 regular / 27 grande
-        title: "Menu Addition: Ricotta Pepperoni Pizza Spring Rolls"
       - description: "Shredded Beef & Cheese Tacos, Pickled Red Cabbage Salsa, Smoky
           Sriracha Mayo,   & Birria Dipping Jus  "
         price: "$18 (2 tacos) / $28 (4 tacos)  "
