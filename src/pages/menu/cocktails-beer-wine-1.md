@@ -20,6 +20,10 @@ subgroups:
         price: "15"
         description: Citrus Vodka, Strawberry-Lychee Popping Boba, Fresh Lemonade
           **Available Non-Alcoholic
+      - title: "'Shine Summer Painkiller"
+        price: "15"
+        description: Rumhaven Coconut Rum, Ole Smokey Orange Creamsicle Moonshine, Coco
+          Lopez, Fresh Orange Juice, Fresh Lime juice, Grated Nutmeg
       - description: "Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
           Just ask for Baileys Irish Cream!) "
         price: "16"
