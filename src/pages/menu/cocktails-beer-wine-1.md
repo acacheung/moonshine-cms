@@ -24,10 +24,10 @@ subgroups:
         price: "15"
         description: Rumhaven Coconut Rum, Ole Smokey Orange Creamsicle Moonshine, Coco
           Lopez, Fresh Orange Juice, Fresh Lime juice, Grated Nutmeg
-      - description: "Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
-          Just ask for Baileys Irish Cream!) "
-        price: "16"
-        title: "'Shine Espresso Martini"
+      - title: "'Shine Summer Sling"
+        description: Four Corners American Gin, House Strawberry Rhubarb Shrub, Fresh
+          Lemon Juice, Tonic Water
+        price: "14"
       - description: "Aperol, Prosecco Bubbles, Pineapple, Cinnamon Simple, Fresh Lemon "
         price: "14"
         title: Endless Summer
@@ -54,14 +54,14 @@ subgroups:
         price: "16"
         description: Firepuncher Spicy Vodka, St. Elder Liqueur, Fresh Cucumber Juice,
           Lemon Juice
-      - title: House Manhattan
-        price: "15"
-        description: Boston Harbor Distillery's Putnam Rye, Carpano Antica Sweet
-          Vermouth, Angostura Bitters
       - title: Moonshine 76
         price: "16"
         description: Gin Lane London Dry Gin, Fresh Lemon Juice, Elderflower Liqueur,
           Prosecco
+      - description: "Double Espresso Vodka, Kahlua, a Touch of Vanilla (Like it Creamy?
+          Just ask for Baileys Irish Cream!) "
+        price: "16"
+        title: "'Shine Espresso Martini"
     title: "’Shine Specialty Cocktails "
   - description: "please note this menu is subject to change "
     items:
