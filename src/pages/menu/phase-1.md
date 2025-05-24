@@ -155,12 +155,6 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
-      - description: >+
-          Our Famous BBQ Smoked Meatloaf, Buttered Noodles, Wild Mushroom
-          Stroganoff Sauce 
-
-        title: "Menu Addition: ‘Shine Smoky Meatloaf Stroganoff "
-        price: "29"
       - title: "Menu Addition: Crispy Pork Milanese"
         price: "29"
         description: Schnitzel-Style Pan-Fried Pork Tenderloin, Creamy Parmesan Polenta,
