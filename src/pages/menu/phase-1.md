@@ -101,8 +101,6 @@ subgroups:
         title: Roasted statler Chicken Breast
       - price: "14"
         title: PULLED CHINATOWN STYLE ROASTED DUCK
-      - title: Smoked BBQ Meatloaf**
-        price: "15"
       - price: "15"
         title: Marinated Skirt Steak**
       - price: "15"
