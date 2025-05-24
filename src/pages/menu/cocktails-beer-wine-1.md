@@ -12,15 +12,15 @@ subgroups:
           House Vodka, Lime Jello, Lime Zest &Fresh Cream Topped with Chantilly Whipped Cream and Graham Cracker Crumble **Contains Dairy, Gluten in toppings 
         price: "7"
         title: Rotating Jello Shots
-      - title: The Southie Shamrock
-        price: "14"
-        description: Glendalough Double Barrel Irish Whiskey, Midori Liqueur, Verbena
-          Tea Syrup, Fresh Lime Juice
       - title: Asia's Hard Poppin' Lemmie
         price: "15"
         description: Citrus Vodka, Strawberry-Lychee Popping Boba, Fresh Lemonade
           **Available Non-Alcoholic
-      - title: "'Shine Summer Painkiller"
+      - title: Daddy's Special Tea
+        price: "15"
+        description: Glendalough Double Barrel Whiskey, Peach Liqueur, Fresh Lemon
+          Juice, Honey Syrup, Black Tea
+      - title: Seamus' Summer Painkiller
         price: "15"
         description: Rumhaven Coconut Rum, Ole Smokey Orange Creamsicle Moonshine, Coco
           Lopez, Fresh Orange Juice, Fresh Lime juice, Grated Nutmeg
