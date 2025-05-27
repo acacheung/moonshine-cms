@@ -77,7 +77,7 @@ subgroups:
       - title: (draft) Jack's Abby Banner City Light Lager
         price: "7"
         description: 16 oz draft
-      - title: (draft) Harpoon IPA
+      - title: (draft) Castle Island White Ale
         price: "7"
         description: 16 oz draft
       - title: "Hero 95 "
