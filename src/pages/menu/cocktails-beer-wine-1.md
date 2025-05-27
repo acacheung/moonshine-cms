@@ -220,7 +220,7 @@ subgroups:
       - price: "6"
         title: Fever-Tree Lime Yuzu Soda
       - price: "6"
-        title: Fever-Tree Premium Ginger Beer
+        title: Franklin & Sons LTD Ginger Beer
       - description: "Original, Sugar Free or Tropical "
         price: "5"
         title: Red Bull
