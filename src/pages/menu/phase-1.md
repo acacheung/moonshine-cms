@@ -56,9 +56,9 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >
-          Tempura Softshell Crab Bao Buns $MKT$
-
-          New England Softshell Crab Tempura, Served on Soft Chinatown-Style Steamed Bao Buns with Pickled Ginger, Shredded Cabbage Slaw, Curry Goddess Aioli
+          New England Softshell Crab Tempura, Served on Soft Chinatown-Style
+          Steamed Bao Buns with Pickled Ginger, Shredded Cabbage Slaw, Curry
+          Goddess Aioli
         price: 24 regular / 36 grande
         title: "Menu Addition: Tempura Softshell Crab Bao Buns"
       - description: >+
