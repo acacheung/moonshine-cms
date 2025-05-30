@@ -77,7 +77,7 @@ subgroups:
       - title: (draft) Jack's Abby Banner City Light Lager
         price: "7"
         description: 16 oz draft
-      - title: (draft) Castle Island White Ale
+      - title: (draft) Harpoon IPA
         price: "7"
         description: 16 oz draft
       - title: "Hero 95 "
@@ -98,9 +98,6 @@ subgroups:
       - title: Smithwicks Irish Red Ale
         price: "8"
         description: 14.9 oz tall boy
-      - description: 16 oz tallboy can
-        price: "7"
-        title: Zero Gravity "Green State" Lager
       - description: "16 oz tallboy can "
         price: "7"
         title: 'Night Shift Brewing "Nite Lite" Light Lager '
@@ -220,7 +217,7 @@ subgroups:
       - price: "6"
         title: Fever-Tree Lime Yuzu Soda
       - price: "6"
-        title: Franklin & Sons LTD Ginger Beer
+        title: Fever-Tree Premium Ginger Beer
       - description: "Original, Sugar Free or Tropical "
         price: "5"
         title: Red Bull
