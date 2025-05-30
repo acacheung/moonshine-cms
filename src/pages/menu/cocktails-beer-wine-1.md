@@ -43,9 +43,6 @@ subgroups:
           Agave "
         price: "15"
         title: There’s Fire
-      - description: "Blanco Tequila, Creme de Cassis, Ginger Beer, Fresh Lime "
-        price: "14"
-        title: "La Diabla "
       - title: Fly Me to The Moon
         price: "16"
         description: Empress Indico Gin, Luxardo Cherry Liqueur, Fresh Lemon Juice,
