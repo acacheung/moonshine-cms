@@ -223,8 +223,8 @@ subgroups:
     items:
       - description: Reyka...$11...Tito's Handmade...$11...Ketel One...$12...Grey
           Goose...$12...Grand Ten Firepuncher...$11...Grand Ten Firepuncher
-          Black $10...Żubrówka Bison Grass ...$11...Van Gogh Double
-          Espresso...$11... New Amsterdam Raspberry..$10...New Amsterdam
+          Black $10...Żubrówka Bison Grass ...$11...Faber Cold Brew Coffe
+          Vodka..$11... New Amsterdam Raspberry..$10...New Amsterdam
           Orange...$10...New Amsterdam Citron...$10...888 Blueberry...$11...888
           Cranberry...$11...888 Vanilla $11 ... Black Infusions Apricot Infused
           Vodka...$10...
@@ -232,8 +232,8 @@ subgroups:
         title: "Vodka "
       - description: Gin Lane London Dry...$10...Bombay Sapphire...$11...
           Tanqueray...$11... Hendrick's...$12..GrandTen Wire Works Gin...$11....
-          Glendalough Irish Wild Botanical...$11... Empress 1908 Indigo
-          Butterfly Pea Blossom Gin...$12
+          Four Corner's American... $12...Glendalough Irish Wild
+          Botanical...$11... Empress 1908 Indigo Butterfly Pea Blossom Gin...$12
         price: xxxxx
         title: Gin
       - description: Tres Agaves Blanco...$10...Tres Agaves Reposado...$11...Tres Agaves
@@ -245,10 +245,10 @@ subgroups:
           Mezcal Artesanal $12
         price: xxxxx
         title: "Tequila & Mezcal "
-      - description: Mad River Distilling Rum 44...$10...Privateer NE White
-          Rum...$11...Sailor Jerry...$10...Goslings Black Seal...$10...Mad River
-          Vanilla Bean...$10 ...RumHaven Coconut...$10...Ron Zacapa 23...$12...
-          Hennessey...$12...Remy Martin VSOP...$12...
+      - description: Mad River Distilling Rum 44...$10...Sailor Jerry...$10...Goslings
+          Black Seal...$10...Mad River Vanilla Bean...$10 ...RumHaven
+          Coconut...$10...Ron Zacapa 23...$12... Hennessey...$12...Remy Martin
+          VSOP...$12...
         price: xxxxx
         title: "Rum  & Cognac "
       - description: Four Roses Bourbon...$10...Mitcher's Bourbon...$11...Maker's Mark
@@ -259,13 +259,12 @@ subgroups:
           Mitcher's Single Barrel Rye...$11...Mad River Revolution
           Rye...$11...Boston Harbor Distillery Putnam
           Rye...$12......$13...Boston Harbor Distillery Putnam Single Malt
-          Whiskey ...$13...Whistlepig 6 yr PiggyBack Rye...$14...Old Smokey
-          Tennessee Moonshine  White Whiskey ...$10...
+          Whiskey ...$13...Knob Creek 7YR  Rye...$12...Old Smokey Tennessee
+          Moonshine  White Whiskey ...$10...
         price: xxxxx
         title: "American Whiskey/Bourbon/Rye "
       - description: Jameson Irish Whiskey...$11 ...Glendalough Double Barrel Irish
-          Whiskey...$10...GrandTen Distilling South Boston Irish Whiskey...$10
-          ... Tullamore Dew...$11... Redbreast 12 Year...$12
+          Whiskey...$10...GrandTen Distilling South Boston Irish Whiskey...$10 .
         price: XXXXX
         title: Imported Whiskey
       - description: Dewar's "White Label"...$10...Johnnie Walker
