@@ -74,7 +74,7 @@ subgroups:
       - title: (draft) Jack's Abby Banner City Light Lager
         price: "7"
         description: 16 oz draft
-      - title: (draft) Harpoon IPA
+      - title: "(draft) Castle Island White Ale "
         price: "7"
         description: 16 oz draft
       - title: "Hero 95 "
@@ -175,7 +175,7 @@ subgroups:
         title: (red) 2022 Argento Organic Malbec
       - description: "Napa County, CA, USA "
         price: 15 / 58
-        title: "(RED) 2022 Joel Gott Pinot Noir "
+        title: "(RED) 2023 Joel Gott Pinot Noir "
       - description: "Columbia valley, WA, USA "
         price: 14 / 47
         title: (red) 2020 Charles & Charles "Double Trouble" Cabernet/Syrah Blend
@@ -193,7 +193,7 @@ subgroups:
       - description: "Pineapple Juice, Fresh Lime, Fever Tree Ginger Beer "
         price: "7"
         title: "Pineapple Mule (mocktail) "
-      - title: "'Shine Strawberry-Lychee Sparkler"
+      - title: "'Shine Strawberry-Lychee Sparkler (mocktail)"
         price: "8"
         description: Strawberry Popping Boba, Fresh House Lemonade
       - price: "5"
@@ -214,7 +214,7 @@ subgroups:
       - price: "6"
         title: Fever-Tree Lime Yuzu Soda
       - price: "6"
-        title: Fever-Tree Premium Ginger Beer
+        title: Franklin & Sons LTD Premium Ginger Beer
       - description: "Original, Sugar Free or Tropical "
         price: "5"
         title: Red Bull
