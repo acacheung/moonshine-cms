@@ -189,14 +189,19 @@ subgroups:
           a double patty 11 "
         price: "22"
         title: Grass-fed Beef Burger**  Boston's Best Award Winner
-      - description: '"Taco al Pastor" Burger topped with Grilled Pineapple, Shredded
-          Rotisserie Brisket Carnitas, Crumbled Queso Blanco, Toasted Tortilla,
-          Salsa Fresca, Chipotle
-          Aioli                                                                                                                                                                                                                                                                                                               ….add
-          cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg
-          $3  …add  jalapenos $2  …add avocado $3                    '
+      - description: "The Spanish Tapas” Burger of the Month topped with Blistered
+          Shishito Peppers, Manchego Cheese, Jamon Iberico, Pan con Tomate, Blue
+          Cheese Stuffed Dates, Heirloom Tomato Marmalade & House Aioli
+          *available
+          vegetarian                                                                                                                                             \
+          … add cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg
+          $3  …add  jalapenos $2  …add avocado $3  ***Looking for the FULL Tapas
+          experience?! Swap your Shoestring French Fries for our  Tapas Patatas
+          Bravas for an additional $5***
+
+          \             "
         price: "27"
-        title: May 2025's VIP burger of the month
+        title: June 2025's VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: " All the sides & Fixin’s"
     items:
