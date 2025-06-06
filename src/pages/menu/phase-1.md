@@ -8,15 +8,20 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
-      - description: Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy
-          Pesto Dressing, Aged Balsamic
-        price: 18 regular / 29 grande
-        title: "Menu Addition: Warm Crispy Artichoke Salad"
+      - description: "Herbed Garlic Crostini, Heirloom Cherry
+          Tomatoes,                                           Crispy Basil,
+          Strawberry-Balsamic Glaze "
+        title: "Menu Addition: Summer Whipped Ricotta Bruschetta"
+        price: "17 regular / 28 grande "
       - description: "Crispy Iceberg Lettuce, Candied Bacon, Local Cherry Tomatoes,
           Chopped Hard-Boiled Egg, Shredded Beet Crema, Green Goddess
           Dressing  "
         price: "18 regular / 28 grande "
         title: "Menu Addition: Spring BLT Wedge Salad"
+      - description: Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy
+          Pesto Dressing, Aged Balsamic
+        price: 18 regular / 29 grande
+        title: "Menu Addition: Warm Crispy Artichoke Salad"
       - title: "Menu Addition: Hot Honey Mochi Potato Pancakes"
         price: 17 regular (3) / 28 grande (6)
         description: "Cheesy-Spring Garlic Japanese Style Potato Croquettes, Sweet Chili
