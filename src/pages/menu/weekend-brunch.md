@@ -57,6 +57,11 @@ subgroups:
     title: "Cheers To The Weekend! "
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
+      - description: " Herbed Garlic Crostini, Heirloom Cherry
+          Tomatoes,                                           Crispy Basil,
+          Strawberry-Balsamic Glaze "
+        price: "17 regular / 28 grande "
+        title: "Menu Addition: Summer Whipped Ricotta Bruschetta"
       - title: "Menu Addition: Spring BLT Wedge Salad"
         price: "18 regular / 28 grande "
         description: "Crisp Iceberg Lettuce, Candied Bacon, Local Cherry Tomatoes, Harb
