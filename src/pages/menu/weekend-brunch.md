@@ -6,10 +6,9 @@ order: 3
 subgroups:
   - description: "Brunch Cocktails & Beverages "
     items:
-      - description: >-
-          Key Lime Pie RBV: 
-
-          House Vodka, Lime Jello, Lime Zest &Fresh Cream Topped with Chantilly Whipped Cream and Graham Cracker Crumble **Contains Dairy, Gluten in toppings 
+      - description: "Pride Punch Cherry Lemonade: Cherry-Lemon Jello, Irish Whiskey,
+          Apricot Liqueur, Fresh Lemon Juice, Luxardo Cherry Syrup, Rainbow
+          Nerds "
         price: "6"
         title: Chef Asia's Rotating Jello Shots
       - description: >
