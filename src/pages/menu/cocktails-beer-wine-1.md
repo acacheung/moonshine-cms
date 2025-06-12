@@ -6,10 +6,12 @@ order: 1
 subgroups:
   - description: ""
     items:
-      - description: >
-          Key Lime Pie RBV: 
+      - description: >+
+          Pride Punch Cherry Lemonade: Cherry-Lemon Jello, Irish Whiskey,
+          Apricot Liqueur, Fresh Lemon Juice, Luxardo Cherry Syrup, Rainbow
+          Nerds 
 
-          House Vodka, Lime Jello, Lime Zest &Fresh Cream Topped with Chantilly Whipped Cream and Graham Cracker Crumble **Contains Dairy, Gluten in toppings 
+
         price: "7"
         title: Rotating Jello Shots
       - title: Asia's Hard Poppin' Lemmie
