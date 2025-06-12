@@ -17,7 +17,7 @@ subgroups:
           Chopped Hard-Boiled Egg, Shredded Beet Crema, Green Goddess
           Dressing  "
         price: "18 regular / 28 grande "
-        title: "Menu Addition: Spring BLT Wedge Salad"
+        title: "Menu Addition: Chef Asia's BLT Wedge Salad"
       - description: Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy
           Pesto Dressing, Aged Balsamic
         price: 18 regular / 29 grande
@@ -67,7 +67,7 @@ subgroups:
         price: 24 regular / 36 grande
         title: "Menu Addition: Tempura Softshell Crab Bao Buns"
       - description: >+
-          Spring Carrot Ginger Bisque-  Creamy Local Baby Carrot Soup, Fresh
+          Shine's Carrot Ginger Bisque-  Creamy Local Baby Carrot Soup, Fresh
           Ginger, Nutmeg  *GF *VEG
 
         price: "14 regular / 24 grande "
