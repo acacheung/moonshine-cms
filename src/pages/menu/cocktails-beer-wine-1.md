@@ -91,15 +91,18 @@ subgroups:
       - description: "12 oz bottle "
         price: "7"
         title: "Corona Extra "
-      - description: 16 oz tallboy can
-        price: "6"
-        title: Narragansett Lager
       - title: Smithwicks Irish Red Ale
         price: "8"
         description: 14.9 oz tall boy
       - description: "16 oz tallboy can "
         price: "7"
         title: 'Night Shift Brewing "Nite Lite" Light Lager '
+      - description: 16 oz tallboy can
+        price: "6"
+        title: Narragansett Lager
+      - title: Zero Gravity "Green State" Lager
+        price: "7"
+        description: 16oz tallboy can
       - description: "12 oz can "
         price: "7"
         title: High Noon Hard Seltzer Black Cherry
