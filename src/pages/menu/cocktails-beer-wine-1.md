@@ -37,10 +37,6 @@ subgroups:
           Hibiscus, Fresh Citrus Juices "
         price: "14"
         title: Sahil's Ginger Hibiscus Red Sangria
-      - title: Arae's Raspberry Lychee White Sangria
-        price: "14"
-        description: Chardonnay, Raspberry Vodka, Lychee Puree, Fresh Raspberries, and
-          topped with Sprite
       - description: "House Infused Spicy Organic Tequilla, Ginger Liqueur, Fresh Lime,
           Agave "
         price: "15"
