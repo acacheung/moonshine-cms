@@ -154,14 +154,8 @@ subgroups:
   - description: Our all-time favorite dishes, available whenever the kitchen is open!
     items:
       - description: >+
-          Southie Irish Potato-Penang Curry (V/GF): Simmered Spiced
-          Potato-Veggie Thai Curry, Coconut Milk, Sweet Bell Peppers. **Make it
-          an Entree: Don’t Forget to add Your Favorite Protein $MKT$ or
-
-          Pair Your Curry with Tater Tots or French Fries
-
-          $17 / $28
-
+          Shine's Carrot Ginger Bisque-  Creamy Local Baby Carrot Soup, Fresh
+          Ginger, Nutmeg  *GF *VEG
 
         price: 14 / 24
         title: Chef’s Whim Soup for the Soul
