@@ -160,12 +160,6 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
-      - title: "Menu Addition: Crispy Pork Milanese"
-        price: "29"
-        description: Schnitzel-Style Pan-Fried Pork Tenderloin, Creamy Parmesan Polenta,
-          Green Peppercorn Sauce, Grilled
-          Asparagus                                              & Spring
-          Strawberry Rhubarb Salad
       - title: "Menu Addition: Korean Beef Shortrib & Bibimbap Rice Bowl"
         price: "29"
         description: House Kimchi, Stirfried Tofu, Warm Sushi Rice, Baby Bok Choy, Fried
