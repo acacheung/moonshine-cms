@@ -160,6 +160,11 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
+      - description: >
+          Grilled Shrimp, Pillowy Potato Gnocchi, Spicy Fra Diavolo Marinara,
+          Sauteed Greens 
+        price: "29"
+        title: "Menu Addition: Grilled Shrimp Fra Diavolo Gnocchi"
       - title: "Menu Addition: Korean Beef Shortrib & Bibimbap Rice Bowl"
         price: "29"
         description: House Kimchi, Stirfried Tofu, Warm Sushi Rice, Baby Bok Choy, Fried
