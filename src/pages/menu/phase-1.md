@@ -30,6 +30,10 @@ subgroups:
           Sriracha Mayo,   & Birria Dipping Jus  "
         price: "$18 (2 tacos) / $28 (4 tacos)  "
         title: "Menu Addition: Pan-Fried Carnitas Birria Gringo Tacos         "
+      - title: "Menu Addition:  Grilled Shrimp Fra Diavolo Gnoccchi "
+        description: Grilled Shrimp, Pillowy Potato Gnocchi, Spicy Fra Diavolo Marinara,
+          Sauteed Greens
+        price: "29"
       - description: Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
         price: 14 regular / 24 grande
