@@ -30,9 +30,6 @@ subgroups:
         description: Four Corners American Gin, House Strawberry Rhubarb Shrub, Fresh
           Lemon Juice, Tonic Water
         price: "14"
-      - description: "Aperol, Prosecco Bubbles, Pineapple, Cinnamon Simple, Fresh Lemon "
-        price: "14"
-        title: Endless Summer
       - description: "Mediterranean Red Wine Blend, Housemade Ginger Liqueur, Brandy,
           Hibiscus, Fresh Citrus Juices "
         price: "14"
