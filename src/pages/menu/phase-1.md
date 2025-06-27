@@ -11,7 +11,7 @@ subgroups:
       - description: >2
            
           Local Grilled Sweet Corn Salad done Elote-Style, w/ Basil Macerated Tomatoes, Citrus Aioli, Crumbled Cotija Cheese, and Espelette Pepper
-        title: "Menu Addition: Famous Grilled Street Corn Salad"
+        title: "Menu Addition: Chef Asia’s Famous Grilled Street Corn Salad"
         price: $17 regular / $28 grande
       - description: "Herbed Garlic Crostini, Heirloom Cherry
           Tomatoes,                                           Crispy Basil,
