@@ -8,6 +8,11 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
+      - description: >2
+           
+          Local Grilled Sweet Corn Salad done Elote-Style, w/ Basil Macerated Tomatoes, Citrus Aioli, Crumbled Cotija Cheese, and Espelette Pepper
+        title: "Menu Addition: Famous Grilled Street Corn Salad"
+        price: $17 regular / $28 grande
       - description: "Herbed Garlic Crostini, Heirloom Cherry
           Tomatoes,                                           Crispy Basil,
           Strawberry-Balsamic Glaze "
