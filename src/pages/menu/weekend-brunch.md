@@ -61,6 +61,11 @@ subgroups:
           Strawberry-Balsamic Glaze "
         price: "17 regular / 28 grande "
         title: "Menu Addition: Summer Whipped Ricotta Bruschetta"
+      - title: "Menu Addition: Chef Asia’s Famous Grilled Street Corn Salad "
+        price: "17 regular / 28 grande "
+        description: Local Grilled Sweet Corn Salad done Elote-Style with Basil
+          Macerated Tomatoes, Citrus Aioli, Crumbled Cotija Cheese, Espelette
+          Pepper
       - title: "Menu Addition: Spring BLT Wedge Salad"
         price: "18 regular / 28 grande "
         description: "Crisp Iceberg Lettuce, Candied Bacon, Local Cherry Tomatoes, Harb
