@@ -187,19 +187,17 @@ subgroups:
           fries .... Make it a double patty 11
         price: "22"
         title: GRASS-FED ’SHINE BEEF BURGER**  Boston's Best Award Winner
-      - description: "The Spanish Tapas” Burger of the Month topped with Blistered
-          Shishito Peppers, Manchego Cheese, Jamon Iberico, Pan con Tomate, Blue
-          Cheese Stuffed Dates, Heirloom Tomato Marmalade & House Aioli
-          *available
-          vegetarian                                                                                                                                             \
+      - description: "“The Summer Farm Frites” Burger Inspired by ARae & AMei’s Favorite
+          Vegetarian Entree @ Sam’s on the Waterfront Beef Patty topped with
+          Grilled Portabello Mushroom, Crispy Cornmeal Fried Zucchini, Calabrian
+          Chili-Tomato Pomodoro & Fresh Citrus
+          Aioli                                                                                                                                             \
           … add cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg
-          $3  …add  jalapenos $2  …add avocado $3  ***Looking for the FULL Tapas
-          experience?! Swap your Shoestring French Fries for our  Tapas Patatas
-          Bravas for an additional
-          $5***                                                                                                                               \
+          $3  …add  jalapenos $2  …add avocado
+          $3                                                                                                                               \
           "
         price: "27"
-        title: June 2025's  VIP burger of the month
+        title: July 2025's  VIP burger of the month
       - description: Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
         price: "29"
