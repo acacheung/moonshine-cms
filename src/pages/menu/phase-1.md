@@ -18,11 +18,10 @@ subgroups:
           Strawberry-Balsamic Glaze "
         title: "Menu Addition: Summer Whipped Ricotta Bruschetta"
         price: "17 regular / 28 grande "
-      - description: "Crispy Iceberg Lettuce, Candied Bacon, Local Cherry Tomatoes,
-          Chopped Hard-Boiled Egg, Shredded Beet Crema, Green Goddess
-          Dressing  "
-        price: "18 regular / 28 grande "
-        title: "Menu Addition: Chef Asia's BLT Wedge Salad"
+      - title: "Menu Addition: Heirloom Tomato-Watermelon Salad"
+        price: 18 regular / 28 grande
+        description: "Heirloom Cherry Tomatoes, Chopped Watermelon, Crumbled Blue
+          Cheese, Fresh & Crispy Basil, Aged Balsamic "
       - description: Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy
           Pesto Dressing, Aged Balsamic
         price: 18 regular / 29 grande
