@@ -28,7 +28,7 @@ subgroups:
           Cream, Berry Sauce   (gluten-free, available vegan!)      "
         price: "13"
         title: "Tropical Mango Pavlova "
-      - description: Coconut
+      - description: Mango
         price: "11"
         title: "Chef's Whim Sorbet (vegan) "
       - description: Toasted Pistachio
