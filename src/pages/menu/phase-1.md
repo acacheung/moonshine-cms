@@ -34,10 +34,6 @@ subgroups:
           Sriracha Mayo,   & Birria Dipping Jus  "
         price: "$18 (2 tacos) / $28 (4 tacos)  "
         title: "Menu Addition: Pan-Fried Carnitas Birria Gringo Tacos         "
-      - title: "Menu Addition:  Grilled Shrimp Fra Diavolo Gnoccchi "
-        description: Grilled Shrimp, Pillowy Potato Gnocchi, Spicy Fra Diavolo Marinara,
-          Sauteed Greens
-        price: "29"
       - description: Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
         price: 14 regular / 24 grande
@@ -74,10 +70,9 @@ subgroups:
           Goddess Aioli
         price: 24 regular / 36 grande
         title: "Menu Addition: Tempura Softshell Crab Bao Buns"
-      - description: >+
-          Shine's Carrot Ginger Bisque-  Creamy Local Baby Carrot Soup, Fresh
-          Ginger, Nutmeg  *GF *VEG
-
+      - description: >
+          Summer 'Shine Chilled Beet Soup with Diced  Cucumber & Dill Creme
+          Fraiche 
         price: "14 regular / 24 grande "
         title: chef's whim soup of the day
       - description: Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton
@@ -168,11 +163,6 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
-      - description: >
-          Grilled Shrimp, Pillowy Potato Gnocchi, Spicy Fra Diavolo Marinara,
-          Sauteed Greens 
-        price: "29"
-        title: "Menu Addition: Grilled Shrimp Fra Diavolo Gnocchi"
       - title: "Menu Addition: Korean Beef Shortrib & Bibimbap Rice Bowl"
         price: "29"
         description: House Kimchi, Stirfried Tofu, Warm Sushi Rice, Baby Bok Choy, Fried
