@@ -56,26 +56,27 @@ subgroups:
     title: "Cheers To The Weekend! "
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
-      - description: " Herbed Garlic Crostini, Heirloom Cherry
-          Tomatoes,                                           Crispy Basil,
-          Strawberry-Balsamic Glaze "
-        price: "17 regular / 28 grande "
-        title: "Menu Addition: Summer Whipped Ricotta Bruschetta"
+      - description: |
+          Heirloom Cherry Tomatoes, Chopped Watermelon,
+           Crumbled Blue Cheese, Fresh & Crispy Basil, Aged Balsamic 
+        title: "Menu Addition: Heirloom Tomato-Watermelon Salad "
+        price: "18 regular / 28 grande "
       - title: "Menu Addition: Chef Asia’s Famous Grilled Street Corn Salad "
         price: "17 regular / 28 grande "
         description: Local Grilled Sweet Corn Salad done Elote-Style with Basil
           Macerated Tomatoes, Citrus Aioli, Crumbled Cotija Cheese, Espelette
           Pepper
-      - title: "Menu Addition: Spring BLT Wedge Salad"
-        price: "18 regular / 28 grande "
-        description: "Crisp Iceberg Lettuce, Candied Bacon, Local Cherry Tomatoes, Harb
-          Boiled Egg, Shredded Beet Crema, Green Goddess Dressing "
       - description: "Warm Crispy Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
           Quinoa, Parmesan,                              Creamy Pesto Dressing,
           Aged Balsamic       "
         price: 18 regular / 29 grande
         title: "Menu Addition: crispy artichoke salad "
+      - description: " Herbed Garlic Crostini, Heirloom Cherry
+          Tomatoes,                                           Crispy Basil,
+          Strawberry-Balsamic Glaze "
+        price: "17 regular / 28 grande "
+        title: "Menu Addition: Summer Whipped Ricotta Bruschetta"
       - description: Local honey, Fresh berries, Oat-Flax-Chia Seed Granola Crunch **add
           a warm house belgian waffle $9**
         price: 11 regular / 16 grande
