@@ -160,8 +160,8 @@ subgroups:
   - description: Our all-time favorite dishes, available whenever the kitchen is open!
     items:
       - description: >+
-          Shine's Carrot Ginger Bisque-  Creamy Local Baby Carrot Soup, Fresh
-          Ginger, Nutmeg  *GF *VEG
+          Summer 'Shine Chilled Beet Soup  (VEG/GF): Smooth Chilled Roasted Beet
+          Soup, Diced Cucumber & Dill Creme Fraiche
 
         price: 14 / 24
         title: Chef’s Whim Soup for the Soul
