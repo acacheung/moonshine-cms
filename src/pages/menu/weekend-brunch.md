@@ -6,9 +6,9 @@ order: 3
 subgroups:
   - description: "Brunch Cocktails & Beverages "
     items:
-      - description: "Pride Punch Cherry Lemonade: Cherry-Lemon Jello, Irish Whiskey,
-          Apricot Liqueur, Fresh Lemon Juice, Luxardo Cherry Syrup, Rainbow
-          Nerds "
+      - description: |-
+          Pina Colada- White Rum, Creamy Rumchata, Citrus Jello,
+           Coconut Milk & Diced Pineapple   *contains dairy  
         price: "6"
         title: Chef Asia's Rotating Jello Shots
       - description: >
