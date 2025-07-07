@@ -6,11 +6,9 @@ order: 1
 subgroups:
   - description: ""
     items:
-      - description: >+
-          Pride Punch Cherry Lemonade: Cherry-Lemon Jello, Irish Whiskey,
-          Apricot Liqueur, Fresh Lemon Juice, Luxardo Cherry Syrup, Rainbow
-          Nerds 
-
+      - description: |+
+          Pina Colada- White Rum, Creamy Rumchata, Citrus Jello,
+           Coconut Milk & Diced Pineapple   *contains dairy  
 
         price: "7"
         title: Rotating Jello Shots
@@ -34,6 +32,10 @@ subgroups:
           Hibiscus, Fresh Citrus Juices "
         price: "14"
         title: Sahil's Ginger Hibiscus Red Sangria
+      - title: ARae's Blood Orange-Peach White Sangria
+        price: "14"
+        description: "Mediterrean White Wine Blend, Apricot-Peach Liqueur, Blood Orange
+          Puree, Fresh Citrus Juices "
       - description: "House Infused Spicy Organic Tequilla, Ginger Liqueur, Fresh Lime,
           Agave "
         price: "15"
