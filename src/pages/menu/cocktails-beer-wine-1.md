@@ -149,6 +149,11 @@ subgroups:
     title: "Beer Menu "
   - description: "please note vintages are subject to change "
     items:
+      - title: "Rosé Bottle Special: Tormaresca Calafuria Italian Rose"
+        price: "42"
+        description: A bright peachy pink color with fruity notes of grapefruit and
+          pomegranate, with hints of delicate lavender flowers. Puglia Region,
+          Italy
       - description: "Veneto, Italy "
         price: 12 / 45
         title: "(Sparkling) NV LaMarca Prosecco "
