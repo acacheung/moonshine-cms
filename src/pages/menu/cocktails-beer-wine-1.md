@@ -40,6 +40,9 @@ subgroups:
           Agave "
         price: "15"
         title: There’s Fire
+      - title: Endless Summer
+        price: "14"
+        description: Aperol, Pineapple Juice, Fresh Lemon Juice, Cinnamon Syrup, Prosecco
       - title: Fly Me to The Moon
         price: "16"
         description: Empress Indico Gin, Luxardo Cherry Liqueur, Fresh Lemon Juice,
