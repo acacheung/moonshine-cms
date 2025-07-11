@@ -160,8 +160,8 @@ subgroups:
   - description: Our all-time favorite dishes, available whenever the kitchen is open!
     items:
       - description: >+
-          Summer 'Shine Chilled Beet Soup  (VEG/GF): Smooth Chilled Roasted Beet
-          Soup, Diced Cucumber & Dill Creme Fraiche
+          Summer 'Shine Chilled Beet Gazpacho  (VEG/GF): Smooth Chilled Roasted
+          Beet Soup, Diced Cucumber & Dill Creme Fraiche
 
         price: 14 / 24
         title: Chef’s Whim Soup for the Soul
@@ -257,9 +257,11 @@ subgroups:
           Fraiche, Aged Balsamic
         price: "14"
         title: "Menu Addition: Spring Berry-Pomegranate Biscuit Shortcake "
-      - title: "Menu Addition: Warm Sticky Toffee Bread Pudding"
+      - title: "Menu Addition: Chef Asia’s Famous Blueberry Jamboree "
         price: "14"
-        description: Served Warm with Sea Salt Caramel & Whipped Cream
+        description: >
+          Layered Blueberry Pie Filling, Whipped Cheesecake Filling, Toasted
+          Almond Shortbread Cookies 
       - description: "Toasted Pistachio Ice Cream, Homemade Brown Butter Shredded
           Filo-Kataifi, Hazelnut Chocolate Sauce, Whipped Cream "
         price: "16"
