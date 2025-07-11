@@ -10,9 +10,10 @@ subgroups:
         price: "14"
         description: Mini Olive-Oil Toasted Buttermilk Biscuit Toasties, Whipped Creme
           Fraiche, Aged Balsamic
-      - title: "Menu Addition: Warm Sticky Toffee Bread Pudding"
+      - title: "Menu Addition: Chef Asia’s Famous Blueberry Jamboree"
         price: "14"
-        description: Served Warm with Sea Salt Caramel & Whipped Cream
+        description: >2
+           Layered Blueberry Pie Filling, Whipped Cheesecake Filling, Toasted Almond Shortbread Cookies
       - description: "Toasted Pistachio Ice Cream, Homemade Brown Butter Shredded
           Filo-Kataifi, Hazelnut Chocolate Sauce, Whipped Cream "
         price: "16"
