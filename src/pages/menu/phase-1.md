@@ -71,7 +71,7 @@ subgroups:
         price: 24 regular / 36 grande
         title: "Menu Addition: Tempura Softshell Crab Bao Buns"
       - description: >
-          Summer 'Shine Chilled Beet Soup with Diced  Cucumber & Dill Creme
+          Summer 'Shine Chilled Beet Gazpacho with Diced  Cucumber & Dill Creme
           Fraiche 
         price: "14 regular / 24 grande "
         title: chef's whim soup of the day
