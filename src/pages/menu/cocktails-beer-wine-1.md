@@ -28,6 +28,10 @@ subgroups:
         description: Four Corners American Gin, House Strawberry Rhubarb Shrub, Fresh
           Lemon Juice, Tonic Water
         price: "14"
+      - title: Whiskey Rickey
+        price: "15"
+        description: Ole Smoky Blackberry Whiskey, Fresh Lime Juice, Cinnamon Syrup,
+          Fever Tree Lime Yuzu Soda
       - description: "Mediterranean Red Wine Blend, Housemade Ginger Liqueur, Brandy,
           Hibiscus, Fresh Citrus Juices "
         price: "14"
