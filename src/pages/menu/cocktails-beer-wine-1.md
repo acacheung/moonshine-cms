@@ -16,10 +16,6 @@ subgroups:
         price: "15"
         description: Citrus Vodka, Strawberry-Lychee Popping Boba, Fresh Lemonade
           **Available Non-Alcoholic
-      - title: Daddy's Special Tea
-        price: "15"
-        description: Glendalough Double Barrel Whiskey, Peach Liqueur, Fresh Lemon
-          Juice, Honey Syrup, Black Tea
       - title: Seamus' Summer Painkiller
         price: "15"
         description: Rumhaven Coconut Rum, Ole Smokey Orange Creamsicle Moonshine, Coco
