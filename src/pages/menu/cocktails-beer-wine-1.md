@@ -115,9 +115,6 @@ subgroups:
       - description: "12 oz can "
         price: "7"
         title: High Noon Hard Seltzer Black Cherry
-      - description: 355 ml can
-        price: "7"
-        title: "Viva  tequila seltzer: Watermelon"
       - description: 12 oz can
         price: "7"
         title: Downeast Original Cider
