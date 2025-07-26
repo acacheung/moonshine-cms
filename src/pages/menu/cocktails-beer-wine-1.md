@@ -118,9 +118,6 @@ subgroups:
       - description: 12 oz can
         price: "7"
         title: Downeast Original Cider
-      - title: Magner's Irish Cider
-        description: 16 oz Can
-        price: "8"
       - description: "16 oz tallboy can "
         price: "7"
         title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
