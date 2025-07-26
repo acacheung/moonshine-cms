@@ -56,6 +56,9 @@ subgroups:
     title: "Cheers To The Weekend! "
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
+      - description: "Buttermilk Pancakes, Bing Cherry Pie Filling, Graham Cracker Crunch "
+        price: "22 (3) regular / 29 (5) grande "
+        title: "Menu Addition: Tres Leches Cherry Cheesecake  Crunch Pancakes "
       - description: |
           Heirloom Cherry Tomatoes, Chopped Watermelon,
            Crumbled Blue Cheese, Fresh & Crispy Basil, Aged Balsamic 
