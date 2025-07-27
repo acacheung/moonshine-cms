@@ -8,15 +8,19 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
+      - description: "Herbed Garlic Crostini, Heirloom Cherry
+          Tomatoes,                                           Crispy Basil,
+          Strawberry-Balsamic Glaze "
+        title: "Menu Addition: Summer Whipped Ricotta Bruschetta"
+        price: "17 regular / 28 grande "
       - description: >2
            
           Local Grilled Sweet Corn Salad done Elote-Style, w/ Basil Macerated Tomatoes, Citrus Aioli, Crumbled Cotija Cheese, and Espelette Pepper
         title: "Menu Addition: Chef Asia’s Famous Grilled Street Corn Salad"
         price: $17 regular / $28 grande
-      - description: "Herbed Garlic Crostini, Heirloom Cherry
-          Tomatoes,                                           Crispy Basil,
-          Strawberry-Balsamic Glaze "
-        title: "Menu Addition: Summer Whipped Ricotta Bruschetta"
+      - description: >2
+           Grilled Avocado, Crispy Sushi Rice, Shredded Green Papaya Salad,  Nuoc Cham, Mandarin Oranges, Honey Roasted Peanuts 
+        title: "Menu Addition: Grilled Stuffed Avocado Salad"
         price: "17 regular / 28 grande "
       - title: "Menu Addition: Heirloom Tomato-Watermelon Salad"
         price: 18 regular / 28 grande
