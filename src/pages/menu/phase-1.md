@@ -21,7 +21,7 @@ subgroups:
       - description: >2
            Grilled Avocado, Crispy Sushi Rice, Shredded Green Papaya Salad,  Nuoc Cham, Mandarin Oranges, Honey Roasted Peanuts 
         title: "Menu Addition: Grilled Stuffed Avocado Salad"
-        price: "17 regular / 28 grande "
+        price: "19 regular / 29 grande "
       - title: "Menu Addition: Heirloom Tomato-Watermelon Salad"
         price: 18 regular / 28 grande
         description: "Heirloom Cherry Tomatoes, Chopped Watermelon, Crumbled Blue
