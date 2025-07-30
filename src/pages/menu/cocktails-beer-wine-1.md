@@ -222,7 +222,7 @@ subgroups:
         price: "4"
         title: Sodas
       - price: "6"
-        title: Fever-Tree Lime Yuzu Soda
+        title: Franklin & Sons Guava Lime Soda
       - price: "6"
         title: Franklin & Sons LTD Premium Ginger Beer
       - description: "Original, Sugar Free or Tropical "
