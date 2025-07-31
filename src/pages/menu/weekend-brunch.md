@@ -57,7 +57,7 @@ subgroups:
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
       - description: "Buttermilk Pancakes, Bing Cherry Pie Filling, Graham Cracker Crunch "
-        price: "22 (3) regular / 29 (5) grande "
+        price: "22 (2) regular / 29 (4) grande "
         title: "Menu Addition: Tres Leches Cherry Cheesecake  Crunch Pancakes "
       - description: |
           Heirloom Cherry Tomatoes, Chopped Watermelon,
