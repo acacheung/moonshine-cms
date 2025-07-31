@@ -185,7 +185,7 @@ subgroups:
           $3  …add  jalapenos $2  …add avocado
           $3                                                                                                                               \
           "
-        price: "27"
+        price: "28"
         title: July 2025's  VIP burger of the month
       - description: Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
