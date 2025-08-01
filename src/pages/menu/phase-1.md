@@ -24,7 +24,7 @@ subgroups:
         price: "19 regular / 29 grande "
       - title: "Menu Addition: Heirloom Tomato-Watermelon Salad"
         price: 18 regular / 28 grande
-        description: "Heirloom Cherry Tomatoes, Chopped Watermelon, Crumbled Blue
+        description: "Heirloom Cherry Tomatoes, Chopped Watermelon, Crumbled Feta
           Cheese, Fresh & Crispy Basil, Aged Balsamic "
       - description: Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy
           Pesto Dressing, Aged Balsamic
