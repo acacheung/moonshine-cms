@@ -61,7 +61,7 @@ subgroups:
         title: "Menu Addition: Tres Leches Cherry Cheesecake  Crunch Pancakes "
       - description: |
           Heirloom Cherry Tomatoes, Chopped Watermelon,
-           Crumbled Blue Cheese, Fresh & Crispy Basil, Aged Balsamic 
+           Crumbled Feta Cheese, Fresh & Crispy Basil, Aged Balsamic 
         title: "Menu Addition: Heirloom Tomato-Watermelon Salad "
         price: "18 regular / 28 grande "
       - title: "Menu Addition: Chef Asia’s Famous Grilled Street Corn Salad "
@@ -196,15 +196,15 @@ subgroups:
           a double patty 11 "
         price: "22"
         title: Grass-fed Beef Burger**  Boston's Best Award Winner
-      - description: "“The Summer Farm Frites” Burger Inspired by ARae & AMei’s Favorite
-          Vegetarian Entree @ Sam’s on the Waterfront Beef Patty topped with
-          Grilled Portabello Mushroom, Crispy Cornmeal Fried Zucchini, Calabrian
-          Chili-Tomato Pomodoro & Fresh Citrus
-          Aioli                                                                                                                                             \
-          … add cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg
-          $3  …add  jalapenos $2  …add avocado $3             "
-        price: "27"
-        title: July 2025's VIP burger of the month
+      - description: >-
+          The "Mei-Rib” BBQ Burger 
+
+          topped with Boneless St. Louis Pork Rib, Cheddar Cheese, Coleslaw,
+
+          Brown Sugar-Chipotle BBQ Sauce, & House B&B Pickles 
+                                                                                                                                                 … add cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg $3  …add  jalapenos $2  …add avocado $3             
+        price: "28"
+        title: August 2025's VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: " All the sides & Fixin’s"
     items:
