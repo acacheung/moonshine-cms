@@ -63,6 +63,10 @@ subgroups:
           Just ask for Baileys Irish Cream!) "
         price: "16"
         title: "'Shine Espresso Martini"
+      - title: "House Manhattan "
+        price: "15"
+        description: Boston Harbor Distillery's Putnam Rye, Antica Sweet Vermouth,
+          Angostura Bitters
     title: "’Shine Specialty Cocktails "
   - description: "please note this menu is subject to change "
     items:
