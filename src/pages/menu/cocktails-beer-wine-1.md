@@ -12,10 +12,6 @@ subgroups:
 
         price: "7"
         title: Rotating Jello Shots
-      - title: Rose-A-Roni
-        price: "14"
-        description: Empress Elderflower Rose Gin, Bully Boy Amaro Rosso, Antica Sweet
-          Vermouth
       - title: Asia's Hard Poppin' Lemmie
         price: "15"
         description: Citrus Vodka, Strawberry-Lychee Popping Boba, Fresh Lemonade
