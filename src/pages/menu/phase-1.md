@@ -230,10 +230,9 @@ subgroups:
       - description: "compliment your dish with one of Chef Asia's homemade sauces:
           Poblano ranch, Sweet chili honey, Sherry pesto aioli, Smoky sriracha
           aioli, Candied ginger aioli, Garlic Caesar, Truffled teriyaki,
-          Bourbon-Sriracha \"Awesome sauce\", Szechuan Chili Oil (contains
-          sesame & peanuts), Carrot-Sesame Ginger Vinaigrette, House Vegan Aioli
-          !!New Chef Asia's Gochujang Buffalo Sauce!! ** contains peanuts and
-          sesame"
+          Bourbon-Sriracha \"Awesome sauce\", Carrot-Sesame Ginger Vinaigrette,
+          House Vegan Aioli !!New Chef Asia's Gochujang Buffalo Sauce!! **
+          contains peanuts and sesame"
         price: "2"
         title: '"SAUCE IT UP"'
       - description: inquire with your server for side substitutions
