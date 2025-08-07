@@ -6,10 +6,6 @@ order: 1
 subgroups:
   - description: ""
     items:
-      - title: "Shark Week Cocktail Special: Sharkbait"
-        price: "15"
-        description: Rum 44 Silver Rum, Blue Curacao, Coco Lopez, Fresh Lime Juice,
-          Pineapple Juice, Cherry Syrup, Shark Gummy
       - description: |+
           Pina Colada- White Rum, Creamy Rumchata, Citrus Jello,
            Coconut Milk & Diced Pineapple   *contains dairy  
