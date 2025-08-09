@@ -6,9 +6,10 @@ order: 3
 subgroups:
   - description: "Brunch Cocktails & Beverages "
     items:
-      - description: |-
-          Pina Colada- White Rum, Creamy Rumchata, Citrus Jello,
-           Coconut Milk & Diced Pineapple   *contains dairy  
+      - description: >
+          Chef Asia’s Salted Caramel Macchiato: House Espresso Jello, Kahlua,
+          Whipped Chantilly Cream,                   House Salted Caramel
+          Anglaise *contains dairy & caffeine  
         price: "6"
         title: Chef Asia's Rotating Jello Shots
       - description: >
@@ -201,8 +202,7 @@ subgroups:
 
           topped with Boneless St. Louis Pork Rib, Cheddar Cheese, Coleslaw,
 
-          Brown Sugar-Chipotle BBQ Sauce, & House B&B Pickles 
-                                                                                                                                                 … add cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg $3  …add  jalapenos $2  …add avocado $3             
+          Brown Sugar-Chipotle BBQ Sauce, & House B&B Pickles                                                                                                                                         … add cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg $3  …add  jalapenos $2  …add avocado $3             
         price: "28"
         title: August 2025's VIP burger of the month
     title: All-Day / All-Night Allstars
