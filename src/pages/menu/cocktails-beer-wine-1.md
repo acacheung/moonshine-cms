@@ -6,9 +6,11 @@ order: 1
 subgroups:
   - description: ""
     items:
-      - description: |+
-          Pina Colada- White Rum, Creamy Rumchata, Citrus Jello,
-           Coconut Milk & Diced Pineapple   *contains dairy  
+      - description: >+
+          Chef Asia’s Salted Caramel Macchiato: House Espresso Jello, Kahlua,
+          Whipped Chantilly Cream,  House Salted Caramel Anglaise *contains
+          dairy & caffeine  
+
 
         price: "7"
         title: Rotating Jello Shots
@@ -16,10 +18,6 @@ subgroups:
         price: "15"
         description: Citrus Vodka, Strawberry-Lychee Popping Boba, Fresh Lemonade
           **Available Non-Alcoholic
-      - title: Seamus' Summer Painkiller
-        price: "15"
-        description: Rumhaven Coconut Rum, Ole Smokey Orange Creamsicle Moonshine, Coco
-          Lopez, Fresh Orange Juice, Fresh Lime juice, Grated Nutmeg
       - title: "'Shine Summer Sling"
         description: Four Corners American Gin, House Strawberry Rhubarb Shrub, Fresh
           Lemon Juice, Tonic Water
