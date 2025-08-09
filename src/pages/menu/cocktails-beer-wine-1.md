@@ -53,6 +53,9 @@ subgroups:
         price: "15"
         description: Boston Harbor Distillery's Putnam Rye, Antica Sweet Vermouth,
           Angostura Bitters
+      - title: La Diabla
+        price: "14"
+        description: Tres Agave Blanco, Creme de Cassis, Fresh Lime Juice, Ginger Beer
     title: "’Shine Specialty Cocktails "
   - description: "please note this menu is subject to change "
     items:
