@@ -22,6 +22,10 @@ subgroups:
         description: Four Corners American Gin, House Strawberry Rhubarb Shrub, Fresh
           Lemon Juice, Tonic Water
         price: "14"
+      - title: "'Shine Summer Rosé Sangria"
+        price: "14"
+        description: Italian Rose, Watermelon Liqueur, Pomegranate Liqueur, Fresh Citrus
+          Juices
       - description: "Mediterranean Red Wine Blend, Housemade Ginger Liqueur, Brandy,
           Hibiscus, Fresh Citrus Juices "
         price: "14"
