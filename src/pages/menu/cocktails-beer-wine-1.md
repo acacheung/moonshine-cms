@@ -22,6 +22,10 @@ subgroups:
         description: Four Corners American Gin, House Strawberry Rhubarb Shrub, Fresh
           Lemon Juice, Tonic Water
         price: "14"
+      - title: '"How Hot Is It?"'
+        price: "15"
+        description: Ole Smoky Mango Habanero Moonshine, Jim Beam Pineapple Whiskey,
+          Fresh Lime Juice, Agave
       - title: "'Shine Summer Rosé Sangria"
         price: "14"
         description: Italian Rose, Watermelon Liqueur, Pomegranate Liqueur, Fresh Citrus
