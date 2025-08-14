@@ -51,9 +51,9 @@ subgroups:
       - description: Coca-Cola, Diet Coke, Sprite, Ginger Ale, Root Beer
         price: "4"
         title: Soda
-      - description: "Premium Ginger Beer or Yuzu Lime "
+      - description: Premium Ginger Beer or Guava Lime
         price: "5"
-        title: Fever Tree Soda
+        title: Franklin & Son's Soda
     title: "Cheers To The Weekend! "
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
