@@ -65,12 +65,6 @@ subgroups:
       & sauces to any dish.
     items:
       - description: >
-          New England Softshell Crab Tempura, Served on Soft Chinatown-Style
-          Steamed Bao Buns with Pickled Ginger, Shredded Cabbage Slaw, Curry
-          Goddess Aioli
-        price: 24 regular / 36 grande
-        title: "Menu Addition: Tempura Softshell Crab Bao Buns"
-      - description: >
           Summer 'Shine Chilled Beet Gazpacho with Diced  Cucumber & Dill Creme
           Fraiche 
         price: "14 regular / 24 grande "
