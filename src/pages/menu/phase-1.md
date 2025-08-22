@@ -22,10 +22,6 @@ subgroups:
            Grilled Avocado, Crispy Sushi Rice, Shredded Green Papaya Salad,  Nuoc Cham, Mandarin Oranges, Honey Roasted Peanuts 
         title: "Menu Addition: Grilled Stuffed Avocado Salad"
         price: "19 regular / 29 grande "
-      - title: "Menu Addition: Heirloom Tomato-Watermelon Salad"
-        price: 18 regular / 28 grande
-        description: "Heirloom Cherry Tomatoes, Chopped Watermelon, Crumbled Feta
-          Cheese, Fresh & Crispy Basil, Aged Balsamic "
       - description: Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy
           Pesto Dressing, Aged Balsamic
         price: 18 regular / 29 grande
@@ -162,6 +158,12 @@ subgroups:
         description: Chinese BBQ Style Glazed Pulled Duck, Crystal Glass Vermicelli
           Noodles, Baby Bok Choy, Roasted Sesame-Peanut Sauce, and Honey Roasted
           Peanuts
+      - title: "Menu Addition: Layered Lobster Lasagna"
+        description: |2
+           Baked Lobster, Shrimp & Crab, Creamy Bechamel Sauce, 
+          Herbed Ricotta Cheese, Sunflower Seed-Basil Pesto, 
+          6-Hour Lobster Brodo, Confit Cherry Tomatoes 
+        price: "34"
       - title: "Menu Addition: Korean Beef Shortrib & Bibimbap Rice Bowl"
         price: "29"
         description: House Kimchi, Stirfried Tofu, Warm Sushi Rice, Baby Bok Choy, Fried
