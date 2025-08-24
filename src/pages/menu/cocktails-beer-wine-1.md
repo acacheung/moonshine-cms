@@ -26,10 +26,6 @@ subgroups:
         price: "15"
         description: Ole Smoky Mango Habanero Moonshine, Jim Beam Pineapple Whiskey,
           Fresh Lime Juice, Agave
-      - title: "'Shine Summer Rosé Sangria"
-        price: "14"
-        description: Italian Rose, Watermelon Liqueur, Pomegranate Liqueur, Fresh Citrus
-          Juices
       - description: "Mediterranean Red Wine Blend, Housemade Ginger Liqueur, Brandy,
           Hibiscus, Fresh Citrus Juices "
         price: "14"
