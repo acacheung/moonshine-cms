@@ -105,6 +105,9 @@ subgroups:
       - title: Zero Gravity "Green State" Lager
         price: "7"
         description: 16oz tallboy can
+      - title: SunCruiser
+        price: "8"
+        description: "12 oz can "
       - description: "12 oz can "
         price: "7"
         title: High Noon Hard Seltzer Black Cherry
