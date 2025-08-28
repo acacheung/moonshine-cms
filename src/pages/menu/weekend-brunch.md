@@ -17,33 +17,33 @@ subgroups:
           homemade kimchi juice 
 
           ...add candied bacon sea salt rim $1
-        price: "13 "
+        price: "14"
         title: "Shine Bloody Mary / Bloody Maria "
       - description: "Prosecco splashed with orange juice "
-        price: "12"
-        title: "Classic Mimosa "
-      - description: "Clementine Vodka, Pineapple-Orange Juice, Prosecco "
         price: "13"
+        title: "Classic Mimosa "
+      - description: "Orange Vodka, Pineapple-Orange Juice, Prosecco "
+        price: "14"
         title: "Leslie Knope’s Approved Executive Mimosa "
       - description: "Bison Grass Vodka, Cinnamon, Apple, Lemon "
-        price: "13"
+        price: "14"
         title: "R.I.P. Li’l Sebastian "
       - description: "london dry gin, aperol, fresh lemon, prosecco "
-        price: "13"
+        price: "14"
         title: treat yo self
-      - description: "Whiskey, Boozy Cream, Iced Coffee "
-        price: "13"
+      - description: "Irish Whiskey, Boozy Irish Cream, Iced Coffee "
+        price: "14"
         title: "Good Morning Pawnee "
       - price: "5"
         title: "Fazenda Roasters Brewed Coffee (Available Iced) "
       - price: "4"
         title: "Unsweetened Iced Tea "
-      - price: "5"
+      - price: "6"
         title: "Arnold Palmer "
       - description: "Changes every weekend! Ask your server for this weekend’s selection "
-        price: "6"
+        price: "7"
         title: ARae's Rotating Weekend Iced Tea Special
-      - price: "5"
+      - price: "6"
         title: Fresh Lemonade/ Limeade
       - description: "Apple, Orange, Grapefruit, Cranberry, Pineapple "
         price: "5"
@@ -52,7 +52,7 @@ subgroups:
         price: "4"
         title: Soda
       - description: Premium Ginger Beer or Guava Lime
-        price: "5"
+        price: "6"
         title: Franklin & Son's Soda
     title: "Cheers To The Weekend! "
   - description: ' All portions available "Regular" or "Go Grande"'
