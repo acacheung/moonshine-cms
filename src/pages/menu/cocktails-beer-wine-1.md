@@ -26,6 +26,10 @@ subgroups:
         price: "15"
         description: Ole Smoky Mango Habanero Moonshine, Jim Beam Pineapple Whiskey,
           Fresh Lime Juice, Agave
+      - title: Spiced Blueberry Daiquiri
+        price: "15"
+        description: Mad River Vanilla Rum Infused with Blueberry Tea, Fresh Lime Juice,
+          Cinnamon Simple Syrup
       - description: "Mediterranean Red Wine Blend, Housemade Ginger Liqueur, Brandy,
           Hibiscus, Fresh Citrus Juices "
         price: "14"
