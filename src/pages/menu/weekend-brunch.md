@@ -74,7 +74,7 @@ subgroups:
           Radicchio,                              Chickpeas, Avocado, Heirloom
           Quinoa, Parmesan,                              Creamy Pesto Dressing,
           Aged Balsamic       "
-        price: 18 regular / 29 grande
+        price: 19 regular / 29 grande
         title: "Menu Addition: crispy artichoke salad "
       - description: Local honey, Fresh berries, Oat-Flax-Chia Seed Granola Crunch **add
           a warm house belgian waffle $9**
@@ -82,34 +82,34 @@ subgroups:
         title: "Whipped Greek Yogurt Parfait "
       - description: "Brioche cinnamon French toast sticks, Fresh berries, Maple berry
           butter dipping sauce "
-        price: "15 regular / 25 grande "
+        price: "16 regular / 27 grande "
         title: "Chef Asia’s Famous Cinnamon French Toast Sticks "
       - description: "Japanese ginger-sesame carrot vinaigrette, Roasted kale "
-        price: "13 regular / 19 grande "
+        price: "14 regular / 22 grande "
         title: "Local Mixed Greens Salad "
       - description: "Toasted sesame, Crispy garlic & shallots, Soy vinaigrette "
-        price: 15 regular / 25 grande
+        price: 16 regular / 27 grande
         title: "Blistered Shishito Peppers "
       - description: Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
-        price: 14 regular / 24 grande
+        price: 15 regular / 25 grande
         title: ’Shine Famous Caramelized Onion-Roasted Beet Dip
       - description: "Sourdough holiday stuffing bites, Crispy pecanwood bacon, Candied
           ginger aioli "
-        price: "17 regular / 26 grande "
+        price: "18 regular / 28 grande "
         title: "’Shine Famous Bacon Wrapped Stuffing Bites  "
       - description: "Crispy olive oil roasted potatoes, Sherry pesto aioli, Roasted
           garlic oil "
-        price: "16 regular / 27 grande "
+        price: "17 regular / 28 grande "
         title: "Tapas Style Patatas Bravas "
       - description: "Jalapeno crab filling, Spicy honey "
-        price: "18 regular  / 28 grande "
+        price: "19 regular  / 29 grande "
         title: "Jalapeno Crab Rangoons "
     title: To Get Ya Started!
   - description: " (Entrees)"
     items:
       - title: "menu addition: Twin Mei-Griddle Breakfast Sammies"
-        price: "27"
+        price: "28"
         description: "Maple Drizzled Potato Pancakes, Breakfast Sausage, Scrambled Egg,
           Cheddar Cheese, Spiced Homefries "
       - description: Spiced Tomato & Chickpea Baked Eggs, Basil Mayo, Crumbled Queso
@@ -119,7 +119,7 @@ subgroups:
       - description: "Tender  Beef Brisket wrapped in a  Scallion Pancake
           with                                        Pho Noodle Salad &  Bacony
           Pho Bone Broth for Dipping   "
-        price: "27"
+        price: "28"
         title: "Menu Addition: Chef Asia’s Famous Beef Brisket “Phoritto” "
       - description: Grilled Marinated Skirt Steak, Two Fried Eggs, Buttermilk Biscuits
           & Gravy w/ White Pepper Sausage Gravy & Chef Asia’s Best Ever
@@ -128,7 +128,7 @@ subgroups:
         title: 'Menu Addition: "’Shine Steak & Eggs"'
       - description: Red-eye gravy, Chinese sausage, Green onions, Chopped melted white
           cheese
-        price: "17 regular  / 27 grande "
+        price: "18 regular  / 28 grande "
         title: "Tater Tot Poutine "
       - description: Fresh Maine Crab Salad, Tasso Ham Hollandaise Sauce, Fried Eggs,
           Sauteed Baby Spinach, Housemade English Muffin **Not a fan of crab?
@@ -145,10 +145,10 @@ subgroups:
         price: "25"
         title: Sauteed Mushroom & Swiss Omelet**
       - description: Sauteed kale, Spiced homefries, Petite mixed greens salad
-        price: "23"
+        price: "25"
         title: Vegan Turmeric Tofu Scramble
       - description: "Pan-seared shrimp, Spicy cheese grits, Sherry pan sauce "
-        price: "27"
+        price: "28"
         title: "Cajun Shrimp & Grits "
       - description: Smoky pulled pork, Melted cheese, Chopped tomato, Petite mixed
           greens salad, House-cut shoestring fries
@@ -167,10 +167,10 @@ subgroups:
       - description: >
           Heirloom quinoa, sautéed kale, creamy Caesar dressing, wonton crisps,
           fresh pomegranate, shaved pecorino cheese
-        price: 17 regular / 28 grande
+        price: 18 regular / 29 grande
         title: "Warm Kale and Quinoa Caesar Salad "
       - description: served with Poblano Ranch Sauce
-        price: "18 regular  / 29 grande "
+        price: "19 regular  / 29 grande "
         title: '"Boston’s Best" Buttermilk Fried Chicken Wings '
       - description: "Boneless beef shortrib, Asian pear kimchi, Candied ginger aioli,
           Sriracha sauce "
@@ -186,11 +186,11 @@ subgroups:
         price: "28"
         title: "Leslie Knope’s Fried Chicken & Waffle "
       - description: "Sharp cheddar, Housemade aioli, LTO & Shoestring fries  "
-        price: "22"
+        price: "24"
         title: "Chef Asia’s Famous Mushroom Tofu Burger "
       - description: "Sharp cheddar, Housemade aioli, LTO & Shoestring fries  ...make it
           a double patty 11 "
-        price: "22"
+        price: "24"
         title: Grass-fed Beef Burger**  Boston's Best Award Winner
       - description: >-
           The "Mei-Rib” BBQ Burger 
@@ -198,7 +198,7 @@ subgroups:
           topped with Boneless St. Louis Pork Rib, Cheddar Cheese, Coleslaw,
 
           Brown Sugar-Chipotle BBQ Sauce, & House B&B Pickles                                                                                                                                         … add cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg $3  …add  jalapenos $2  …add avocado $3             
-        price: "28"
+        price: "29"
         title: August 2025's VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: " All the sides & Fixin’s"
@@ -215,6 +215,8 @@ subgroups:
         title: "Two Eggs Any Style** "
       - price: "7"
         title: "Spicy Green Chili Cheese Grits "
+      - title: "Pan-Roasted Brussels Sprouts "
+        price: "12"
       - price: "4"
         title: "Homemade English Muffin "
       - price: "4"
@@ -262,13 +264,13 @@ subgroups:
           Almond Shortbread Cookies 
       - description: "Toasted Pistachio Ice Cream, Homemade Brown Butter Shredded
           Filo-Kataifi, Hazelnut Chocolate Sauce, Whipped Cream "
-        price: "16"
+        price: "17"
         title: "Menu Addition: Dubai-Belgian Waffle Ice Cream Sundae"
       - description: "Whipped chantilly cream, Toasted oat-amaranth streusel "
-        price: "12"
+        price: "13"
         title: "Butterscotch Pudding "
       - description: "Nutellla fudge chocolate sauce, Powdered sugar "
-        price: "12"
+        price: "13"
         title: "Jaime’s Favorite Oreo Cookie Layered Fudge Brownie "
       - description: "Crispy Layered Merengue Cookies, Mango
           Coulis,                                                 Coconut
