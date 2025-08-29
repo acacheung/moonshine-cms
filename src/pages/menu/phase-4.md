@@ -16,7 +16,7 @@ subgroups:
            Layered Blueberry Pie Filling, Whipped Cheesecake Filling, Toasted Almond Shortbread Cookies
       - description: "Toasted Pistachio Ice Cream, Homemade Brown Butter Shredded
           Filo-Kataifi, Hazelnut Chocolate Sauce, Whipped Cream "
-        price: "16"
+        price: "17"
         title: 'Menu Addition: "Dubai" Belgian Waffle Ice Cream Sundae'
       - description: Chantilly whipped cream, toasted oat-amaranth streusel
         price: "12"
