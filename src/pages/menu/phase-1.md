@@ -24,7 +24,7 @@ subgroups:
         price: "19 regular / 29 grande "
       - description: Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy
           Pesto Dressing, Aged Balsamic
-        price: 18 regular / 29 grande
+        price: 19 regular / 29 grande
         title: "Menu Addition: Warm Crispy Artichoke Salad"
       - description: "Shredded Beef & Cheese Tacos, Pickled Red Cabbage Salsa, Smoky
           Sriracha Mayo,   & Birria Dipping Jus  "
