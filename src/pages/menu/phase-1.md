@@ -32,28 +32,28 @@ subgroups:
         title: "Menu Addition: Pan-Fried Carnitas Birria Gringo Tacos         "
       - description: Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
-        price: 14 regular / 24 grande
+        price: 15 regular / 25 grande
         title: ’Shine Famous Caramelized Onion-Roasted Beet Dip
       - description: Japanese ginger-sesame carrot vinaigrette, crispy olive oil roasted
           kale
-        price: 13 regular / 19 grande
+        price: 14 regular / 22 grande
         title: Local Mixed Greens Salad
       - description: Sweet and spicy honey-sambal, real jalapeno crab filling
-        price: 18 regular / 28 grande
+        price: 19 regular / 29 grande
         title: Jalapeno Crab Rangoons
       - description: Toasted sesame, crispy garlic and shallots, soy vinaigrette
-        price: 15 regular / 25 grande
+        price: 16 regular / 27 grande
         title: Blistered Shishito Peppers
       - description: Organic ground lamb, habanero date jam, lingonberry (gluten free)
-        price: 18 regular / 28 grande
+        price: 19 regular / 29 grande
         title: Spicy Lamb Meatballs
       - description: Crispy olive oil roasted potatoes, sherry pesto aioli, roasted
           garlic oil
-        price: 16 regular / 27 grande
+        price: 17 regular / 28 grande
         title: Tapas Style Patatas Bravas
       - description: "Caramelized onion sourdough stuffing wrapped in crispy pecanwood
           bacon, Candied ginger aioli "
-        price: 17 regular / 26 grande
+        price: 18 regular / 28 grande
         title: ’Shine Famous Bacon Wrapped Stuffing Bites
     title: To Get Ya Started
   - description: Shareable 'Shine classics available in small or large Portions.
