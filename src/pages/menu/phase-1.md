@@ -171,18 +171,18 @@ subgroups:
       - description: Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask! Also ask About our House
           Vegan Aioli!
-        price: "22"
+        price: "24"
         title: CHEF ASIA’S FAMOUS VEGETARIAN MUSHROOM TOFU BURGER
       - description: Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries .... Make it a double patty 11
-        price: "22"
+        price: "24"
         title: GRASS-FED ’SHINE BEEF BURGER**  Boston's Best Award Winner
       - description: 'The "Mei-Rib” BBQ Burger topped with Boneless St. Louis Pork Rib,
           Cheddar Cheese, Coleslaw, Brown Sugar-Chipotle BBQ Sauce, & House B&B
           Pickles           … ...add cheddar cheese $2 ..add jalapeno bacon
           $4   …add fried egg $3  …add  jalapenos $2  …add avocado
           $3                                                                                                                               '
-        price: "28"
+        price: "29"
         title: August 2025's  VIP burger of the month
       - description: Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
