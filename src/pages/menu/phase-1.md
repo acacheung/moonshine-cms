@@ -210,7 +210,7 @@ subgroups:
         title: HOUSE-CUT SHOESTRING FRENCH FRIES
       - price: "6"
         title: STEAMED WHITE RICE
-      - price: "11"
+      - price: "12"
         title: PAN-ROASTED BRUSSEL SPROUTS
       - price: "7"
         title: ASIAN PEAR KIMCHI
