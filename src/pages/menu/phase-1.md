@@ -67,18 +67,18 @@ subgroups:
         title: chef's whim soup of the day
       - description: Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton
           crisps, Shaved pecorino cheese
-        price: 17 regular / 28 grande
+        price: 18 regular / 29 grande
         title: wARM KALE AND QUINOA CAESAR SALAD
       - description: Tater tots smothered with kimchi butter, sweet chili, truffled
           teriyaki sauce
-        price: 17 regular / 28 grande
+        price: 18 regular / 29 grande
         title: Party Tots
       - description: Pan-roasted brussels sprouts smothered with kimchi butter, sweet
           chili, truffled teriyaki sauce
-        price: 17 regular / 28 grande
+        price: 18 regular / 29 grande
         title: Party Sprouts
       - description: "served with Poblano Ranch Sauce "
-        price: 18 regular / 29 grande
+        price: 19 regular / 29 grande
         title: MOONSHINE’S BOSTON’S BEST buttermilk FRIED CHICKEN WINGs
     title: Next Level Favorites
   - description: "Add your favorite proteins to any dish on the menu! "
