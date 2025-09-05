@@ -10,6 +10,12 @@ subgroups:
         price: "14"
         description: Mini Olive-Oil Toasted Buttermilk Biscuit Toasties, Whipped Creme
           Fraiche, Aged Balsamic
+      - description: |
+          
+          St. Louis Inspired Brown Butter Gooey Cake, 
+          Vanilla Shortbread, Sliced Banana, Sea Salted Caramel 
+        price: "14"
+        title: "Menu Addition: Bananas n’ Cream Gooey Butter Cake"
       - title: "Menu Addition: Chef Asia’s Famous Blueberry Jamboree"
         price: "14"
         description: >2
