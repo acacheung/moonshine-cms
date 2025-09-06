@@ -169,9 +169,9 @@ subgroups:
       - description: "Santa Barbera,CA, USA "
         price: 13 / 45
         title: "(White) 2021 Seaglass Charonnay "
-      - description: "Trentino, Italy "
-        price: 13  /  45
-        title: "(White) 2021 Torre di Luna Pinot Grigio "
+      - description: Healdsburg, California
+        price: 14  /  48
+        title: "(White) 2024 J Vineyards Pinot Grigio "
       - description: Elqui Valley, Coquimbo, Chile
         price: 13 / 45
         title: (white) 2022 Mayu Pedro Ximenez
