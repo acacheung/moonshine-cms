@@ -142,9 +142,8 @@ subgroups:
           available vegetarian or vegan, just ask!
         price: "27"
         title: SPICY KIMCHI THAI FRIED RICE
-      - description: Sweet Maui onion salmon poke, house applewood smoked shrimp & crab
-          remoulade, mango-edamame salsa, sushi rice, crispy chickpea papadum
-          chips
+      - description: Sweet Maui onion salmon poke, mango-edamame salsa, sushi rice,
+          crispy chickpea papadum chips
         price: "29"
         title: HAWAIIAN POKE RICE BOWL**
       - description: Spicy basil pepper glaze, crispy panko chicken, seasoned sushi
