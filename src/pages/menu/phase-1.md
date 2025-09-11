@@ -160,12 +160,6 @@ subgroups:
         description: Chinese BBQ Style Glazed Pulled Duck, Crystal Glass Vermicelli
           Noodles, Baby Bok Choy, Roasted Sesame-Peanut Sauce, and Honey Roasted
           Peanuts
-      - title: "Menu Addition: Layered Lobster Lasagna"
-        description: |2
-           Baked Lobster, Shrimp & Crab, Creamy Bechamel Sauce, 
-          Herbed Ricotta Cheese, Sunflower Seed-Basil Pesto, 
-          6-Hour Lobster Brodo, Confit Cherry Tomatoes 
-        price: "34"
       - title: "Menu Addition: Korean Beef Shortrib & Bibimbap Rice Bowl"
         price: "29"
         description: House Kimchi, Stirfried Tofu, Warm Sushi Rice, Baby Bok Choy, Fried
