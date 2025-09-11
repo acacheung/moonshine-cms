@@ -10,22 +10,25 @@ subgroups:
     items:
       - description: "Herbed Garlic Crostini, Heirloom Cherry
           Tomatoes,                                           Crispy Basil,
-          Strawberry-Balsamic Glaze "
-        title: "Menu Addition: Summer Whipped Ricotta Bruschetta"
+          Balsamic Glaze "
+        title: "Menu Addition: Whipped Ricotta Bruschetta"
         price: "17 regular / 28 grande "
       - description: >2
            
           Local Grilled Sweet Corn Salad done Elote-Style, w/ Basil Macerated Tomatoes, Citrus Aioli, Crumbled Cotija Cheese, and Espelette Pepper
         title: "Menu Addition: Chef Asia’s Famous Grilled Street Corn Salad"
         price: $17 regular / $28 grande
-      - description: >2
-           Grilled Avocado, Crispy Sushi Rice, Shredded Green Papaya Salad,  Nuoc Cham, Mandarin Oranges, Honey Roasted Peanuts 
-        title: "Menu Addition: Grilled Stuffed Avocado Salad"
+      - description: House Biscuit Crostini, Tortilla Chips & Prawn Crisps
+        title: "Menu Addition: Warm Crab, Artichoke & Spinach Dip"
         price: "19 regular / 29 grande "
       - description: Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy
           Pesto Dressing, Aged Balsamic
         price: 19 regular / 29 grande
         title: "Menu Addition: Warm Crispy Artichoke Salad"
+      - title: "Menu Addition: Pork Belly Bao Buns"
+        price: 18 (2) / 27 (3)
+        description: Braised Thai BBQ Pork Belly, Soft Steamed Chinatown Buns, Honey
+          Roasted Peanuts, Ginger Cabbage Slaw
       - description: "Shredded Beef & Cheese Tacos, Pickled Red Cabbage Salsa, Smoky
           Sriracha Mayo,   & Birria Dipping Jus  "
         price: "$18 (2 tacos) / $28 (4 tacos)  "
@@ -60,9 +63,8 @@ subgroups:
       Don't forget to top it off by adding your favorite proteins, fixins, sides
       & sauces to any dish.
     items:
-      - description: >
-          Summer 'Shine Chilled Beet Gazpacho with Diced  Cucumber & Dill Creme
-          Fraiche 
+      - description: "Hungarian Mushroom Bisque: Creamy Porcini Mushroom Soup, Smoked
+          Paprika, Fresh Cream, Thyme *Contains Dairy"
         price: "14 regular / 24 grande "
         title: chef's whim soup of the day
       - description: Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton
@@ -177,9 +179,13 @@ subgroups:
           fries .... Make it a double patty 11
         price: "24"
         title: GRASS-FED ’SHINE BEEF BURGER**  Boston's Best Award Winner
-      - description: >-
-          “The BLT 2.0” topped with Bacon Jam, Chopped Pecanwood Bacon,
-           Iceberg Lettuce, Fried Green Tomatoes, Basil-Tomato Salsa, Cheddar Cheese, Pesto Aioli             … ...add cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg $3  …add  jalapenos $2  …add avocado $3                                                                                                                               
+      - description: "“The BLT 2.0” topped with Bacon Jam, Chopped Pecanwood
+          Bacon,  Iceberg Lettuce, Fried Green Tomatoes, Basil-Tomato Salsa,
+          Cheddar Cheese, Pesto Aioli             … ...add cheddar cheese $2
+          ..add jalapeno bacon $4   …add fried egg $3  …add  jalapenos $2  …add
+          avocado
+          $3                                                                                                                               \
+          "
         price: "29"
         title: September 2025's  VIP burger of the month
       - description: Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
