@@ -85,9 +85,6 @@ subgroups:
       - title: "Hero 95 "
         price: "7"
         description: 12 oz Can
-      - title: Two Roads Passion Fruit Gose
-        price: "8"
-        description: 16 oz can
       - description: 12 oz bottle
         price: "6"
         title: "SAPPORO "
@@ -110,7 +107,7 @@ subgroups:
         price: "7"
         description: 16oz tallboy can
       - title: SunCruiser
-        price: "8"
+        price: "10"
         description: "12 oz can "
       - description: "12 oz can "
         price: "7"
