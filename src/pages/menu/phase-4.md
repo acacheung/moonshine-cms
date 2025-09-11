@@ -6,7 +6,7 @@ order: 5
 subgroups:
   - description: Add a Warm Belgian Waffle to Your Favorite Dessert $9
     items:
-      - title: "Menu Addition: Summer Berry-Pomegranate Biscuit Shortcake"
+      - title: "Menu Addition: Berry-Pomegranate Biscuit Shortcake"
         price: "14"
         description: Mini Olive-Oil Toasted Buttermilk Biscuit Toasties, Whipped Creme
           Fraiche, Aged Balsamic
