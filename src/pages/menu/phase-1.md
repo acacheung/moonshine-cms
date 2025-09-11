@@ -11,7 +11,7 @@ subgroups:
       - description: "Herbed Garlic Crostini, Heirloom Cherry
           Tomatoes,                                           Crispy Basil,
           Balsamic Glaze "
-        title: "Menu Addition: Whipped Ricotta Bruschetta"
+        title: "Menu Addition:  'Shine Whipped Ricotta Bruschetta"
         price: "17 regular / 28 grande "
       - description: >2
            
