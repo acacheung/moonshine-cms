@@ -7,9 +7,8 @@ subgroups:
   - description: ""
     items:
       - description: >+
-          Chef Asia’s Salted Caramel Macchiato: House Espresso Jello, Kahlua,
-          Whipped Chantilly Cream,  House Salted Caramel Anglaise *contains
-          dairy & caffeine  
+          Passionfruit Punch : Orange Jello, Fresh Passionfruit Juice, Fresh
+          Orange & Lemon Juice, Jameson Triple Cask Irish Whiskey 
 
 
         price: "7"
