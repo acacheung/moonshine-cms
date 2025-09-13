@@ -6,10 +6,10 @@ order: 3
 subgroups:
   - description: "Brunch Cocktails & Beverages "
     items:
-      - description: >
-          Chef Asia’s Salted Caramel Macchiato: House Espresso Jello, Kahlua,
-          Whipped Chantilly Cream,                   House Salted Caramel
-          Anglaise *contains dairy & caffeine  
+      - description: >+
+          Passionfruit Punch : Orange Jello, Fresh Passionfruit Juice, Fresh
+          Orange & Lemon Juice, Jameson Triple Cask Irish Whiskey 
+
         price: "7"
         title: Chef Asia's Rotating Jello Shots
       - description: >
@@ -192,9 +192,12 @@ subgroups:
           a double patty 11 "
         price: "24"
         title: Grass-fed Beef Burger**  Boston's Best Award Winner
-      - description: >-
-          “The BLT 2.0” topped with Bacon Jam, Chopped Pecanwood Bacon,
-           Iceberg Lettuce, Fried Green Tomatoes, Basil-Tomato Salsa, Cheddar Cheese, Pesto Aioli                                                                                                                          … add cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg $3  …add  jalapenos $2  …add avocado $3             
+      - description: "“The BLT 2.0” topped with Bacon Jam, Chopped Pecanwood
+          Bacon,  Iceberg Lettuce, Fried Green Tomatoes, Basil-Tomato Salsa,
+          Cheddar Cheese, Pesto
+          Aioli                                                                                                                          \
+          … add cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg
+          $3  …add  jalapenos $2  …add avocado $3             "
         price: "29"
         title: August 2025's VIP burger of the month
     title: All-Day / All-Night Allstars
