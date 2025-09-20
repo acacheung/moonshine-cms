@@ -61,10 +61,10 @@ subgroups:
           Tomatoes,                                           Crispy Basil,
           Strawberry-Balsamic Glaze "
         price: "17 regular / 28 grande "
-        title: "Menu Addition: Summer Whipped Ricotta Bruschetta"
-      - description: "Buttermilk Pancakes, Bing Cherry Pie Filling, Graham Cracker Crunch "
-        price: "22 (2) regular / 29 (4) grande "
-        title: "Menu Addition: Tres Leches Cherry Cheesecake  Crunch Pancakes "
+        title: "Menu Addition: Whipped Ricotta Bruschetta"
+      - description: House Biscuit Crostini, Tortilla Chips & Prawn Crisps
+        price: "19 regular / 29 grande "
+        title: "Menu Addition: Warm Crab, Artichoke & Spinach Dip"
       - title: "Menu Addition: Chef Asia’s Famous Grilled Street Corn Salad "
         price: "17 regular / 28 grande "
         description: Local Grilled Sweet Corn Salad done Elote-Style with Basil
@@ -159,8 +159,8 @@ subgroups:
   - description: Our all-time favorite dishes, available whenever the kitchen is open!
     items:
       - description: >+
-          Summer 'Shine Chilled Beet Gazpacho  (VEG/GF): Smooth Chilled Roasted
-          Beet Soup, Diced Cucumber & Dill Creme Fraiche
+          Hungarian Mushroom Bisque  (VEG/GF): SCreamy Porcini Mushroom Soup,
+          Smoked Paprika, Fresh Cream, Thyme *Contains Dairy
 
         price: 14 / 24
         title: Chef’s Whim Soup for the Soul
@@ -199,7 +199,7 @@ subgroups:
           … add cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg
           $3  …add  jalapenos $2  …add avocado $3             "
         price: "29"
-        title: August 2025's VIP burger of the month
+        title: September 2025's VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: " All the sides & Fixin’s"
     items:
@@ -256,7 +256,7 @@ subgroups:
       - description: Mini Olive-Oil Toasted Buttermilk Biscuit Toasties, Whipped Creme
           Fraiche, Aged Balsamic
         price: "14"
-        title: "Menu Addition: Spring Berry-Pomegranate Biscuit Shortcake "
+        title: "Menu Addition: Berry-Pomegranate Biscuit Shortcake "
       - title: "Menu Addition: Chef Asia’s Famous Blueberry Jamboree "
         price: "14"
         description: >
