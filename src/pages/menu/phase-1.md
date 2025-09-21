@@ -163,6 +163,12 @@ subgroups:
         price: "29"
         description: House Kimchi, Stirfried Tofu, Warm Sushi Rice, Baby Bok Choy, Fried
           Egg, Sticky Soy, Sesame-Gochujang Glaze **Available Vegetarian
+      - description: |
+          
+          Boneless Beef Shortrib Slow-Cooked in Red Wine, Gravy, 
+          Creamy Mashed Potatoes, Confit Cherry Tomatoes, Garlicky Green Beans 
+        price: "29"
+        title: "Menu Addition: Red Wine Braised Shortrib "
       - description: Sharp cheddar, Housemade aioli, LTO, House-cut shoestring french
           fries...... Now available Vegan, just ask! Also ask About our House
           Vegan Aioli!
