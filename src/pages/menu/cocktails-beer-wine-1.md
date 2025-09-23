@@ -93,6 +93,9 @@ subgroups:
       - description: "12 oz bottle "
         price: "7"
         title: "Corona Extra "
+      - description: "16 oz tallboy can "
+        price: "8"
+        title: Lawson's Finest "Fest bier Lager"
       - title: Smithwicks Irish Red Ale
         price: "8"
         description: 14.9 oz tall boy
@@ -123,9 +126,6 @@ subgroups:
       - title: Allagash White
         price: "7"
         description: "16 oz tallboy can "
-      - description: "16 oz tallboy can "
-        price: "10"
-        title: Lord Hobo "BoomSauce" Double IPA
       - description: "12 oz bottle "
         price: "7"
         title: "Stone IPA "
