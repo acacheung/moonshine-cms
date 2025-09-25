@@ -94,7 +94,7 @@ subgroups:
         price: "7"
         title: "Corona Extra "
       - description: "16 oz tallboy can "
-        price: "8"
+        price: "10"
         title: Lawson's Finest "Fest bier Lager"
       - title: Smithwicks Irish Red Ale
         price: "8"
