@@ -8,6 +8,10 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
+      - title: "Menu Addition: Fall Sweet Potato Mochi Pancakes "
+        price: 18 regular / 28 grande
+        description: Japanese Inspired Chewy Pan-Fried Sweet Potato Croquettes, Maple
+          Cranberries, Sunflower Seed Pesto, Crispy Sage
       - description: "Herbed Garlic Crostini, Heirloom Cherry
           Tomatoes,                                           Crispy Basil,
           Balsamic Glaze "
