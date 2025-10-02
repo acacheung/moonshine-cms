@@ -84,12 +84,18 @@ subgroups:
       - title: "Hero 95 "
         price: "7"
         description: 12 oz Can
-      - description: 12 oz bottle
+      - title: Bell's Oberon Wheat Ale
         price: "6"
-        title: "SAPPORO "
+        description: 12 oz can
       - description: "12 oz bottle "
         price: "7"
         title: "Heineken "
+      - description: "12 oz bottle "
+        price: "7"
+        title: "Stone IPA "
+      - description: 12 oz bottle
+        price: "6"
+        title: "SAPPORO "
       - description: "12 oz bottle "
         price: "7"
         title: "Corona Extra "
@@ -120,15 +126,9 @@ subgroups:
       - description: "16 oz tallboy can "
         price: "7"
         title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
-      - title: Bell's Oberon Wheat Ale
-        price: "6"
-        description: 12 oz can
       - title: Allagash White
         price: "7"
         description: "16 oz tallboy can "
-      - description: "12 oz bottle "
-        price: "7"
-        title: "Stone IPA "
       - description: "16 oz nitro can "
         price: "8"
         title: "Guinness Nitro Stout "
