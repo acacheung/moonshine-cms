@@ -62,7 +62,7 @@ subgroups:
           Strawberry-Balsamic Glaze "
         price: "17 regular / 28 grande "
         title: "Menu Addition: Whipped Ricotta Bruschetta"
-      - description: House Biscuit Crostini, Tortilla Chips & Prawn Crisps
+      - description: House Biscuit Crostini & Tortilla Chips
         price: "19 regular / 29 grande "
         title: "Menu Addition: Warm Crab, Artichoke & Spinach Dip"
       - title: "Menu Addition: Chef Asia’s Famous Grilled Street Corn Salad "
@@ -158,10 +158,13 @@ subgroups:
     title: The Main Affair
   - description: Our all-time favorite dishes, available whenever the kitchen is open!
     items:
-      - description: >+
-          Hungarian Mushroom Bisque  (VEG/GF): SCreamy Porcini Mushroom Soup,
-          Smoked Paprika, Fresh Cream, Thyme *Contains Dairy
+      - description: >
+          Thai Coconut-Pumpkin Green Curry: Cilantro-Basil Thai-Inspired Mild
+          Simmered Potato & Pumpkin Curry, Coconut Milk, Pineapple  (VEGAN/GF) 
 
+          **Make it an Entree By Adding Your Favorite Protein, Toppings & Add-Ons like Curry Fries  $19/$28   Curry Tots  $19/$28    Curry Rice $19/$28
+
+          …Statler Chicken Breast $13  …Spicy Lamb Meatballs  $15  …Sauteed Baby Shrimp  $15 
         price: 14 / 24
         title: Chef’s Whim Soup for the Soul
       - description: >
