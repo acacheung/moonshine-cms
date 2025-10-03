@@ -8,21 +8,21 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
-      - title: "Menu Addition: Fall Sweet Potato Mochi Pancakes "
-        price: 18 regular / 28 grande
-        description: Japanese Inspired Chewy Pan-Fried Sweet Potato Croquettes, Maple
-          Cranberries, Sunflower Seed Pesto, Crispy Sage
-      - description: "Herbed Garlic Crostini, Heirloom Cherry
-          Tomatoes,                                           Crispy Basil,
-          Balsamic Glaze "
-        title: "Menu Addition:  'Shine Whipped Ricotta Bruschetta"
-        price: "17 regular / 28 grande "
       - description: >2
            
           Local Grilled Sweet Corn Salad done Elote-Style, w/ Basil Macerated Tomatoes, Citrus Aioli, Crumbled Cotija Cheese, and Espelette Pepper
         title: "Menu Addition: Chef Asia’s Famous Grilled Street Corn Salad"
         price: $17 regular / $28 grande
-      - description: House Biscuit Crostini, Tortilla Chips & Prawn Crisps
+      - description: "Herbed Garlic Crostini, Heirloom Cherry
+          Tomatoes,                                           Crispy Basil,
+          Balsamic Glaze "
+        title: "Menu Addition:  'Shine Whipped Ricotta Bruschetta"
+        price: "17 regular / 28 grande "
+      - title: "Menu Addition: Fall Sweet Potato Mochi Pancakes "
+        price: 18 regular / 28 grande
+        description: Japanese Inspired Chewy Pan-Fried Sweet Potato Croquettes, Maple
+          Cranberries, Sunflower Seed Pesto, Crispy Sage
+      - description: House Biscuit Crostini, Tortilla Chips
         title: "Menu Addition: Warm Crab, Artichoke & Spinach Dip"
         price: "19 regular / 29 grande "
       - description: Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy
@@ -67,8 +67,13 @@ subgroups:
       Don't forget to top it off by adding your favorite proteins, fixins, sides
       & sauces to any dish.
     items:
-      - description: "Hungarian Mushroom Bisque: Creamy Porcini Mushroom Soup, Smoked
-          Paprika, Fresh Cream, Thyme *Contains Dairy"
+      - description: >-
+          Thai Coconut-Pumpkin Green Curry: Cilantro-Basil Thai-Inspired Mild
+          Simmered Potato & Pumpkin Curry, Coconut Milk, Pineapple  (VEGAN/GF) 
+
+          **Make it an Entree By Adding Your Favorite Protein, Toppings & Add-Ons like Curry Fries  $19/$28   Curry Tots  $19/$28    Curry Rice $19/$28
+
+          …Statler Chicken Breast $13  …Spicy Lamb Meatballs  $15  …Sauteed Baby Shrimp  $15 
         price: "14 regular / 24 grande "
         title: chef's whim soup of the day
       - description: Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton
