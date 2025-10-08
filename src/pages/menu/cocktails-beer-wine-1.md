@@ -258,15 +258,15 @@ subgroups:
           VSOP...$12...
         price: xxxxx
         title: "Rum  & Cognac "
-      - description: Four Roses Bourbon...$10...Mitcher's Bourbon...$11...Maker's Mark
-          Bourbon...$11... Mad River Bourbon ...$11.... Bully Boy Straight
-          American Whiskey...$11... Uncle Nearest 1884 Small Batch Whiskey
-          ...$12...Uncle Nearest 1856 Whiskey...$13...Jack Daniels
-          Whiskey...$11... Old Overholt Rye...$10...Rittenhouse Rye...$10...
-          Mitcher's Single Barrel Rye...$11...Mad River Revolution
-          Rye...$11...Boston Harbor Distillery Putnam
-          Rye...$12......$13...Boston Harbor Distillery Putnam Single Malt
-          Whiskey ...$13...Knob Creek 7YR  Rye...$12...Old Smokey Tennessee
+      - description: Jim Beam Bourbon...$10...Four Roses Bourbon...$11...Mitcher's
+          Bourbon...$11...Maker's Mark Bourbon...$11... Mad River Bourbon
+          ...$11.... Bully Boy Straight American Whiskey...$11... Uncle Nearest
+          1884 Small Batch Whiskey ...$12...Uncle Nearest 1856
+          Whiskey...$13...Jack Daniels Whiskey...$11... Old Overholt
+          Rye...$10...Rittenhouse Rye...$10... Mitcher's Single Barrel
+          Rye...$11...Mad River Revolution Rye...$11...Boston Harbor Distillery
+          Putnam Rye...$12......$13...Boston Harbor Distillery Putnam Single
+          Malt Whiskey ...$13...Knob Creek 7YR  Rye...$12...Old Smokey Tennessee
           Moonshine  White Whiskey ...$10...
         price: xxxxx
         title: "American Whiskey/Bourbon/Rye "
