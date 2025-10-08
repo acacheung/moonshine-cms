@@ -84,6 +84,12 @@ subgroups:
       - title: "Hero 95 "
         price: "7"
         description: 12 oz Can
+      - description: "16 oz tallboy can "
+        price: "10"
+        title: Lawson's Finest "Fest bier Lager"
+      - title: Alchemist's Heady Topper
+        price: "10"
+        description: 16 oz tallboy can
       - title: Bell's Oberon Wheat Ale
         price: "6"
         description: 12 oz can
@@ -99,9 +105,6 @@ subgroups:
       - description: "12 oz bottle "
         price: "7"
         title: "Corona Extra "
-      - description: "16 oz tallboy can "
-        price: "10"
-        title: Lawson's Finest "Fest bier Lager"
       - title: Smithwicks Irish Red Ale
         price: "8"
         description: 14.9 oz tall boy
