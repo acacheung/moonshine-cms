@@ -65,11 +65,6 @@ subgroups:
       - description: House Biscuit Crostini & Tortilla Chips
         price: "19 regular / 29 grande "
         title: "Menu Addition: Warm Crab, Artichoke & Spinach Dip"
-      - title: "Menu Addition: Chef Asia’s Famous Grilled Street Corn Salad "
-        price: "17 regular / 28 grande "
-        description: Local Grilled Sweet Corn Salad done Elote-Style with Basil
-          Macerated Tomatoes, Citrus Aioli, Crumbled Cotija Cheese, Espelette
-          Pepper
       - description: "Warm Crispy Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
           Quinoa, Parmesan,                              Creamy Pesto Dressing,
