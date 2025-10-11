@@ -6,6 +6,11 @@ order: 5
 subgroups:
   - description: Add a Warm Belgian Waffle to Your Favorite Dessert $9
     items:
+      - title: "Menu Addition: Autumn Caramel Apple Walnut Cake         "
+        price: "14"
+        description: |2
+                    
+          Cinnamon Sugar, Sea Salted Caramel Sauce, Whipped Cream 
       - title: "Menu Addition: Berry-Pomegranate Biscuit Shortcake"
         price: "14"
         description: Mini Olive-Oil Toasted Buttermilk Biscuit Toasties, Whipped Creme
