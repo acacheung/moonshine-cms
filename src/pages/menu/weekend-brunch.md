@@ -251,6 +251,9 @@ subgroups:
     title: All the sides & Fixin’s
   - description: " (Dessert)"
     items:
+      - description: "Salted Caramel Sauce, Cinnamon Sugar, Whipped Cream "
+        title: "Menu Addition: Autumn Caramel Apple Walnut Cake         "
+        price: "14"
       - description: Mini Olive-Oil Toasted Buttermilk Biscuit Toasties, Whipped Creme
           Fraiche, Aged Balsamic
         price: "14"
