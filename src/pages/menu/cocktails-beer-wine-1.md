@@ -17,10 +17,6 @@ subgroups:
         price: "15"
         description: Citrus Vodka, Strawberry-Lychee Popping Boba, Fresh Lemonade
           **Available Non-Alcoholic
-      - title: "'Shine Strawberry Sling"
-        description: Four Corners American Gin, House Strawberry Rhubarb Shrub, Fresh
-          Lemon Juice, Tonic Water
-        price: "14"
       - title: '"How Hot Is It?"'
         price: "15"
         description: Ole Smoky Mango Habanero Moonshine, Jim Beam Pineapple Whiskey,
