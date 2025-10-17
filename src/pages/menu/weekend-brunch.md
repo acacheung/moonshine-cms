@@ -7,8 +7,8 @@ subgroups:
   - description: "Brunch Cocktails & Beverages "
     items:
       - description: >+
-          Passionfruit Punch : Orange Jello, Fresh Passionfruit Juice, Fresh
-          Orange & Lemon Juice, Jameson Triple Cask Irish Whiskey 
+          Tequila Sunrise: Blanco Tequila, Orange & Citrus Jello, Citrus Zest,
+          Cherry Syrup Drizzle 
 
         price: "7"
         title: Chef Asia's Rotating Jello Shots
