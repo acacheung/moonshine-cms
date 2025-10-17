@@ -218,7 +218,7 @@ subgroups:
         title: Franklin & Sons Guava Lime Soda
       - price: "6"
         title: Franklin & Sons LTD Premium Ginger Beer
-      - description: "Original, Sugar Free or Tropical "
+      - description: "Original, Sugar Free "
         price: "5"
         title: Red Bull
     title: "Non-Alcoholic "
