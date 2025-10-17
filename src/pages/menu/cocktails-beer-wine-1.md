@@ -21,6 +21,10 @@ subgroups:
         price: "15"
         description: Ole Smoky Mango Habanero Moonshine, Jim Beam Pineapple Whiskey,
           Fresh Lime Juice, Agave
+      - title: Moonshine Snapple
+        price: "15"
+        description: Olo Smoky Apple Pie Moonshine, Fresh Lemon Juice, Cranberry Juice,
+          House Tiki Simple Syrup, House-Made Apple Chips
       - title: Spiced Blueberry Daiquiri
         price: "15"
         description: Mad River Vanilla Rum Infused with Blueberry Tea, Fresh Lime Juice,
