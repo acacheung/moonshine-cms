@@ -91,9 +91,6 @@ subgroups:
         description: 12 oz can
       - description: "12 oz bottle "
         price: "7"
-        title: "Heineken "
-      - description: "12 oz bottle "
-        price: "7"
         title: "Stone IPA "
       - description: 12 oz bottle
         price: "6"
