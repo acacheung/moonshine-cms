@@ -40,10 +40,6 @@ subgroups:
       - title: Endless Summer
         price: "14"
         description: Aperol, Pineapple Juice, Fresh Lemon Juice, Cinnamon Syrup, Prosecco
-      - title: Fly Me to The Moon
-        price: "16"
-        description: Empress Indico Gin, Luxardo Cherry Liqueur, Fresh Lemon Juice,
-          Creme De Violette
       - title: Farm to Glass
         price: "16"
         description: Firepuncher Spicy Vodka, St. Elder Liqueur, Fresh Cucumber Juice,
