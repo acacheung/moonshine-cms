@@ -17,10 +17,6 @@ subgroups:
         price: "15"
         description: Citrus Vodka, Strawberry-Lychee Popping Boba, Fresh Lemonade
           **Available Non-Alcoholic
-      - title: '"How Hot Is It?"'
-        price: "15"
-        description: Ole Smoky Mango Habanero Moonshine, Jim Beam Pineapple Whiskey,
-          Fresh Lime Juice, Agave
       - title: Moonshine Snapple
         price: "15"
         description: Olo Smoky Apple Pie Moonshine, Fresh Lemon Juice, Cranberry Juice,
