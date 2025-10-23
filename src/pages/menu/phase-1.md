@@ -158,11 +158,11 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
-      - title: "Menu Addition: Tiki Roasted Duck Noodle Salad"
+      - title: "Menu Addition: Chef Asia’s Famous Louisiana Braised Rabbit Pasta"
         price: "29"
-        description: Chinese BBQ Style Glazed Pulled Duck, Crystal Glass Vermicelli
-          Noodles, Baby Bok Choy, Roasted Sesame-Peanut Sauce, and Honey Roasted
-          Peanuts
+        description: |
+          Red Wine Braised Rabbit, Brown Butter-Louisiana Cream Sauce, 
+          Toasted Hazelnuts, Crispy Sage 
       - title: "Menu Addition: Korean Beef Shortrib & Bibimbap Rice Bowl"
         price: "29"
         description: House Kimchi, Stirfried Tofu, Warm Sushi Rice, Baby Bok Choy, Fried
