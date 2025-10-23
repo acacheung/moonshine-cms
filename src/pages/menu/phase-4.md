@@ -21,10 +21,11 @@ subgroups:
           Vanilla Shortbread, Sliced Banana, Sea Salted Caramel 
         price: "14"
         title: "Menu Addition: Bananas n’ Cream Gooey Butter Cake"
-      - title: "Menu Addition: Chef Asia’s Famous Blueberry Jamboree"
-        price: "14"
-        description: >2
-           Layered Blueberry Pie Filling, Whipped Cheesecake Filling, Toasted Almond Shortbread Cookies
+      - title: "Menu Addition: Warm Pumpkin Pistachio Baklava Crinkle"
+        price: "15"
+        description: |
+          Layered Phyllo Dough Baked with Cinnamon Pumpkin Custard, 
+          Roasted Pistachios, Local Honey, Fresh Pomegranate 
       - description: "Toasted Pistachio Ice Cream, Homemade Brown Butter Shredded
           Filo-Kataifi, Hazelnut Chocolate Sauce, Whipped Cream "
         price: "17"
