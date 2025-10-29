@@ -32,7 +32,7 @@ subgroups:
       - title: Creamy Tropical Rum Runner
         price: "15"
         description: Star & Key Passion Fruit Rum, Passion Fruit Puree, Cassis, House
-          Tiki Simple Syrup. Fresh Lime & Pineapple Juice
+          Tiki Simple Syrup. Fresh Lime & Pineapple Juice, Condensed Milk
       - description: "Mediterranean Red Wine Blend, Housemade Ginger Liqueur, Brandy,
           Hibiscus, Fresh Citrus Juices "
         price: "14"
