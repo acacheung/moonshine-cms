@@ -25,6 +25,10 @@ subgroups:
         price: "15"
         description: Mad River Vanilla Rum Infused with Blueberry Tea, Fresh Lime Juice,
           Cinnamon Simple Syrup
+      - title: Creamy Tropical Rum Runner
+        price: "15"
+        description: Star & Key Passion Fruit Rum, Passion Fruit Puree, Cassis, House
+          Tiki Simple Syrup. Fresh Lime & Pineapple Juice
       - description: "Mediterranean Red Wine Blend, Housemade Ginger Liqueur, Brandy,
           Hibiscus, Fresh Citrus Juices "
         price: "14"
@@ -48,10 +52,6 @@ subgroups:
           Just ask for Baileys Irish Cream!) "
         price: "16"
         title: "'Shine Espresso Martini"
-      - title: "House Manhattan "
-        price: "15"
-        description: Boston Harbor Distillery's Putnam Rye, Antica Sweet Vermouth,
-          Angostura Bitters
       - title: La Diabla
         price: "14"
         description: Tres Agave Blanco, Creme de Cassis, Fresh Lime Juice, Ginger Beer
