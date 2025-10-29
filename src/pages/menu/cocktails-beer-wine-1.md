@@ -25,6 +25,10 @@ subgroups:
         price: "15"
         description: Mad River Vanilla Rum Infused with Blueberry Tea, Fresh Lime Juice,
           Cinnamon Simple Syrup
+      - title: Hot Buttered 'Shine Cider
+        price: "16"
+        description: Warm Apple Cider, House Cinnamon Honey Butter, Ole Smoky Apple Pie
+          Moonshine
       - title: Creamy Tropical Rum Runner
         price: "15"
         description: Star & Key Passion Fruit Rum, Passion Fruit Puree, Cassis, House
