@@ -30,7 +30,7 @@ subgroups:
         description: Warm Apple Cider, House Cinnamon Honey Butter, Ole Smoky Apple Pie
           Moonshine
       - title: Creamy Tropical Rum Runner
-        price: "15"
+        price: "16"
         description: Star & Key Passion Fruit Rum, Passion Fruit Puree, Cassis, House
           Tiki Simple Syrup. Fresh Lime & Pineapple Juice, Condensed Milk
       - description: "Mediterranean Red Wine Blend, Housemade Ginger Liqueur, Brandy,
