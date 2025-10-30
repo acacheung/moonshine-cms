@@ -28,7 +28,7 @@ subgroups:
       - title: Hot Buttered 'Shine Cider
         price: "16"
         description: Warm Apple Cider, House Cinnamon Honey Butter, Ole Smoky Apple Pie
-          Moonshine
+          Moonshine.  **Available Non-Alcoholic!! -$8
       - title: Creamy Tropical Rum Runner
         price: "16"
         description: Star & Key Passion Fruit Rum, Passion Fruit Puree, Cassis, House
