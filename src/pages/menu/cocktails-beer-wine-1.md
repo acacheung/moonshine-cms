@@ -13,10 +13,6 @@ subgroups:
 
         price: "7"
         title: Rotating Jello Shots
-      - title: Asia's Hard Poppin' Lemmie
-        price: "15"
-        description: Citrus Vodka, Strawberry-Lychee Popping Boba, Fresh Lemonade
-          **Available Non-Alcoholic
       - title: Moonshine Snapple
         price: "15"
         description: Olo Smoky Apple Pie Moonshine, Fresh Lemon Juice, Cranberry Juice,
