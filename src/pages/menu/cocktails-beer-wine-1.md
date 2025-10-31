@@ -189,9 +189,6 @@ subgroups:
       - description: "Pineapple Juice, Fresh Lime, Fever Tree Ginger Beer "
         price: "7"
         title: "Pineapple Mule (mocktail) "
-      - title: "'Shine Strawberry-Lychee Sparkler (mocktail)"
-        price: "8"
-        description: Strawberry Popping Boba, Fresh House Lemonade
       - title: Hot Buttered Apple Cider
         price: "8"
         description: Warm Apple Cider, House Cinnamon Honey Butter
