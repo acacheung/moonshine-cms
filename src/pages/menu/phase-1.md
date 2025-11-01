@@ -176,15 +176,15 @@ subgroups:
           fries .... Make it a double patty 11
         price: "24"
         title: GRASS-FED ’SHINE BEEF BURGER**  Boston's Best Award Winner
-      - description: " “The Pastrami Reuben” Burger (ARae’s Belated Birthday Gift from
-          Chef Asia)  topped with Shaved Pastrami, Russian Dressing, House
-          Sauerkraut, Melted Swiss Cheese, Grilled Buttered Marbled Rye
-          Bread           … ...add cheddar cheese $2 ..add jalapeno bacon
-          $4   …add fried egg $3  …add  jalapenos $2  …add avocado
+      - description: " “The Garfield Lasagna” Burger -Triple Cheese Lasagna with
+          Mozzarella, Parmesan & Herbed Ricotta,  Layered Lasagna Pasta,
+          Pomodoro Tomato Sauce & Fresh Oregano     … ...add cheddar cheese $2
+          ..add jalapeno bacon $4   …add fried egg $3  …add  jalapenos $2  …add
+          avocado
           $3                                                                                                                               \
           "
         price: "29"
-        title: October 2025's  VIP burger of the month
+        title: November 2025's  VIP burger of the month
       - description: Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
         price: "29"
