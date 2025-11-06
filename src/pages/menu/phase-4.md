@@ -6,6 +6,10 @@ order: 5
 subgroups:
   - description: Add a Warm Belgian Waffle to Your Favorite Dessert $9
     items:
+      - title: "Menu Addition: Warm Autumn Apple-Pear Crisp A La Mode"
+        price: "16"
+        description: Toasted Almond Cookie Crumble, Baked Apple Cobbler, Sliced Pear,
+          French Vanilla Ice Cream
       - title: "Menu Addition: Berry-Pomegranate Biscuit Shortcake"
         price: "14"
         description: Mini Olive-Oil Toasted Buttermilk Biscuit Toasties, Whipped Creme
