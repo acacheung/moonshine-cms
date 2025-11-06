@@ -79,9 +79,6 @@ subgroups:
       - description: "16 oz tallboy can "
         price: "10"
         title: Lawson's Finest "Fest bier Lager"
-      - title: Alchemist's Heady Topper
-        price: "12"
-        description: 16 oz tallboy can
       - description: "16 oz tallboy can "
         price: "12"
         title: Lawson's Sip of Sunshine
