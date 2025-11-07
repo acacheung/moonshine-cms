@@ -162,7 +162,7 @@ subgroups:
         price: "29"
         description: Grilled Cranberry-Pecan Bread, Honeycrisp Apples, Melted Cheese,
           Fried Sage & Maple Candied Bacon, Served with a Cup of Spicy Tomato
-          Soup & Shoestring French Fries *Available Vegetarian
+          Soup & Shoestring French Fries *Available Vegetarian $27
       - title: "Menu Addition: Chef Asia’s Famous Louisiana Braised Rabbit Pasta"
         price: "29"
         description: |
