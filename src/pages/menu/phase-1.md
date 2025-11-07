@@ -13,10 +13,6 @@ subgroups:
           Balsamic Glaze "
         title: "Menu Addition:  'Shine Whipped Ricotta Bruschetta"
         price: "17 regular / 28 grande "
-      - title: "Menu Addition: Fall Sweet Potato Mochi Pancakes "
-        price: 18 regular / 28 grande
-        description: Japanese Inspired Chewy Pan-Fried Sweet Potato Croquettes, Maple
-          Cranberries, Sunflower Seed Pesto, Crispy Sage
       - description: House Biscuit Crostini, Tortilla Chips
         title: "Menu Addition: Warm Crab, Artichoke & Spinach Dip"
         price: "19 regular / 29 grande "
