@@ -158,6 +158,11 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
+      - title: "Menu Addition: Fall Candied Bacon Grilled Cheese & Spicy Tomato Soup"
+        price: "29"
+        description: Grilled Cranberry-Pecan Bread, Honeycrisp Apples, Melted Cheese,
+          Fried Sage & Maple Candied Bacon, Served with a Cup of Spicy Tomato
+          Soup & Shoestring French Fries *Available Vegetarian
       - title: "Menu Addition: Chef Asia’s Famous Louisiana Braised Rabbit Pasta"
         price: "29"
         description: |
