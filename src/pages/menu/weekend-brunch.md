@@ -163,13 +163,8 @@ subgroups:
     title: The Main Affair
   - description: Our all-time favorite dishes, available whenever the kitchen is open!
     items:
-      - description: >
-          Thai Coconut-Pumpkin Green Curry: Cilantro-Basil Thai-Inspired Mild
-          Simmered Potato & Pumpkin Curry, Coconut Milk, Pineapple  (VEGAN/GF) 
-
-          **Make it an Entree By Adding Your Favorite Protein, Toppings & Add-Ons like Curry Fries  $19/$28   Curry Tots  $19/$28    Curry Rice $19/$28
-
-          …Statler Chicken Breast $13  …Spicy Lamb Meatballs  $15  …Sauteed Baby Shrimp  $15 
+      - description: "Creamy Spicy Tomato Bisque  (VEG/GF): Smooth Creamy Tomato Bisque;
+          Fresno Chilies, Thyme, Fresh Cream   "
         price: 14 / 24
         title: Chef’s Whim Soup for the Soul
       - description: >
