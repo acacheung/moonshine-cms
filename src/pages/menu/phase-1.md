@@ -58,13 +58,8 @@ subgroups:
       Don't forget to top it off by adding your favorite proteins, fixins, sides
       & sauces to any dish.
     items:
-      - description: >-
-          Thai Coconut-Pumpkin Green Curry: Cilantro-Basil Thai-Inspired Mild
-          Simmered Potato & Pumpkin Curry, Coconut Milk, Pineapple  (VEGAN/GF) 
-
-          **Make it an Entree By Adding Your Favorite Protein, Toppings & Add-Ons like Curry Fries  $19/$28   Curry Tots  $19/$28    Curry Rice $19/$28
-
-          …Statler Chicken Breast $13  …Spicy Lamb Meatballs  $15  …Sauteed Baby Shrimp  $15 
+      - description: "Creamy Spicy Tomato Bisque  (VEG/GF): Smooth Creamy Tomato Bisque;
+          Fresno Chilies, Thyme, Fresh Cream  "
         price: "14 regular / 24 grande "
         title: chef's whim soup of the day
       - description: Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton
