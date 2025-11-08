@@ -255,15 +255,25 @@ subgroups:
     title: All the sides & Fixin’s
   - description: " (Dessert)"
     items:
+      - description: Toasted Almond Cookie Crumble, Baked Apple Cobbler, Sliced Pear,
+          French Vanilla Ice Cream
+        title: "Menu Addition: Warm Autumn Apple-Pear Crisp A La Mode"
+        price: "16"
+      - description: |2
+                               
+          St. Louis Inspired Brown Butter Gooey Cake, 
+          Vanilla Shortbread, Sliced Banana, Sea Salted Caramel 
+        price: "14"
+        title: "Menu Addition: Bananas n’ Cream Gooey Butter Cake      "
       - description: Mini Olive-Oil Toasted Buttermilk Biscuit Toasties, Whipped Creme
           Fraiche, Aged Balsamic
         price: "14"
         title: "Menu Addition: Berry-Pomegranate Biscuit Shortcake "
-      - title: "Menu Addition: Chef Asia’s Famous Blueberry Jamboree "
-        price: "14"
-        description: >
-          Layered Blueberry Pie Filling, Whipped Cheesecake Filling, Toasted
-          Almond Shortbread Cookies 
+      - description: |2
+            Layered Phyllo Dough Baked with Cinnamon Pumpkin Custard, 
+          Roasted Pistachios, Local Honey, Fresh Pomegranate 
+        price: "15"
+        title: "Menu Addition: Warm Pumpkin Pistachio Baklava Crinkle "
       - description: "Toasted Pistachio Ice Cream, Homemade Brown Butter Shredded
           Filo-Kataifi, Hazelnut Chocolate Sauce, Whipped Cream "
         price: "17"
