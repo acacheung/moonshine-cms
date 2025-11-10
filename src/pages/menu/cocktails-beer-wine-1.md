@@ -105,6 +105,7 @@ subgroups:
         description: 16oz tallboy can
       - title: Sun Cruiser Pink Lemonade
         price: "10"
+        description: 12 oz can
       - title: SunCruiser Iced Tea & Lemonade
         price: "10"
         description: "12 oz can "
