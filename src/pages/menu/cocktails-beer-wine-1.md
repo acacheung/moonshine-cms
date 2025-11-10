@@ -108,7 +108,7 @@ subgroups:
         description: "12 oz can "
       - description: "12 oz can "
         price: "7"
-        title: High Noon Hard Seltzer Black Cherry
+        title: High Noon Hard Seltzer Pineapple
       - description: 12 oz can
         price: "7"
         title: Downeast Original Cider
