@@ -103,7 +103,7 @@ subgroups:
       - title: Zero Gravity "Green State" Lager
         price: "7"
         description: 16oz tallboy can
-      - title: SunCruiser
+      - title: SunCruiser Iced Tea & Lemonade
         price: "10"
         description: "12 oz can "
       - description: "12 oz can "
