@@ -6,12 +6,10 @@ order: 1
 subgroups:
   - description: ""
     items:
-      - description: |+
-          Key Lime Pie (toppings contain gluten & dairy): 
-          Rye Whiskey, Lime Jello, Coconut Cream, topped with 
-          Whipped Cream & Graham Cracker Crumbs 
-
-
+      - description: |
+          Key Lime Pie   (contains dairy and gluten in the toppings):
+          Rye Whiskey, Lime Jello, Fresh Cream, topped with 
+          Whipped Cream & Graham Cracker Crumbs
         price: "7"
         title: Rotating Jello Shots
       - title: "Rotating Hot Cocktail: Hot Buttered 'Shine Cider"
