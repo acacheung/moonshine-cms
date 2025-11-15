@@ -6,9 +6,10 @@ order: 1
 subgroups:
   - description: ""
     items:
-      - description: >+
-          Tequila Sunrise: Blanco Tequila, Orange & Citrus Jello, Citrus Zest,
-          Cherry Syrup Drizzle 
+      - description: |+
+          Key Lime Pie (toppings contain gluten & dairy): 
+          Rye Whiskey, Lime Jello, Coconut Cream, topped with 
+          Whipped Cream & Graham Cracker Crumbs 
 
 
         price: "7"
