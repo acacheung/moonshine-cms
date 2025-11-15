@@ -6,9 +6,11 @@ order: 3
 subgroups:
   - description: "Brunch Cocktails & Beverages "
     items:
-      - description: >+
-          Tequila Sunrise: Blanco Tequila, Orange & Citrus Jello, Citrus Zest,
-          Cherry Syrup Drizzle 
+      - description: |+
+          Key Lime Pie (toppings contain gluten & dairy): 
+          Rye Whiskey, Lime Jello, Coconut Cream, topped with 
+          Whipped Cream & Graham Cracker Crumbs 
+
 
         price: "7"
         title: Chef Asia's Rotating Jello Shots
