@@ -175,11 +175,11 @@ subgroups:
         title: "(RED) 2023 Joel Gott Pinot Noir "
       - description: "Columbia valley, WA, USA "
         price: 14 / 47
-        title: (red) 2020 Charles & Charles "Double Trouble" Cabernet/Syrah Blend
+        title: (red) 2021 Charles & Charles "Double Trouble" Cabernet/Syrah Blend
       - description: North Coast, CA (Napa, Sonoma & Mendocino counties)
         price: 14 / 48
         title: (red) 2020 Contour Cabernet Sauvignon
-      - title: "(red) 2022 Bava \"Libera\" Barbera d' Asti "
+      - title: "(red) 2023 Bava \"Libera\" Barbera d' Asti "
         price: 15 / 50
         description: Italy
     title: Wine List
