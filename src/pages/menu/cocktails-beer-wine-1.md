@@ -135,9 +135,6 @@ subgroups:
       - title: Athletic Brewing Co "Lite" Light Lager (non-alcoholic)
         price: "6"
         description: 12 oz can
-      - title: Athletic Brewing Co "Oktoberfest" Fest Brew (non-alcoholic)
-        price: "6"
-        description: 12 oz can
     title: "Beer Menu "
   - description: "please note vintages are subject to change "
     items:
