@@ -99,9 +99,6 @@ subgroups:
       - description: 16 oz tallboy can
         price: "6"
         title: Narragansett Lager
-      - title: Zero Gravity "Green State" Lager
-        price: "7"
-        description: 16oz tallboy can
       - title: Sun Cruiser Pink Lemonade
         price: "10"
         description: 12 oz can
