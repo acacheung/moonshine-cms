@@ -12,10 +12,10 @@ subgroups:
           Whipped Cream & Graham Cracker Crumbs
         price: "7"
         title: Rotating Jello Shots
-      - title: "Rotating Hot Cocktail: Hot Buttered 'Shine Cider"
+      - title: "Rotating Hot Cocktail: Hot Buttered Rum Cider"
         price: "16"
-        description: Warm Apple Cider, House Cinnamon Honey Butter, Ole Smoky Apple Pie
-          Moonshine.  **Available Non-Alcoholic!! -$8
+        description: Warm Apple Cider, House Cinnamon Honey Butter, Spiced
+          Rum  **Available Non-Alcoholic!! -$8
       - title: Moonshine Snapple
         price: "15"
         description: Olo Smoky Apple Pie Moonshine, Fresh Lemon Juice, Cranberry Juice,
