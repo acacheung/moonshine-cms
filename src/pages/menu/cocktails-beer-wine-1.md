@@ -16,10 +16,6 @@ subgroups:
         price: "16"
         description: Warm Apple Cider, House Cinnamon Honey Butter, Spiced
           Rum  **Available Non-Alcoholic!! -$8
-      - title: Moonshine Snapple
-        price: "15"
-        description: Olo Smoky Apple Pie Moonshine, Fresh Lemon Juice, Cranberry Juice,
-          House Tiki Simple Syrup, House-Made Apple Chips
       - title: Spiced Blueberry Daiquiri
         price: "15"
         description: Mad River Vanilla Rum Infused with Blueberry Tea, Fresh Lime Juice,
