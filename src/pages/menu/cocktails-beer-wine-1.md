@@ -16,6 +16,11 @@ subgroups:
         price: "16"
         description: Warm Apple Cider, House Cinnamon Honey Butter, Spiced
           Rum  **Available Non-Alcoholic!! -$8
+      - title: Tropical Winter "Tea Party" Punch
+        price: "13"
+        description: "Jim Beam Whiskey, London Dry Gin, Tiki Chai Spiced Iced Tea, Fresh
+          Pineapple, Passionfruit & Mango Purees, Tiki Spiced Simple,
+          All-The-Citrus-Ade "
       - title: Spiced Blueberry Daiquiri
         price: "15"
         description: Mad River Vanilla Rum Infused with Blueberry Tea, Fresh Lime Juice,
