@@ -14,6 +14,11 @@ subgroups:
 
         price: "7"
         title: Chef Asia's Rotating Jello Shots
+      - description: "Jim Beam Whiskey, London Dry Gin, Tiki Chai Spiced Iced Tea, Fresh
+          Pineapple, Passionfruit & Mango Purees, Tiki Spiced Simple,
+          All-The-Citrus-Ade "
+        price: "13"
+        title: 'WInter Tiki "tea party" punch '
       - description: >
           vodka or blanco tequila with our house bloody mary mix, infused with
           homemade kimchi juice 
@@ -67,11 +72,6 @@ subgroups:
       - description: House Biscuit Crostini & Tortilla Chips
         price: "19 regular / 29 grande "
         title: "Menu Addition: Warm Crab, Artichoke & Spinach Dip"
-      - description: "Elvis Presley’s Favorite Peanut Butter, Bacon & Banana Sandwich
-          Tempura Beer Battered Served Crispy with Bourbon Maple Glaze & Pepper
-          Jelly "
-        title: "Menu Addition: “The King” Tempura Fried PB&J Uncrustables "
-        price: 19 reg (2) / 27 grande (3)
       - description: "Warm Crispy Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
           Quinoa, Parmesan,                              Creamy Pesto Dressing,
@@ -110,11 +110,6 @@ subgroups:
     title: To Get Ya Started!
   - description: " (Entrees)"
     items:
-      - title: 'Menu Addition: "The King" Tempura Fried PB&J Uncrustables '
-        description: "Elvis Presley’s Favorite Peanut Butter, Bacon & Banana Sandwich
-          Tempura Beer Battered Served Crispy with Bourbon Maple Glaze & Pepper
-          Jelly "
-        price: "19 reg (2) / 27 grande (3) "
       - title: "menu addition: Twin Mei-Griddle Breakfast Sammies"
         price: "28"
         description: "Maple Drizzled Potato Pancakes, Breakfast Sausage, Scrambled Egg,
