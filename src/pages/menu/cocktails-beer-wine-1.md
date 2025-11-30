@@ -55,6 +55,9 @@ subgroups:
         price: "16"
         description: Star & Key Passionfruit Rum, Passionfruit Puree, Fresh Lime &
           Pineapple Juice, Creme De Cassis, Condensed Milk
+      - title: Call Me Maple
+        price: "15"
+        description: Rye Whiskey, Fresh Lemon Juice, Maple Syrup
     title: "’Shine Specialty Cocktails "
   - description: "please note this menu is subject to change "
     items:
