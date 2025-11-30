@@ -51,6 +51,10 @@ subgroups:
       - title: La Diabla
         price: "14"
         description: Tres Agave Blanco, Creme de Cassis, Fresh Lime Juice, Ginger Beer
+      - title: Creamy Tropical Rum Runner
+        price: "16"
+        description: Star & Key Passionfruit Rum, Passionfruit Puree, Fresh Lime &
+          Pineapple Juice, Creme De Cassis, Condensed Milk
     title: "’Shine Specialty Cocktails "
   - description: "please note this menu is subject to change "
     items:
