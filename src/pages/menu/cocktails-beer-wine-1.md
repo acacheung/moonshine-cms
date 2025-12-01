@@ -12,10 +12,9 @@ subgroups:
           Whipped Cream & Graham Cracker Crumbs
         price: "7"
         title: Rotating Jello Shots
-      - title: "Rotating Hot Cocktail: Hot Buttered Rum Cider"
+      - title: "Rotating Hot Cocktail: Winter Spiced Mulled Wine"
         price: "16"
-        description: Warm Apple Cider, House Cinnamon Honey Butter, Spiced
-          Rum  **Available Non-Alcoholic!! -$8
+        description: House Red Wine, Cranberry Juice, Honey, Winter Spices, Orange
       - title: Tropical Winter "Tea Party" Punch
         price: "13"
         description: "Jim Beam Whiskey, London Dry Gin, Tiki Chai Spiced Iced Tea, Fresh
