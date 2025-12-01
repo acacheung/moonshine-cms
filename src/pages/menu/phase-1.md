@@ -172,15 +172,14 @@ subgroups:
           fries .... Make it a double patty 11
         price: "24"
         title: GRASS-FED ’SHINE BEEF BURGER**  Boston's Best Award Winner
-      - description: " “The Garfield Lasagna” Burger -Triple Cheese Lasagna with
-          Mozzarella, Parmesan & Herbed Ricotta,  Layered Lasagna Pasta,
-          Pomodoro Tomato Sauce & Fresh Oregano     … ...add cheddar cheese $2
-          ..add jalapeno bacon $4   …add fried egg $3  …add  jalapenos $2  …add
-          avocado
-          $3                                                                                                                               \
-          "
+      - description: >2
+          
+           “The Croque Monsieur Croissant” Burger -
+          Melted Gruyere Cheese, Sliced Virginia Honey Baked Ham, Creamy Bechamel, Butter Toasted Croissant 
+              **Make it a Croque Madam by Adding a Fried Egg $3!!                  …add cheddar cheese $2 ..add jalapeno bacon $4
+           …add  jalapenos $2  …add avocado $3
         price: "29"
-        title: November 2025's  VIP burger of the month
+        title: December 2025's  VIP burger of the month
       - description: Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
         price: "29"
