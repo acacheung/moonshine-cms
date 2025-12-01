@@ -182,9 +182,6 @@ subgroups:
       - description: "Pineapple Juice, Fresh Lime, Fever Tree Ginger Beer "
         price: "7"
         title: "Pineapple Mule (mocktail) "
-      - title: Hot Buttered Apple Cider
-        price: "8"
-        description: Warm Apple Cider, House Cinnamon Honey Butter
       - price: "5"
         title: "Unsweetened Iced Tea "
       - price: "6"
