@@ -84,9 +84,9 @@ subgroups:
       - description: "16 oz tallboy can "
         price: "12"
         title: Lawson's Sip of Sunshine
-      - title: Bell's Oberon Wheat Ale
-        price: "6"
-        description: 12 oz can
+      - title: Zero Gravity Green State Lager
+        price: "7"
+        description: 16 oz can
       - description: 12 oz bottle
         price: "6"
         title: "SAPPORO "
