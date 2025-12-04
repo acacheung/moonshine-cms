@@ -72,7 +72,7 @@ subgroups:
       - title: (draft) Jack's Abby Banner City Light Lager
         price: "7"
         description: 16 oz draft
-      - title: "(draft) Castle Island White Ale "
+      - title: (draft) Jack's Abby Extra Layer Winter Fest Lager
         price: "7"
         description: 16 oz draft
       - title: "Hero 95 "
