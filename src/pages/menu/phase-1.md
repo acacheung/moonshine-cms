@@ -8,6 +8,11 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
+      - description: >
+          
+          Mini Belgian Waffle Bites with Baked Brie, Homemade Raspberry Jam, Sesame Candied Walnuts & Maple Syrup 
+        price: "18 regular / 28 grande "
+        title: "Menu Addition: Holiday Baked Brie & Waffle Bites "
       - description: "Herbed Garlic Crostini, Heirloom Cherry
           Tomatoes,                                           Crispy Basil,
           Balsamic Glaze "
