@@ -15,6 +15,9 @@ subgroups:
       - title: "Rotating Hot Cocktail: Winter Spiced Mulled Wine"
         price: "16"
         description: House Red Wine, Cranberry Juice, Honey, Winter Spices, Orange
+      - title: "'Shine Cookies & Cream Eggnog"
+        price: "14"
+        description: Ole Smoky Shine Nog, Eggnog, Cookies. **Available Non-Alcoholic
       - title: Tropical Winter "Tea Party" Punch
         price: "13"
         description: "Jim Beam Whiskey, London Dry Gin, Tiki Chai Spiced Iced Tea, Fresh
