@@ -93,6 +93,9 @@ subgroups:
       - description: "12 oz bottle "
         price: "7"
         title: "Corona Extra "
+      - title: Battery Steele's Golden Path Pilsner
+        price: "10"
+        description: 16 oz tallboy can
       - title: Smithwicks Irish Red Ale
         price: "8"
         description: 14.9 oz tall boy
