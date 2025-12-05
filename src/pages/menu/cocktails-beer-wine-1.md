@@ -182,6 +182,9 @@ subgroups:
         description: Italy
     title: Wine List
   - items:
+      - title: Cookies & Cream Eggnog
+        price: "7"
+        description: House Eggnog, Cookies
       - description: "White & Red Cranberry Juices, Fresh Lemonade "
         price: "7"
         title: Squeeze The Day (mocktail)
