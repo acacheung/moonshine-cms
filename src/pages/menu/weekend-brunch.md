@@ -262,10 +262,6 @@ subgroups:
           Vanilla Shortbread, Sliced Banana, Sea Salted Caramel 
         price: "14"
         title: "Menu Addition: Bananas n’ Cream Gooey Butter Cake      "
-      - description: Mini Olive-Oil Toasted Buttermilk Biscuit Toasties, Whipped Creme
-          Fraiche, Aged Balsamic
-        price: "14"
-        title: "Menu Addition: Berry-Pomegranate Biscuit Shortcake "
       - description: |2
             Layered Phyllo Dough Baked with Cinnamon Pumpkin Custard, 
           Roasted Pistachios, Local Honey, Fresh Pomegranate 
