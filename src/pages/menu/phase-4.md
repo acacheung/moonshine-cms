@@ -10,10 +10,6 @@ subgroups:
         price: "16"
         description: Toasted Almond Cookie Crumble, Baked Apple Cobbler, Sliced Pear,
           French Vanilla Ice Cream
-      - title: "Menu Addition: Berry-Pomegranate Biscuit Shortcake"
-        price: "14"
-        description: Mini Olive-Oil Toasted Buttermilk Biscuit Toasties, Whipped Creme
-          Fraiche, Aged Balsamic
       - description: |
           
           St. Louis Inspired Brown Butter Gooey Cake, 
