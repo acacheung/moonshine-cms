@@ -23,10 +23,6 @@ subgroups:
         description: "Jim Beam Whiskey, London Dry Gin, Tiki Chai Spiced Iced Tea, Fresh
           Pineapple, Passionfruit & Mango Purees, Tiki Spiced Simple,
           All-The-Citrus-Ade "
-      - title: Spiced Blueberry Daiquiri
-        price: "15"
-        description: Mad River Vanilla Rum Infused with Blueberry Tea, Fresh Lime Juice,
-          Cinnamon Simple Syrup
       - description: "Mediterranean Red Wine Blend, Housemade Ginger Liqueur, Brandy,
           Hibiscus, Fresh Citrus Juices "
         price: "14"
