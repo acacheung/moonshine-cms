@@ -80,6 +80,9 @@ subgroups:
       - description: "16 oz tallboy can "
         price: "10"
         title: Lawson's Finest "Fest bier Lager"
+      - title: Sloop Brewing Coco Baked Stout
+        price: "10"
+        description: 16 oz tallboy can
       - description: "16 oz tallboy can "
         price: "12"
         title: Lawson's Sip of Sunshine
