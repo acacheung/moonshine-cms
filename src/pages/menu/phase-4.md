@@ -6,21 +6,16 @@ order: 5
 subgroups:
   - description: Add a Warm Belgian Waffle to Your Favorite Dessert $9
     items:
-      - title: "Menu Addition: Warm Autumn Apple-Pear Crisp A La Mode"
+      - title: "Menu Addition: Warm Apple Crisp A La Mode"
         price: "16"
-        description: Toasted Almond Cookie Crumble, Baked Apple Cobbler, Sliced Pear,
-          French Vanilla Ice Cream
+        description: " Baked Apple Cobbler, French Vanilla Ice Cream, Toasted Almond
+          Cookie Crumble"
       - description: |
           
           St. Louis Inspired Brown Butter Gooey Cake, 
           Vanilla Shortbread, Sliced Banana, Sea Salted Caramel 
         price: "14"
         title: "Menu Addition: Bananas n’ Cream Gooey Butter Cake"
-      - title: "Menu Addition: Warm Pumpkin Pistachio Baklava Crinkle"
-        price: "15"
-        description: |
-          Layered Phyllo Dough Baked with Cinnamon Pumpkin Custard, 
-          Roasted Pistachios, Local Honey, Fresh Pomegranate 
       - description: "Toasted Pistachio Ice Cream, Homemade Brown Butter Shredded
           Filo-Kataifi, Hazelnut Chocolate Sauce, Whipped Cream "
         price: "17"
