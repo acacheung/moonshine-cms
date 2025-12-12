@@ -6,6 +6,10 @@ order: 5
 subgroups:
   - description: Add a Warm Belgian Waffle to Your Favorite Dessert $9
     items:
+      - price: "15"
+        title: "Menu Addition: ‘Shine Warm Sticky Toffee Bread Pudding    "
+        description: Sea Salted Dulce de Leche, Chantilly Cream   …add scoop french
+          vanilla ice cream $3 …add scoop toasted picachio ice cream $3
       - title: "Menu Addition: Warm Apple Crisp A La Mode"
         price: "16"
         description: " Baked Apple Cobbler, French Vanilla Ice Cream, Toasted Almond
