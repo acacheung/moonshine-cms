@@ -252,9 +252,8 @@ subgroups:
     title: All the sides & Fixin’s
   - description: " (Dessert)"
     items:
-      - description: Toasted Almond Cookie Crumble, Baked Apple Cobbler, Sliced Pear,
-          French Vanilla Ice Cream
-        title: "Menu Addition: Warm Autumn Apple-Pear Crisp A La Mode"
+      - description: " Baked Apple Cobbler, French Vanilla Ice Cream "
+        title: "Menu Addition: Warm Apple Crisp A La Mode"
         price: "16"
       - description: |2
                                
@@ -262,11 +261,6 @@ subgroups:
           Vanilla Shortbread, Sliced Banana, Sea Salted Caramel 
         price: "14"
         title: "Menu Addition: Bananas n’ Cream Gooey Butter Cake      "
-      - description: |2
-            Layered Phyllo Dough Baked with Cinnamon Pumpkin Custard, 
-          Roasted Pistachios, Local Honey, Fresh Pomegranate 
-        price: "15"
-        title: "Menu Addition: Warm Pumpkin Pistachio Baklava Crinkle "
       - description: "Toasted Pistachio Ice Cream, Homemade Brown Butter Shredded
           Filo-Kataifi, Hazelnut Chocolate Sauce, Whipped Cream "
         price: "17"
