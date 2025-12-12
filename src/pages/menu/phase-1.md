@@ -154,7 +154,7 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
-      - title: "Menu Addition: Fall Candied Bacon Grilled Cheese & Spicy Tomato Soup"
+      - title: "Menu Addition: Candied Bacon Grilled Cheese & Spicy Tomato Soup"
         price: "29"
         description: Grilled Cranberry-Pecan Bread, Honeycrisp Apples, Melted Cheese,
           Fried Sage & Maple Candied Bacon, Served with a Cup of Spicy Tomato
