@@ -192,13 +192,14 @@ subgroups:
           a double patty 11 "
         price: "24"
         title: Grass-fed Beef Burger**  Boston's Best Award Winner
-      - description: " “The Garfield Lasagna” Burger -Triple Cheese Lasagna with
-          Mozzarella, Parmesan & Herbed Ricotta,  Layered Lasagna Pasta,
-          Pomodoro Tomato Sauce & Fresh Oregano     … ...add cheddar cheese $2
-          ..add jalapeno bacon $4   …add fried egg $3  …add  jalapenos $2  …add
-          avocado $"
+      - description: >-2
+           “The Croque Monsieur Croissant” Burger 
+          Sliced Virginia Honey Baked Ham, Melted Gruyere Cheese, 
+
+          Creamy Bechamel Sauce, Butter Toasted Croissant 
+              **Make it a Croque Madam by adding a Fried Egg $3!!    … ...add cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg $3  …add  jalapenos $2  …add avocado $
         price: "29"
-        title: November 2025's VIP burger of the month
+        title: December 2025's VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: " All the sides & Fixin’s"
     items:
