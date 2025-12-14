@@ -77,9 +77,6 @@ subgroups:
       - title: "Hero 95 "
         price: "7"
         description: 12 oz Can
-      - description: "16 oz tallboy can "
-        price: "10"
-        title: Lawson's Finest "Fest bier Lager"
       - title: Sloop Brewing Coco Baked Stout
         price: "10"
         description: 16 oz tallboy can
