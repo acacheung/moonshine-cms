@@ -15,6 +15,10 @@ subgroups:
       - title: "Rotating Hot Cocktail: Winter Spiced Mulled Wine"
         price: "16"
         description: House Red Wine, Cranberry Juice, Honey, Winter Spices, Orange
+      - title: Santa's Suit
+        price: "15"
+        description: Mezcal, Aperol, Cinnamon Simple, Fresh Lime Juice, Cranberry Juice,
+          Egg Whites
       - title: "'Shine Cookies & Cream Spiked Eggnog"
         price: "14"
         description: Ole Smoky Shine Nog, House Eggnog, Cookies. **Available Non-Alcoholic
@@ -31,9 +35,6 @@ subgroups:
           Agave "
         price: "15"
         title: There’s Fire
-      - title: Endless Summer
-        price: "14"
-        description: Aperol, Pineapple Juice, Fresh Lemon Juice, Cinnamon Syrup, Prosecco
       - title: Farm to Glass
         price: "16"
         description: Firepuncher Spicy Vodka, St. Elder Liqueur, Fresh Cucumber Juice,
