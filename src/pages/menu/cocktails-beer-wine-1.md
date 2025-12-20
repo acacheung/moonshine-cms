@@ -75,36 +75,6 @@ subgroups:
       - title: (draft) Jack's Abby Extra Layer Winter Fest Lager
         price: "7"
         description: 16 oz draft
-      - title: "Hero 95 "
-        price: "7"
-        description: 12 oz Can
-      - title: Sloop Brewing Coco Baked Stout
-        price: "10"
-        description: 16 oz tallboy can
-      - description: "16 oz tallboy can "
-        price: "12"
-        title: Lawson's Sip of Sunshine
-      - title: Zero Gravity Green State Lager
-        price: "7"
-        description: 16 oz can
-      - description: 12 oz bottle
-        price: "6"
-        title: "SAPPORO "
-      - description: "12 oz bottle "
-        price: "7"
-        title: "Corona Extra "
-      - title: Battery Steele's Golden Path Pilsner
-        price: "10"
-        description: 16 oz tallboy can
-      - title: Smithwicks Irish Red Ale
-        price: "8"
-        description: 14.9 oz tall boy
-      - description: "16 oz tallboy can "
-        price: "7"
-        title: 'Night Shift Brewing "Nite Lite" Light Lager '
-      - description: 16 oz tallboy can
-        price: "6"
-        title: Narragansett Lager
       - title: Sun Cruiser Pink Lemonade
         price: "10"
         description: 12 oz can
@@ -117,12 +87,42 @@ subgroups:
       - description: 12 oz can
         price: "7"
         title: Downeast Original Cider
+      - title: "Hero 95 "
+        price: "7"
+        description: 12 oz Can
+      - description: 12 oz bottle
+        price: "6"
+        title: "SAPPORO "
+      - description: "12 oz bottle "
+        price: "7"
+        title: "Corona Extra "
+      - title: Smithwicks Irish Red Ale
+        price: "8"
+        description: 14.9 oz tall boy
+      - title: Battery Steele's Golden Path Pilsner
+        price: "10"
+        description: 16 oz tallboy can
+      - description: "16 oz tallboy can "
+        price: "7"
+        title: 'Night Shift Brewing "Nite Lite" Light Lager '
+      - description: 16 oz tallboy can
+        price: "6"
+        title: Narragansett Lager
+      - title: Zero Gravity Green State Lager
+        price: "7"
+        description: 16 oz can
       - description: "16 oz tallboy can "
         price: "7"
         title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
       - title: Allagash White
         price: "7"
         description: "16 oz tallboy can "
+      - description: "16 oz tallboy can "
+        price: "12"
+        title: Lawson's Sip of Sunshine IPA
+      - title: Sloop Brewing Coco Baked Stout
+        price: "10"
+        description: 16 oz tallboy can
       - description: "16 oz nitro can "
         price: "8"
         title: "Guinness Nitro Stout "
