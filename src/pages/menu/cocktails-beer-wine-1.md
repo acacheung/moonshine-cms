@@ -80,9 +80,6 @@ subgroups:
       - title: SunCruiser Iced Tea & Lemonade
         price: "10"
         description: "12 oz can "
-      - description: "12 oz can "
-        price: "7"
-        title: High Noon Hard Seltzer Pineapple
       - description: 12 oz can
         price: "7"
         title: Downeast Original Cider
