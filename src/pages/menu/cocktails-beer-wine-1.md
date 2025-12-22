@@ -19,14 +19,13 @@ subgroups:
         price: "15"
         description: Mezcal, Aperol, Cinnamon Simple, Fresh Lime Juice, Cranberry Juice,
           Egg Whites
+      - title: Santa's Favorite JingleJungle Juice
+        price: "14"
+        description: Raspberry Vodka, Fresh Raspberry Infused Gin, Apricot Liqueur,
+          White Cranberry-Lychee Lemonade, Raspberry Puree, Bubbles
       - title: "'Shine Cookies & Cream Spiked Eggnog"
         price: "14"
         description: Ole Smoky Shine Nog, House Eggnog, Cookies. **Available Non-Alcoholic
-      - title: Tropical Winter "Tea Party" Punch
-        price: "13"
-        description: "Jim Beam Whiskey, London Dry Gin, Tiki Chai Spiced Iced Tea, Fresh
-          Pineapple, Passionfruit & Mango Purees, Tiki Spiced Simple,
-          All-The-Citrus-Ade "
       - description: "Mediterranean Red Wine Blend, Housemade Ginger Liqueur, Brandy,
           Hibiscus, Fresh Citrus Juices "
         price: "14"
