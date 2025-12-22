@@ -19,7 +19,7 @@ subgroups:
         price: "15"
         description: Mezcal, Aperol, Cinnamon Simple, Fresh Lime Juice, Cranberry Juice,
           Egg Whites
-      - title: Santa's Favorite JingleJungle Juice
+      - title: Santa's Favorite Jingle Jungle Juice
         price: "14"
         description: Raspberry Vodka, Fresh Raspberry Infused Gin, Apricot Liqueur,
           White Cranberry-Lychee Lemonade, Raspberry Puree, Bubbles
