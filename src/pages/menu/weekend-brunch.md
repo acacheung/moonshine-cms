@@ -14,11 +14,6 @@ subgroups:
 
         price: "7"
         title: Chef Asia's Rotating Jello Shots
-      - description: "Jim Beam Whiskey, London Dry Gin, Tiki Chai Spiced Iced Tea, Fresh
-          Pineapple, Passionfruit & Mango Purees, Tiki Spiced Simple,
-          All-The-Citrus-Ade "
-        price: "13"
-        title: 'WInter Tiki "tea party" punch '
       - description: >
           vodka or blanco tequila with our house bloody mary mix, infused with
           homemade kimchi juice 
