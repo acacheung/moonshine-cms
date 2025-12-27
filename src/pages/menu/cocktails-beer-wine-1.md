@@ -19,10 +19,6 @@ subgroups:
         price: "15"
         description: Mezcal, Aperol, Cinnamon Simple, Fresh Lime Juice, Cranberry Juice,
           Egg Whites
-      - title: Santa's Favorite Jingle Jungle Juice
-        price: "14"
-        description: Raspberry Vodka, Fresh Raspberry Infused Gin, Apricot Liqueur,
-          White Cranberry-Lychee Lemonade, Raspberry Puree, Bubbles
       - title: "'Shine Cookies & Cream Spiked Eggnog"
         price: "14"
         description: Ole Smoky Shine Nog, House Eggnog, Cookies. **Available Non-Alcoholic
