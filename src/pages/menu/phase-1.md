@@ -8,6 +8,11 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
+      - description: >2
+                                  Italian Crispy Rice Fritters cooked with Lobster-Tomato Broth
+           served with Saffron Curry Butter & Sunflower Seed Pesto 
+        title: "Menu Addition: Parmesan Lobster Brodo Arancini"
+        price: regular 19 (3) / grande 29 (6)
       - description: >
           
           Mini Belgian Waffle Bites with Baked Brie, Homemade Raspberry Jam, Sesame Candied Walnuts & Maple Syrup 
