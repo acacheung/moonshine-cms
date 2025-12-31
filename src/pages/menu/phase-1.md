@@ -164,6 +164,10 @@ subgroups:
         description: Grilled Cranberry-Pecan Bread, Honeycrisp Apples, Melted Cheese,
           Fried Sage & Maple Candied Bacon, Served with a Cup of Spicy Tomato
           Soup & Shoestring French Fries *Available Vegetarian $27
+      - description: "‘Shine Favorite Winter Classic Meatloaf with Wild Mushroom
+          Stroganoff, Buttered Egg Noodles & a Dollop of Sour Cream "
+        price: "29"
+        title: "Menu Addition: Shine Smoky Meatloaf"
       - title: "Menu Addition: Chef Asia’s Famous Louisiana Braised Rabbit Pasta"
         price: "29"
         description: |
