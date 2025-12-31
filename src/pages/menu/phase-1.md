@@ -68,10 +68,14 @@ subgroups:
       Don't forget to top it off by adding your favorite proteins, fixins, sides
       & sauces to any dish.
     items:
-      - description: "Creamy Spicy Tomato Bisque  (VEG/GF): Smooth Creamy Tomato Bisque;
-          Fresno Chilies, Thyme, Fresh Cream  "
+      - title: "Chef's Whim Soup of the Day: Traditional Bistro French Onion Soup "
+        price: 14 regular / 24 grande
+        description: |
+          48 Hour Madiera-Beef Bone Broth, Caramelized Onions, 
+          Toasted Brioche Baked with Melted Gruyere Cheese 
+      - description: " Smooth Creamy Tomato Bisque; Fresno Chilies, Thyme, Fresh Cream  "
         price: "14 regular / 24 grande "
-        title: chef's whim soup of the day
+        title: "chef's whim soup of the day: Creamy Spicy Tomato Bisque  (VEG/GF)"
       - description: Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton
           crisps, Shaved pecorino cheese
         price: 18 regular / 29 grande
