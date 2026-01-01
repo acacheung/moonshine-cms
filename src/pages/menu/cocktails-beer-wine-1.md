@@ -19,9 +19,6 @@ subgroups:
         price: "15"
         description: Mezcal, Aperol, Cinnamon Simple, Fresh Lime Juice, Cranberry Juice,
           Egg Whites
-      - title: "'Shine Cookies & Cream Spiked Eggnog"
-        price: "14"
-        description: Ole Smoky Shine Nog, House Eggnog, Cookies. **Available Non-Alcoholic
       - title: Danimals Strawberry Daiquiri
         price: "16"
         description: Star & Key Passionfruit Rum, Ole Smokey White Chocolate Strawberry
@@ -171,9 +168,6 @@ subgroups:
         description: Italy
     title: Wine List
   - items:
-      - title: Cookies & Cream Eggnog
-        price: "7"
-        description: House Eggnog, Cookies
       - description: "White & Red Cranberry Juices, Fresh Lemonade "
         price: "7"
         title: Squeeze The Day (mocktail)
