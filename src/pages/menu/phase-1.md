@@ -98,6 +98,8 @@ subgroups:
         title: sliced avocado
       - price: "5"
         title: Heirloom White Quinoa
+      - title: "Roasted Curry Cauliflower "
+        price: "9"
       - description: add cheddar cheese...2
         price: "11"
         title: CHEF ASIA’S FAMOUS VEGAN MUSHROOM TOFU BURGER PATTY
@@ -112,8 +114,12 @@ subgroups:
         title: Roasted statler Chicken Breast
       - price: "14"
         title: PULLED CHINATOWN STYLE ROASTED DUCK
+      - title: Smoky Pulled Pork
+        price: "14"
       - price: "15"
         title: Marinated Skirt Steak**
+      - title: Shine Smoky Meatloaf
+        price: "15"
       - price: "15"
         title: SAUTÉED BABY SHRIMP**
       - price: "15"
@@ -227,6 +233,10 @@ subgroups:
         title: STEAMED WHITE RICE
       - price: "12"
         title: PAN-ROASTED BRUSSEL SPROUTS
+      - title: "Roasted Curry Cauliflower "
+        price: "9"
+      - title: Sauteed Baby Bok Choy
+        price: "9"
       - price: "7"
         title: ASIAN PEAR KIMCHI
       - price: "3"
