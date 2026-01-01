@@ -190,11 +190,15 @@ subgroups:
           fries .... Make it a double patty 11
         price: "24"
         title: GRASS-FED ’SHINE BEEF BURGER**  Boston's Best Award Winner
-      - description: >2
-          
-           “The Croque Monsieur Croissant” Burger - Melted Gruyere Cheese, Sliced Virginia Honey Baked Ham, Creamy Bechamel, Butter Toasted Croissant  **Make it a Croque Madam by Adding a Fried Egg $3!!  …add cheddar cheese $2 ..add jalapeno bacon $4  …add  jalapenos $2  …add avocado $3
+      - description: >
+          The Anti-Resolution “KFC Bowl” Burger
+
+          Topped with Garlic Mashed Potatoes, Sauteed Corn, 
+
+          Gravy, Shredded Cheese & Crispy Fried Chicken Skin  
+           …add cheddar cheese $2 ...add fried egg $3 ..add jalapeno bacon $4  …add  jalapenos $2  …add avocado $3
         price: "29"
-        title: December 2025's  VIP burger of the month
+        title: January 2026's  VIP burger of the month
       - description: Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
         price: "29"
