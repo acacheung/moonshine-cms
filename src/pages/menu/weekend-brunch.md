@@ -188,13 +188,13 @@ subgroups:
         price: "24"
         title: Grass-fed Beef Burger**  Boston's Best Award Winner
       - description: >-2
-           “The Croque Monsieur Croissant” Burger 
-          Sliced Virginia Honey Baked Ham, Melted Gruyere Cheese, 
+           The Anti-Resolution “KFC Bowl” Burger
+          Topped with Garlic Mashed Potatoes, Sauteed Corn, 
 
-          Creamy Bechamel Sauce, Butter Toasted Croissant 
-              **Make it a Croque Madam by adding a Fried Egg $3!!    … ...add cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg $3  …add  jalapenos $2  …add avocado $
+          Gravy, Shredded Cheese & Crispy Fried Chicken Skin  
+             … ...add cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg $3  …add  jalapenos $2  …add avocado $
         price: "29"
-        title: December 2025's VIP burger of the month
+        title: January 2026's VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: " All the sides & Fixin’s"
     items:
