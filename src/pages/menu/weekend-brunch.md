@@ -7,9 +7,9 @@ subgroups:
   - description: "Brunch Cocktails & Beverages "
     items:
       - description: |+
-          Key Lime Pie   (contains dairy and gluten in the toppings):
-          Rye Whiskey, Lime Jello, Fresh Cream, topped with 
-          Whipped Cream & Graham Cracker Crumbs
+          Cherry Amaretto Sour: Luxardo Amaretto, Cherry Heering Liqueur,
+          Cherry Jello, Fresh Lemon Juice, Amarena Cherry Syrup 
+
 
 
         price: "7"
@@ -59,20 +59,30 @@ subgroups:
     title: "Cheers To The Weekend! "
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
+      - title: "Menu Addition: Caramel Apple-Almond Croissant "
+        price: "17 regular / 28 grande "
+        description: Warm Honey-Pressed Croissant, Frangipane Almond Creme, Local Apple
+          Pie Filling, Salted Caramel
+      - description: House Biscuit Crostini & Tortilla Chips
+        price: "19 regular / 29 grande "
+        title: "Menu Addition: Warm Crab, Artichoke & Spinach Dip"
       - description: " Herbed Garlic Crostini, Heirloom Cherry
           Tomatoes,                                           Crispy Basil,
           Strawberry-Balsamic Glaze "
         price: "17 regular / 28 grande "
         title: "Menu Addition: Whipped Ricotta Bruschetta"
-      - description: House Biscuit Crostini & Tortilla Chips
-        price: "19 regular / 29 grande "
-        title: "Menu Addition: Warm Crab, Artichoke & Spinach Dip"
       - description: "Warm Crispy Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
-          Quinoa, Parmesan,                              Creamy Pesto Dressing,
+          Quinoa, Feta Cheese,                            Creamy Pesto Dressing,
           Aged Balsamic       "
         price: 19 regular / 29 grande
         title: "Menu Addition: crispy artichoke salad "
+      - description: |
+          
+          Mini Belgian Waffle Bites with Baked Brie, Raspberry Jam, 
+          Sesame Candied Walnuts & Maple Syrup 
+        price: "18 regular / 28 grande "
+        title: "Menu Addition: Holiday Baked Brie & Waffle Bites"
       - description: Local honey, Fresh berries, Oat-Flax-Chia Seed Granola Crunch **add
           a warm house belgian waffle $9**
         price: 11 regular / 16 grande
@@ -155,6 +165,11 @@ subgroups:
     title: The Main Affair
   - description: Our all-time favorite dishes, available whenever the kitchen is open!
     items:
+      - title: "Menu Addition: Traditional Bistro French Onion Soup "
+        price: "14 regular / 24 grande "
+        description: |
+          48 Hour Madiera-Beef Bone Broth, Caramelized Onions, 
+          Toasted Brioche Baked with Melted Gruyere Cheese 
       - description: "Creamy Spicy Tomato Bisque  (VEG/GF): Smooth Creamy Tomato Bisque;
           Fresno Chilies, Thyme, Fresh Cream   "
         price: 14 / 24
@@ -251,6 +266,9 @@ subgroups:
       - description: " Baked Apple Cobbler, French Vanilla Ice Cream "
         title: "Menu Addition: Warm Apple Crisp A La Mode"
         price: "16"
+      - title: "Menu Addition: Warm Sticky Toffee Bread Pudding "
+        price: "15"
+        description: Sea Salted Dulce de Leche, Chantilly Cream
       - description: |2
                                
           St. Louis Inspired Brown Butter Gooey Cake, 
