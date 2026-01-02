@@ -100,7 +100,7 @@ subgroups:
       - price: "5"
         title: Heirloom White Quinoa
       - title: "Roasted Curry Cauliflower "
-        price: "9"
+        price: "12"
       - description: add cheddar cheese...2
         price: "11"
         title: CHEF ASIA’S FAMOUS VEGAN MUSHROOM TOFU BURGER PATTY
@@ -235,9 +235,9 @@ subgroups:
       - price: "12"
         title: PAN-ROASTED BRUSSEL SPROUTS
       - title: "Roasted Curry Cauliflower "
-        price: "9"
+        price: "12"
       - title: Sauteed Baby Bok Choy
-        price: "9"
+        price: "12"
       - price: "7"
         title: ASIAN PEAR KIMCHI
       - price: "3"
