@@ -15,10 +15,6 @@ subgroups:
       - title: "Rotating Hot Cocktail: Winter Spiced Mulled Wine"
         price: "16"
         description: House Red Wine, Cranberry Juice, Honey, Winter Spices, Orange
-      - title: Santa's Suit
-        price: "15"
-        description: Mezcal, Aperol, Cinnamon Simple, Fresh Lime Juice, Cranberry Juice,
-          Egg Whites
       - title: Danimals Strawberry Daiquiri
         price: "16"
         description: Star & Key Passionfruit Rum, Ole Smokey White Chocolate Strawberry
