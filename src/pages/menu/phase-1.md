@@ -10,7 +10,7 @@ subgroups:
     items:
       - description: >2
                                   Italian Crispy Rice Fritters cooked with Lobster-Tomato Broth
-           served with Saffron Curry Butter & Sunflower Seed Pesto 
+           served with Saffron Curry Butter & Pistachio Pesto 
         title: "Menu Addition: Parmesan Lobster Brodo Arancini"
         price: regular 19 (3) / grande 29 (6)
       - description: >
@@ -26,8 +26,9 @@ subgroups:
       - description: House Biscuit Crostini, Tortilla Chips
         title: "Menu Addition: Warm Crab, Artichoke & Spinach Dip"
         price: "19 regular / 29 grande "
-      - description: Chickpeas, Grilled Radicchio, Avocado, Quinoa, Parmesan, Creamy
-          Pesto Dressing, Aged Balsamic
+      - description: >2
+           Warm Crispy Artichoke Hearts, Grilled Radicchio,                    Chickpeas, Avocado, Quinoa, Feta Cheese,
+           Creamy Pesto Dressing, Aged Balsamic
         price: 19 regular / 29 grande
         title: "Menu Addition: Warm Crispy Artichoke Salad"
       - title: "Menu Addition: Pork Belly Bao Buns"
