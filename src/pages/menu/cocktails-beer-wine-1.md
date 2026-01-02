@@ -6,10 +6,10 @@ order: 1
 subgroups:
   - description: ""
     items:
-      - description: |
-          Key Lime Pie   (contains dairy and gluten in the toppings):
-          Rye Whiskey, Lime Jello, Fresh Cream, topped with 
-          Whipped Cream & Graham Cracker Crumbs
+      - description: |+
+          Cherry Amaretto Sour: Luxardo Amaretto, Cherry Heering Liqueur,
+          Cherry Jello, Fresh Lemon Juice, Amarena Cherry Syrup 
+
         price: "7"
         title: Rotating Jello Shots
       - title: "Rotating Hot Cocktail: Winter Spiced Mulled Wine"
