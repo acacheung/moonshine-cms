@@ -45,6 +45,9 @@ subgroups:
       - title: La Diabla
         price: "14"
         description: Tres Agave Blanco, Creme de Cassis, Fresh Lime Juice, Ginger Beer
+      - title: Endless Summer
+        description: Aperol, Fresh Lemon Juice, Cinnamon, Pineapple Juice, Bubbles
+        price: "14"
     title: "’Shine Specialty Cocktails "
   - description: "please note this menu is subject to change "
     items:
