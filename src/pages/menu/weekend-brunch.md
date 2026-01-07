@@ -165,13 +165,11 @@ subgroups:
     title: The Main Affair
   - description: Our all-time favorite dishes, available whenever the kitchen is open!
     items:
-      - title: "Menu Addition: Traditional Bistro French Onion Soup "
-        price: "14 regular / 24 grande "
-        description: |
-          48 Hour Madiera-Beef Bone Broth, Caramelized Onions, 
-          Toasted Brioche Baked with Melted Gruyere Cheese 
-      - description: "Creamy Spicy Tomato Bisque  (VEG/GF): Smooth Creamy Tomato Bisque;
-          Fresno Chilies, Thyme, Fresh Cream   "
+      - description: >-
+          Traditional Bistro French Onion Soup: 48 Hour Madiera-Beef Bone Broth,
+          Caramelized Onions, 
+
+          Toasted Brioche Baked with Melted Gruyere Cheese
         price: 14 / 24
         title: Chef’s Whim Soup for the Soul
       - description: >
