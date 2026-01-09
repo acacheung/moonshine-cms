@@ -167,11 +167,6 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
-      - title: "Menu Addition: Candied Bacon Grilled Cheese & Spicy Tomato Soup"
-        price: "29"
-        description: Grilled Cranberry-Pecan Bread, Honeycrisp Apples, Melted Cheese,
-          Fried Sage & Maple Candied Bacon, Served with a Cup of Spicy Tomato
-          Soup & Shoestring French Fries *Available Vegetarian $27
       - description: "‘Shine Favorite Winter Classic Meatloaf with Wild Mushroom
           Stroganoff, Buttered Egg Noodles & a Dollop of Sour Cream "
         price: "29"
