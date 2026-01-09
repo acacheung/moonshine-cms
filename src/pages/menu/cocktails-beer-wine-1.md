@@ -164,7 +164,7 @@ subgroups:
         title: (red) 2020 Contour Cabernet Sauvignon
       - title: "(red) 2023 Bava \"Libera\" Barbera d' Asti "
         price: 15 / 50
-        description: Italy
+        description: Piedmont, Italy
     title: Wine List
   - items:
       - description: "White & Red Cranberry Juices, Fresh Lemonade "
