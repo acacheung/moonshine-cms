@@ -8,11 +8,6 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
-      - description: >2
-                                  Italian Crispy Rice Fritters cooked with Lobster-Tomato Broth
-           served with Saffron Curry Butter & Pistachio Pesto 
-        title: "Menu Addition: Parmesan Lobster Brodo Arancini"
-        price: regular 19 (3) / grande 29 (6)
       - description: >
           
           Mini Belgian Waffle Bites with Baked Brie, Homemade Raspberry Jam, Sesame Candied Walnuts & Maple Syrup 
@@ -26,11 +21,6 @@ subgroups:
       - description: House Biscuit Crostini, Tortilla Chips
         title: "Menu Addition: Warm Crab, Artichoke & Spinach Dip"
         price: "19 regular / 29 grande "
-      - description: >2
-           Warm Crispy Artichoke Hearts, Grilled Radicchio,                    Chickpeas, Avocado, Quinoa, Feta Cheese,
-           Creamy Pesto Dressing, Aged Balsamic
-        price: 19 regular / 29 grande
-        title: "Menu Addition: Warm Crispy Artichoke Salad"
       - title: "Menu Addition: Pork Belly Bao Buns"
         price: 18 (2) / 27 (3)
         description: Braised Thai BBQ Pork Belly, Soft Steamed Chinatown Buns, Honey
@@ -39,6 +29,13 @@ subgroups:
           Sriracha Mayo,   & Birria Dipping Jus  "
         price: "$18 (2 tacos) / $28 (4 tacos)  "
         title: "Menu Addition: Pan-Fried Carnitas Birria Gringo Tacos         "
+      - description: |+2
+              $28                                           
+          Slow-Cooked Chicken Pot Pie Casserole 
+          with Homemade Parisienne Gnocchi Dumplings, Peas & Mirepoix 
+
+        title: "Menu Addition:  Classic Chicken n’ Dumplings "
+        price: "28"
       - description: Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
         price: 15 regular / 25 grande
@@ -47,6 +44,11 @@ subgroups:
           kale
         price: 14 regular / 22 grande
         title: Local Mixed Greens Salad
+      - description: >2
+           Warm Crispy Artichoke Hearts, Grilled Radicchio,                    Chickpeas, Avocado, Quinoa, Feta Cheese,
+           Creamy Pesto Dressing, Aged Balsamic
+        price: 19 regular / 29 grande
+        title: " Warm Crispy Artichoke Salad"
       - description: Sweet and spicy honey-sambal, real jalapeno crab filling
         price: 19 regular / 29 grande
         title: Jalapeno Crab Rangoons
@@ -167,6 +169,12 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
+      - description: |2
+                                              
+          Slow-Cooked Chicken Pot Pie Casserole 
+          with Homemade Parisienne Gnocchi Dumplings, Peas & Mirepoix 
+        price: "28"
+        title: "Menu Addition: Classic Chicken n’ Dumplings    "
       - description: "‘Shine Favorite Winter Classic Meatloaf with Wild Mushroom
           Stroganoff, Buttered Egg Noodles & a Dollop of Sour Cream "
         price: "29"
