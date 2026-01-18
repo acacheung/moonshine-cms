@@ -63,7 +63,7 @@ subgroups:
       - title: (draft) Jack's Abby Banner City Light Lager
         price: "7"
         description: 16 oz draft
-      - title: (draft) Jack's Abby Extra Layer Winter Fest Lager
+      - title: "(draft) Jack's Abby \"shipping out to boston\" amber lager "
         price: "7"
         description: 16 oz draft
       - title: Sun Cruiser Pink Lemonade
