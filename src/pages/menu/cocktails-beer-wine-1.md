@@ -53,7 +53,7 @@ subgroups:
         description: Aperol, Fresh Lemon Juice, Cinnamon, Pineapple Juice, Bubbles
         price: "14"
       - title: Moonshine's Rye Manhattan
-        price: "16"
+        price: "15"
         description: Michter's Straight Rye, Antica Sweet Vermouth, Angostura Bitters
     title: "’Shine Specialty Cocktails "
   - description: "please note this menu is subject to change "
