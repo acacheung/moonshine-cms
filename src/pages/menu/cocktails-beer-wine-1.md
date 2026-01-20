@@ -174,6 +174,10 @@ subgroups:
         description: Piedmont, Italy
     title: Wine List
   - items:
+      - title: Clean Green (mocktail)
+        price: "10"
+        description: Ritual Zero Proof Gin Alternative, Fresh Cucumber Juice, Fresh
+          Lemon Juice, Simple Syrup
       - description: "White & Red Cranberry Juices, Fresh Lemonade "
         price: "7"
         title: Squeeze The Day (mocktail)
