@@ -19,6 +19,10 @@ subgroups:
         price: "16"
         description: Star & Key Passionfruit Rum, Ole Smokey White Chocolate Strawberry
           Cream Moonshine, Fresh Lime, Simple
+      - title: Rockey's Bosc N' Bot
+        price: "16"
+        description: Rockey's Botanical Liqueur, House Ginger Liqueur, Bosc Pear Juice,
+          Fresh Lemon Juice, Cinnamon Syrup
       - title: Call Me Maple
         price: "15"
         description: Rye Whiskey, Fresh Lemon Juice, Maple Syrup
@@ -48,10 +52,6 @@ subgroups:
       - title: Endless Summer
         description: Aperol, Fresh Lemon Juice, Cinnamon, Pineapple Juice, Bubbles
         price: "14"
-      - title: Rockey's Bosc N' Bot
-        price: "16"
-        description: Rockey's Botanical Liqueur, House Ginger Liqueur, Bosc Pear Juice,
-          Fresh Lemon Juice, Cinnamon Syrup
       - title: Moonshine's Rye Manhattan
         price: "16"
         description: Michter's Straight Rye, Antica Sweet Vermouth, Angostura Bitters
