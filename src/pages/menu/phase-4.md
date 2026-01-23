@@ -6,6 +6,11 @@ order: 5
 subgroups:
   - description: Add a Warm Belgian Waffle to Your Favorite Dessert $9
     items:
+      - description: |
+          
+          Sweet Coconut Cream, Tapioca Pearls, Cardamom, Cinnamon 
+        price: "12"
+        title: "Menu addition: Mama Mei’s Coconut Tapioca Pudding "
       - price: "15"
         title: "Menu Addition: ‘Shine Warm Sticky Toffee Bread Pudding    "
         description: Sea Salted Dulce de Leche, Chantilly Cream   …add scoop french
