@@ -91,6 +91,9 @@ subgroups:
       - description: "12 oz bottle "
         price: "7"
         title: "Corona Extra "
+      - title: Allagash White
+        price: "7"
+        description: "16 oz tallboy can "
       - title: Smithwicks Irish Red Ale
         price: "8"
         description: 14.9 oz tall boy
@@ -106,12 +109,6 @@ subgroups:
       - title: Zero Gravity Green State Lager
         price: "7"
         description: 16 oz can
-      - description: "16 oz tallboy can "
-        price: "7"
-        title: Dorchester Brewing Co. "Neponset Gold" Golden Ale
-      - title: Allagash White
-        price: "7"
-        description: "16 oz tallboy can "
       - description: "16 oz tallboy can "
         price: "12"
         title: Lawson's Sip of Sunshine IPA
