@@ -84,7 +84,7 @@ subgroups:
           Mini Belgian Waffle Bites with Baked Brie, Raspberry Jam, 
           Sesame Candied Walnuts & Maple Syrup 
         price: "18 regular / 28 grande "
-        title: "Menu Addition: Holiday Baked Brie & Waffle Bites"
+        title: "Menu Addition:  Baked Brie & Waffle Bites"
       - description: Local honey, Fresh berries, Oat-Flax-Chia Seed Granola Crunch **add
           a warm house belgian waffle $9**
         price: 11 regular / 16 grande
