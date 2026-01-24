@@ -263,9 +263,6 @@ subgroups:
     title: All the sides & Fixin’s
   - description: " (Dessert)"
     items:
-      - description: " Baked Apple Cobbler, French Vanilla Ice Cream "
-        title: "Menu Addition: Warm Apple Crisp A La Mode"
-        price: "16"
       - title: "Menu Addition: Warm Sticky Toffee Bread Pudding "
         price: "15"
         description: Sea Salted Dulce de Leche, Chantilly Cream
