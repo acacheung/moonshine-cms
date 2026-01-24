@@ -15,10 +15,6 @@ subgroups:
         title: "Menu Addition: ‘Shine Warm Sticky Toffee Bread Pudding    "
         description: Sea Salted Dulce de Leche, Chantilly Cream   …add scoop french
           vanilla ice cream $3 …add scoop toasted picachio ice cream $3
-      - title: "Menu Addition: Warm Apple Crisp A La Mode"
-        price: "16"
-        description: " Baked Apple Cobbler, French Vanilla Ice Cream, Toasted Almond
-          Cookie Crumble"
       - description: |
           
           St. Louis Inspired Brown Butter Gooey Cake, 
