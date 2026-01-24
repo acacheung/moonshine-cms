@@ -12,7 +12,7 @@ subgroups:
           
           Mini Belgian Waffle Bites with Baked Brie, Homemade Raspberry Jam, Sesame Candied Walnuts & Maple Syrup 
         price: "18 regular / 28 grande "
-        title: "Menu Addition: Holiday Baked Brie & Waffle Bites "
+        title: "Menu Addition:  Baked Brie & Waffle Bites "
       - description: "Herbed Garlic Crostini, Heirloom Cherry
           Tomatoes,                                           Crispy Basil,
           Balsamic Glaze "
