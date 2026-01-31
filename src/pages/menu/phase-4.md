@@ -6,11 +6,13 @@ order: 5
 subgroups:
   - description: Add a Warm Belgian Waffle to Your Favorite Dessert $9
     items:
-      - description: |
+      - description: |+2
           
-          Sweet Coconut Cream, Tapioca Pearls, Cardamom, Cinnamon 
-        price: "12"
-        title: "Menu addition: Mama Mei’s Coconut Tapioca Pudding "
+           $18 / $28                                             
+          Guava Cream Cheese, Coconut Caramel, Mixed Berry Dipping Glaze  
+
+        price: 18 regular (3) / 28 grande (6)
+        title: "Menu addition:Sweet Crispy Tropical Spring Rolls  "
       - price: "15"
         title: "Menu Addition: ‘Shine Warm Sticky Toffee Bread Pudding    "
         description: Sea Salted Dulce de Leche, Chantilly Cream   …add scoop french
@@ -28,7 +30,7 @@ subgroups:
       - description: >2
            $18 / $28
           Mini Belgian Waffle Bites with Baked Brie, Homemade Raspberry Jam, Sesame Candied Walnuts & Maple Syrup 
-        title: "Menu Addition: Holiday Baked Brie & Waffle Bites"
+        title: "Menu Addition:  Baked Brie & Waffle Bites"
         price: "18 regular / 28 grande "
       - description: Chantilly whipped cream, toasted oat-amaranth streusel
         price: "12"
