@@ -202,14 +202,15 @@ subgroups:
           a double patty 11 "
         price: "24"
         title: Grass-fed Beef Burger**  Boston's Best Award Winner
-      - description: >-2
-           The Anti-Resolution “KFC Bowl” Burger
-          Topped with Garlic Mashed Potatoes, Sauteed Corn, 
+      - description: >-
+          Lunar New Year-Inspired “Firecracker” Burger 
 
-          Gravy, Shredded Cheese & Crispy Fried Chicken Skin  
+          Topped with Whipped Jalapeno-Scallion Cream Cheese, 
+
+          Crispy Wonton Strips & Chili-Honey Sambal Glaze   
              … ...add cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg $3  …add  jalapenos $2  …add avocado $
         price: "29"
-        title: January 2026's VIP burger of the month
+        title: February 2026's VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: " All the sides & Fixin’s"
     items:
