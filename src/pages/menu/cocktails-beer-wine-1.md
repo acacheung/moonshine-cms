@@ -100,9 +100,6 @@ subgroups:
       - title: Battery Steele's Golden Path Pilsner
         price: "10"
         description: 16 oz tallboy can
-      - title: Night Shift Brewing "Whirlpool" Hazy IPA
-        price: "10"
-        description: 16 oz tallboy can
       - description: "16 oz tallboy can "
         price: "7"
         title: 'Night Shift Brewing "Nite Lite" Light Lager '
@@ -112,6 +109,9 @@ subgroups:
       - title: Zero Gravity Green State Lager
         price: "7"
         description: 16 oz can
+      - title: Night Shift Brewing "Whirlpool" Hazy IPA
+        price: "10"
+        description: 16 oz tallboy can
       - description: "16 oz tallboy can "
         price: "12"
         title: Lawson's Sip of Sunshine IPA
