@@ -6,9 +6,10 @@ order: 1
 subgroups:
   - description: ""
     items:
-      - description: |+
-          Cherry Amaretto Sour: Luxardo Amaretto, Cherry Heering Liqueur,
-          Cherry Jello, Fresh Lemon Juice, Amarena Cherry Syrup 
+      - description: >+
+          Key Lime Pie: Rumhaven Coconut Rum, Midori Liqueur, Lime Jello, Fresh
+          Orange Juice topped with Whipped Cream & Graham Cracker Crumbs
+
 
         price: "7"
         title: Rotating Jello Shots
