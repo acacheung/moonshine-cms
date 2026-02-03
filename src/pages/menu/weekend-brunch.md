@@ -6,10 +6,9 @@ order: 3
 subgroups:
   - description: "Brunch Cocktails & Beverages "
     items:
-      - description: |+
-          Cherry Amaretto Sour: Luxardo Amaretto, Cherry Heering Liqueur,
-          Cherry Jello, Fresh Lemon Juice, Amarena Cherry Syrup 
-
+      - description: >+
+          Key Lime Pie: Rumhaven Coconut Rum, Midori Liqueur, Lime Jello, Fresh
+          Orange Juice topped with Whipped Cream & Graham Cracker Crumbs
 
 
         price: "7"
