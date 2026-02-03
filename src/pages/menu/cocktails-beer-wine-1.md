@@ -16,6 +16,15 @@ subgroups:
       - title: "Rotating Hot Cocktail: Winter Spiced Mulled Wine"
         price: "16"
         description: House Red Wine, Cranberry Juice, Honey, Winter Spices, Orange
+      - title: Eight Treasures Party Punch  ** Happy Lunar New Year-Year of the Fire
+          Horse**
+        price: "15"
+        description: >2
+           Kentucky Bourbon, London Dry Gin, Amaro, Ginger Peach Spiced Black Tea, Mandarin Orange, Honey Clove Simple, Fresh Lemon & Lime Juices 
+      - title: "The Love Letter "
+        price: "15"
+        description: "Lemon-Raspberry Vodka, Fresh Raspberry Puree, Lychee Agave
+          Lemonade, Bubbles "
       - title: Danimals Strawberry Daiquiri
         price: "16"
         description: Star & Key Passionfruit Rum, Ole Smokey White Chocolate Strawberry
@@ -183,12 +192,15 @@ subgroups:
         price: "10"
         description: Ritual Zero Proof Aperitif Alternative, Coffee, Cinnamon
           Syrup  **Can Be Made with or Without Cream
-      - description: "White & Red Cranberry Juices, Fresh Lemonade "
+      - description: "Fresh Raspberry Puree, Lychee Agave Lemonade, Bubbles "
         price: "7"
-        title: Squeeze The Day (mocktail)
+        title: Raspberry Lychee Sparkler (MOCKTAIL)
       - description: "Pineapple Juice, Fresh Lime, Fever Tree Ginger Beer "
         price: "7"
         title: "Pineapple Mule (mocktail) "
+      - description: "White & Red Cranberry Juices, Fresh Lemonade "
+        price: "7"
+        title: Squeeze The Day (mocktail)
       - price: "5"
         title: "Unsweetened Iced Tea "
       - price: "6"
