@@ -183,7 +183,7 @@ subgroups:
   - items:
       - title: Clean Green (mocktail)
         price: "10"
-        description: Ritual Zero Proof Gin Alternative, Fresh Cucumber Juice, Fresh
+        description: Ritual Zero Proof Tequila Alternative, Fresh Cucumber Juice, Fresh
           Lemon Juice, Simple Syrup
       - title: Espresso NA-Tini (mocktail)
         price: "10"
