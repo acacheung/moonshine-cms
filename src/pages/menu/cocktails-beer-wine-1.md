@@ -110,9 +110,6 @@ subgroups:
       - title: Battery Steele's Golden Path Pilsner
         price: "10"
         description: 16 oz tallboy can
-      - description: "16 oz tallboy can "
-        price: "7"
-        title: 'Night Shift Brewing "Nite Lite" Light Lager '
       - description: 16 oz tallboy can
         price: "6"
         title: Narragansett Lager
