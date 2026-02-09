@@ -6,9 +6,8 @@ order: 1
 subgroups:
   - description: ""
     items:
-      - description: >+
-          Key Lime Pie: Rumhaven Coconut Rum, Midori Liqueur, Lime Jello, Fresh
-          Orange Juice topped with Whipped Cream & Graham Cracker Crumbs
+      - description: >+2
+           Cherry Amaretto Sour: Luxardo Amaretto, Cherry Heering Liqueur, Cherry Jello, Fresh Lemon, Amarena Cherry Syrup
 
 
         price: "7"
