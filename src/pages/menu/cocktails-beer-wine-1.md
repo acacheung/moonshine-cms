@@ -91,6 +91,9 @@ subgroups:
       - description: 12 oz can
         price: "7"
         title: Downeast Original Cider
+      - title: Magner's Original Irish Cider
+        price: "8"
+        description: 16.9 oz tallboy can
       - title: "Hero 95 "
         price: "7"
         description: 12 oz Can
@@ -105,7 +108,7 @@ subgroups:
         description: "16 oz tallboy can "
       - title: Smithwicks Irish Red Ale
         price: "8"
-        description: 14.9 oz tall boy
+        description: 14.9 oz tall boy can
       - title: Battery Steele's Golden Path Pilsner
         price: "10"
         description: 16 oz tallboy can
@@ -127,7 +130,7 @@ subgroups:
       - description: "16 oz nitro can "
         price: "8"
         title: "Guinness Nitro Stout "
-      - description: "16 oz tallboy can "
+      - description: "16 oz nitro can "
         price: "7"
         title: Guinness ZERO (Non-Alcoholic)
       - description: "12 oz can "
