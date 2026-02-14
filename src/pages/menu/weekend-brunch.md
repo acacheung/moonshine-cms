@@ -7,8 +7,11 @@ subgroups:
   - description: "Brunch Cocktails & Beverages "
     items:
       - description: >+
-          Key Lime Pie: Rumhaven Coconut Rum, Midori Liqueur, Lime Jello, Fresh
-          Orange Juice topped with Whipped Cream & Graham Cracker Crumbs
+          Chocolate Strawberry Cheesecake -White Chocolate Strawberry Moonshine,
+          Strawberry Jello & Fresh Cream topped with Graham Cracker Crumbs,
+          Chantilly Cream & Chocolate Chips                   *contains
+          dairy  *toppings contain dairy & gluten 
+
 
 
         price: "7"
