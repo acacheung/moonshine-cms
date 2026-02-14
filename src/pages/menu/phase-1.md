@@ -184,6 +184,14 @@ subgroups:
         description: |
           Red Wine Braised Rabbit, Brown Butter-Louisiana Cream Sauce, 
           Toasted Hazelnuts, Crispy Sage 
+      - description: |
+          
+          *Your Choice of EITHER Beef or Chicken*
+           Stir-Fried with Black Pepper Teriyaki Glaze, 
+          Grilled Corn,  Warm Sushi Rice,
+           Longhorn Peppers, & Miso-Honey Butter 
+        title: "Menu Addition : Japanese Pepper Beef OR Chicken Rice Skillet"
+        price: "29"
       - title: "Menu Addition: Korean Beef Shortrib & Bibimbap Rice Bowl"
         price: "29"
         description: House Kimchi, Stirfried Tofu, Warm Sushi Rice, Baby Bok Choy, Fried
