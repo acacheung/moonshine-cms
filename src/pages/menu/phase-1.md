@@ -8,6 +8,12 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
+      - description: |
+          
+          New Orleans Cornbread Fritters,
+          New England Lobster Bisque Sauce, Beurre Blanc
+        price: "17 regular / 29 grande "
+        title: "Menu Addition: Sweet Corn Hush Puppies *Happy Mardi Gras!*"
       - description: >
           
           Mini Belgian Waffle Bites with Baked Brie, Homemade Raspberry Jam, Sesame Candied Walnuts & Maple Syrup 
