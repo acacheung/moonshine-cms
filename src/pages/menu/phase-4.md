@@ -6,10 +6,8 @@ order: 5
 subgroups:
   - description: Add a Warm Belgian Waffle to Your Favorite Dessert $9
     items:
-      - description: |+2
-          
-           $18 / $28                                             
-          Guava Cream Cheese, Coconut Caramel, Mixed Berry Dipping Glaze  
+      - description: >+2
+                                                  Guava Cream Cheese, Coconut Caramel, Mixed Berry Dipping Glaze  
 
         price: 18 regular (3) / 28 grande (6)
         title: "Menu addition:Sweet Crispy Tropical Spring Rolls  "
