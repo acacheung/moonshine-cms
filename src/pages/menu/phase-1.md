@@ -17,13 +17,13 @@ subgroups:
       - description: >
           
           Mini Belgian Waffle Bites with Baked Brie, Homemade Raspberry Jam, Sesame Candied Walnuts & Maple Syrup 
-        price: "18 regular / 28 grande "
+        price: 18 regular (4)  / 28 grande  (8)
         title: "Menu Addition:  Baked Brie & Waffle Bites "
       - description: "Herbed Garlic Crostini, Heirloom Cherry
           Tomatoes,                                           Crispy Basil,
           Balsamic Glaze "
         title: "Menu Addition:  'Shine Whipped Ricotta Bruschetta"
-        price: "17 regular / 28 grande "
+        price: 17 regular (4) / 28 grande (8)
       - description: House Biscuit Crostini, Tortilla Chips
         title: "Menu Addition: Warm Crab, Artichoke & Spinach Dip"
         price: "19 regular / 29 grande "
