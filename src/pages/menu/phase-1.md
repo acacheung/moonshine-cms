@@ -56,13 +56,13 @@ subgroups:
         price: 19 regular / 29 grande
         title: " Warm Crispy Artichoke Salad"
       - description: Sweet and spicy honey-sambal, real jalapeno crab filling
-        price: 19 regular / 29 grande
+        price: 19 regular (4)  / 29 grande (8)
         title: Jalapeno Crab Rangoons
       - description: Toasted sesame, crispy garlic and shallots, soy vinaigrette
         price: 16 regular / 27 grande
         title: Blistered Shishito Peppers
       - description: Organic ground lamb, habanero date jam, lingonberry (gluten free)
-        price: 19 regular / 29 grande
+        price: 19 regular (4)  / 29 grande (8)
         title: Spicy Lamb Meatballs
       - description: Crispy olive oil roasted potatoes, sherry pesto aioli, roasted
           garlic oil
@@ -70,7 +70,7 @@ subgroups:
         title: Tapas Style Patatas Bravas
       - description: "Caramelized onion sourdough stuffing wrapped in crispy pecanwood
           bacon, Candied ginger aioli "
-        price: 18 regular / 28 grande
+        price: 18 regular (5)  / 28 grande (10)
         title: ’Shine Famous Bacon Wrapped Stuffing Bites
     title: To Get Ya Started
   - description: Shareable 'Shine classics available in small or large Portions.
