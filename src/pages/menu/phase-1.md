@@ -137,8 +137,8 @@ subgroups:
           Sriracha Mayo,   & Birria Dipping Jus  "
         price: " 18 regular (2) / 28 grande (4)"
         title: "Menu Addition: Pan Fried Carnitas Birria Tacos"
-      - description: Oaxacan Cheese, Smashed Avocado, Toasted Cumin Cream, Salsa Fresca,
-          Sesame Candied Walnuts
+      - description: Oaxacan Cheese, Smashed Avocado, Curry Aioli, Salsa Fresca, Sesame
+          Candied Walnuts
         price: 17 regular / 25 grande
         title: Roasted Cauliflower TACOS
       - description: Beer battered tempura cod, mango-cabbage slaw, sweet chili, ginger
