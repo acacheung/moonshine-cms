@@ -24,10 +24,6 @@ subgroups:
         price: "15"
         description: >2
            Kentucky Bourbon, London Dry Gin, Amaro, Ginger Peach Spiced Black Tea, Mandarin Orange, Honey Clove Simple, Fresh Lemon & Lime Juices 
-      - title: "The Love Letter "
-        price: "15"
-        description: "Lemon-Raspberry Vodka, Fresh Raspberry Puree, Lychee Agave
-          Lemonade, Bubbles "
       - title: Danimals Strawberry Daiquiri
         price: "16"
         description: Star & Key Passionfruit Rum, Ole Smokey White Chocolate Strawberry
