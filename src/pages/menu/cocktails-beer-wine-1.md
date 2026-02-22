@@ -191,9 +191,6 @@ subgroups:
         price: "10"
         description: Ritual Zero Proof Aperitif Alternative, Coffee, Cinnamon
           Syrup  **Can Be Made with or Without Cream
-      - description: "Fresh Raspberry Puree, Lychee Agave Lemonade, Bubbles "
-        price: "7"
-        title: Raspberry Lychee Sparkler (MOCKTAIL)
       - description: "Pineapple Juice, Fresh Lime, Fever Tree Ginger Beer "
         price: "7"
         title: "Pineapple Mule (mocktail) "
