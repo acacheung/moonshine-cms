@@ -205,14 +205,14 @@ subgroups:
         price: "24"
         title: Grass-fed Beef Burger**  Boston's Best Award Winner
       - description: >-
-          Lunar New Year-Inspired “Firecracker” Burger 
+          The St. Paddy’s Green Monster 2.0 “Green Eggs & SPAM” Topped with
+          Fresh Basil Pesto Souffléed Eggs, Grilled SPAM, Orange Vermont
+          Cheddar, 
 
-          Topped with Whipped Jalapeno-Scallion Cream Cheese, 
-
-          Crispy Wonton Strips & Chili-Honey Sambal Glaze   
+          Sherry Pesto Aioli & Fried Green Tomatoes 
              … ...add cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg $3  …add  jalapenos $2  …add avocado $
         price: "29"
-        title: February 2026's VIP burger of the month
+        title: March 2026's VIP burger of the month
     title: All-Day / All-Night Allstars
   - description: " All the sides & Fixin’s"
     items:
