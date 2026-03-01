@@ -212,14 +212,14 @@ subgroups:
         price: "24"
         title: GRASS-FED ’SHINE BEEF BURGER**  Boston's Best Award Winner
       - description: >
-          Lunar New Year-Inspired “Firecracker” Burger 
+          The St. Paddy’s Green Monster 2.0 “Green Eggs & SPAM” Topped with
+          Fresh Basil Pesto Souffléed Eggs, Grilled SPAM, Orange Vermont
+          Cheddar, 
 
-          Topped with Whipped Jalapeno-Scallion Cream Cheese, 
-
-          Crispy Wonton Strips & Chili-Honey Sambal Glaze   
+          Sherry Pesto Aioli & Fried Green Tomatoes 
            …add cheddar cheese $2 ...add fried egg $3 ..add jalapeno bacon $4  …add  jalapenos $2  …add avocado $3
         price: "29"
-        title: February 2026's  VIP burger of the month
+        title: MARCH 2026's  VIP burger of the month
       - description: Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
         price: "29"
