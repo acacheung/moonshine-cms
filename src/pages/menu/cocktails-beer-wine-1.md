@@ -16,9 +16,6 @@ subgroups:
 
         price: "7"
         title: Rotating Jello Shots
-      - title: "Rotating Hot Cocktail: Winter Spiced Mulled Wine"
-        price: "16"
-        description: House Red Wine, Cranberry Juice, Honey, Winter Spices, Orange
       - title: Eight Treasures Party Punch  ** Happy Lunar New Year-Year of the Fire
           Horse**
         price: "15"
