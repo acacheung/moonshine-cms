@@ -61,12 +61,6 @@ subgroups:
     title: "Cheers To The Weekend! "
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
-      - title: "Menu Addition: Sweet Crispy Tropical Spring Rolls "
-        price: "18 regular / 28 grande "
-        description: |2
-                                            
-          Guava Cream Cheese, Coconut Caramel,
-          Mixed Berry Dipping Glaze 
       - description: House Biscuit Crostini & Tortilla Chips
         price: "19 regular / 29 grande "
         title: "Menu Addition: Warm Crab, Artichoke & Spinach Dip"
