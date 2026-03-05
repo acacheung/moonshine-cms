@@ -45,8 +45,7 @@ subgroups:
         price: 14 regular / 22 grande
         title: Local Mixed Greens Salad
       - description: >2
-           Warm Crispy Artichoke Hearts, Grilled Radicchio,                    Chickpeas, Avocado, Quinoa, Feta Cheese,
-           Creamy Pesto Dressing, Aged Balsamic
+           Warm Crispy Artichoke Hearts, Grilled Radicchio, Chickpeas, Avocado, Quinoa, Feta Cheese, Creamy Pesto Dressing, Aged Balsamic
         price: 19 regular / 29 grande
         title: " Warm Crispy Artichoke Salad"
       - description: Sweet and spicy honey-sambal, real jalapeno crab filling
