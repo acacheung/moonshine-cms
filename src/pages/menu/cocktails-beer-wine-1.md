@@ -16,11 +16,6 @@ subgroups:
 
         price: "7"
         title: Rotating Jello Shots
-      - title: Eight Treasures Party Punch  ** Happy Lunar New Year-Year of the Fire
-          Horse**
-        price: "15"
-        description: >2
-           Kentucky Bourbon, London Dry Gin, Amaro, Ginger Peach Spiced Black Tea, Mandarin Orange, Honey Clove Simple, Fresh Lemon & Lime Juices 
       - title: Danimals Strawberry Daiquiri
         price: "16"
         description: Star & Key Passionfruit Rum, Ole Smokey White Chocolate Strawberry
