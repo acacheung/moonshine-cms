@@ -163,11 +163,8 @@ subgroups:
     title: The Main Affair
   - description: Our all-time favorite dishes, available whenever the kitchen is open!
     items:
-      - description: >-
-          Traditional Bistro French Onion Soup: 48 Hour Madiera-Beef Bone Broth,
-          Caramelized Onions, 
-
-          Toasted Brioche Baked with Melted Gruyere Cheese
+      - description: "Southie’s Favorite Irish Potato Curry: Thai Pepper Penang Curry,
+          Simmered Veggies, Coconut Milk, Basil (vegan & gluten-free)"
         price: 14 / 24
         title: Chef’s Whim Soup for the Soul
       - description: >
