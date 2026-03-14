@@ -70,11 +70,12 @@ subgroups:
       Don't forget to top it off by adding your favorite proteins, fixins, sides
       & sauces to any dish.
     items:
-      - title: "Chef's Whim Soup of the Day: Traditional Bistro French Onion Soup "
+      - title: "Chef's Whim Soup of the Day: Southie’s Favorite  Irish Potato
+          Curry     "
         price: 14 regular / 24 grande
-        description: |
-          48 Hour Madiera-Beef Bone Broth, Caramelized Onions, 
-          Toasted Brioche Baked with Melted Gruyere Cheese 
+        description: >-
+          
+          Thai Pepper Penang Curry, Simmered Veggies, Coconut Milk, Basil (vegan & gluten-free)
       - description: Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton
           crisps, Shaved pecorino cheese
         price: 18 regular / 29 grande
