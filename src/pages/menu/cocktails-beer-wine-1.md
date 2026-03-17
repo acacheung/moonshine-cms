@@ -7,15 +7,32 @@ subgroups:
   - description: ""
     items:
       - description: >+
-          Chocolate Strawberry Cheesecake -White Chocolate Strawberry Moonshine,
-          Strawberry Jello & Fresh Cream topped with Graham Cracker Crumbs,
-          Chantilly Cream & Chocolate Chips                   *contains
-          dairy  *toppings contain dairy & gluten 
+          Celtic Pride Jello Shots: Layered Lime & Orange Jello Shots made with
+          Irish Whiskey & Irish Gin 
+
 
 
 
         price: "7"
         title: Rotating Jello Shots
+      - title: "Rotating Hot Cocktail: Chef Asia's Boozy Hot Chocolate"
+        price: "15"
+        description: >
+          House Hot Chocolate, Chantilly Whipped Cream & Your Choice of Spirit…
+          May We Suggest: Faber Vanilla Vodka, Fernet Branca, or 
+
+          Chocolat Chocolate Liqueur
+      - title: "\"Not 'Yo Grandpa's\" Penicillin Sweet Tea"
+        price: "15"
+        description: "Blended Scotch, House Ginger Liqueur, Spiced Peach Iced Tea,
+          Clover Honey Simple, Fresh Lemon  "
+      - description: "Titos, Irish Gin, Sour Apple Liqueur, Lychee Puree, White
+          Cranberry, Fresh Citrus, Agave \ 
+
+
+          \ "
+        title: "Southie Shamrock Party Punch "
+        price: "14"
       - title: Danimals Strawberry Daiquiri
         price: "16"
         description: Star & Key Passionfruit Rum, Ole Smokey White Chocolate Strawberry
