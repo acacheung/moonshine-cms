@@ -127,8 +127,7 @@ subgroups:
         price: "28"
         title: "Menu Addition: Chef Asia’s Famous Beef Brisket “Phoritto” "
       - description: Grilled Marinated Skirt Steak, Two Fried Eggs, Buttermilk Biscuits
-          & Gravy w/ White Pepper Sausage Gravy & Chef Asia’s Best Ever
-          Buttermilk Biscuits
+          & Gravy w/ Pepper Gravy & Chef Asia’s Best Ever Buttermilk Biscuits
         price: "29"
         title: 'Menu Addition: "’Shine Steak & Eggs"'
       - description: Red-eye gravy, Chinese sausage, Green onions, Chopped melted white
