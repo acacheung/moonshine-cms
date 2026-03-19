@@ -85,8 +85,8 @@ subgroups:
           a warm house belgian waffle $9**
         price: 11 regular / 16 grande
         title: "Whipped Greek Yogurt Parfait "
-      - description: "Brioche cinnamon French toast sticks, Fresh berries, Maple berry
-          butter dipping sauce "
+      - description: "Cinnamon sugar brioche French toast sticks, Fresh berries, Maple
+          berry butter dipping sauce "
         price: "16 regular / 27 grande "
         title: "Chef Asia’s Famous Cinnamon French Toast Sticks "
       - description: "Japanese ginger-sesame carrot vinaigrette, Roasted kale "
