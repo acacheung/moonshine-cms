@@ -228,7 +228,7 @@ subgroups:
         price: "9"
         title: House Belgian Waffle
       - price: "9"
-        title: Chef Asia’s Best Ever Buttermilk Biscuits  w/ White Pepper Sausage Gravy
+        title: Chef Asia’s Best Ever Buttermilk Biscuits  w/ Pepper  Gravy
       - price: "9 "
         title: "Chef Asia’s Best Ever Buttermilk Biscuits  w/  Pepper Jelly "
       - price: "9"
