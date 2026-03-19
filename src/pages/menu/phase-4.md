@@ -8,8 +8,9 @@ subgroups:
     items:
       - price: "15"
         title: "Menu Addition: ‘Shine Warm Sticky Toffee Bread Pudding    "
-        description: Sea Salted Dulce de Leche, Chantilly Cream   …add scoop french
-          vanilla ice cream $3 …add scoop toasted picachio ice cream $3
+        description: Sea Salted Dulce de Leche, Chantilly Cream   …add scoop chocolate
+          chip cookie dough ice cream $3 …add scoop toasted picachio ice cream
+          $3
       - description: |
           
           St. Louis Inspired Brown Butter Gooey Cake, 
@@ -39,7 +40,7 @@ subgroups:
       - description: Mango
         price: "11"
         title: "Chef's Whim Sorbet (vegan) "
-      - description: Toasted Pistachio
+      - description: Toasted Pistachio OR Chocolate Chip Cookie Dough
         price: "11"
         title: Chef's Whim Ice Cream
     title: Sweet Tooth
