@@ -84,12 +84,15 @@ subgroups:
       - title: "(draft) Jack's Abby \"shipping out of boston\" amber lager "
         price: "7"
         description: 16 oz draft
-      - title: Sun Cruiser Pink Lemonade
+      - title: Sloop Brewing Coco Baked Stout
         price: "10"
-        description: 12 oz can
+        description: 16 oz tallboy can
       - title: SunCruiser Iced Tea & Lemonade
         price: "10"
         description: "12 oz can "
+      - title: Sun Cruiser Pink Lemonade
+        price: "10"
+        description: 12 oz can
       - description: 12 oz can
         price: "7"
         title: Downeast Original Cider
@@ -123,9 +126,6 @@ subgroups:
       - description: "16 oz tallboy can "
         price: "12"
         title: Lawson's Sip of Sunshine IPA
-      - title: Sloop Brewing Coco Baked Stout
-        price: "10"
-        description: 16 oz tallboy can
       - description: "16 oz nitro can "
         price: "8"
         title: "Guinness Nitro Stout "
