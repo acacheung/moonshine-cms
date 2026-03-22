@@ -153,15 +153,15 @@ subgroups:
       - description: Provence, France
         price: 16 / 58
         title: (rose) 2022 Whispering Angel Rose
+      - description: Elqui Valley, Coquimbo, Chile
+        price: 13 / 45
+        title: (white) 2022 Mayu Pedro Ximenez
       - description: "Santa Barbera,CA, USA "
         price: 13 / 45
         title: "(White) 2021 Seaglass Charonnay "
       - description: Healdsburg, California
         price: 14  /  48
         title: (White) 2024 J Vineyards Pinot Gris
-      - description: Elqui Valley, Coquimbo, Chile
-        price: 13 / 45
-        title: (white) 2022 Mayu Pedro Ximenez
       - description: "Marlborough, New Zealand "
         price: 14 / 48
         title: "(White) 2020 Whitehaven Sauvignon  Blanc "
