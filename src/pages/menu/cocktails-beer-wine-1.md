@@ -87,6 +87,9 @@ subgroups:
       - title: Sloop Brewing Coco Baked Stout
         price: "10"
         description: 16 oz tallboy can
+      - title: "Hero 95 "
+        price: "7"
+        description: 12 oz Can
       - title: SunCruiser Iced Tea & Lemonade
         price: "10"
         description: "12 oz can "
@@ -99,9 +102,6 @@ subgroups:
       - title: Magner's Original Irish Cider
         price: "8"
         description: 16.9 oz tallboy can
-      - title: "Hero 95 "
-        price: "7"
-        description: 12 oz Can
       - description: 12 oz bottle
         price: "6"
         title: "SAPPORO "
