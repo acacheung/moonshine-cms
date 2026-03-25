@@ -84,9 +84,6 @@ subgroups:
       - title: "(draft) Jack's Abby \"shipping out of boston\" amber lager "
         price: "7"
         description: 16 oz draft
-      - title: Sloop Brewing Coco Baked Stout
-        price: "10"
-        description: 16 oz tallboy can
       - title: "Hero 95 "
         price: "7"
         description: 12 oz Can
