@@ -61,9 +61,6 @@ subgroups:
     title: "Cheers To The Weekend! "
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
-      - description: House Biscuit Crostini & Tortilla Chips
-        price: "19 regular / 29 grande "
-        title: "Menu Addition: Warm Crab, Artichoke & Spinach Dip"
       - description: " Herbed Garlic Crostini, Heirloom Cherry
           Tomatoes,                                           Crispy Basil,
           Strawberry-Balsamic Glaze "
