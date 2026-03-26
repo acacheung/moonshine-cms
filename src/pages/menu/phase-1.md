@@ -26,13 +26,6 @@ subgroups:
           Sriracha Mayo,   & Birria Dipping Jus  "
         price: "$18 (2 tacos) / $28 (4 tacos)  "
         title: "Menu Addition: Pan-Fried Carnitas Birria Gringo Tacos         "
-      - description: |+2
-              $28                                           
-          Slow-Cooked Chicken Pot Pie Casserole 
-          with Homemade Parisienne Gnocchi Dumplings, Peas & Mirepoix 
-
-        title: "Menu Addition:  Classic Chicken n’ Dumplings "
-        price: "28"
       - description: Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
         price: 15 regular / 25 grande
