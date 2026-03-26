@@ -179,10 +179,6 @@ subgroups:
         description: Piedmont, Italy
     title: Wine List
   - items:
-      - title: Espresso NA-Tini (mocktail)
-        price: "10"
-        description: Ritual Zero Proof Aperitif Alternative, Coffee, Cinnamon
-          Syrup  **Can Be Made with or Without Cream
       - description: "Pineapple Juice, Fresh Lime, Fever Tree Ginger Beer "
         price: "7"
         title: "Pineapple Mule (mocktail) "
