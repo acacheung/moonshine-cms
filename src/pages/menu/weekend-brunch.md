@@ -6,11 +6,9 @@ order: 3
 subgroups:
   - description: "Brunch Cocktails & Beverages "
     items:
-      - description: >+
-          Chocolate Strawberry Cheesecake -White Chocolate Strawberry Moonshine,
-          Strawberry Jello & Fresh Cream topped with Graham Cracker Crumbs,
-          Chantilly Cream & Chocolate Chips                   *contains
-          dairy  *toppings contain dairy & gluten 
+      - description: |+
+          Celtic Pride: Irish Whiskey & Irish Gin Jello Shots 
+          with Orange & Lime Jello, Fresh Citrus Zests
 
 
 
