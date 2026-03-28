@@ -180,6 +180,11 @@ subgroups:
           \                 "
         title: "Menu Addition: Parade Day Corned Beef Sammy "
         price: "27"
+      - description: >2
+           
+          Local Cod, Shrimp, Lobster-Tomato Broth, Linguica Sausage, Kale, Buttermilk Biscuit Toasties, Saffron Aioli 
+        title: "Menu Addition: Portuguese Fisherman’s Stew "
+        price: "29"
       - description: |2
                                               
           Slow-Cooked Chicken Pot Pie Casserole 
