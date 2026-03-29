@@ -168,18 +168,6 @@ subgroups:
         description: Tempura-Beer Battered Haddock, House Shoestring French Fries,
           Southie Irish Curry Mayo Classic Lemon Tartar Sauce, Petite Mixed
           Greens Salad
-      - description: "                  \ 
-
-          Thick-cut Corned Beef Piled High with Melted Swiss,
-
-          \ House Sauerkraut, Special Sauce, Grilled Potato Bun\ 
-
-          served with Shoestring French Fries  \ 
-
-
-          \                 "
-        title: "Menu Addition: Parade Day Corned Beef Sammy "
-        price: "27"
       - description: >2
            
           Local Cod, Shrimp, Lobster-Tomato Broth, Linguica Sausage, Kale, Buttermilk Biscuit Toasties, Saffron Aioli 
