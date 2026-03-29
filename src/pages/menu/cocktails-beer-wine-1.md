@@ -15,10 +15,6 @@ subgroups:
 
         price: "7"
         title: Rotating Jello Shots
-      - title: "\"Not 'Yo Grandpa's\" Penicillin Sweet Tea"
-        price: "15"
-        description: "Blended Scotch, House Ginger Liqueur, Spiced Peach Iced Tea,
-          Clover Honey Simple, Fresh Lemon  "
       - description: "Titos, Irish Gin, Sour Apple Liqueur, Lychee Puree, White
           Cranberry, Fresh Citrus, Agave \ 
 
