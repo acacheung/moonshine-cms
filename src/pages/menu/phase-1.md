@@ -197,15 +197,16 @@ subgroups:
           fries .... Make it a double patty 11
         price: "24"
         title: GRASS-FED ’SHINE BEEF BURGER**  Boston's Best Award Winner
-      - description: >
-          The St. Paddy’s Green Monster 2.0 “Green Eggs & SPAM” Topped with
-          Fresh Basil Pesto Souffléed Eggs, Grilled SPAM, Orange Vermont
-          Cheddar, 
+      - description: >-
+          In ‘n Out Animal Style-Chopped Cheese-Quesadilla Burger
+           “The 4/20 Blaze It”  
+          Topped with Griddled Onions, Chopped Cheese Quesadilla, Lettuce, Tomato, Cheddar Cheese, House B&B Pickles, Special Sauce
 
-          Sherry Pesto Aioli & Fried Green Tomatoes 
-           …add cheddar cheese $2 ...add fried egg $3 ..add jalapeno bacon $4  …add  jalapenos $2  …add avocado $3
+          … add cheddar cheese $2 ..add jalapeno bacon $4
+
+          …add fried egg $3 …add jalapenos $2…add avocado $3
         price: "29"
-        title: MARCH 2026's  VIP burger of the month
+        title: April 2026's  VIP burger of the month
       - description: Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
         price: "29"
