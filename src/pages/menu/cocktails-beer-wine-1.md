@@ -129,13 +129,13 @@ subgroups:
         price: "7"
         title: Guinness ZERO (Non-Alcoholic)
       - title: Athletic Brewing "Lite" Lime & Salt (non-alcoholic)
-        price: "6"
+        price: "7"
         description: 12 oz can
       - description: "12 oz can "
-        price: "6"
+        price: "7"
         title: Athletic Brewing Co "Free Wave" IPA  (non-alcoholic)
       - title: Athletic Brewing Co "Lite" Light Lager (non-alcoholic)
-        price: "6"
+        price: "7"
         description: 12 oz can
     title: "Beer Menu "
   - description: "please note vintages are subject to change "
