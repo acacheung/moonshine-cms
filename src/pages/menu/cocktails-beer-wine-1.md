@@ -15,13 +15,6 @@ subgroups:
 
         price: "7"
         title: Rotating Jello Shots
-      - description: "Titos, Irish Gin, Sour Apple Liqueur, Lychee Puree, White
-          Cranberry, Fresh Citrus, Agave \ 
-
-
-          \ "
-        title: "Southie Shamrock Party Punch "
-        price: "14"
       - title: Danimals Strawberry Daiquiri
         price: "16"
         description: Star & Key Passionfruit Rum, Ole Smokey White Chocolate Strawberry
@@ -56,7 +49,7 @@ subgroups:
       - title: La Diabla
         price: "14"
         description: Tres Agave Blanco, Creme de Cassis, Fresh Lime Juice, Ginger Beer
-      - title: Endless Summer
+      - title: Patio Crusher
         description: Aperol, Fresh Lemon Juice, Cinnamon, Pineapple Juice, Bubbles
         price: "14"
       - title: Moonshine's Rye Manhattan
