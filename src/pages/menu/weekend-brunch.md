@@ -70,11 +70,6 @@ subgroups:
           Aged Balsamic       "
         price: 19 regular / 29 grande
         title: "Menu Addition: crispy artichoke salad "
-      - description: >
-          Savory Crispy Cheesy Garlic Potato Fritters,  Japanese Sweet Glutinous
-          Rice Flour, Sweet Chili Glaze, Toasted Sesame    *GF/Veg
-        title: "Menu Addition: Japanese Cheesy-Potato Mochi  Pancakes"
-        price: " $18 regular  / $28   grande "
       - description: |
           
           Mini Belgian Waffle Bites with Baked Brie, Raspberry Jam, 
