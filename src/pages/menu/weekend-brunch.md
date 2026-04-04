@@ -195,14 +195,15 @@ subgroups:
         price: "24"
         title: Grass-fed Beef Burger**  Boston's Best Award Winner
       - description: >-
-          The St. Paddy’s Green Monster 2.0 “Green Eggs & SPAM” Topped with
-          Fresh Basil Pesto Souffléed Eggs, Grilled SPAM, Orange Vermont
-          Cheddar, 
+          In ‘n Out Animal Style-Chopped Cheese-Quesadilla Burger
+           “The 4/20 Blaze It”  
+          Topped with Griddled Onions, Chopped Cheese Quesadilla, Lettuce, Tomato, Cheddar Cheese, House B&B Pickles, Special Sauce
 
-          Sherry Pesto Aioli & Fried Green Tomatoes 
-             … ...add cheddar cheese $2 ..add jalapeno bacon $4   …add fried egg $3  …add  jalapenos $2  …add avocado $
+          … add cheddar cheese $2 ..add jalapeno bacon $4
+
+          …add fried egg $3 …add jalapenos $2…add avocado $3
         price: "29"
-        title: March 2026's VIP burger of the month
+        title: April 2026's  VIP burger of the Month
     title: All-Day / All-Night Allstars
   - description: " All the sides & Fixin’s"
     items:
