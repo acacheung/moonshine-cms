@@ -8,10 +8,6 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
-      - title: "Menu Addition: Japanese Cheesy-Potato Mochi Pancakes"
-        price: 18 regular / 28 grande
-        description: Savory Crispy Cheesy Garlic Potato Fritters, Japanese Sweet
-          Glutinous Rice Flour, Sweet Chili Glaze, Toasted Sesame  *GF/Veg
       - description: >
           
           Mini Belgian Waffle Bites with Baked Brie, Homemade Raspberry Jam, Sesame Candied Walnuts & Maple Syrup 
