@@ -59,23 +59,42 @@ subgroups:
     title: "Cheers To The Weekend! "
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
-      - description: " Herbed Garlic Crostini, Heirloom Cherry
-          Tomatoes,                                           Crispy Basil,
-          Strawberry-Balsamic Glaze "
+      - description: |
+          
+          Strawberry-Rhubarb Preserves,
+           Maple Syrup, Raspberry Creme 
+        title: "Menu Addition: Warm Baked Pancake Bread "
         price: "17 regular / 28 grande "
-        title: "Menu Addition: Whipped Ricotta Bruschetta"
       - description: "Warm Crispy Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
           Quinoa, Feta Cheese,                            Creamy Pesto Dressing,
           Aged Balsamic       "
         price: 19 regular / 29 grande
         title: "Menu Addition: crispy artichoke salad "
+      - description: " Herbed Garlic Crostini, Heirloom Cherry
+          Tomatoes,                                           Crispy Basil,
+          Strawberry-Balsamic Glaze "
+        price: "17 regular / 28 grande "
+        title: "Menu Addition: Whipped Ricotta Bruschetta"
       - description: |
           
           Mini Belgian Waffle Bites with Baked Brie, Raspberry Jam, 
           Sesame Candied Walnuts & Maple Syrup 
         price: "18 regular / 28 grande "
         title: "Menu Addition:  Baked Brie & Waffle Bites"
+      - description: |
+          
+          Savory Crispy Cheesy Garlic Potato Fritters,
+           Japanese Sweet Glutinous Rice Flour, 
+          Sweet Chili Glaze, Toasted Sesame *GF/Veg
+        price: "18 regular / 28 grande "
+        title: "Menu Addition: Japanese Cheesy-Potato  Mochi Pancakes "
+      - description: |
+          
+          Red Wine Braised Rabbit, Baby Carrots, Madeira Pan Sauce,
+          Balsamic Confit Cherry Tomatoes, Green Chili Cheese Grits
+        price: "29"
+        title: "Menu Addition: ‘Shine Easter Bunny ‘n Grits "
       - description: Local honey, Fresh berries, Oat-Flax-Chia Seed Granola Crunch **add
           a warm house belgian waffle $9**
         price: 11 regular / 16 grande
