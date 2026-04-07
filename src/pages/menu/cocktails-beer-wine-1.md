@@ -23,9 +23,10 @@ subgroups:
         price: "16"
         description: Rockey's Botanical Liqueur, House Ginger Liqueur, Bosc Pear Juice,
           Fresh Lemon Juice, Cinnamon Syrup
-      - title: Call Me Maple
+      - title: Patron Saint of Southie
         price: "15"
-        description: Rye Whiskey, Fresh Lemon Juice, Maple Syrup
+        description: Clontarf Whiskey, Peach Liqueur, Fresh Lime Juice, White Cranberry
+          Juice
       - description: "Mediterranean Red Wine Blend, Housemade Ginger Liqueur, Brandy,
           Hibiscus, Fresh Citrus Juices "
         price: "14"
@@ -67,7 +68,7 @@ subgroups:
       - description: 16 oz draft
         price: "8"
         title: (draft) Dorchester Brewing Co. Galaxy Session IPA
-      - title: (draft) Garage Beer Classic Light Lager
+      - title: (draft) Jack's Abby Banner City Light Lager
         price: "7"
         description: 16 oz draft
       - title: "(draft) Jack's Abby \"shipping out of boston\" amber lager "
