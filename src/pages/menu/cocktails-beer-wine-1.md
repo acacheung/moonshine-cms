@@ -53,9 +53,6 @@ subgroups:
       - title: Patio Crusher
         description: Aperol, Fresh Lemon Juice, Cinnamon, Pineapple Juice, Bubbles
         price: "14"
-      - title: Tepache Shandy
-        price: "15"
-        description: Brown Sugar Pineapple Tepache, Hero 95 Light Lager
       - title: Spring Sting
         price: "16"
         description: Another Hendricks Gin, Fresh Lemon Juice, Hot Honey
