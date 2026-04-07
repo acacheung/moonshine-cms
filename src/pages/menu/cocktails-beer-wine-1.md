@@ -77,7 +77,7 @@ subgroups:
       - description: 16 oz draft
         price: "8"
         title: (draft) Dorchester Brewing Co. Galaxy Session IPA
-      - title: (draft) Jack's Abby Banner City Light Lager
+      - title: (draft) Garage Beer Classic
         price: "7"
         description: 16 oz draft
       - title: "(draft) Jack's Abby \"shipping out of boston\" amber lager "
