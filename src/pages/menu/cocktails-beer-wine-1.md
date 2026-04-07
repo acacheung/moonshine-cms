@@ -58,7 +58,8 @@ subgroups:
         description: Another Hendricks Gin, Fresh Lemon Juice, Hot Honey
       - title: Meet Me in Nantucket
         price: "15"
-        description: Triple 8 Blueberry Vodka, Fresh House Lemonade, Blueberry Popping Boba
+        description: Triple 8 Blueberry Vodka, Fresh House Lemonade, Blueberry Popping
+          Boba. **Available Non-Alcoholic Just Ask for the Blueberry Sparkler
       - title: Moonshine's Rye Manhattan
         price: "15"
         description: Michter's Straight Rye, Antica Sweet Vermouth, Angostura Bitters
@@ -187,6 +188,9 @@ subgroups:
       - description: "White & Red Cranberry Juices, Fresh Lemonade "
         price: "7"
         title: Squeeze The Day (mocktail)
+      - title: Blueberry Sparkler (mocktail)
+        price: "8"
+        description: House Sparkling Lemonade, Blueberry Popping Boba
       - price: "5"
         title: "Unsweetened Iced Tea "
       - price: "6"
