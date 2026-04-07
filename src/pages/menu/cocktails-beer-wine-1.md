@@ -59,6 +59,9 @@ subgroups:
       - title: Tepache Shandy
         price: "15"
         description: Brown Sugar Pineapple Tepache, Hero 95 Light Lager
+      - title: Spring Sting
+        price: "16"
+        description: Another Hendricks Gin, Fresh Lemon Juice, Hot Honey
     title: "’Shine Specialty Cocktails "
   - description: "please note this menu is subject to change "
     items:
