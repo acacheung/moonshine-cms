@@ -78,7 +78,7 @@ subgroups:
       - title: (draft) Garage Beer Classic
         price: "7"
         description: 16 oz draft
-      - title: "(draft) Jack's Abby \"shipping out of boston\" amber lager "
+      - title: "(draft) Castle Island White "
         price: "7"
         description: 16 oz draft
       - title: Garage Beer Classic Lime Beer
@@ -99,6 +99,9 @@ subgroups:
       - title: Magner's Original Irish Cider
         price: "8"
         description: 16.9 oz tallboy can
+      - title: Jack's Abby Banner City Light Lager
+        price: "6"
+        description: 12 oz can
       - description: 12 oz bottle
         price: "6"
         title: "SAPPORO "
