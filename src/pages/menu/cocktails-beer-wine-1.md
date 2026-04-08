@@ -250,7 +250,7 @@ subgroups:
         price: xxxxx
         title: "Rum  & Cognac "
       - description: Jim Beam Bourbon...$10...Four Roses Bourbon...$11...Michter's
-          Bourbon...$11...Maker's Mark Bourbon...$11... Maknobd River Bourbon
+          Bourbon...$11...Maker's Mark Bourbon...$11... Mad River Bourbon
           ...$11.... Bully Boy Straight American Whiskey...$11... Uncle Nearest
           1884 Small Batch Whiskey ...$12...Uncle Nearest 1856
           Whiskey...$13...Jack Daniels Whiskey...$11... Old Overholt
