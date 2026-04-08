@@ -230,7 +230,7 @@ subgroups:
         title: "Vodka "
       - description: Gin Lane London Dry...$10...Bombay Sapphire...$11...
           Tanqueray...$11... Hendrick's...$12..GrandTen Wire Works Gin...$11....
-          Four Corner's American... $12...Glendalough Irish Wild
+          Four Corner's American... $11...Glendalough Irish Wild
           Botanical...$11... Empress 1908 Indigo Butterfly Pea Blossom Gin...$12
         price: xxxxx
         title: Gin
