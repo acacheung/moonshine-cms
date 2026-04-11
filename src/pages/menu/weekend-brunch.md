@@ -27,6 +27,10 @@ subgroups:
       - description: "Orange Vodka, Pineapple-Orange Juice, Prosecco "
         price: "14"
         title: "Leslie Knope’s Approved Executive Mimosa "
+      - title: Pawnee Goddess
+        price: "14"
+        description: "London Dry Gin, Rockey's Botanical Liqueur, Fresh Grapefruit,
+          Prosecco "
       - description: "Bison Grass Vodka, Cinnamon, Apple, Lemon "
         price: "14"
         title: "R.I.P. Li’l Sebastian "
@@ -82,19 +86,6 @@ subgroups:
           Sesame Candied Walnuts & Maple Syrup 
         price: "18 regular / 28 grande "
         title: "Menu Addition:  Baked Brie & Waffle Bites"
-      - description: |
-          
-          Savory Crispy Cheesy Garlic Potato Fritters,
-           Japanese Sweet Glutinous Rice Flour, 
-          Sweet Chili Glaze, Toasted Sesame *GF/Veg
-        price: "18 regular / 28 grande "
-        title: "Menu Addition: Japanese Cheesy-Potato  Mochi Pancakes "
-      - description: |
-          
-          Red Wine Braised Rabbit, Baby Carrots, Madeira Pan Sauce,
-          Balsamic Confit Cherry Tomatoes, Green Chili Cheese Grits
-        price: "29"
-        title: "Menu Addition: ‘Shine Easter Bunny ‘n Grits "
       - description: Local honey, Fresh berries, Oat-Flax-Chia Seed Granola Crunch **add
           a warm house belgian waffle $9**
         price: 11 regular / 16 grande
