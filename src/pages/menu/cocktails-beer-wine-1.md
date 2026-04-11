@@ -55,7 +55,7 @@ subgroups:
         price: "14"
       - title: Spring Sting
         price: "16"
-        description: Another Hendricks Gin, Fresh Lemon Juice, Hot Honey
+        description: Hendricks Gin, Fresh Lemon Juice, Hot Honey
       - title: Meet Me in Nantucket
         price: "15"
         description: Triple 8 Blueberry Vodka, Fresh House Lemonade, Blueberry Popping
