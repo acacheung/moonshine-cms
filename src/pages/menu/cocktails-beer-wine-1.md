@@ -47,9 +47,6 @@ subgroups:
           Just ask for Baileys Irish Cream!) "
         price: "16"
         title: "'Shine Espresso Martini"
-      - title: La Diabla
-        price: "14"
-        description: Tres Agave Blanco, Creme de Cassis, Fresh Lime Juice, Ginger Beer
       - title: Patio Crusher
         description: Aperol, Fresh Lemon Juice, Cinnamon, Pineapple Juice, Bubbles
         price: "14"
