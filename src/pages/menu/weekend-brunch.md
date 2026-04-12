@@ -287,7 +287,7 @@ subgroups:
           vegan!)     "
         price: "13"
         title: Tropical Mango Pavlova
-      - description: Toasted Pistachio OR Chocolate Chip Cookie Dough
+      - description: Toasted Pistachio OR  Cookie Dough
         price: "11"
         title: Chef's whim ice cream of the day
       - description: Tropical mango
