@@ -169,12 +169,6 @@ subgroups:
           Local Cod, Shrimp, Lobster-Tomato Broth, Linguica Sausage, Kale, Buttermilk Biscuit Toasties, Saffron Aioli 
         title: "Menu Addition: Portuguese Fisherman’s Stew "
         price: "29"
-      - description: |2
-                                              
-          Slow-Cooked Chicken Pot Pie Casserole 
-          with Homemade Parisienne Gnocchi Dumplings, Peas & Mirepoix 
-        price: "28"
-        title: "Menu Addition: Classic Chicken n’ Dumplings    "
       - title: "Menu Addition: Chef Asia’s Famous Louisiana Braised Rabbit Pasta"
         price: "29"
         description: |
