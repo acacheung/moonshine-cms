@@ -50,9 +50,6 @@ subgroups:
       - title: Patio Crusher
         description: Aperol, Fresh Lemon Juice, Cinnamon, Pineapple Juice, Bubbles
         price: "14"
-      - title: Spring Sting
-        price: "16"
-        description: Hendricks Gin, Fresh Lemon Juice, Hot Honey
       - title: Meet Me in Nantucket
         price: "15"
         description: Triple 8 Blueberry Vodka, Fresh House Lemonade, Blueberry Popping
