@@ -167,8 +167,8 @@ subgroups:
     title: The Main Affair
   - description: Our all-time favorite dishes, available whenever the kitchen is open!
     items:
-      - description: "Southie’s Favorite Irish Potato Curry: Thai Pepper Penang Curry,
-          Simmered Veggies, Coconut Milk, Basil (vegan & gluten-free)"
+      - description: "Creamy Spring Baby Carrot Ginger Soup: Sweet Baby Carrots, Fresh
+          Ginger, Thyme (vegetarian & gluten-free)"
         price: 14 / 24
         title: Chef’s Whim Soup for the Soul
       - description: >
