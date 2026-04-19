@@ -168,6 +168,14 @@ subgroups:
         description: Tempura-Beer Battered Haddock, House Shoestring French Fries,
           Southie Irish Curry Mayo Classic Lemon Tartar Sauce, Petite Mixed
           Greens Salad
+      - description: >
+          
+          Layered Pasta with San Marzano Pomodoro Sauce, Herbed Ricotta Cheese, Mozzarella, 
+
+          Confit Cherry Tomatoes, Crispy Basil 
+        price: "28"
+        title: "Menu Addition: Boston Marathon Week “Carbo-Load”  San Marzano Baked
+          Lasagna "
       - description: >2
            
           Local Cod, Shrimp, Lobster-Tomato Broth, Linguica Sausage, Kale, Buttermilk Biscuit Toasties, Saffron Aioli 
