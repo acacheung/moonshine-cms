@@ -65,12 +65,11 @@ subgroups:
       Don't forget to top it off by adding your favorite proteins, fixins, sides
       & sauces to any dish.
     items:
-      - title: "Chef's Whim Soup of the Day: Southie’s Favorite  Irish Potato
-          Curry     "
+      - title: Chef's Whim Soup of the Day
         price: 14 regular / 24 grande
         description: >-
           
-          Thai Pepper Penang Curry, Simmered Veggies, Coconut Milk, Basil (vegan & gluten-free)
+          Creamy Spring Baby Carrot Ginger Soup: Sweet Baby Carrots, Fresh Ginger, Thyme (vegetarian & gluten-free)
       - description: Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton
           crisps, Shaved pecorino cheese
         price: 18 regular / 29 grande
