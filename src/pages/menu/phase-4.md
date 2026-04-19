@@ -6,6 +6,12 @@ order: 5
 subgroups:
   - description: Add a Warm Belgian Waffle to Your Favorite Dessert $9
     items:
+      - description: |-2
+                                 
+          Classic Flan-Style Baked Caramel Custard,
+           Seasonal Fruit (gluten-free)
+        price: "14"
+        title: "Menu Addition: Bistro Creme Caramel "
       - price: "15"
         title: "Menu Addition: ‘Shine Warm Sticky Toffee Bread Pudding    "
         description: Sea Salted Dulce de Leche, Chantilly Cream   …add scoop chocolate
