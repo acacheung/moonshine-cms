@@ -8,6 +8,11 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
+      - title: "Menu Addition: Moonshine’s Famous BLT  Wedge Salad "
+        description: " Candied Maple Bacon Bits, Crispy Iceberg Lettuce, Shredded Beet
+          Crema, Heirloom Cherry Tomatoes, Chopped Boiled Egg, Green Goddess
+          Dressing"
+        price: "19 regular / 29 grande "
       - description: >
           
           Mini Belgian Waffle Bites with Baked Brie, Homemade Raspberry Jam, Sesame Candied Walnuts & Maple Syrup 
