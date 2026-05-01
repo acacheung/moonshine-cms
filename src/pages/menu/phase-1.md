@@ -199,8 +199,7 @@ subgroups:
       - description: >-
           “Spring Has Sprung” Spring Roll Burger topped with a Thai Crispy
           Veggie Spring Roll, Roasted Peanut Sauce, Pineapple Cabbage
-          Slaw,                               Housemade Sweet & Sour “Duck
-          Sauce” Glaze 
+          Slaw,  Housemade Sweet & Sour “Duck Sauce” Glaze 
 
 
           … add cheddar cheese $2 ..add jalapeno bacon $4
