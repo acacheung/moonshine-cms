@@ -19,10 +19,6 @@ subgroups:
         price: "16"
         description: Star & Key Passionfruit Rum, Ole Smokey White Chocolate Strawberry
           Cream Moonshine, Fresh Lime, Simple
-      - title: Rockey's Bosc N' Bot
-        price: "16"
-        description: Rockey's Botanical Liqueur, House Ginger Liqueur, Bosc Pear Juice,
-          Fresh Lemon Juice, Cinnamon Syrup
       - title: Patron Saint of Southie
         price: "15"
         description: Clontarf Whiskey, Peach Liqueur, Fresh Lime Juice, White Cranberry
