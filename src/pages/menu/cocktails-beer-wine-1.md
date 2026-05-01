@@ -19,6 +19,10 @@ subgroups:
         price: "16"
         description: Star & Key Passionfruit Rum, Ole Smokey White Chocolate Strawberry
           Cream Moonshine, Fresh Lime, Simple
+      - title: Hurricane Rockey
+        price: "15"
+        description: Rockey's Botanical Liqueur, Rum 44 Silver Rum, Combier Banana
+          Liqueur, Fresh Lemon Juice, Simple Syrup, Spiced Rum Float
       - title: Patron Saint of Southie
         price: "15"
         description: Clontarf Whiskey, Peach Liqueur, Fresh Lime Juice, White Cranberry
