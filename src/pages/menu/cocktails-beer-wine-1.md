@@ -188,6 +188,10 @@ subgroups:
       - title: Blueberry Sparkler (mocktail)
         price: "8"
         description: House Sparkling Lemonade, Blueberry Popping Boba
+      - title: Lucano Cooler
+        price: "10"
+        description: Lucano Amaro Zero, Pineapple Juice, White Cranberry Juice, Ginger
+          Ale Flout
       - price: "5"
         title: "Unsweetened Iced Tea "
       - price: "6"
