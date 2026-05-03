@@ -55,7 +55,7 @@ subgroups:
         price: 16 regular / 27 grande
         title: Blistered Shishito Peppers
       - description: Organic ground lamb, habanero date jam, lingonberry (gluten free)
-        price: 19 regular (4)  / 29 grande (8)
+        price: 19 regular (4)  / 29 grande (6)
         title: Spicy Lamb Meatballs
       - description: Crispy olive oil roasted potatoes, sherry pesto aioli, roasted
           garlic oil
