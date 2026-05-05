@@ -69,18 +69,12 @@ subgroups:
       - description: 16 oz draft
         price: "8"
         title: (draft) Dorchester Brewing Co. Galaxy Session IPA
-      - title: (draft) Garage Beer Classic
+      - title: (draft) Garage Beer Classic Light Lager
         price: "7"
         description: 16 oz draft
-      - title: "(draft) Castle Island White "
+      - title: (draft) Castle Island White Ale
         price: "7"
         description: 16 oz draft
-      - title: Garage Beer Classic Lime Beer
-        price: "6"
-        description: 16 oz tallboy can
-      - title: "Hero 95 "
-        price: "7"
-        description: 12 oz Can
       - title: SunCruiser Iced Tea & Lemonade
         price: "10"
         description: "12 oz can "
@@ -93,24 +87,33 @@ subgroups:
       - title: Magner's Original Irish Cider
         price: "8"
         description: 16.9 oz tallboy can
-      - title: Jack's Abby Banner City Light Lager
-        price: "6"
-        description: 12 oz can
       - description: 12 oz bottle
         price: "6"
         title: "SAPPORO "
       - description: "12 oz bottle "
         price: "7"
         title: "Corona Extra "
-      - title: Allagash White
-        price: "7"
-        description: "16 oz tallboy can "
       - title: Smithwicks Irish Red Ale
         price: "8"
         description: 14.9 oz tall boy can
+      - description: "16 oz nitro can "
+        price: "8"
+        title: "Guinness Nitro Stout "
       - title: Battery Steele's Golden Path Pilsner
         price: "10"
         description: 16 oz tallboy can
+      - title: Allagash White
+        price: "7"
+        description: "16 oz tallboy can "
+      - title: Garage Beer Classic Lime Beer
+        price: "6"
+        description: 16 oz tallboy can
+      - title: "Hero 95 "
+        price: "7"
+        description: 12 oz Can
+      - title: Jack's Abby Banner City Light Lager
+        price: "6"
+        description: 12 oz can
       - description: 16 oz tallboy can
         price: "6"
         title: Narragansett Lager
@@ -120,9 +123,6 @@ subgroups:
       - description: "16 oz tallboy can "
         price: "12"
         title: Lawson's Sip of Sunshine IPA
-      - description: "16 oz nitro can "
-        price: "8"
-        title: "Guinness Nitro Stout "
       - description: "16 oz nitro can "
         price: "7"
         title: Guinness ZERO (Non-Alcoholic)
