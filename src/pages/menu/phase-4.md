@@ -9,7 +9,7 @@ subgroups:
       - price: "15"
         title: "Menu Addition: ‘Shine Warm Sticky Toffee Bread Pudding    "
         description: Sea Salted Dulce de Leche, Chantilly Cream   …add scoop chocolate
-          chip cookie dough ice cream $3 …add scoop toasted picachio ice cream
+          chip cookie dough ice cream $3 …add scoop toasted pistachio ice cream
           $3
       - description: |
           
