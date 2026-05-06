@@ -96,9 +96,6 @@ subgroups:
       - title: Smithwicks Irish Red Ale
         price: "8"
         description: 14.9 oz tall boy can
-      - description: "16 oz nitro can "
-        price: "8"
-        title: "Guinness Nitro Stout "
       - title: Battery Steele's Golden Path Pilsner
         price: "10"
         description: 16 oz tallboy can
