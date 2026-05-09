@@ -125,6 +125,9 @@ subgroups:
       - description: "16 oz tallboy can "
         price: "12"
         title: Lawson's Sip of Sunshine IPA
+      - title: Guinness
+        price: "7"
+        description: 14.9 oz tallboy can
       - description: "16 oz nitro can "
         price: "7"
         title: Guinness ZERO (Non-Alcoholic)
