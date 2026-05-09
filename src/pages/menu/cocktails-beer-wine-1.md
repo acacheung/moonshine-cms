@@ -51,9 +51,8 @@ subgroups:
         description: Aperol, Fresh Lemon Juice, Cinnamon, Pineapple Juice, Bubbles
         price: "14"
       - title: Meet Me in Nantucket
-        price: "15"
-        description: Triple 8 Blueberry Vodka, Fresh House Lemonade, Blueberry Popping
-          Boba. **Available Non-Alcoholic Just Ask for the Blueberry Sparkler
+        price: "14"
+        description: Triple 8 Blueberry Vodka, Fresh House Lemonade
       - title: Moonshine's Rye Manhattan
         price: "15"
         description: Michter's Straight Rye, Antica Sweet Vermouth, Angostura Bitters
