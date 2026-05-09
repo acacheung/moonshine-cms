@@ -7,8 +7,10 @@ subgroups:
   - description: ""
     items:
       - description: >+
-          Celtic Pride Jello Shots: Layered Lime & Orange Jello Shots made with
-          Irish Whiskey & Irish Gin 
+          Spring Citrus Punch: Irish Whiskey, Peach Liqueur & Irish Gin Jello
+          Shots 
+
+          with Mixed Citrus Jello, Fresh Orange and Lime Juice, Fresh Citrus Zest
 
 
 
