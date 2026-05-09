@@ -7,10 +7,9 @@ subgroups:
   - description: ""
     items:
       - description: >+
-          Spring Citrus Punch: Irish Whiskey, Peach Liqueur & Irish Gin Jello
-          Shots 
+          Spring Citrus Punch: Irish Whiskey & Gin, Peach Liqueur Jello Shots 
 
-          with Mixed Citrus Jello, Fresh Orange and Lime Juice, Fresh Citrus Zest
+          with Mixed Citrus Jello, Fresh Orange & Lime Juices, Fresh Citrus Zests
 
 
 
