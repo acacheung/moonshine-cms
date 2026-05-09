@@ -186,9 +186,9 @@ subgroups:
       - description: "White & Red Cranberry Juices, Fresh Lemonade "
         price: "7"
         title: Squeeze The Day (mocktail)
-      - title: Blueberry Sparkler (mocktail)
+      - title: Strawberry-Lychee Sparkler (mocktail)
         price: "8"
-        description: House Sparkling Lemonade, Blueberry Popping Boba
+        description: House Sparkling Lemonade, Strawberry-Lychee Popping Boba
       - title: Lucano Cooler (mocktail)
         price: "10"
         description: Lucano Amaro Zero, Pineapple Juice, White Cranberry Juice, Ginger
