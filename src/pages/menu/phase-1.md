@@ -168,11 +168,6 @@ subgroups:
         description: Tempura-Beer Battered Haddock, House Shoestring French Fries,
           Southie Irish Curry Mayo Classic Lemon Tartar Sauce, Petite Mixed
           Greens Salad
-      - description: >2
-           
-          Local Cod, Shrimp, Lobster-Tomato Broth, Linguica Sausage, Kale, Buttermilk Biscuit Toasties, Saffron Aioli 
-        title: "Menu Addition: Portuguese Fisherman’s Stew "
-        price: "29"
       - title: "Menu Addition: Chef Asia’s Famous Louisiana Braised Rabbit Pasta"
         price: "29"
         description: |
