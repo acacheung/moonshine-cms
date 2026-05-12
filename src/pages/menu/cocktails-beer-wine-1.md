@@ -16,10 +16,10 @@ subgroups:
 
         price: "7"
         title: Rotating Jello Shots
-      - title: Danimals Strawberry Daiquiri
+      - title: Key Lime Mezcaltini
         price: "16"
-        description: Star & Key Passionfruit Rum, Ole Smokey White Chocolate Strawberry
-          Cream Moonshine, Fresh Lime, Simple
+        description: Xicaru Mezcal, Key Lime Cream Ole Smoky Moonshine, Fresh Lime
+          Juice, Cinnamon Syrup, Cranberry Juice
       - title: Hurricane Rockey
         price: "15"
         description: Rockey's Botanical Liqueur, Rum 44 Silver Rum, Combier Banana
