@@ -112,8 +112,6 @@ subgroups:
         price: "14"
       - price: "15"
         title: Marinated Skirt Steak**
-      - title: Shine Smoky Meatloaf
-        price: "15"
       - price: "15"
         title: SAUTÉED BABY SHRIMP**
       - price: "15"
