@@ -161,6 +161,10 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
+      - description: "Garlic-Fennel Grilled Shrimp, Pillowy Potato Dumplings, Spiced Fra
+          Diavoli Marinara, Buttery Toasted Breadcrumbs, Sauteed Greens "
+        price: "29"
+        title: "Menu Addition: Grilled Shrimp Fra Diavolo "
       - title: "Menu Addition: ‘Shine Fish n’ Chips"
         price: "29"
         description: Tempura-Beer Battered Haddock, House Shoestring French Fries,
