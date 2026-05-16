@@ -69,6 +69,11 @@ subgroups:
            Maple Syrup, Raspberry Creme 
         title: "Menu Addition: Warm Baked Pancake Bread "
         price: "17 regular / 28 grande "
+      - description: |
+          Sweet Lemon Blueberry Bread,
+           Almond Flour, Mixed Berry Glaze 
+        price: "14"
+        title: "Menu Addition: Gluten-Free Warm Blueberry Almond Bread "
       - description: "Warm Crispy Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
           Quinoa, Feta Cheese,                            Creamy Pesto Dressing,
