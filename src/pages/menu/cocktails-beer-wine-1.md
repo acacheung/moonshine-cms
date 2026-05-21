@@ -20,10 +20,15 @@ subgroups:
         price: "16"
         description: Xicaru Mezcal, Key Lime Cream Ole Smoky Moonshine, Fresh Lime
           Juice, Cinnamon Syrup, Cranberry Juice
+      - description: >
+          Mango Vodka, RumChata, Chamomile Infused Bergamot Sweet Tea, Maple
+          Pineapple Limeade 
+        price: "14"
+        title: Golden Hour Bloom
       - title: Hurricane Rockey
         price: "15"
-        description: Rockey's Botanical Liqueur, Rum 44 Silver Rum, Combier Banana
-          Liqueur, Fresh Lemon Juice, Simple Syrup, Spiced Rum Float
+        description: Mad River Rum 44 Silver Rum, Rockey's Botanical Liqueur,  Combier
+          Banana Liqueur, Fresh Lemon Juice, Simple Syrup, Spiced Rum Float
       - title: Patron Saint of Southie
         price: "15"
         description: Clontarf Whiskey, Peach Liqueur, Fresh Lime Juice, White Cranberry
