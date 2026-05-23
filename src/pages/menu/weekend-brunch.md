@@ -69,11 +69,10 @@ subgroups:
            Maple Syrup, Raspberry Creme 
         title: "Menu Addition: Warm Baked Pancake Bread "
         price: "17 regular / 28 grande "
-      - description: |
-          Sweet Lemon Blueberry Bread,
-           Almond Flour, Mixed Berry Glaze 
-        price: "14"
-        title: "Menu Addition: Gluten-Free Warm Blueberry Almond Bread "
+      - description: served a la mode with Strawberry Ice Cream, Toasted Almonds & Mixed
+          Berry Glaze
+        price: "16"
+        title: "Menu Addition: Gluten-Free Brown Sugar Peach Berry Cobbler "
       - description: "Warm Crispy Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
           Quinoa, Feta Cheese,                            Creamy Pesto Dressing,
@@ -267,6 +266,10 @@ subgroups:
     title: All the sides & Fixin’s
   - description: " (Dessert)"
     items:
+      - description: served a la mode with Strawberry Ice Cream, Toasted Almonds & Mixed
+          Berry Glaze
+        price: "16"
+        title: "Menu Addition: Brown Sugar Peach Berry Biscuit Cobbler "
       - title: "Menu Addition: Warm Sticky Toffee Bread Pudding "
         price: "15"
         description: Sea Salted Dulce de Leche, Chantilly Cream
@@ -292,7 +295,7 @@ subgroups:
           vegan!)     "
         price: "13"
         title: Tropical Mango Pavlova
-      - description: Toasted Pistachio OR  Cookie Dough
+      - description: Toasted Pistachio
         price: "11"
         title: Chef's whim ice cream of the day
       - description: Tropical mango
