@@ -6,11 +6,14 @@ order: 5
 subgroups:
   - description: Add a Warm Belgian Waffle to Your Favorite Dessert $9
     items:
+      - title: "Menu Addition: Gluten Free Brown Sugar Peach Berry Biscuit Cobbler"
+        price: "16"
+        description: served a la mode with Strawberry Ice Cream, Toasted Almonds & Mixed
+          Berry Glaze
       - price: "15"
         title: "Menu Addition: ‘Shine Warm Sticky Toffee Bread Pudding    "
-        description: Sea Salted Dulce de Leche, Chantilly Cream   …add scoop chocolate
-          chip cookie dough ice cream $3 …add scoop toasted pistachio ice cream
-          $3
+        description: Sea Salted Dulce de Leche, Chantilly Cream    …add scoop toasted
+          pistachio ice cream $3
       - description: |
           
           St. Louis Inspired Brown Butter Gooey Cake, 
@@ -40,7 +43,7 @@ subgroups:
       - description: Mango
         price: "11"
         title: "Chef's Whim Sorbet (vegan) "
-      - description: Toasted Pistachio OR Chocolate Chip Cookie Dough
+      - description: "Toasted Pistachio "
         price: "11"
         title: Chef's Whim Ice Cream
     title: Sweet Tooth
