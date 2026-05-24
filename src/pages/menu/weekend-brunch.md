@@ -63,12 +63,6 @@ subgroups:
     title: "Cheers To The Weekend! "
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
-      - description: |
-          
-          Strawberry-Rhubarb Preserves,
-           Maple Syrup, Raspberry Creme 
-        title: "Menu Addition: Warm Baked Pancake Bread "
-        price: "17 regular / 28 grande "
       - description: served a la mode with Strawberry Ice Cream, Toasted Almonds & Mixed
           Berry Glaze
         price: "16"
