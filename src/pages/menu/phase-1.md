@@ -171,11 +171,6 @@ subgroups:
         description: Tempura-Beer Battered Haddock, House Shoestring French Fries,
           Southie Irish Curry Mayo Classic Lemon Tartar Sauce, Petite Mixed
           Greens Salad
-      - title: "Menu Addition: Chef Asia’s Famous Louisiana Braised Rabbit Pasta"
-        price: "29"
-        description: |
-          Red Wine Braised Rabbit, Brown Butter-Louisiana Cream Sauce, 
-          Toasted Hazelnuts, Crispy Sage 
       - title: "Menu Addition: Korean Beef Shortrib & Bibimbap Rice Bowl"
         price: "29"
         description: House Kimchi, Stirfried Tofu, Warm Sushi Rice, Baby Bok Choy, Fried
