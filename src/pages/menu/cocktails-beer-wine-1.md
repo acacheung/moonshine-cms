@@ -6,10 +6,9 @@ order: 1
 subgroups:
   - description: ""
     items:
-      - description: >+
-          Spring Citrus Punch: Irish Whiskey & Gin, Peach Liqueur Jello Shots 
-
-          with Mixed Citrus Jello, Fresh Orange & Lime Juices, Fresh Citrus Zests
+      - description: |+
+          Whiskey Sour: American Bourbon Whiskey, Lemon Jello,
+           Fresh Lemon Zest, Amarana Cherry 
 
 
 
@@ -64,8 +63,8 @@ subgroups:
         description: Michter's Straight Rye, Antica Sweet Vermouth, Angostura Bitters
       - title: Asia's Hard Poppin' Lemmie
         price: "15"
-        description: Black Infusions Apricot Vodka, Strawberry and Lychee Popping Boba,
-          Fresh Sparkling Lemonade. ** Available Non-Alcoholic Just Ask for the
+        description: Reyka Vodka, Strawberry and Lychee Popping Boba, Fresh Sparkling
+          Lemonade. ** Available Non-Alcoholic Just Ask for the
           Strawberry-Lychee Sparkler
     title: "’Shine Specialty Cocktails "
   - description: "please note this menu is subject to change "
