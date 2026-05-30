@@ -7,8 +7,8 @@ subgroups:
   - description: "Brunch Cocktails & Beverages "
     items:
       - description: |+
-          Celtic Pride: Irish Whiskey & Irish Gin Jello Shots 
-          with Orange & Lime Jello, Fresh Citrus Zests
+          Whiskey Sour: American Bourbon Whiskey, Lemon Jello,
+           Fresh Lemon Zest, Amarana Cherry 
 
 
 
