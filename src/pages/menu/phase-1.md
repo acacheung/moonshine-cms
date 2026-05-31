@@ -27,11 +27,6 @@ subgroups:
         price: 18 (2) / 27 (3)
         description: Braised Thai BBQ Pork Belly, Soft Steamed Chinatown Buns, Honey
           Roasted Peanuts, Ginger Cabbage Slaw
-      - description: >-
-          
-          Tempura-Beer Battered Soft Shell Crabs, Soft Steamed Chinatown Buns, Honey Roasted Peanuts, Ginger Cabbage Slaw 
-        title: "Menu Addition: Soft Shell Crab Bao Buns "
-        price: $22 (2) / $33 (3)
       - description: "Shredded Beef & Cheese Tacos, Pickled Red Cabbage Salsa, Smoky
           Sriracha Mayo,   & Birria Dipping Jus  "
         price: "$18 (2 tacos) / $28 (4 tacos)  "
@@ -183,13 +178,6 @@ subgroups:
         description: Tempura-Beer Battered Haddock, House Shoestring French Fries,
           Southie Irish Curry Mayo Classic Lemon Tartar Sauce, Petite Mixed
           Greens Salad
-      - description: >
-          
-          Tempura-Beer Battered Soft Shell Crabs, House Shoestring French Fries, Southie Irish Curry Mayo, Classic Lemon 
-
-          Tartar Sauce, Petite Mixed Greens Salad  
-        title: "Menu Addition: Soft Shell Crab & Chips"
-        price: "34"
       - title: "Menu Addition: Korean Beef Shortrib & Bibimbap Rice Bowl"
         price: "29"
         description: House Kimchi, Stirfried Tofu, Warm Sushi Rice, Baby Bok Choy, Fried
