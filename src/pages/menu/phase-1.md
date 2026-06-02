@@ -192,16 +192,15 @@ subgroups:
         price: "24"
         title: GRASS-FED ’SHINE BEEF BURGER**  Boston's Best Award Winner
       - description: >-
-          “Spring Has Sprung” Spring Roll Burger topped with a Thai Crispy
-          Veggie Spring Roll, Roasted Peanut Sauce, Pineapple Cabbage
-          Slaw,  Housemade Sweet & Sour “Duck Sauce” Glaze 
-
+          "The Kimchi Burger"  topped with House Kimchi-Scallion Pancake, Melted
+          Mozzarella Cheese, Asian Pear Kimchi, Banchan Pickles &
+          Gochujang-Sticky Soy Glaze 
 
           … add cheddar cheese $2 ..add jalapeno bacon $4
 
           …add fried egg $3 …add jalapenos $2…add avocado $3
         price: "29"
-        title: May 2026's  VIP burger of the month
+        title: June 2026's  VIP burger of the month
       - description: Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
         price: "29"
