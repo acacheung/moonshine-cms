@@ -67,6 +67,11 @@ subgroups:
           Berry Glaze
         price: "16"
         title: "Menu Addition: Gluten-Free Brown Sugar Peach Berry Cobbler "
+      - description: |2
+           Honey Roasted Peanut Butter, Strawberry Jam, 
+          Maple Syrup, Berry Glaze 
+        price: "21 regular / 29 grande "
+        title: "Menu Addition: Tempura Beer Battered PB&J Uncrustables "
       - description: "Warm Crispy Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
           Quinoa, Feta Cheese,                            Creamy Pesto Dressing,
