@@ -269,9 +269,6 @@ subgroups:
           Berry Glaze
         price: "16"
         title: "Menu Addition: Brown Sugar Peach Berry Biscuit Cobbler "
-      - title: "Menu Addition: Warm Sticky Toffee Bread Pudding "
-        price: "15"
-        description: Sea Salted Dulce de Leche, Chantilly Cream
       - description: |2
                                
           St. Louis Inspired Brown Butter Gooey Cake, 
