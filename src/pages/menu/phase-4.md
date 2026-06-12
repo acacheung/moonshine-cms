@@ -10,10 +10,6 @@ subgroups:
         price: "16"
         description: served a la mode with Strawberry Ice Cream, Toasted Almonds & Mixed
           Berry Glaze
-      - price: "15"
-        title: "Menu Addition: ‘Shine Warm Sticky Toffee Bread Pudding    "
-        description: Sea Salted Dulce de Leche, Chantilly Cream    …add scoop toasted
-          pistachio ice cream $3
       - description: |
           
           St. Louis Inspired Brown Butter Gooey Cake, 
