@@ -265,6 +265,12 @@ subgroups:
     title: All the sides & Fixin’s
   - description: " (Dessert)"
     items:
+      - description: |2
+           $14                            
+          Pina Colada Coconut Custard, 
+          Caramelized Pineapple Jam, Toasted Coconut
+        title: "Menu Addition: White Chocolate Macadamia Nut Cookies"
+        price: "14"
       - description: served a la mode with Strawberry Ice Cream, Toasted Almonds & Mixed
           Berry Glaze
         price: "16"
