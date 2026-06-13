@@ -20,11 +20,12 @@ subgroups:
           Filo-Kataifi, Hazelnut Chocolate Sauce, Whipped Cream "
         price: "17"
         title: 'Menu Addition: "Dubai" Belgian Waffle Ice Cream Sundae'
-      - description: >2
-           $18 / $28
-          Mini Belgian Waffle Bites with Baked Brie, Homemade Raspberry Jam, Sesame Candied Walnuts & Maple Syrup 
-        title: "Menu Addition:  Baked Brie & Waffle Bites"
-        price: "18 regular / 28 grande "
+      - description: |+
+          Pina Colada Coconut Custard, 
+          Caramelized Pineapple Jam, Toasted Coconut  
+
+        title: "Menu Addition:  White Chocolate Macadamia Nut Cookies"
+        price: "14"
       - description: Chantilly whipped cream, toasted oat-amaranth streusel
         price: "12"
         title: Moonshine’s Butterscotch Pudding
