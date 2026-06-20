@@ -67,9 +67,10 @@ subgroups:
     items:
       - title: Chef's Whim Soup of the Day
         price: 14 regular / 24 grande
-        description: >-
-          
-          Creamy Spring Baby Carrot Ginger Soup: Sweet Baby Carrots, Fresh Ginger, Thyme (vegetarian & gluten-free)
+        description: >
+          Chef Asia’s Famous Chilled Beet Gazpacho  (vegetarian & gluten-free):
+          Chef Asia’s Famous Chilled Roasted Beet Soup, Dill Crème Fraîche,
+          Shaved Cucumber 
       - description: Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton
           crisps, Shaved pecorino cheese
         price: 18 regular / 29 grande
