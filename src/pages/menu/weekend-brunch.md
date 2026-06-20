@@ -170,8 +170,9 @@ subgroups:
     title: The Main Affair
   - description: Our all-time favorite dishes, available whenever the kitchen is open!
     items:
-      - description: "Creamy Spring Baby Carrot Ginger Soup: Sweet Baby Carrots, Fresh
-          Ginger, Thyme (vegetarian & gluten-free)"
+      - description: "Chef Asia’s Famous Chilled Beet Gazpacho  (vegetarian &
+          gluten-free): Chef Asia’s Famous Chilled Roasted Beet Soup, Dill Crème
+          Fraîche, Shaved Cucumber "
         price: 14 / 24
         title: Chef’s Whim Soup for the Soul
       - description: >
