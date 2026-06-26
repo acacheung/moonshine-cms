@@ -18,6 +18,12 @@ subgroups:
           Balsamic Glaze "
         title: "Menu Addition:  'Shine Whipped Ricotta Bruschetta"
         price: 17 regular (4) / 28 grande (8)
+      - title: "Menu Addition: Chef Asia’s Famous Grilled  Summer Street Corn Salad "
+        price: "18 regular /  28 grande "
+        description: |
+          Local Sweet Grilled Corn Salad Done Elote-Style, 
+          Basil Macerated Tomatoes, Citrus Aioli,
+           Crumbled Cotija Cheese, Espelette Pepper 
       - title: "Menu Addition: Moonshine’s Famous BLT  Wedge Salad "
         description: " Candied Maple Bacon Bits, Crispy Iceberg Lettuce, Shredded Beet
           Crema, Heirloom Cherry Tomatoes, Chopped Boiled Egg, Green Goddess
