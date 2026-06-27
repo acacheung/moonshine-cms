@@ -180,6 +180,13 @@ subgroups:
           Pomegranate
         price: "29"
         title: "Menu Addition: Garlic Butter Grilled Flank Steak Skewers"
+      - description: >
+          Tempura-Beer Battered Soft Shell Crabs, House Shoestring French Fries,
+          Southie Irish Curry Mayo, Classic Lemon 
+
+          Tartar Sauce, Petite Mixed Greens Salad  
+        price: "34"
+        title: "Menu Addition: Soft Shell Crab & Chips"
       - title: "Menu Addition: ‘Shine Fish n’ Chips"
         price: "29"
         description: Tempura-Beer Battered Haddock, House Shoestring French Fries,
@@ -226,7 +233,7 @@ subgroups:
           greens salad, teriyaki, sweet chili glaze, house-cut shoestring french
           fries... available vegetarian without pulled pork 26
         price: "28"
-        title: RON SWANSON  CHIPOTLE PULLED PORK SCALLION PANCAKE QUESADILLA**
+        title: RON SWANSON  CHIPOTLE PULLED PORK SCALLION PANCAKE QUESADILLA
     title: THE MAIN AFFAIR-Entrees
   - description: Compliment your meal by adding your favorite fixins, sides & sauces!
     items:
