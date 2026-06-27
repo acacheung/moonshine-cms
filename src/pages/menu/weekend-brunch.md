@@ -63,21 +63,27 @@ subgroups:
     title: "Cheers To The Weekend! "
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
-      - description: served a la mode with Strawberry Ice Cream, Toasted Almonds & Mixed
-          Berry Glaze
-        price: "16"
-        title: "Menu Addition: Gluten-Free Brown Sugar Peach Berry Cobbler "
       - description: |2
-           Honey Roasted Peanut Butter, Strawberry Jam, 
-          Maple Syrup, Berry Glaze 
-        price: "21 regular / 29 grande "
-        title: "Menu Addition: Tempura Beer Battered PB&J Uncrustables "
+           Local Sweet Grilled Corn Salad Done Elote-Style, 
+          Basil Macerated Tomatoes, Citrus Aioli,
+           Crumbled Cotija Cheese, Espelette Pepper 
+        title: "Menu Addition: Chef Asia’s Famous Grilled  Summer Street Corn Salad "
+        price: "18 regular /  28 grande "
       - description: "Warm Crispy Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
           Quinoa, Feta Cheese,                            Creamy Pesto Dressing,
           Aged Balsamic       "
         price: 19 regular / 29 grande
         title: "Menu Addition: crispy artichoke salad "
+      - description: |2
+           Honey Roasted Peanut Butter, Strawberry Jam, 
+          Maple Syrup, Berry Glaze 
+        price: "21 regular / 29 grande "
+        title: "Menu Addition: Tempura Beer Battered PB&J Uncrustables "
+      - description: served a la mode with Strawberry Ice Cream, Toasted Almonds & Mixed
+          Berry Glaze
+        price: "16"
+        title: "Menu Addition: Gluten-Free Brown Sugar Peach Berry Cobbler "
       - description: " Herbed Garlic Crostini, Heirloom Cherry
           Tomatoes,                                           Crispy Basil,
           Strawberry-Balsamic Glaze "
