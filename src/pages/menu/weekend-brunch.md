@@ -6,9 +6,10 @@ order: 3
 subgroups:
   - description: "Brunch Cocktails & Beverages "
     items:
-      - description: |+
-          Whiskey Sour: American Bourbon Whiskey, Lemon Jello,
-           Fresh Lemon Zest, Amarana Cherry 
+      - description: >+
+          Summer Rum Sunset: Spiced Rum, Orange and Strawberry Jello, Fresh
+          Orange Juice, Fresh Lime Juice
+
 
 
 
