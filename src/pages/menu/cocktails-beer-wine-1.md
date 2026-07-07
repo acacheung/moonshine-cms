@@ -7,8 +7,8 @@ subgroups:
   - description: ""
     items:
       - description: >+
-          Summer Rum Sunset: Spiced Rum, Orange and Strawberry Jello, Fresh
-          Orange Juice, Fresh Lime Juice
+          Tropical Sunset: Spiced Rum, Orange and Strawberry Jello, Fresh Orange
+          Juice, Fresh Lime Juice, Coconut Jellies
 
 
 
