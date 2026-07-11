@@ -211,7 +211,7 @@ subgroups:
         price: "24"
         title: Grass-fed Beef Burger**  Boston's Best Award Winner
       - description: >-
-          “The Green Chili 2.0”
+          “The Green Chili 2.0” Burger
            topped with New Mexico’s Famous Green Hatch Chili, Fresh Cornbread, Melted Pepperjack Cheese, Cumin Sour Cream, Pickled Red Onions
           … add cheddar cheese $2 ..add jalapeno bacon $4
 
