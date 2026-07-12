@@ -168,11 +168,6 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
-      - description: "Pretzel Crumb Pan-Fried Chicken Cordon Bleu Wrapped with Virginia
-          Ham  & Swiss Cheese served with Grilled Corn-Heirloom Cherry Tomato
-          Salad, Honey Mustard Buerre Blanc "
-        price: "29"
-        title: "Menu Addition: Pretzel Chicken Cordon Bleu "
       - description: >
           Garlic Butter Marinated Flank Steak Skewers, Creamy Tahini Chickpea
           Hummus,  Grilled Scallion Chimichurri, Toasted Pita Bread Triangles,
