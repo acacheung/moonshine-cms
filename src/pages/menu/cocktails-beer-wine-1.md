@@ -52,7 +52,7 @@ subgroups:
         price: "14"
       - title: Meet Me in Nantucket
         price: "14"
-        description: Triple 8 Cranberry Vodka, Fresh House Lemonade
+        description: Triple 8 Blueberry Vodka, Fresh House Lemonade
       - title: Moonshine's Rye Manhattan
         price: "15"
         description: Michter's Straight Rye, Antica Sweet Vermouth, Angostura Bitters
