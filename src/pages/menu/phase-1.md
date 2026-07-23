@@ -168,6 +168,11 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
+      - title: "Menu Addition: Summer Tiki Roasted Duck Noodle Salad"
+        description: Chinese BBQ Style Glazed Pulled Duck, Crystal Glass Vermicelli
+          Noodles, Sesame-Peanut Satay Sauce, Baby Bok Choy, and Honey Roasted
+          Peanuts
+        price: "29"
       - description: >
           Garlic Butter Marinated Flank Steak Skewers, Creamy Tahini Chickpea
           Hummus,  Grilled Scallion Chimichurri, Toasted Pita Bread Triangles,
