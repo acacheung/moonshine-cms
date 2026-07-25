@@ -77,6 +77,12 @@ subgroups:
         price: 19 regular / 29 grande
         title: "Menu Addition: crispy artichoke salad "
       - description: |2
+                                                
+          Heirloom Cherry Tomatoes, Local Watermelon, 
+          Crumbled Feta Cheese, Aged Balsamic Vinaigrette
+        title: "Menu Addition: ‘Shine’s Famous Heirloom Tomato- Watermelon Salad"
+        price: "18 regular / 29 grande "
+      - description: |2
            Honey Roasted Peanut Butter, Strawberry Jam, 
           Maple Syrup, Berry Glaze 
         price: "21 regular / 29 grande "
