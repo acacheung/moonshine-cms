@@ -24,11 +24,6 @@ subgroups:
           Local Sweet Grilled Corn Salad Done Elote-Style, 
           Basil Macerated Tomatoes, Citrus Aioli,
            Crumbled Cotija Cheese, Espelette Pepper 
-      - title: "Menu Addition: Moonshine’s Famous BLT  Wedge Salad "
-        description: " Candied Maple Bacon Bits, Crispy Iceberg Lettuce, Shredded Beet
-          Crema, Heirloom Cherry Tomatoes, Chopped Boiled Egg, Green Goddess
-          Dressing"
-        price: "19 regular / 29 grande "
       - title: "Menu Addition: Pork Belly Bao Buns"
         price: 18 (2) / 27 (3)
         description: Braised Thai BBQ Pork Belly, Soft Steamed Chinatown Buns, Honey
