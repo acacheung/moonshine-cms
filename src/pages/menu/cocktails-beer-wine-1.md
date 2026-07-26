@@ -8,8 +8,8 @@ subgroups:
     items:
       - title: "Shark Week Cocktail Special: Sharkbait"
         price: "15"
-        description: Rumhaven Coconut Rum, Orange Vodka, Pineapple Juice, Fresh Lime
-          Juice, Cherry Syrup, Shark Gummy
+        description: Rumhaven Coconut Rum, Orange Vodka, Coco Lopez, Pineapple Juice,
+          Fresh Lime Juice, Cherry Syrup, Shark Gummy
       - description: >+
           Tropical Sunset: Spiced Rum, Orange and Strawberry Jello, Fresh Orange
           Juice, Fresh Lime Juice, Coconut Jellies
