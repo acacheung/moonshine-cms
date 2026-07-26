@@ -87,10 +87,6 @@ subgroups:
           Maple Syrup, Berry Glaze 
         price: "21 regular / 29 grande "
         title: "Menu Addition: Tempura Beer Battered PB&J Uncrustables "
-      - description: served a la mode with Strawberry Ice Cream, Toasted Almonds & Mixed
-          Berry Glaze
-        price: "16"
-        title: "Menu Addition: Gluten-Free Brown Sugar Peach Berry Cobbler "
       - description: " Herbed Garlic Crostini, Heirloom Cherry
           Tomatoes,                                           Crispy Basil,
           Strawberry-Balsamic Glaze "
@@ -283,10 +279,10 @@ subgroups:
           Caramelized Pineapple Jam, Toasted Coconut
         title: "Menu Addition: White Chocolate Macadamia Nut Cookies"
         price: "14"
-      - description: served a la mode with Strawberry Ice Cream, Toasted Almonds & Mixed
-          Berry Glaze
-        price: "16"
-        title: "Menu Addition: Brown Sugar Peach Berry Biscuit Cobbler "
+      - description: "Layered Blueberry Pie Topping, Whipped Cream Cheesecake Filling,
+          Toasted Almond Shortbread "
+        price: "14"
+        title: "Menu Addition: Summer Blueberry Jamboree"
       - description: |2
                                
           St. Louis Inspired Brown Butter Gooey Cake, 
