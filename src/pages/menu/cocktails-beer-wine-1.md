@@ -113,16 +113,16 @@ subgroups:
       - title: Garage Beer Classic Lime Beer
         price: "6"
         description: 16 oz tallboy can
-      - title: "Hero 95 "
-        price: "7"
-        description: 12 oz Can
+      - title: Two Roads Brewing Company "Lushee" Passion Fruit Tart Ale
+        price: "8"
+        description: 16 oz Can
       - title: Jack's Abby Banner City Light Lager
         price: "6"
         description: 12 oz can
       - description: 16 oz tallboy can
         price: "6"
         title: Narragansett Lager
-      - title: Night Shift Brewing "Whirlpool" Hazy IPA
+      - title: Night Shift Brewing "Whirlpool" Hazy Pale Ale
         price: "10"
         description: 16 oz tallboy can
       - description: "16 oz tallboy can "
