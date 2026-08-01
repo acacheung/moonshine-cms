@@ -213,13 +213,16 @@ subgroups:
         price: "24"
         title: Grass-fed Beef Burger**  Boston's Best Award Winner
       - description: >-
-          “The Green Chili 2.0” Burger
-           topped with New Mexico’s Famous Green Hatch Chili, Fresh Cornbread, Melted Pepperjack Cheese, Cumin Sour Cream, Pickled Red Onions
+          “Get Him To The Greek 4.0” Burger topped with Homemade Spanikopita
+          Spinach-Feta Pie, Creamy Feta Spread, Lemony-Oregano Dressing, Chopped
+          Greek Salad Salsa 
+
+
           … add cheddar cheese $2 ..add jalapeno bacon $4
 
           …add fried egg $3 …add jalapenos $2…add avocado $3
         price: "29"
-        title: July 2026's  VIP burger of the Month
+        title: August 2026's  VIP burger of the Month
     title: All-Day / All-Night Allstars
   - description: " All the sides & Fixin’s"
     items:
