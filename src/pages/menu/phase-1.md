@@ -201,13 +201,16 @@ subgroups:
         price: "24"
         title: GRASS-FED ’SHINE BEEF BURGER**  Boston's Best Award Winner
       - description: >-
-          “The Green Chili 2.0”
-           topped with New Mexico’s Famous Green Hatch Chili, Fresh Cornbread, Melted Pepperjack Cheese, Cumin Sour Cream, Pickled Red Onions 
+          “Get Him To The Greek 4.0” Burger topped with Homemade Spanikopita
+          Spinach-Feta Pie, Creamy Feta Spread, Lemony-Oregano Dressing, Chopped
+          Greek Salad Salsa 
+
+
           … add cheddar cheese $2 ..add jalapeno bacon $4
 
           …add fried egg $3 …add jalapenos $2…add avocado $3
         price: "29"
-        title: July 2026's  VIP burger of the month
+        title: August 2026's  VIP burger of the month
       - description: Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
         price: "29"
