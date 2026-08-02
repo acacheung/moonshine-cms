@@ -40,7 +40,7 @@ subgroups:
       - description: Mango
         price: "11"
         title: "Chef's Whim Sorbet (vegan) "
-      - description: Toasted Pistachio or Strawberry
+      - description: Toasted Pistachio
         price: "11"
         title: Chef's Whim Ice Cream
     title: Sweet Tooth
