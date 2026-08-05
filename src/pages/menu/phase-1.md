@@ -169,13 +169,6 @@ subgroups:
           Peanuts
         price: "29"
       - description: >
-          Garlic Butter Marinated Flank Steak Skewers, Creamy Tahini Chickpea
-          Hummus,  Grilled Scallion Chimichurri, Toasted Pita Bread Triangles,
-          Balsamic Confit Cherry Tomatoes, Crumbled Feta Cheese, Fresh
-          Pomegranate
-        price: "29"
-        title: "Menu Addition: Garlic Butter Grilled Flank Steak Skewers"
-      - description: >
           Tempura-Beer Battered Soft Shell Crabs, House Shoestring French Fries,
           Southie Irish Curry Mayo, Classic Lemon 
 
