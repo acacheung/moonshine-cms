@@ -27,6 +27,10 @@ subgroups:
         price: "15"
         description: Clontarf Whiskey, Peach Liqueur, Fresh Lime Juice, White Cranberry
           Juice
+      - title: "'Shine Summer Rosé Sangria"
+        price: "15"
+        description: Washington State Dry Rosé, Reposado Tequila, Pamplemousse Liqueur,
+          Cranberry Juice, Fresh Citrus & Citrus Juices
       - description: "Mediterranean Red Wine Blend, Housemade Ginger Liqueur, Brandy,
           Hibiscus, Fresh Citrus Juices "
         price: "14"
