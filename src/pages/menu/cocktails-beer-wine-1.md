@@ -21,8 +21,8 @@ subgroups:
           Juice, Cinnamon Syrup, Cranberry Juice
       - title: Hurricane Rockey
         price: "15"
-        description: Mad River Rum 44 Silver Rum, Rockey's Botanical Liqueur,  Combier
-          Banana Liqueur, Fresh Lemon Juice, Simple Syrup, Spiced Rum Float
+        description: Mad River Vanilla Rum, Rockey's Botanical Liqueur,  Combier Banana
+          Liqueur, Fresh Lemon Juice, Simple Syrup, Spiced Rum Float
       - title: Patron Saint of Southie
         price: "15"
         description: Clontarf Whiskey, Peach Liqueur, Fresh Lime Juice, White Cranberry
