@@ -198,7 +198,7 @@ subgroups:
         price: "7"
         title: Squeeze The Day (mocktail)
       - title: Strawberry-Lychee Sparkler (mocktail)
-        price: "8"
+        price: "9"
         description: House Sparkling Lemonade, Strawberry-Lychee Popping Boba
       - title: Lucano Cooler (mocktail)
         price: "10"
