@@ -151,28 +151,28 @@ subgroups:
   - description: "please note vintages are subject to change "
     items:
       - description: "Veneto, Italy "
-        price: 12 / 45
+        price: 13 / 45
         title: "(Sparkling) NV LaMarca Prosecco "
       - description: Veneto, ITALY
         price: 14     (187ml mini bottle)
         title: "(sparkling rose) NV Canella Spumante Brut Rose "
       - description: "Columbia Valley, WA, USA "
-        price: 13  /  46
+        price: 14  /  46
         title: (rose) 2021 Charles & Charles Rose
       - description: Provence, France
         price: 16 / 58
         title: (rose) 2022 Whispering Angel Rose
       - description: Elqui Valley, Coquimbo, Chile
-        price: 13 / 45
+        price: 14 / 45
         title: (white) 2022 Mayu Pedro Ximenez
       - description: "Santa Barbera,CA, USA "
-        price: 13 / 45
+        price: 14 / 45
         title: "(White) 2021 Seaglass Charonnay "
       - description: Healdsburg, California
         price: 14  /  48
         title: (White) 2024 J Vineyards Pinot Gris
       - description: "Marlborough, New Zealand "
-        price: 14 / 48
+        price: 15 / 50
         title: "(White) 2020 Whitehaven Sauvignon  Blanc "
       - description: Mendoza, Argentine
         price: 14 / 50
