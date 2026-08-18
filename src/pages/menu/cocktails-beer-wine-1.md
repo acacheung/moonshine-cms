@@ -85,7 +85,7 @@ subgroups:
         price: "7"
         description: 16 oz draft
       - title: (draft) Castle Island White Ale
-        price: "7"
+        price: "8"
         description: 16 oz draft
       - title: SunCruiser Iced Tea & Lemonade
         price: "10"
@@ -100,7 +100,7 @@ subgroups:
         price: "8"
         description: 16.9 oz tallboy can
       - description: 12 oz bottle
-        price: "6"
+        price: "7"
         title: "SAPPORO "
       - description: "12 oz bottle "
         price: "7"
@@ -133,7 +133,7 @@ subgroups:
         price: "12"
         title: Lawson's Sip of Sunshine IPA
       - title: Guinness
-        price: "7"
+        price: "8"
         description: 14.9 oz tallboy can
       - description: "16 oz nitro can "
         price: "7"
