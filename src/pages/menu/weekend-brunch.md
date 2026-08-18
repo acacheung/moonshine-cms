@@ -20,26 +20,26 @@ subgroups:
           homemade kimchi juice 
 
           ...add candied bacon sea salt rim $1
-        price: "14"
+        price: "15"
         title: "Shine Bloody Mary / Bloody Maria "
       - description: "Prosecco splashed with orange juice "
-        price: "13"
+        price: "15"
         title: "Classic Mimosa "
       - description: "Orange Vodka, Pineapple-Orange Juice, Prosecco "
-        price: "14"
+        price: "15"
         title: "Leslie Knope’s Approved Executive Mimosa "
       - title: Pawnee Goddess
-        price: "14"
+        price: "15"
         description: "London Dry Gin, Rockey's Botanical Liqueur, Fresh Grapefruit,
           Prosecco "
       - description: "Bison Grass Vodka, Cinnamon, Apple, Lemon "
-        price: "14"
+        price: "15"
         title: "R.I.P. Li’l Sebastian "
       - description: "london dry gin, aperol, fresh lemon, prosecco "
-        price: "14"
+        price: "15"
         title: treat yo self
       - description: "Irish Whiskey, Boozy Irish Cream, Iced Coffee "
-        price: "14"
+        price: "15"
         title: "Good Morning Pawnee "
       - price: "5"
         title: "Fazenda Roasters Brewed Coffee (Available Iced) "
