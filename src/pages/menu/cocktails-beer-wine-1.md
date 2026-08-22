@@ -7,8 +7,10 @@ subgroups:
   - description: ""
     items:
       - description: >+
-          Tropical Sunset: Spiced Rum, Orange and Strawberry Jello, Fresh Orange
-          Juice, Fresh Lime Juice, Coconut Jellies
+          Chocolate Covered Cherry: Mitcher’s Small Batch Whiskey, Chocolate
+          Bitters, Cherry Jello, Nutella Chocolate Sauce Drizzle  *contains nuts
+          & dairy
+
 
 
 
