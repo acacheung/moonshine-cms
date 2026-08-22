@@ -118,9 +118,6 @@ subgroups:
       - title: Allagash White
         price: "7"
         description: "16 oz tallboy can "
-      - title: Garage Beer Classic Lime Beer
-        price: "6"
-        description: 16 oz tallboy can
       - title: Two Roads Brewing Company "Lushee" Passion Fruit Tart Ale
         price: "8"
         description: 16 oz Can
