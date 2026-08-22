@@ -143,6 +143,12 @@ subgroups:
           Pho Bone Broth for Dipping   "
         price: "28"
         title: "Menu Addition: Chef Asia’s Famous Beef Brisket “Phoritto” "
+      - description: |2
+                                               
+          Hatch Chili Verde Simmered Tortillas, 2 Fried Eggs, 
+          Queso Blanco, Salsa Fresca, Sour Cream, Spiced Tomato Sofrito
+        price: "28"
+        title: "Menu Addition: New Mexican Green Chili  Huevos Rancheros Chilaquiles"
       - description: Grilled Marinated Skirt Steak, Two Fried Eggs, Buttermilk Biscuits
           & Gravy w/ Pepper Gravy & Chef Asia’s Best Ever Buttermilk Biscuits
         price: "29"
