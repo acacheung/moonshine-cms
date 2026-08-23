@@ -17,10 +17,6 @@ subgroups:
 
         price: "7"
         title: Rotating Jello Shots
-      - title: Key Lime Mezcaltini
-        price: "16"
-        description: Xicaru Mezcal, Key Lime Cream Ole Smoky Moonshine, Fresh Lime
-          Juice, Cinnamon Syrup, Cranberry Juice
       - title: Hurricane Rockey
         price: "15"
         description: Mad River Vanilla Rum, Rockey's Botanical Liqueur,  Combier Banana
