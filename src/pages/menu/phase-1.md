@@ -163,13 +163,6 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
-      - description: >
-          Tempura-Beer Battered Soft Shell Crabs, House Shoestring French Fries,
-          Southie Irish Curry Mayo, Classic Lemon 
-
-          Tartar Sauce, Petite Mixed Greens Salad  
-        price: "34"
-        title: "Menu Addition: Soft Shell Crab & Chips"
       - title: "Menu Addition: ‘Shine Fish n’ Chips"
         price: "29"
         description: Tempura-Beer Battered Haddock, House Shoestring French Fries,
