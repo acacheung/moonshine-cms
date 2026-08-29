@@ -84,11 +84,6 @@ subgroups:
           Crumbled Feta Cheese, Aged Balsamic Vinaigrette
         title: "Menu Addition: ‘Shine’s Famous Heirloom Tomato- Watermelon Salad"
         price: "18 regular / 29 grande "
-      - description: |2
-           Honey Roasted Peanut Butter, Strawberry Jam, 
-          Maple Syrup, Berry Glaze 
-        price: "21 regular / 29 grande "
-        title: "Menu Addition: Tempura Beer Battered PB&J Uncrustables "
       - description: " Herbed Garlic Crostini, Heirloom Cherry
           Tomatoes,                                           Crispy Basil,
           Strawberry-Balsamic Glaze "
@@ -187,9 +182,9 @@ subgroups:
     title: The Main Affair
   - description: Our all-time favorite dishes, available whenever the kitchen is open!
     items:
-      - description: "Chef Asia’s Famous Chilled Beet Gazpacho  (vegetarian &
-          gluten-free): Chef Asia’s Famous Chilled Roasted Beet Soup, Dill Crème
-          Fraîche, Shaved Cucumber "
+      - description: >
+          Truffled Creamy Corn Bisque (vegetarian & gluten-free…contains Dairy):
+          Smooth Summer Corn Soup with White Truffle Oil, Leeks & Fresh Cream 
         price: 14 / 24
         title: Chef’s Whim Soup for the Soul
       - description: >
