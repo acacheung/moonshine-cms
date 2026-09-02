@@ -280,7 +280,7 @@ subgroups:
   - description: " (Dessert)"
     items:
       - description: |2
-           $14                            
+                                    
           Pina Colada Coconut Custard, 
           Caramelized Pineapple Jam, Toasted Coconut
         title: "Menu Addition: White Chocolate Macadamia Nut Cookies"
