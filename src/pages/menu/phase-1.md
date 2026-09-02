@@ -18,11 +18,11 @@ subgroups:
           Balsamic Glaze "
         title: "Menu Addition:  'Shine Whipped Ricotta Bruschetta"
         price: 17 regular (4) / 28 grande (8)
-      - description: >2
-                                         
-          Red Wine Braised Oxtail, Crispy Italian Risotto Fritters, Calabrian Chili-Spiced Pink Vodka Sauce, Burrata-Putanesca 
-        title: "Menu Addition: Braised Oxtail Arancini alla Vodka"
-        price: "22 regular / 33 grande "
+      - description: "Shredded Beef & Cheese Tacos, Pickled Red Cabbage Salsa, Smoky
+          Sriracha Mayo,   & Birria Dipping Jus  "
+        price: "18 regular / 29 grande "
+        title: "Menu Addition: ‘Shine’s Famous Heirloom Tomato- Watermelon
+          Salad        "
       - title: "Menu Addition: Chef Asia’s Famous Grilled  Summer Street Corn Salad "
         price: "18 regular /  28 grande "
         description: |
@@ -33,10 +33,6 @@ subgroups:
         price: 18 (2) / 27 (3)
         description: Braised Thai BBQ Pork Belly, Soft Steamed Chinatown Buns, Honey
           Roasted Peanuts, Ginger Cabbage Slaw
-      - description: "Shredded Beef & Cheese Tacos, Pickled Red Cabbage Salsa, Smoky
-          Sriracha Mayo,   & Birria Dipping Jus  "
-        price: "$18 (2 tacos) / $28 (4 tacos)  "
-        title: "Menu Addition: Pan-Fried Carnitas Birria Gringo Tacos         "
       - description: Local Beets, Caramelized French Onion Dip, Crispy Corn Tortillas,
           Chickpea Papadums
         price: 15 regular / 25 grande
@@ -196,17 +192,18 @@ subgroups:
           fries .... Make it a double patty 11
         price: "24"
         title: GRASS-FED ’SHINE BEEF BURGER**  Boston's Best Award Winner
-      - description: >-
-          “Get Him To The Greek 4.0” Burger topped with Homemade Spanikopita
-          Spinach-Feta Pie, Creamy Feta Spread, Lemony-Oregano Dressing, Chopped
-          Greek Salad Salsa 
-
+      - description: >+
+          Butter Chicken Naanwich Burger: Indian Inspired Naanwich smothered
+          with ARae’s Favorite Butter Chicken Curry, Soft Naan Grilled
+          Flatbread, Cashew Cream, Salsa Fresca, Golden Raisin Raita &
+          Paneer-Pimento Cheese 
 
           … add cheddar cheese $2 ..add jalapeno bacon $4
 
-          …add fried egg $3 …add jalapenos $2…add avocado $3
+          …add fried egg $3 …add jalapenos $2…add avocado $3 …sub white rice or tater tots instead of fries $2   
+
         price: "29"
-        title: August 2026's  VIP burger of the month
+        title: September 2026's  VIP burger of the month
       - description: Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
         price: "29"
