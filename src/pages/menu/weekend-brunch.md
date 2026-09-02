@@ -216,16 +216,16 @@ subgroups:
         price: "24"
         title: Grass-fed Beef Burger**  Boston's Best Award Winner
       - description: >-
-          “Get Him To The Greek 4.0” Burger topped with Homemade Spanikopita
-          Spinach-Feta Pie, Creamy Feta Spread, Lemony-Oregano Dressing, Chopped
-          Greek Salad Salsa 
-
+          Butter Chicken Naanwich Burger: Indian Inspired Naanwich smothered
+          with ARae’s Favorite Butter Chicken Curry, Soft Naan Grilled
+          Flatbread, Cashew Cream, Salsa Fresca, Golden Raisin Raita &
+          Paneer-Pimento Cheese 
 
           … add cheddar cheese $2 ..add jalapeno bacon $4
 
-          …add fried egg $3 …add jalapenos $2…add avocado $3
+          …add fried egg $3 …add jalapeños $2…add avocado $3 …sub white rice or tater tots instead of fries $2   
         price: "29"
-        title: August 2026's  VIP burger of the Month
+        title: September 2026's  VIP burger of the Month
     title: All-Day / All-Night Allstars
   - description: " All the sides & Fixin’s"
     items:
