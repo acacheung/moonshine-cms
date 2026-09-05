@@ -174,7 +174,7 @@ subgroups:
         title: "(White) 2020 Whitehaven Sauvignon  Blanc "
       - description: Mendoza, Argentine
         price: 14 / 50
-        title: (red) 2022 Argento Organic Malbec
+        title: (red) 2024 Argento Organic Malbec
       - description: "Napa County, CA, USA "
         price: 15 / 58
         title: "(RED) 2023 Joel Gott Pinot Noir "
