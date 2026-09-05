@@ -160,6 +160,9 @@ subgroups:
       - description: Provence, France
         price: 16 / 58
         title: (rose) 2022 Whispering Angel Rose
+      - title: (Rose) 2025 Bieler Pere & Fils Rose
+        description: Provence, France
+        price: 15 / 52
       - description: Elqui Valley, Coquimbo, Chile
         price: 14 / 45
         title: (white) 2022 Mayu Pedro Ximenez
