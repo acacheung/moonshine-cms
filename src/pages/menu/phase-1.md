@@ -174,10 +174,6 @@ subgroups:
         description: Tempura-Beer Battered Haddock, House Shoestring French Fries,
           Southie Irish Curry Mayo Classic Lemon Tartar Sauce, Petite Mixed
           Greens Salad
-      - description: "Traditional Thick-cut Beef Brisket, Potato Pancakes, Roasted Sweet
-          Potatoes, Broccoli Rabe, Golden Raisins, Horseradish Crema "
-        price: "29"
-        title: "Menu Addition: Red Wine Braised Beef Brisket ~Happy Rosh Hashanah!~"
       - title: "Menu Addition: Summer Tiki Roasted Duck Noodle Salad"
         description: Chinese BBQ Style Glazed Pulled Duck, Crystal Glass Vermicelli
           Noodles, Sesame-Peanut Satay Sauce, Baby Bok Choy, and Honey Roasted
