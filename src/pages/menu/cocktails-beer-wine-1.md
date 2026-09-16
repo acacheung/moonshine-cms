@@ -7,9 +7,9 @@ subgroups:
   - description: ""
     items:
       - description: >+
-          Chocolate Covered Cherry: Mitcher’s Small Batch Whiskey, Chocolate
-          Bitters, Cherry Jello, Nutella Chocolate Sauce Drizzle  *contains nuts
-          & dairy
+          Watermelon Margarita 
+
+          Blanco Tequila, Watermelon Liqueur, Lime Jello, Fresh Lime Juice, Watermelon Puree 
 
 
 
