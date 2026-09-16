@@ -164,6 +164,10 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
+      - title: "Menu Addition: Italian Chicken Parm Milanese"
+        price: "29"
+        description: Braised Shortrib Bolognese, Penne Pasta, Chef Asia’s Super Special
+          Cream Cheesy Stuffed Garlic Bread-Milk Buns
       - title: "Menu Addition: ‘Shine Fish n’ Chips"
         price: "29"
         description: Tempura-Beer Battered Haddock, House Shoestring French Fries,
