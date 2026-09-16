@@ -164,7 +164,8 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
-      - title: "Menu Addition: Italian Chicken Parm Milanese"
+      - title: "Menu Addition: Italian Chicken Parm Milanese -Happy Anniversary
+          Seamus!-"
         price: "29"
         description: Braised Shortrib Bolognese, Penne Pasta, Chef Asia’s Super Special
           Cream Cheesy Stuffed Garlic Bread-Milk Buns
