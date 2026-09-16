@@ -8,6 +8,10 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
+      - title: "Menu Addition: Autumn Roasted “Bacon & Blue” Beet Salad"
+        price: 18 regular / 28 grande
+        description: Crumbled Roquefort Blue Cheese, Mandarin Oranges, Mixed Greens,
+          Sesame Candied Walnuts, Bacon Balsamic Vinaigrette
       - description: >
           
           Mini Belgian Waffle Bites with Baked Brie, Homemade Raspberry Jam, Sesame Candied Walnuts & Maple Syrup 
