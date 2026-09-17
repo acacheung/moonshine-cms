@@ -22,11 +22,6 @@ subgroups:
           Balsamic Glaze "
         title: "Menu Addition:  'Shine Whipped Ricotta Bruschetta"
         price: 17 regular (4) / 28 grande (8)
-      - description: "Shredded Beef & Cheese Tacos, Pickled Red Cabbage Salsa, Smoky
-          Sriracha Mayo,   & Birria Dipping Jus  "
-        price: "18 regular / 29 grande "
-        title: "Menu Addition: ‘Shine’s Famous Heirloom Tomato- Watermelon
-          Salad        "
       - title: "Menu Addition: Chef Asia’s Famous Grilled  Summer Street Corn Salad "
         price: "18 regular /  28 grande "
         description: |
