@@ -284,10 +284,6 @@ subgroups:
           Caramelized Pineapple Jam, Toasted Coconut
         title: "Menu Addition: White Chocolate Macadamia Nut Cookies"
         price: "14"
-      - description: "Layered Blueberry Pie Topping, Whipped Cream Cheesecake Filling,
-          Toasted Almond Shortbread "
-        price: "14"
-        title: "Menu Addition: Summer Blueberry Jamboree"
       - description: |2
                                
           St. Louis Inspired Brown Butter Gooey Cake, 
