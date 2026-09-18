@@ -7,9 +7,8 @@ subgroups:
   - description: "Brunch Cocktails & Beverages "
     items:
       - description: >+
-          Chocolate Covered Cherry (*contains nuts & dairy):  Mitcher’s Small
-          Batch Whiskey, Chocolate Bitters, Cherry Jello, Nutella Chocolate
-          Sauce Drizzle 
+          Watermelon Margarita: Blanco Tequila, Watermelon Liqueur, Lime Jello,
+          Fresh Lime Juice, Watermelon Puree 
 
 
 
