@@ -6,10 +6,6 @@ order: 5
 subgroups:
   - description: Add a Warm Belgian Waffle to Your Favorite Dessert $9
     items:
-      - title: "Menu Addition: Summer Blueberry Jamboree"
-        price: "14"
-        description: "Layered Blueberry Pie Topping, Whipped Cream Cheesecake Filling,
-          Toasted Almond Shortbread "
       - description: |
           
           St. Louis Inspired Brown Butter Gooey Cake, 
