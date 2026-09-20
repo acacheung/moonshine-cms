@@ -12,6 +12,11 @@ subgroups:
           Vanilla Shortbread, Sliced Banana, Sea Salted Caramel 
         price: "14"
         title: "Menu Addition: Bananas n’ Cream Gooey Butter Cake"
+      - description: >2
+                              
+           Pumpkin Pie Custard, Local Honey, Toasted Pistachios, Crinkled Cinnamon-Sugar Baked Phyllo Dough 
+        title: "Menu Addition: Pumpkin-Pistachio Baklava Crinkle "
+        price: "15"
       - description: "Toasted Pistachio Ice Cream, Homemade Brown Butter Shredded
           Filo-Kataifi, Hazelnut Chocolate Sauce, Whipped Cream "
         price: "17"
