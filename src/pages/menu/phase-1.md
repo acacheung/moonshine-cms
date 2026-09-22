@@ -173,11 +173,6 @@ subgroups:
         description: Tempura-Beer Battered Haddock, House Shoestring French Fries,
           Southie Irish Curry Mayo Classic Lemon Tartar Sauce, Petite Mixed
           Greens Salad
-      - title: "Menu Addition: Summer Tiki Roasted Duck Noodle Salad"
-        description: Chinese BBQ Style Glazed Pulled Duck, Crystal Glass Vermicelli
-          Noodles, Sesame-Peanut Satay Sauce, Baby Bok Choy, and Honey Roasted
-          Peanuts
-        price: "29"
       - title: "Menu Addition: Korean Beef Shortrib & Bibimbap Rice Bowl"
         price: "29"
         description: House Kimchi, Stirfried Tofu, Warm Sushi Rice, Baby Bok Choy, Fried
