@@ -8,6 +8,13 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
+      - title: "Menu Addition: Cheesy Stuffed Garlic Bread"
+        price: 17 regular / 28 grande
+        description: >
+          Parmesan & Cream Cheesy Stuffed Hawaiian Milk Buns, Garlic Butter,
+          Calabrian Chili Spiced 
+
+          Marinara Dipping Sauce
       - title: "Menu Addition: Autumn Roasted “Bacon & Blue” Beet Salad"
         price: 18 regular / 28 grande
         description: Crumbled Roquefort Blue Cheese, Mandarin Oranges, Mixed Greens,
