@@ -85,6 +85,9 @@ subgroups:
       - title: (draft) Castle Island White Ale
         price: "8"
         description: 16 oz draft
+      - title: VooDoo Ranger Atomic Pumpkin
+        price: "7"
+        description: 12 oz can
       - title: Dorchester Brewing Festbier Lager
         price: "10"
         description: 16 oz tallboy can
