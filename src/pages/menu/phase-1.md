@@ -29,12 +29,6 @@ subgroups:
           Balsamic Glaze "
         title: "Menu Addition:  'Shine Whipped Ricotta Bruschetta"
         price: 17 regular (4) / 28 grande (8)
-      - title: "Menu Addition: Chef Asia’s Famous Grilled  Summer Street Corn Salad "
-        price: "18 regular /  28 grande "
-        description: |
-          Local Sweet Grilled Corn Salad Done Elote-Style, 
-          Basil Macerated Tomatoes, Citrus Aioli,
-           Crumbled Cotija Cheese, Espelette Pepper 
       - title: "Menu Addition: Pork Belly Bao Buns"
         price: 18 (2) / 27 (3)
         description: Braised Thai BBQ Pork Belly, Soft Steamed Chinatown Buns, Honey
