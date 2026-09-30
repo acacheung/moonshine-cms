@@ -168,9 +168,9 @@ subgroups:
       - description: "Santa Barbera,CA, USA "
         price: 14 / 45
         title: "(White) 2021 Seaglass Charonnay "
-      - description: Healdsburg, California
+      - description: Delle Venezie, Italy
         price: 14  /  48
-        title: (White) 2024 J Vineyards Pinot Gris
+        title: (White) 2024 Ruffino Lumina Pinot Grigio
       - description: "Marlborough, New Zealand "
         price: 15 / 50
         title: "(White) 2020 Whitehaven Sauvignon  Blanc "
