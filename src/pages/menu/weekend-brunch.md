@@ -216,14 +216,18 @@ subgroups:
         price: "24"
         title: Grass-fed Beef Burger**  Boston's Best Award Winner
       - description: >-
-          Butter Chicken Naanwich Burger: Indian Inspired Naanwich smothered
-          with ARae’s Favorite Butter Chicken Curry, Soft Naan Grilled
-          Flatbread, Cashew Cream, Salsa Fresca, Golden Raisin Raita &
-          Paneer-Pimento Cheese 
+          “The Oktoberfest” Burger  topped with Beer-Braised Bratwurst
+          Schnitzel, 
+
+          Bavarian Pretzel Bun, Gouda Cheese, Apple-Cabbage ‘Kraut, Whole Grain  Mustard Sauce
 
           … add cheddar cheese $2 ..add jalapeno bacon $4
 
-          …add fried egg $3 …add jalapeños $2…add avocado $3 …sub white rice or tater tots instead of fries $2   
+          …add fried egg $3 …add jalapenos $2…add avocado $3 
+
+          … add cheddar cheese $2 ..add jalapeno bacon $4
+
+          …add fried egg $3 …add jalapeños $2…add avocado $3 
         price: "29"
         title: September 2026's  VIP burger of the Month
     title: All-Day / All-Night Allstars
