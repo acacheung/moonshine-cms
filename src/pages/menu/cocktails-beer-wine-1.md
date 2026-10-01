@@ -17,6 +17,13 @@ subgroups:
 
         price: "7"
         title: Rotating Jello Shots
+      - title: Porch Pounder
+        price: "15"
+        description: Ole Smoke Salty Watermelon Whiskey, Fresh Watermelon Puree, Fresh
+          Lime Juice, Simple Syrup, Lime Salt Rim
+      - title: Pumpkin Spiked Latte
+        price: "15"
+        description: Ole Smokey Mountain Java Moonshine, Vanilla Vodka, Pumpkin Spice
       - title: Hurricane Rockey
         price: "15"
         description: Mad River Vanilla Rum, Rockey's Botanical Liqueur,  Combier Banana
@@ -45,13 +52,6 @@ subgroups:
           Just ask for Baileys Irish Cream!) "
         price: "16"
         title: "'Shine Espresso Martini"
-      - title: Porch Pounder
-        price: "15"
-        description: Ole Smoke Salty Watermelon Whiskey, Fresh Watermelon Puree, Fresh
-          Lime Juice, Simple Syrup, Lime Salt Rim
-      - title: Pumpkin Spiked Latte
-        price: "15"
-        description: Ole Smokey Mountain Java Moonshine, Vanilla Vodka, Pumpkin Spice
       - title: Patio Crusher
         description: Aperol, Fresh Lemon Juice, Cinnamon, Pineapple Juice, Bubbles
         price: "15"
