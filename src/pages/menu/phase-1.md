@@ -187,18 +187,17 @@ subgroups:
           fries .... Make it a double patty 11
         price: "24"
         title: GRASS-FED ’SHINE BEEF BURGER**  Boston's Best Award Winner
-      - description: >+
-          Butter Chicken Naanwich Burger: Indian Inspired Naanwich smothered
-          with ARae’s Favorite Butter Chicken Curry, Soft Naan Grilled
-          Flatbread, Cashew Cream, Salsa Fresca, Golden Raisin Raita &
-          Paneer-Pimento Cheese 
+      - description: >
+          “The Oktoberfest” Burger  topped with Beer-Braised Bratwurst
+          Schnitzel, 
+
+          Bavarian Pretzel Bun, Gouda Cheese, Apple-Cabbage ‘Kraut, Whole Grain  Mustard Sauce
 
           … add cheddar cheese $2 ..add jalapeno bacon $4
 
-          …add fried egg $3 …add jalapenos $2…add avocado $3 …sub white rice or tater tots instead of fries $2   
-
+          …add fried egg $3 …add jalapenos $2…add avocado $3 
         price: "29"
-        title: September 2026's  VIP burger of the month
+        title: October 2026's  VIP burger of the month
       - description: Tapas shallot roasted patatas bravas, sherry pesto aioli, basil
           macerated tomatoes
         price: "29"
