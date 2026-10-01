@@ -49,6 +49,9 @@ subgroups:
         price: "15"
         description: Ole Smoke Salty Watermelon Whiskey, Fresh Watermelon Puree, Fresh
           Lime Juice, Simple Syrup, Lime Salt Rim
+      - title: Pumpkin Spiked Latte
+        price: "15"
+        description: Ole Smokey Mountain Java Moonshine, Vanilla Vodka, Pumpkin Spice
       - title: Patio Crusher
         description: Aperol, Fresh Lemon Juice, Cinnamon, Pineapple Juice, Bubbles
         price: "15"
