@@ -6,6 +6,10 @@ order: 5
 subgroups:
   - description: Add a Warm Belgian Waffle to Your Favorite Dessert $9
     items:
+      - price: "15"
+        description: "Layered Classic Chocolate Icebox Cake, Fudgie Pretzel Crunch,
+          Dutch Cocoa, Vanilla Cream "
+        title: "Menu Addition: Mississippi Mud Pie "
       - description: |
           
           St. Louis Inspired Brown Butter Gooey Cake, 
