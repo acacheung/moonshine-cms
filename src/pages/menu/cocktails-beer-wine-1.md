@@ -7,9 +7,9 @@ subgroups:
   - description: ""
     items:
       - description: >+
-          Watermelon Margarita 
+          Mandarin Orange Creamsicle 
 
-          Blanco Tequila, Watermelon Liqueur, Lime Jello, Fresh Lime Juice, Watermelon Puree 
+          Vodka, Mandarin Oranges, Fresh Orange Zest, Fresh Orange Juice, Orange Jello, Cream **contains dairy
 
 
 
