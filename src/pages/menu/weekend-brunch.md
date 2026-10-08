@@ -7,9 +7,9 @@ subgroups:
   - description: "Brunch Cocktails & Beverages "
     items:
       - description: >+
-          Watermelon Margarita: Blanco Tequila, Watermelon Liqueur, Lime Jello,
-          Fresh Lime Juice, Watermelon Puree 
+          Mandarin Orange Creamsicle 
 
+          Vodka, Mandarin Oranges, Fresh Orange Zest, Fresh Orange Juice, Orange Jello, Cream **contains dairy
 
 
 
