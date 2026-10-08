@@ -120,7 +120,7 @@ subgroups:
       - title: Two Roads Brewing Company "Lushee" Passion Fruit Tart Ale
         price: "8"
         description: 16 oz Can
-      - title: Jack's Abby Banner City Light Lager
+      - title: von Trapp Light Lager
         price: "6"
         description: 12 oz can
       - description: 16 oz tallboy can
