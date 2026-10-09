@@ -29,6 +29,11 @@ subgroups:
           Balsamic Glaze "
         title: "Menu Addition:  'Shine Whipped Ricotta Bruschetta"
         price: 17 regular (4) / 28 grande (8)
+      - description: >
+          Savory Kabocha Squash-Infused Pancakes, Napa Cabbage-Ginger Slaw,
+          House Asian Pear Kimchi, Sweet Sticky Soy Glaze 
+        title: "Menu ADDITION: Pumpkin Spiced Kimchi Pancakes"
+        price: "18 regular / 28 grande "
       - title: "Menu Addition: Pork Belly Bao Buns"
         price: 18 (2) / 27 (3)
         description: Braised Thai BBQ Pork Belly, Soft Steamed Chinatown Buns, Honey
