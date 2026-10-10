@@ -24,6 +24,10 @@ subgroups:
       - title: Pumpkin Spiked Latte
         price: "15"
         description: Ole Smokey Mountain Java Moonshine, Vanilla Vodka, Pumpkin Spice
+      - title: Sarti's Harvest
+        price: "15"
+        description: Thai Basil Infused Sarti Rosa, Fresh Grapefruit Juice, Fresh Lime
+          Juice, Prosecco
       - title: Hurricane Rockey
         price: "15"
         description: Mad River Vanilla Rum, Rockey's Botanical Liqueur,  Combier Banana
