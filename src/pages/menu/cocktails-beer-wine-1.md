@@ -17,10 +17,6 @@ subgroups:
 
         price: "7"
         title: Rotating Jello Shots
-      - title: Porch Pounder
-        price: "15"
-        description: Ole Smoke Salty Watermelon Whiskey, Fresh Watermelon Puree, Fresh
-          Lime Juice, Simple Syrup, Lime Salt Rim
       - title: Pumpkin Spiked Latte
         price: "15"
         description: Ole Smokey Mountain Java Moonshine, Vanilla Vodka, Pumpkin Spice
@@ -68,6 +64,21 @@ subgroups:
     title: "’Shine Specialty Cocktails "
   - description: "please note this menu is subject to change "
     items:
+      - description: 16 oz draft
+        price: "6"
+        title: "(draft) Miller High Life "
+      - description: "16 oz draft "
+        price: "12"
+        title: (draft) Maine Beer Company's Lunch IPA
+      - description: 16 oz draft
+        price: "8"
+        title: (draft) Dorchester Brewing Co. Galaxy Session IPA
+      - title: (draft) Garage Beer Classic Light Lager
+        price: "7"
+        description: 16 oz draft
+      - title: (draft) Castle Island White Ale
+        price: "8"
+        description: 16 oz draft
       - title: VooDoo Ranger Atomic Pumpkin
         price: "7"
         description: 12 oz can
