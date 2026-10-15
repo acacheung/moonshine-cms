@@ -182,9 +182,11 @@ subgroups:
     title: The Main Affair
   - description: Our all-time favorite dishes, available whenever the kitchen is open!
     items:
-      - description: >
-          Truffled Creamy Corn Bisque (vegetarian & gluten-free…contains Dairy):
-          Smooth Summer Corn Soup with White Truffle Oil, Leeks & Fresh Cream 
+      - description: >+
+          Thai Coconut Hot N’Sour Soup
+           (Pescatarian…contains Dairy, Coconut)
+          Thailand’s Famous Tom Kha Gai with Coconut Lemongrass Broth, Mushrooms and Savory Ginger Nuoc Cham
+
         price: 14 / 24
         title: Chef’s Whim Soup for the Soul
       - description: >
