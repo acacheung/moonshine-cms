@@ -70,7 +70,7 @@ subgroups:
       - title: Chef's Whim Soup of the Day
         price: 14 regular / 24 grande
         description: >+
-          Thai Coconut Hot N’Sour Soup (Pescetarian…contains Dairy, Coconut)
+          Thai Coconut Hot N’Sour Soup (Pescatarian…contains Dairy, Coconut)
 
           Thailand’s Famous Tom Kha Gai with Coconut Lemongrass Broth, Mushrooms and Savory Ginger Nuoc Cham
 
