@@ -69,9 +69,10 @@ subgroups:
     items:
       - title: Chef's Whim Soup of the Day
         price: 14 regular / 24 grande
-        description: |+
-          Truffled Creamy Corn Bisque  (vegetarian & gluten-free…contains Dairy)
-          Smooth Summer Corn Soup with White Truffle Oil, Leeks and Fresh Cream
+        description: >+
+          Thai Coconut Hot N’Sour Soup (Pescetarian…contains Dairy, Coconut)
+
+          Thailand’s Famous Tom Kha Gai with Coconut Lemongrass Broth, Mushrooms and Savory Ginger Nuoc Cham
 
       - description: Heirloom quinoa, Sautéed kale, Creamy Caesar dressing, Wonton
           crisps, Shaved pecorino cheese
