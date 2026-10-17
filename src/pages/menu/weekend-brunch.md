@@ -139,10 +139,10 @@ subgroups:
           Pho Bone Broth for Dipping   "
         price: "28"
         title: "Menu Addition: Chef Asia’s Famous Beef Brisket “Phoritto” "
-      - description: >+
-          Kimchi Pancakes, Potato Pancakes, Beef Brisket & Gravy, House Jalapeño
-          Spiced Bacon, Pecanwood Bacon, Breakfast Sausage, Maple
-          Drizzle                            
+      - description: |+
+          Beef Brisket & Gravy, Housemade Potato Pancakes, 
+           House Jalapeño Spiced Bacon, Pecanwood Bacon, 
+          Breakfast Sausage, Maple Drizzle   
 
         price: "32"
         title: 'Menu Addition: The Ron Swanson "Meat Tornado" Pancake Platter '
