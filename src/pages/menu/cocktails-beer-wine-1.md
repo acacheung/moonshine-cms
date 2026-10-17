@@ -172,9 +172,9 @@ subgroups:
       - description: Mendoza, Argentine
         price: 14 / 50
         title: (red) 2024 Argento Organic Malbec
-      - description: "Napa County, CA, USA "
+      - description: "Santa Barbara County, CA, USA "
         price: 15 / 58
-        title: "(RED) 2023 Joel Gott Pinot Noir "
+        title: "(RED) 2022 Banshee Pinot Noir "
       - description: "Columbia valley, WA, USA "
         price: 14 / 47
         title: (red) 2021 Charles & Charles "Double Trouble" Cabernet/Syrah Blend
