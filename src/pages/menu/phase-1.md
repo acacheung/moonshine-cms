@@ -8,6 +8,12 @@ subgroups:
       portions. Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish."
     items:
+      - description: >
+          Crispy Fried Calamari, Tempura Beer-Battered Butternut Squash,
+          Brussels Sprouts & Enoki Mushroom, Citrus Kewpie Aioli & Thai Dipping
+          Sauce  
+        price: "22 regular / 32 grande "
+        title: "Menu Addition: Fall Fritto Misto "
       - title: "Menu Addition: Cheesy Stuffed Garlic Bread"
         price: 17 regular / 28 grande
         description: >
