@@ -76,7 +76,7 @@ subgroups:
       - title: (draft) Garage Beer Classic Light Lager
         price: "7"
         description: 16 oz draft
-      - title: (draft) Castle Island White Ale
+      - title: (draft) Allagash Haunted House Hoppy Dark Ale
         price: "8"
         description: 16 oz draft
       - title: Dorchester Brewing Festbier Lager
