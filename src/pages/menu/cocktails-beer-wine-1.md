@@ -17,6 +17,10 @@ subgroups:
 
         price: "7"
         title: Rotating Jello Shots
+      - title: Pau Hana Sour
+        price: "16"
+        description: Rumhaven Coconut Water Rum, Fresh Pineapple Juice, Li Hing (Plum
+          Powder) Simple Syrup, Egg Whites, Agno Bitters
       - title: Pumpkin Spiked Latte
         price: "15"
         description: Ole Smokey Mountain Java Moonshine, Vanilla Vodka, Pumpkin Spice
