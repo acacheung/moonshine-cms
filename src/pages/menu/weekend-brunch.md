@@ -316,7 +316,7 @@ subgroups:
       - description: Toasted Pistachio
         price: "11"
         title: Chef's whim ice cream of the day
-      - description: Tropical mango
+      - description: Lychee
         price: "11"
         title: chef's whim sorbet of the day (vegan)
     title: Sweet Tooth
