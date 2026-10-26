@@ -307,7 +307,7 @@ subgroups:
           vegan!)     "
         price: "13"
         title: Tropical Mango Pavlova
-      - description: Toasted Pistachio
+      - description: ~~Toasted Pistachio    ~~French Vanilla
         price: "11"
         title: Chef's whim ice cream of the day
       - description: Lychee
