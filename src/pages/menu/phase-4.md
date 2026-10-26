@@ -6,6 +6,11 @@ order: 5
 subgroups:
   - description: Add a Warm Belgian Waffle to Your Favorite Dessert $9
     items:
+      - description: >
+          
+          Large Croissant Wrapped Apple Pie Filled Dumpling, Sea Salted Caramel, Baked Almond Frangipan, French Vanilla Ice Cream  
+        title: "Menu Addition:  Warm Skillet-Baked Apple  Dumpling à la Mode "
+        price: "17"
       - description: |
           
           St. Louis Inspired Brown Butter Gooey Cake, 
@@ -21,12 +26,6 @@ subgroups:
           Filo-Kataifi, Hazelnut Chocolate Sauce, Whipped Cream "
         price: "17"
         title: 'Menu Addition: "Dubai" Belgian Waffle Ice Cream Sundae'
-      - description: |+
-          Pina Colada Coconut Custard, 
-          Caramelized Pineapple Jam, Toasted Coconut  
-
-        title: "Menu Addition:  White Chocolate Macadamia Nut Cookies"
-        price: "14"
       - description: Chantilly whipped cream, toasted oat-amaranth streusel
         price: "12"
         title: Moonshine’s Butterscotch Pudding
@@ -41,7 +40,7 @@ subgroups:
       - description: Lychee
         price: "11"
         title: "Chef's Whim Sorbet (vegan) "
-      - description: Toasted Pistachio
+      - description: ~~Toasted Pistachio    ~~French Vanilla
         price: "11"
         title: Chef's Whim Ice Cream
     title: Sweet Tooth
