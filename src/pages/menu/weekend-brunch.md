@@ -286,12 +286,6 @@ subgroups:
   - description: " (Dessert)"
     items:
       - description: |2
-                                    
-          Pina Colada Coconut Custard, 
-          Caramelized Pineapple Jam, Toasted Coconut
-        title: "Menu Addition: White Chocolate Macadamia Nut Cookies"
-        price: "14"
-      - description: |2
                                
           St. Louis Inspired Brown Butter Gooey Cake, 
           Vanilla Shortbread, Sliced Banana, Sea Salted Caramel 
