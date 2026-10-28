@@ -91,9 +91,6 @@ subgroups:
       - description: 12 oz can
         price: "7"
         title: Downeast Original Cider
-      - title: Magner's Original Irish Cider
-        price: "8"
-        description: 16.9 oz tallboy can
       - description: 12 oz bottle
         price: "7"
         title: "SAPPORO "
