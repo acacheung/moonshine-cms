@@ -28,10 +28,6 @@ subgroups:
         price: "15"
         description: Thai Basil Infused Sarti Rosa, Fresh Grapefruit Juice, Fresh Lime
           Juice, Prosecco
-      - title: Hurricane Rockey
-        price: "15"
-        description: Mad River Vanilla Rum, Rockey's Botanical Liqueur,  Combier Banana
-          Liqueur, Fresh Lemon Juice, Simple Syrup, Spiced Rum Float
       - title: Patron Saint of Southie
         price: "15"
         description: Clontarf Whiskey, Peach Liqueur, Fresh Lime Juice, White Cranberry
