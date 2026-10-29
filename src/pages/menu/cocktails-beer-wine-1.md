@@ -17,6 +17,10 @@ subgroups:
 
         price: "7"
         title: Rotating Jello Shots
+      - title: "Halloween Cocktail Special: Goblin Goo"
+        price: "15"
+        description: Watermelon Moonshine, Midori Melon Liqueur, Fresh Citrus, White
+          Cranberry, Coco Lopez, Cherry Syrup, Spooky Gummies
       - title: Pau Hana Sour
         price: "16"
         description: Rumhaven Coconut Water Rum, Fresh Pineapple Juice, Li Hing (Plum
