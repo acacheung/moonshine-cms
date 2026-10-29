@@ -6,10 +6,9 @@ order: 1
 subgroups:
   - description: ""
     items:
-      - description: >+
-          Mandarin Orange Creamsicle 
-
-          Vodka, Mandarin Oranges, Fresh Orange Zest, Fresh Orange Juice, Orange Jello, Cream **contains dairy
+      - description: |+
+          Honey Bourbon Sour
+          Honey Bourbon, Fresh Lemon Juice, Lemon Jello, Lemon Zest
 
 
 
