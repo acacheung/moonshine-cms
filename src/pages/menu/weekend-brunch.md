@@ -7,9 +7,9 @@ subgroups:
   - description: "Brunch Cocktails & Beverages "
     items:
       - description: >+
-          Mandarin Orange Creamsicle 
+          Honey Bourbon Sour : American Honey Bourbon, Lemon Jello,  Fresh Lemon
+          Juice, Lemon Zest 
 
-          Vodka, Mandarin Oranges, Fresh Orange Zest, Fresh Orange Juice, Orange Jello, Cream **contains dairy
 
 
 
