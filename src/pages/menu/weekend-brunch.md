@@ -65,24 +65,18 @@ subgroups:
     title: "Cheers To The Weekend! "
   - description: ' All portions available "Regular" or "Go Grande"'
     items:
-      - description: |2
-           Local Sweet Grilled Corn Salad Done Elote-Style, 
-          Basil Macerated Tomatoes, Citrus Aioli,
-           Crumbled Cotija Cheese, Espelette Pepper 
-        title: "Menu Addition: Chef Asia’s Famous Grilled  Summer Street Corn Salad "
-        price: "18 regular /  28 grande "
       - description: "Warm Crispy Artichoke Hearts, Grilled
           Radicchio,                              Chickpeas, Avocado, Heirloom
           Quinoa, Feta Cheese,                            Creamy Pesto Dressing,
           Aged Balsamic       "
         price: 19 regular / 29 grande
         title: "Menu Addition: crispy artichoke salad "
-      - description: |2
-                                                
-          Heirloom Cherry Tomatoes, Local Watermelon, 
-          Crumbled Feta Cheese, Aged Balsamic Vinaigrette
-        title: "Menu Addition: ‘Shine’s Famous Heirloom Tomato- Watermelon Salad"
-        price: "18 regular / 29 grande "
+      - description: >2
+                                
+                   Crumbled Roquefort Blue Cheese, Mandarin Oranges, Mixed Greens, Sesame Candied Walnuts, 
+          Bacon Balsamic Vinaigrette *Available Vegetarian 
+        price: "18 regular / 28 grande "
+        title: "Menu Addition: Autumn Roasted  “Bacon & Blue” Beet Salad "
       - description: " Herbed Garlic Crostini, Heirloom Cherry
           Tomatoes,                                           Crispy Basil,
           Strawberry-Balsamic Glaze "
@@ -286,6 +280,17 @@ subgroups:
   - description: " (Dessert)"
     items:
       - description: |2
+           Pie Custard, Local Honey,
+           Toasted Pistachios, Crinkled Cinnamon-
+          Sugar Baked Phyllo Dough 
+        price: "15"
+        title: "Menu Addition: Pumpkin-Pistachio Baklava Crinkle"
+      - description: >-2
+                                    
+          Large Croissant-Wrapped Apple Pie Filled Dumpling, Sea Salted Caramel, Baked Almond Frangipane, French Vanilla Ice Cream 
+        price: "17"
+        title: "Menu Addition: Warm Skillet-Baked Apple  Dumpling à la Mode"
+      - description: |2
                                
           St. Louis Inspired Brown Butter Gooey Cake, 
           Vanilla Shortbread, Sliced Banana, Sea Salted Caramel 
@@ -310,7 +315,8 @@ subgroups:
       - description: ~~Toasted Pistachio    ~~French Vanilla
         price: "11"
         title: Chef's whim ice cream of the day
-      - description: Lychee
+      - description: |
+          Lychee
         price: "11"
         title: chef's whim sorbet of the day (vegan)
     title: Sweet Tooth
