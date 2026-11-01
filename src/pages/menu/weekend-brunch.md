@@ -212,10 +212,9 @@ subgroups:
         price: "24"
         title: Grass-fed Beef Burger**  Boston's Best Award Winner
       - description: >-
-          “The Oktoberfest” Burger  topped with Beer-Braised Bratwurst
-          Schnitzel, 
-
-          Bavarian Pretzel Bun, Gouda Cheese, Apple-Cabbage ‘Kraut, Whole Grain  Mustard Sauce
+          “The Thanksgiving Poutine” Burger topped with Sweet Potato French
+          Fries, Stuffing, Melted Mozzarella Cheese Curds, Turkey Sausage, House
+          Gravy, Maple Cranberries & Crispy Sage  
 
           … add cheddar cheese $2 ..add jalapeno bacon $4
 
@@ -225,7 +224,7 @@ subgroups:
 
           …add fried egg $3 …add jalapeños $2…add avocado $3 
         price: "29"
-        title: September 2026's  VIP burger of the Month
+        title: November 2026's  VIP burger of the Month
     title: All-Day / All-Night Allstars
   - description: " All the sides & Fixin’s"
     items:
