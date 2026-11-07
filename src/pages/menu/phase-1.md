@@ -171,6 +171,13 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
+      - description: |2
+                                     
+          Red Wine Braised Rabbit, Brown Butter 
+          Louisiana Cream Sauce, Campanelle Pasta, 
+          Toasted Hazelnuts, Crispy Sage 
+        price: "29 "
+        title: "Menu Addition: Chef Asia’s Famous Louisiana  Braised Rabbit Pasta"
       - title: "Menu Addition: ‘Shine Fish n’ Chips"
         price: "29"
         description: Tempura-Beer Battered Haddock, House Shoestring French Fries,
