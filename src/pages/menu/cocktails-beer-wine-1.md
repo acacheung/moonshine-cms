@@ -148,9 +148,6 @@ subgroups:
       - description: Veneto, ITALY
         price: 14     (187ml mini bottle)
         title: "(sparkling rose) NV Canella Spumante Brut Rose "
-      - description: "Columbia Valley, WA, USA "
-        price: 14  /  46
-        title: (rose) 2021 Charles & Charles Rose
       - description: Provence, France
         price: 16 / 58
         title: (rose) 2022 Whispering Angel Rose
