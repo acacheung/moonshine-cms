@@ -20,10 +20,6 @@ subgroups:
         price: "16"
         description: Rumhaven Coconut Water Rum, Fresh Pineapple Juice, Li Hing (Plum
           Powder) Simple Syrup, Egg Whites, Agno Bitters
-      - price: "16"
-        title: Snoop's Metropolitan
-        description: Snoop and Dr. Dre's Still Gin, House Ginger Liqueur, Fresh Lime
-          Juice, Cranberry Juice, Cinnamon Simple
       - title: Pumpkin Spiked Latte
         price: "15"
         description: Ole Smokey Mountain Java Moonshine, Vanilla Vodka, Pumpkin Spice
