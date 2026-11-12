@@ -20,9 +20,6 @@ subgroups:
         price: "16"
         description: Rumhaven Coconut Water Rum, Fresh Pineapple Juice, Li Hing (Plum
           Powder) Simple Syrup, Egg Whites, Agno Bitters
-      - title: Pumpkin Spiked Latte
-        price: "15"
-        description: Ole Smokey Mountain Java Moonshine, Vanilla Vodka, Pumpkin Spice
       - title: Sarti's Harvest
         price: "15"
         description: Thai Basil Infused Sarti Rosa, Fresh Grapefruit Juice, Fresh Lime
