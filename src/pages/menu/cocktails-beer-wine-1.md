@@ -82,6 +82,9 @@ subgroups:
       - title: Dorchester Brewing Festbier Lager
         price: "10"
         description: 16 oz tallboy can
+      - title: Jack's Abby's Toy Soldier Christmas Lager
+        price: "10"
+        description: 16 oz tallboy can
       - title: SunCruiser Iced Tea & Lemonade
         price: "10"
         description: "12 oz can "
@@ -108,7 +111,7 @@ subgroups:
         description: "16 oz tallboy can "
       - title: Two Roads Brewing Company "Lushee" Passion Fruit Tart Ale
         price: "8"
-        description: 16 oz Can
+        description: 16 oz tallboy can
       - title: von Trapp Light Lager
         price: "6"
         description: 12 oz can
