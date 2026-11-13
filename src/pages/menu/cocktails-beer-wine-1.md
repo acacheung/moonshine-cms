@@ -24,6 +24,10 @@ subgroups:
         price: "15"
         description: Thai Basil Infused Sarti Rosa, Fresh Grapefruit Juice, Fresh Lime
           Juice, Prosecco
+      - title: Snoop's Metropolitan
+        price: "16"
+        description: Snoop Dogg and Dr. Dre's Still G.I.N., House Ginger Liqueur, Fresh
+          Lime Juice, Cranberry Juice, Cinnamon Simple Syrup
       - title: Patron Saint of Southie
         price: "15"
         description: Clontarf Whiskey, Peach Liqueur, Fresh Lime Juice, White Cranberry
