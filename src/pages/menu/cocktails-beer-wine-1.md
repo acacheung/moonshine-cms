@@ -82,7 +82,13 @@ subgroups:
       - title: Dorchester Brewing Festbier Lager
         price: "10"
         description: 16 oz tallboy can
-      - title: Jack's Abby's Toy Soldier Christmas Lager
+      - title: Two Roads Brewing Company "Lushee" Passion Fruit Tart Ale
+        price: "8"
+        description: 16 oz tallboy can
+      - title: Jack's Abby's "Toy Soldier" Christmas Lager
+        price: "10"
+        description: 16 oz tallboy can
+      - title: Night Shift's "Teddie Beer" Peanut Butter Porter
         price: "10"
         description: 16 oz tallboy can
       - title: SunCruiser Iced Tea & Lemonade
@@ -109,16 +115,13 @@ subgroups:
       - title: Allagash White
         price: "7"
         description: "16 oz tallboy can "
-      - title: Two Roads Brewing Company "Lushee" Passion Fruit Tart Ale
-        price: "8"
-        description: 16 oz tallboy can
       - title: von Trapp Light Lager
         price: "6"
         description: 12 oz can
       - description: 16 oz tallboy can
         price: "6"
         title: Narragansett Lager
-      - title: Night Shift Brewing "Whirlpool" Hazy Pale Ale
+      - title: Night Shift's "Whirlpool" Hazy Pale Ale
         price: "10"
         description: 16 oz tallboy can
       - description: "16 oz tallboy can "
