@@ -72,7 +72,7 @@ subgroups:
       - title: (draft) Garage Beer Classic Light Lager
         price: "7"
         description: 16 oz draft
-      - title: (draft) Allagash Haunted House Hoppy Dark Ale
+      - title: (draft) Jack's Abby Extra Layer Lager
         price: "8"
         description: 16 oz draft
       - title: Dorchester Brewing Festbier Lager
