@@ -16,6 +16,10 @@ subgroups:
 
         price: "7"
         title: Rotating Jello Shots
+      - title: Snoop's Metropolitan
+        price: "16"
+        description: Snoop Dogg and Dr. Dre's Still G.I.N., House Ginger Liqueur, Fresh
+          Lime Juice, Cranberry Juice, Cinnamon Simple
       - title: Pau Hana Sour
         price: "16"
         description: Rumhaven Coconut Water Rum, Fresh Pineapple Juice, Li Hing (Plum
