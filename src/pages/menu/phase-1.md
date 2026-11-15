@@ -171,6 +171,12 @@ subgroups:
   - description: Don't forget to top it off by adding your favorite proteins,
       fixins, sides & sauces to any dish.
     items:
+      - title: "Menu Addition: Hot Mess Italian Beef Dip Sandwich "
+        price: "29"
+        description: >
+          Slow-Cooked Italian Beef Sandwich on French Bread, House Pepperoncini
+          Giardiniera, Melted Provolone Cheese served with a Side of Dipping
+           and House Shoestring Fries 
       - description: |2
                                      
           Red Wine Braised Rabbit, Brown Butter 
