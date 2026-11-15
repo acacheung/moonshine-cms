@@ -55,9 +55,6 @@ subgroups:
       - title: Patio Crusher
         description: Aperol, Fresh Lemon Juice, Cinnamon, Pineapple Juice, Bubbles
         price: "15"
-      - title: Meet Me in Nantucket
-        price: "15"
-        description: Triple 8 Blueberry Vodka, Fresh House Lemonade
       - title: Moonshine's Rye Manhattan
         price: "16"
         description: Michter's Straight Rye, Antica Sweet Vermouth, Angostura Bitters
