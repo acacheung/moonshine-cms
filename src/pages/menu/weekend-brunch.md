@@ -120,6 +120,13 @@ subgroups:
     title: To Get Ya Started!
   - description: " (Entrees)"
     items:
+      - description: >
+          
+          Slow-Cooked Italian Beef Sandwich on French Bread, House Pepperoncini Giardiniera, Melted Provolone Cheese 
+
+          served with a Side of Dipping and House Shoestring Fries 
+        title: "Menu Addition: Hot Mess Italian Beef Dip Sandwich "
+        price: "29"
       - title: "menu addition: Twin Mei-Griddle Breakfast Sammies"
         price: "28"
         description: "Maple Drizzled Potato Pancakes, Breakfast Sausage, Scrambled Egg,
