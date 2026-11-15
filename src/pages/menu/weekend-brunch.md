@@ -6,9 +6,10 @@ order: 3
 subgroups:
   - description: "Brunch Cocktails & Beverages "
     items:
-      - description: >+
-          Honey Bourbon Sour : American Honey Bourbon, Lemon Jello,  Fresh Lemon
-          Juice, Lemon Zest 
+      - description: |+
+          Sandia Slammer: Watermelon Moonshine, Midori, 
+          Lemon Jello, White Cranberry, Lemon Juice 
+
 
 
 
