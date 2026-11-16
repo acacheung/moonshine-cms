@@ -66,15 +66,15 @@ subgroups:
         title: "(draft) Miller High Life "
       - description: "16 oz draft "
         price: "12"
-        title: (draft) Maine Beer Company's Lunch IPA
+        title: (draft) Maine Beer Company's "Lunch" IPA
       - description: 16 oz draft
         price: "8"
-        title: (draft) Dorchester Brewing Co. Galaxy Session IPA
+        title: (draft) Dorchester Brewing Co. "Galaxy Lights" Session IPA
+      - title: (draft) Jack's Abby "Extra Layer" Winter Fest Lager
+        price: "8"
+        description: 16 oz draft
       - title: (draft) Garage Beer Classic Light Lager
         price: "7"
-        description: 16 oz draft
-      - title: (draft) Jack's Abby Extra Layer Lager
-        price: "8"
         description: 16 oz draft
       - title: Dorchester Brewing Festbier Lager
         price: "10"
