@@ -7,8 +7,8 @@ subgroups:
   - description: ""
     items:
       - description: |+
-          Honey Bourbon Sour
-          Honey Bourbon, Fresh Lemon Juice, Lemon Jello, Lemon Zest
+          Sandia Slammer: Watermelon Moonshine, Midori, 
+          Lemon Jello, White Cranberry, Lemon Juice 
 
 
 
