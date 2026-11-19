@@ -169,8 +169,8 @@ subgroups:
         price: "29"
         description: >
           Slow-Cooked Italian Beef Sandwich on French Bread, House Pepperoncini
-          Giardiniera, Melted Provolone Cheese served with a Side of
-          Dipping  and House Shoestring Fries 
+          Giardiniera, Melted Provolone Cheese served with a Side of Beef
+          Dipping Jus and House Shoestring Fries 
       - description: |2
                                      
           Red Wine Braised Rabbit, Brown Butter 
