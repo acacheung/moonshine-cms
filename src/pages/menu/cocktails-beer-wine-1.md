@@ -16,6 +16,9 @@ subgroups:
 
         price: "7"
         title: Rotating Jello Shots
+      - title: I Dough What I Want
+        price: "15"
+        description: Ole Smoky Cookie Dough Whiskey, House Strawberry Puree, Vanilla Vodka
       - title: Snoop's Metropolitan
         price: "16"
         description: Snoop Dogg and Dr. Dre's Still G.I.N., House Ginger Liqueur, Fresh
